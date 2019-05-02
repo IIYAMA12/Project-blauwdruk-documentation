@@ -1,3 +1,7 @@
 {
-  "root": "./docs"
+  "title": "Project blauwdruk",
+  "description": "Dit project gaat over het blauwdrukken van artikelen.",
+  "author": "Jorik van Essen",
+  "root": "./docs",
+  "language": "NL"
 }
