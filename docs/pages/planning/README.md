@@ -2,9 +2,7 @@
 
 
 
-<br>
 
-![Planning](content/planning.svg)
 
-<br>
+![Planning](content/planning.png)
 
