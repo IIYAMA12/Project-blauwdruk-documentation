@@ -1,8 +1,10 @@
 # Planning
 
 
-<div style="width: 100%;">
 
-![Planning](content/planning.png)
+<br>
 
-</div>
+![Planning](content/planning.svg)
+
+<br>
+
