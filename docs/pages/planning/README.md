@@ -1,4 +1,4 @@
 # Planning
 
-![Planning](content/planning.png)
+![Planning](content/planning.svg)
 
