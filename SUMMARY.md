@@ -1,4 +1,4 @@
-# Table of contents
+# Inhoudsopgave
 
-* [Initial page](README.md)
+* [Overzichtspagina](README.md)
 
