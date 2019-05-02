@@ -1,4 +1,0 @@
-# Inhoudsopgave
-
-* [Overzichtspagina](README.md)
-
