@@ -38,9 +38,10 @@ Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk d
 
 <details>
   <summary>Foto's</summary>
+</details>
 
 ![Alles op 1 locatie](content/fotos/inlijn-werkwijze.jpg)
 
 ![Kolommen voor data inventarisatie](content/fotos/data-organiseren.jpg)
 
-</details>
+
