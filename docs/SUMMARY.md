@@ -4,3 +4,4 @@
 * [Planning](pages/planning/README.md)
 * [Analyse onderzoeksjournalistiek](pages/analyse_onderzoeksjournalistiek/README.md)
 * [Prototyping](pages/prototyping/README.md)
+* [Projectvoostel](pages/projectvoorstel/README.md)
