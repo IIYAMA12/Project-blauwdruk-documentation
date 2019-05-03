@@ -36,12 +36,8 @@ Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk d
 
 ![Alles op 1 locatie & kolommen voor data inventarisatie](content/diagrams/onderzoeksanalyse-journalist-Werkdocument.png)
 
-<details>
-  <summary>Foto's</summary>
-</details>
 
-![Alles op 1 locatie](content/fotos/inlijn-werkwijze.jpg)
 
-![Kolommen voor data inventarisatie](content/fotos/data-organiseren.jpg)
 
+[Foto's van het proces](fotos.md)
 
