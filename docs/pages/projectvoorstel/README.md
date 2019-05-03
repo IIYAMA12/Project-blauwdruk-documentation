@@ -1,6 +1,7 @@
 # Projectvoorstel
 
-[![Cover](content/Tekengebied 1.png)](content/Tekengebied 1.svg)
+![Cover](content/Tekengebied 1.png)
+[<large>](content/Tekengebied 1.svg)
 
 <br><br>
 
