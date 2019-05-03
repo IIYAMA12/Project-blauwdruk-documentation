@@ -3,7 +3,9 @@
 
 ## Werkwijze
 
-![Werkwijze Frank](content/diagram/onderzoeksanalyse-journalist-Frank zijn werkwijze.svg)
+![Werkwijze Frank](content/diagrams/onderzoeksanalyse-journalist-Frank zijn werkwijze.svg)
+
+
 
 De werkwijze waarop Frank Meijer zijn onderzoeksjournalistieke proces uitvoert.
 
@@ -32,7 +34,13 @@ Als CMD ontwerper houd je het eindproduct gescheiden van het proces omdat de ver
 Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk dat de informatie eenvoudig
 
 
+![Alles op 1 locatie & kolommen voor data inventarisatie](content/diagrams/onderzoeksanalyse-journalist-Werkdocument.png)
 
-![Alles op 1 locatie](content/foto/inlijn-werkwijze.jpg)
+<details>
+  <summary>Foto's</summary>
 
-![Kolommen voor data inventarisatie](content/foto/data-organiseren.jpg)
+![Alles op 1 locatie](content/fotos/inlijn-werkwijze.jpg)
+
+![Kolommen voor data inventarisatie](content/fotos/data-organiseren.jpg)
+
+</details>
