@@ -1,7 +1,9 @@
 # Analyse onderzoeksjournalistiek
 
+In dit hoofdstuk worden de
+
 ## Werkwijze onderzoek
-* [Werkwijze Frank](werkwijze-frank.md)
+* [Werkwijze Frank](werkwijze-frank-meijer.md)
 * [Werkwijze Thomas](werkwijze-thomas-bollen.md)
 
 
