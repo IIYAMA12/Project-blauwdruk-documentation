@@ -12,3 +12,4 @@
 * [Projectvoorstel](pages/projectvoorstel/README.md)
 
 * [Onderzoeksmethodes](pages/research_methods/README.md)
+  * [Jobstories](pages/research_methods/jobstories/README.md)
