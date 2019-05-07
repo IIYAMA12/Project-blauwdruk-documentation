@@ -3,7 +3,7 @@
 ## Profiel motivaties
 
 
-## 1
+## Hoofdvragen
 
 ### Opbouw
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil `maken`...
@@ -24,12 +24,16 @@
   * Mocht een stap onduidelijk zijn, is er een mogelijkheid om feedback te vragen met een referentie naar deze stap in het proces.
   * Ook is het mogelijk om feedback op een stap te gegeven of er een eigen definitie aan te koppelen.
 
+* Wanneer een onderzoeksjournalist binnen zijn of haar blauwdruk het `PvA (Plan van Aanpak)` wil opnemen, kan de gebruiker deze invullen in een samenstelbare checklist.
+
+* Wanneer een onderzoeksjournalist binnen zijn of haar blauwdruk het `artikel opzet` kan de gebruiker content verschuiven naar de juiste volgorden en placeholders toevoegen om aan te geven dat op deze locatie later nog content komt.
 
 #### Bijhouden & aanvullen
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil bijhouden met nieuwe informatie, is het mogelijk om het document opnieuw te openen en de velden te corrigeren of aan te vullen.
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil bijhouden en informatie wil verwijderen, is het mogelijk om het document opnieuw te openen en een invulveld leeg te halen of te verwijderen.
 
 #### Doorgronden
+* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil bijhouden
 
 
 #### Gebruiken
