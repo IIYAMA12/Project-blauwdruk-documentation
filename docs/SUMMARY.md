@@ -11,3 +11,4 @@
 * [Prototyping](pages/prototyping/README.md)
 * [Projectvoorstel](pages/projectvoorstel/README.md)
 
+* [Onderzoeksmethodes](research-methodes/README.md)
