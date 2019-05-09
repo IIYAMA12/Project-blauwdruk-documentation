@@ -13,3 +13,5 @@
 
 * [Onderzoeksmethodes](pages/research_methods/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
+
+* [Bibliografie](pages/bibliografie/README.md)
