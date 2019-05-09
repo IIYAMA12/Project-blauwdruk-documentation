@@ -2,11 +2,10 @@
 
 ## Hoofdvragen
 Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk maken?
-
-`MAKEN`
+<br>`MAKEN`
 
 Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?
-`BIJHOUDEN` `AANVULLEN`
+<br>`BIJHOUDEN` `AANVULLEN`
 
 
 Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?
