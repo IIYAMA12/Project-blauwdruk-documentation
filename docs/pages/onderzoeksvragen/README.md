@@ -64,4 +64,4 @@ Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?
 ## Onderzoeksvragen flow
 
 ### Versie 1.0.0
-![Onderzoeksvragen flow: Versie 1.0.0](Blauwdruk-proces-diagram-Hoofd en deelvragen_v1.png)
+![Onderzoeksvragen flow: Versie 1.0.0](content/Blauwdruk-proces-diagram-Hoofd en deelvragen_v1.png)
