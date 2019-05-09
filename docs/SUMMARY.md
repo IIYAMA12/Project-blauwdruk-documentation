@@ -12,6 +12,7 @@
 * [Projectvoorstel](pages/projectvoorstel/README.md)
 
 * [Onderzoeksmethodes](pages/research_methods/README.md)
+	* [Competitive analysis](pages/research_methods/competitive_analysis/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
 
 * [Bibliografie](pages/bibliografie/README.md)
