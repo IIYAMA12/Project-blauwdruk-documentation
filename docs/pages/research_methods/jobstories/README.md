@@ -3,6 +3,7 @@
 ## Profiel motivaties
 
 
+
 ## Hoofdvragen
 
 ### Opbouw
@@ -42,3 +43,6 @@
 
 #### Bewijzen
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil gebruiken om het onderzoek te bewijzen kan de gebruiker broninformatie achterlaten door het veld `bronnen` in te vullen.
+
+
+
