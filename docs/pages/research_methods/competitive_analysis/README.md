@@ -14,8 +14,8 @@ Dit project gaat over hoe `The Bureau of Investigative Journalism` een recept cr
 > * Reporting recipe - how-to guides for using our data and developing the story
 > * Code - our technological tools to interrogate or visualise data
 > * Resource - investigation folder or additional documents
-(The Bureau of Investigative Journalism, 2018)
 
+(The Bureau of Investigative Journalism, 2018)
 
 [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com)
 
