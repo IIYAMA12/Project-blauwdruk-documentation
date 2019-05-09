@@ -22,3 +22,7 @@ Velleman, D. J. (2016). How to Prove It. Geraadpleegd op 18 maart 2019, van [htt
 
 ## Jobstories
 Klement, A. (2018, 21 maart). When Coffee & Kale Compete [Boek]. Geraadpleegd op 9 mei 2019, van [http://www.whencoffeeandkalecompete.com/](http://www.whencoffeeandkalecompete.com/)
+
+
+
+The Bureau of Investigative Journalism. (2018, 7 februari). Bureau Local Open Resources. Geraadpleegd op 9 mei 2019, van [https://www.thebureauinvestigates.com/projects/local-power/open-resources](https://www.thebureauinvestigates.com/projects/local-power/open-resources)
