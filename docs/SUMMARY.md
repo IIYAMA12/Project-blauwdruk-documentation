@@ -2,6 +2,7 @@
 
 * [Overzichtspagina](README.md)
 * [Planning](pages/planning/README.md)
+* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 * [Analyse onderzoeksjournalistiek](pages/analyse_onderzoeksjournalistiek/README.md)
 	* [Werkwijze Frank](pages/analyse_onderzoeksjournalistiek/werkwijze-frank-meijer.md)
 	* [Werkwijze Thomas](pages/analyse_onderzoeksjournalistiek/werkwijze-thomas-bollen.md)
