@@ -33,11 +33,12 @@
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil bijhouden en informatie wil verwijderen, is het mogelijk om het document opnieuw te openen en een invulveld leeg te halen of te verwijderen.
 
 #### Doorgronden
-* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil bijhouden
+* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil doorgronden, opent hij het document en klikt hij op het knopje chronologisch en de volgorden van de informatie in het blauwdruk zal zich chronologisch van boven naar beneden indelen.
+* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil doorgronden maar weet niet precies waar hij moet beginnen, zal een melding vanuit deze zero state hem of haar op weg helpen door middel van een informatie over het interface.
 
 
 #### Gebruiken
-
+* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil gebruiken om een nieuw onderzoeksproces te starten kan hij of zij binnen het document navigeren naar de sectie `begin onderzoeksproces`. In deze sectie is informatie over het opstarten van het onderzoek te vinden.
 
 #### Bewijzen
-
+* Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil gebruiken om het onderzoek te bewijzen kan de gebruiker broninformatie achterlaten door het veld `bronnen` in te vullen.
