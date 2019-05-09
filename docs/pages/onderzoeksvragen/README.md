@@ -59,3 +59,9 @@ Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of al
 
 Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?
 <br>`INFORMATIE & GEBRUIK`
+
+
+## Onderzoeksvragen flow
+
+### Versie 1.0.0
+![Onderzoeksvragen flow: Versie 1.0.0](Blauwdruk-proces-diagram-Hoofd en deelvragen_v1.png)
