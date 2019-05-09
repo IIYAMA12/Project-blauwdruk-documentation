@@ -19,10 +19,14 @@ Dit project gaat over hoe `The Bureau of Investigative Journalism` een recept cr
 
 [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com)
 
-![Recept overzicht](content/recept-overzicht.png)
-Dit is de lijst met resources(recept) / reports en data.
+<br>
 
+![Recept overzicht](content/recept-overzicht.png)
+
+Dit is de lijst met resources(recept) / reports en data.
 [Hier te vinden](https://www.thebureauinvestigates.com/projects/refuges/open-resources)
+
+<br>
 
 
 ![Recept indeling resource](content/recept-indeling.png)
