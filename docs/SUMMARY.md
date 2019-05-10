@@ -8,7 +8,7 @@
 	* [Werkwijze Thomas](pages/analyse_onderzoeksjournalistiek/werkwijze-thomas-bollen.md)
 	* [Analyse tijdlijn van mira](pages/analyse_onderzoeksjournalistiek/analyse-tijdlijn-mira-sys.md)
 
-* [Ethiek](pages/ethiek/README.d)
+* [Ethiek](pages/ethiek/README.md)
 * [Prototyping](pages/prototyping/README.md)
 * [Projectvoorstel](pages/projectvoorstel/README.md)
 
