@@ -12,6 +12,9 @@
 * [Prototyping](pages/prototyping/README.md)
 * [Projectvoorstel](pages/projectvoorstel/README.md)
 
+
+* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
+
 * [Onderzoeksmethodes](pages/research_methods/README.md)
 	* [Competitive analysis](pages/research_methods/competitive_analysis/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
