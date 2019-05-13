@@ -12,7 +12,14 @@
 		* [Vergelijken](pages/onderzoeksvragen/hoofdvragen/vergelijken/README.md)
 	* [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md)
 		* [Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
-		
+		* [Content type](pages/onderzoeksvragen/deelvragen/content_type/README.md)
+		* [Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
+		* [Dynamisch](pages/onderzoeksvragen/deelvragen/dynamisch/README.md)
+		* [Informatie en gebruik](pages/onderzoeksvragen/deelvragen/informatie_en_gebruik/README.md)
+		* [Invulbaar](pages/onderzoeksvragen/deelvragen/invulbaar/README.md)
+		* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
+		* [Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
+		* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
 
 * [Analyse onderzoeksjournalistiek](pages/analyse_onderzoeksjournalistiek/README.md)
 	* [Werkwijze Frank](pages/analyse_onderzoeksjournalistiek/werkwijze-frank-meijer.md)
