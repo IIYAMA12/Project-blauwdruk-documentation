@@ -1,2 +1,2 @@
-# Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?
+Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?
 <br>`VERGELIJKEN`

@@ -1,2 +1,2 @@
-# Hoe kan een blauwdrukproces invulbaar worden opgezet?
+Hoe kan een blauwdrukproces invulbaar worden opgezet?
 <br>`INVULBAAR` 

@@ -1,2 +1,2 @@
-# Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?
+Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?
 <br>`BIJHOUDEN` `AANVULLEN`
