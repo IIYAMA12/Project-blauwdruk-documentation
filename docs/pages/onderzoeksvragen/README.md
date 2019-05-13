@@ -7,7 +7,6 @@ Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk
 Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?
 <br>`BIJHOUDEN` `AANVULLEN`
 
-
 Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?
 <br>`VERGELIJKEN`
 
@@ -44,7 +43,7 @@ Welke voordelen en nadelen heeft de auteur van het gebruik van een blauwdruk?
 <br>`VOORDELEN` `NADELEN`
 
 Is de definitie van een blauwdruk bij iedereen hetzelfde?
-<br>`DEFINITIE`
+<br>`DEFINITIE BLAUWDRUK`
 
 Wie heeft er baat bij het gebruik van een blauwdruk? / Wie zijn de stakeholders? / Wie zijn NIET de stakeholders?
 <br>`STAKEHOLDERS`
