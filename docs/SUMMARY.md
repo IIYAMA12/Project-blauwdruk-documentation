@@ -28,10 +28,8 @@
 			* [Stakeholders](pages/stakeholders/README.md)
 		* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
 
-* [Analyse onderzoeksjournalistiek](pages/analyse_onderzoeksjournalistiek/README.md)
-	* [Werkwijze Frank](pages/analyse_onderzoeksjournalistiek/werkwijze-frank-meijer.md)
-	* [Werkwijze Thomas](pages/analyse_onderzoeksjournalistiek/werkwijze-thomas-bollen.md)
-	* [Analyse tijdlijn van mira](pages/analyse_onderzoeksjournalistiek/analyse-tijdlijn-mira-sys.md)
+
+
 
 * [Ethiek](pages/ethiek/README.md)
 * [Prototyping](pages/prototyping/README.md)
@@ -43,5 +41,12 @@
 * [Onderzoeksmethodes](pages/research_methods/README.md)
 	* [Competitive analysis](pages/research_methods/competitive_analysis/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
+	* [Co-creation](pages/research_methods/co-creation/README.md)
+		* [Werkwijze van Frank Meijers](pages/research_methods/co-creation/frank-meijers/README.md)
+	* [Interviews](pages/research_methods/interview/README.md)
+		* [Journalist](pages/research_methods/interview/onderzoeksjournalist/README.md)
+			* [Werkwijze Thomas](pages/research_methods/interview/onderzoeksjournalist/thomas_bollen/README.md)
+	* [Analyse content](pages/research_methods/analyse_content/README.md)
+		* [Analyse tijdlijn van mira](pages/research_methods/analyse_content/README.md)
 
 * [Bibliografie](pages/bibliografie/README.md)
