@@ -25,6 +25,7 @@
 		* [Invulbaar](pages/onderzoeksvragen/deelvragen/invulbaar/README.md)
 		* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
 		* [Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
+			* [Stakeholders](pages/stakeholders/README.md)
 		* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
 
 * [Analyse onderzoeksjournalistiek](pages/analyse_onderzoeksjournalistiek/README.md)
@@ -35,7 +36,7 @@
 * [Ethiek](pages/ethiek/README.md)
 * [Prototyping](pages/prototyping/README.md)
 * [Projectvoorstel](pages/projectvoorstel/README.md)
-
+* [Stakeholders](pages/stakeholders/README.md)
 
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
