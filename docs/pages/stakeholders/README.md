@@ -4,15 +4,16 @@
 * Follow the Money
 * Onderzoeksjournalisten
 * Regiojournalisten
-* Data-analist / - expert en de community-manager / redacteur sociale media
+* Data-analist 
+* Expert 
+* Community-manager 
+* Redacteur sociale media
+* Redactie
+* Frontwise (ontwikkelaar FTM platform)
+* Ontwerper / ontwikkelaar / programmeur (zelf)
+
+
+
+## Stakeholders die alleen van toepassing zijn als het eindproduct relevant wordt voor deze groep
 * Follow the Money-lezer
-
-(Jorik van Essen)
-* Ontwerper 
-* Ontwikkelaar 
-* Programmeur
-
-
-
-## Niet stakeholders
-* ?
+* Follow the Money-leden
