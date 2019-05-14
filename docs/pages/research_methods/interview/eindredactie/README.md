@@ -12,7 +12,7 @@ Algemeent:
 De waar je tegenaanloopt verschild echt per verhaal.
 
 
-- [X] Transparantie
+- [x] Transparantie
 
 Loop je tegen het probleem aan dat er sommige informatie niet terug te vinden is?
 Resultaten samengevat
@@ -21,7 +21,7 @@ Resultaten samengevat
 
 ---
 
-- [X] Onderwerp begrijpen
+- [x] Onderwerp begrijpen
 
 Loop je tegen het probleem aan dat het onderwerp lastig te begrijpen is?
 
@@ -44,19 +44,19 @@ Resultaten samengevat
 Resultaten samengevat
 * Dit is niet altijd relevant voor de eindredacteur.
 
-- [X] Feiten
+- [x] Feiten
 
 ---
 
-- [X] Aannames
+- [x] Aannames
 
 ---
 
-- [X] Conclusies
+- [x] Conclusies
 
 ---
 
-- [X] Samenvatting
+- [x] Samenvatting
 
 ---
 
