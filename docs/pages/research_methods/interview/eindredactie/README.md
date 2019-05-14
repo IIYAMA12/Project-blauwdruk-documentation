@@ -19,7 +19,7 @@ Resultaten samengevat
 
 * Waar kan ik externe informatie vinden? (Link)
 
----
+<br><br>
 
 - [x] Onderwerp begrijpen
 
@@ -31,9 +31,9 @@ Resultaten samengevat
 * Het niveau van het onderwerp speelt ook een belangrijke rol. Dit niveau is soms ook te hoog voor de auteur.
 * Elke keer als je een (nieuw) artikel delegeert leer je ook meer over het onderwerp en dit maakt het begrijpen er eenvoudiger van.
 
----
+<br><br>
 
-[X] Is het doel van elk stuk in het artikel altijd even duidelijk?
+- [x] Is het doel van elk stuk in het artikel altijd even duidelijk?
 
 Resultaten samengevat
 * Bij sommige onderdelen is dit inderdaad niet altijd even duidelijk, de eindredacteur maakt hier wel een terugkoppeling van naar de auteur.
@@ -46,29 +46,29 @@ Resultaten samengevat
 
 - [x] Feiten
 
----
+<br><br>
 
 - [x] Aannames
 
----
+<br><br>
 
 - [x] Conclusies
 
----
+<br><br>
 
 - [x] Samenvatting
 
----
+<br><br>
 
 - [ ] Data(sets)
 -- Nog navragen
 
----
+<br><br>
 
 - [ ] Lijst belanghebbende
 -- Nog navragen
 
----
+<br><br>
 
 - [ ] Notities / instructies
 -- Nog navragen
