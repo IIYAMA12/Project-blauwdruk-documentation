@@ -5,6 +5,8 @@
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 	* [hoofdvragen](pages/onderzoeksvragen/hoofdvragen/README.md)
 		* [Bewijzen](pages/onderzoeksvragen/hoofdvragen/bewijzen/README.md)
+			* [Wat is er benodigd om iets te bewijzen?](pages/onderzoeksvragen/deelvragen/benodigd_bewijs/README.md)
+				* [Boek: Onderzoek bewijzen](pages/bibliografie/README.md#onderzoek-bewijzen)
 		* [Bijhouden & aanvullen](pages/onderzoeksvragen/hoofdvragen/bijhouden_aanvullen/README.md)
 			* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
 		* [Doorgronden](pages/onderzoeksvragen/hoofdvragen/doorgronden/README.md)
