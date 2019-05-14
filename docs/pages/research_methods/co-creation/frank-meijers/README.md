@@ -28,7 +28,7 @@ Frank werkt vaak het verhaal(product) met proces uit in 1 document. Het `Werkdoc
 
 
 #### Werkdocument
-Het werkdocument is voor Frank een informatie vorm die zich constant evolueerd en itereerd tot dat het uitgroeid tot een artikel. 
+Het werkdocument is voor Frank een informatie vorm die zich constant evolueert en itereert tot dat het uitgroeit tot een artikel. 
 Als CMD ontwerper houd je het eindproduct gescheiden van het proces omdat de verantwoording voor de keuzes al genomen zijn en het product moet voor zichzelf spreken. In onderzoeksjournalistiek is dat in Frank zijn manier niet een probleem. De veranwoording staat letterlijk in het verhaal en zal zich in een tekstuele manier moeten presenteren.
 
 Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk dat er sneller toegang is tot de informatie op het moment dat je bezig bent hetzelfde deel van het werkdocument.
@@ -38,7 +38,7 @@ Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk d
 ![Alles op 1 locatie & kolommen voor data inventarisatie](content/diagrams/onderzoeksanalyse-journalist-Werkdocument.png)
 
 ### 3. Werken vanuit het werkdocument
-Vanuit het werkdocument houd je je bezig met twee belangrijke onderzoeksprocessen. Het onderzoeken opzichzelf en het spreken met bronnen. Veel van wat je onderzoek of onderzocht hebt leg je voor aan je bronnen. Deze kunnen helpen om te valideren van de onderzoeksresultaten. Dit is de belangrijkste iteratie proces van een onderzoeksjournalist. Alle resultaten en hypotheses worden geupdate in het werkdocument. 
+Vanuit het werkdocument houd je je bezig met twee belangrijke onderzoeksprocessen. Het onderzoeken op zichzelf en het spreken met bronnen. Veel van wat je onderzoek of onderzocht hebt leg je voor aan je bronnen. Deze kunnen helpen om te valideren van de onderzoeksresultaten. Dit is de belangrijkste iteratie proces van een onderzoeksjournalist. Alle resultaten en hypotheses worden geupdate in het werkdocument. 
 
 
 ### 4. Concept & eindredactie

@@ -29,6 +29,8 @@
 		* [Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
 			* [Stakeholders](pages/stakeholders/README.md)
 		* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
+		* [Wat is er benodigd om iets te bewijzen?](pages/onderzoeksvragen/deelvragen/benodigd_bewijs/README.md)
+			* [Boek: Onderzoek bewijzen](pages/bibliografie/README.md#onderzoek-bewijzen)
 
 
 
@@ -48,6 +50,7 @@
 	* [Interviews](pages/research_methods/interview/README.md)
 		* [Journalist](pages/research_methods/interview/onderzoeksjournalist/README.md)
 			* [Werkwijze Thomas](pages/research_methods/interview/onderzoeksjournalist/thomas_bollen/README.md)
+		* [Eindredactie](pages/research_methods/interview/eindredactie/README.md)
 	* [Analyse content](pages/research_methods/analyse_content/README.md)
 		* [Analyse tijdlijn van mira](pages/research_methods/analyse_content/tijdlijn/README.md)
 
