@@ -13,13 +13,16 @@ De waar je tegenaanloopt verschild echt per verhaal.
 
 
 - [X] Transparantie
+
 Loop je tegen het probleem aan dat er sommige informatie niet terug te vinden is?
 Resultaten samengevat
+
 * Waar kan ik externe informatie vinden? (Link)
 
 ---
 
 - [X] Onderwerp begrijpen
+
 Loop je tegen het probleem aan dat het onderwerp lastig te begrijpen is?
 
 Resultaten samengevat
