@@ -59,6 +59,9 @@ Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of al
 Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?
 <br>`INFORMATIE & GEBRUIK`
 
+Wat is de werkwijze van een onderzoekjournalist?
+<br>`WERKWIJZE`
+
 
 ## Onderzoeksvragen flow
 
