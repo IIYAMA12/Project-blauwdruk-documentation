@@ -31,6 +31,9 @@ Resultaten samengevat
 * Het niveau van het onderwerp speelt ook een belangrijke rol. Dit niveau is soms ook te hoog voor de auteur.
 * Elke keer als je een (nieuw) artikel delegeert leer je ook meer over het onderwerp en dit maakt het begrijpen er eenvoudiger van.
 
+
+
+
 <br><br>
 
 - [x] Is het doel van elk stuk in het artikel altijd even duidelijk?
