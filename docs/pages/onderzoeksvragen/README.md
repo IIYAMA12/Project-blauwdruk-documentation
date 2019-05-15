@@ -31,8 +31,7 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? (Zijn h
 <br>`CONTENT TYPE`
 
 
-Hoe zit een journalistieke onderzoek in elkaar?
-<br>`STRUCTUUR`
+
  
 
 Hoe dynamisch (flexibel voor content) kan een blauwdruk worden opgezet?
@@ -59,8 +58,10 @@ Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of al
 Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?
 <br>`INFORMATIE & GEBRUIK`
 
+
 Wat is de werkwijze van een onderzoekjournalist?
-<br>`WERKWIJZE`
+<br>Hoe zit een journalistieke onderzoek in elkaar?
+<br>`WERKWIJZE` `STRUCTUUR`
 
 
 ## Onderzoeksvragen flow

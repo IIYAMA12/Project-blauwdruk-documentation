@@ -27,7 +27,7 @@
 		* [Informatie en gebruik](pages/onderzoeksvragen/deelvragen/informatie_en_gebruik/README.md)
 		* [Invulbaar](pages/onderzoeksvragen/deelvragen/invulbaar/README.md)
 		* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
-		* [Werkwijze](pages/onderzoeksvragen/deelvragen/werkwijze-onderzoeksjournalist/README.md)
+		* [Werkwijze & structuur](pages/onderzoeksvragen/deelvragen/werkwijze-onderzoeksjournalist/README.md)
 			* [Werkwijze van Frank Meijers](pages/research_methods/co-creation/frank-meijers/README.md)
 			* [Werkwijze Thomas](pages/research_methods/interview/onderzoeksjournalist/thomas_bollen/README.md)
 		* [Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
