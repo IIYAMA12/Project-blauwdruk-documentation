@@ -41,8 +41,12 @@ Resultaten samengevat
 ## Waar heb jij iets aan?
 
 - [ ] Onderzoeksproces
+
 Resultaten samengevat
+
 * Dit is niet altijd relevant voor de eindredacteur.
+
+<br><br>
 
 - [x] Feiten
 
