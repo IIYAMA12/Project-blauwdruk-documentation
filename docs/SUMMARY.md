@@ -19,7 +19,7 @@
 			* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
 		* [Vergelijken](pages/onderzoeksvragen/hoofdvragen/vergelijken/README.md)
 	* [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md)
-		* [Onderzoeksjournalist](pages/onderzoeksvragen/deelvragen/onderzoeksjournalist/README.md)
+		* [Onderzoeksjournalistiek](pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/README.md)
 		* [Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
 		* [Content type](pages/onderzoeksvragen/deelvragen/content_type/README.md)
 		* [Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
