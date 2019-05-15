@@ -32,7 +32,7 @@ Resultaten samengevat
 * Elke keer als je een (nieuw) artikel delegeert leer je ook meer over het onderwerp en dit maakt het begrijpen er eenvoudiger van.
 
 
-
+---------------------
 
 <br><br>
 
