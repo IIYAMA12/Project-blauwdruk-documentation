@@ -5,13 +5,13 @@
 * Het product moet ondersteuning bieden voor het contenttype: tekst
 
 * Het product moet kunnen refereren naar bronnen. (ook bronnen met link)
-Dit type content wordt veel gebruikt.
+<br>Dit type content wordt veel gebruikt.
 
 * Het product moet je werk kunnen opslaan.
-Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.
+<br>Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.
 
 * Het product moet je werk bewaard blijven houden wanneer je de pagina perongelijk gesloten wordt.
-Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er eindredactiewerk verloren gaat.
+<br>Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er eindredactiewerk verloren gaat.
 
 
 ## Ondersteuning van content
