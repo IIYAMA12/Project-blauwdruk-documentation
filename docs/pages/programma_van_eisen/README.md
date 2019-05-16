@@ -23,6 +23,8 @@
 
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
 
+* Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.
+
 * Het product moet de ruimte geven om belanghebbende op te nemen.
 
 * Het product moet instructies en toelichting kunnen geven hoe data(van een referentie) gelezen moet worden.

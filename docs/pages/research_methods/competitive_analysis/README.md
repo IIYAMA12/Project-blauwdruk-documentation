@@ -1,5 +1,6 @@
 # Competitive Analysis
 
+[CMD: Competitive Analysis](http://www.cmdmethods.nl/cards/library/competitive-analysis)
 
 ## Recept 
 
@@ -58,7 +59,3 @@ Het blauwdruk project zal zich niet gaan focussen op dit soort samenwerkingen om
 
 
 
-
-
-
-[CMD: Competitive Analysis](http://www.cmdmethods.nl/cards/library/competitive-analysis)

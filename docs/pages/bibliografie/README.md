@@ -32,5 +32,7 @@ Hanson, N., Sabbagh, R., Sengers, L., Sullivan, D., Tait Svith, F., Thordsen, P.
 
 
 
+## Totstandkoming van een artikel 
+Nieto Solis, S. (2019, May 7). Hoe een kader over de totstandkoming van je artikel leidt tot meer vertrouwen in media | Stimuleringsfonds voor de Journalistiek. Retrieved May 16, 2019, from https://www.svdj.nl/nieuws/transparantie-journalistiek-vertrouwen-media/
 
 
