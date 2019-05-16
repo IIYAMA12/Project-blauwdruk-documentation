@@ -16,7 +16,7 @@
 
 ## Ondersteuning van content
 * Het product moet ruimte geven om een hypothese op te nemen.
-
+<br>Vanuit co-creation
 * Het product moet ruimte geven om een aanleiding op te nemen.
 
 * Het product moet ruimte geven om onderzoeksvragen op te nemen.
@@ -24,6 +24,9 @@
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
 
 * Het product moet de ruimte geven om belanghebbende op te nemen.
+
+* Het product moet instructies en toelichting kunnen geven hoe data(van een referentie) gelezen moet worden.
+<br>Deze eis komt vanuit de [competitie analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/competitive_analysis).
 
 
 
@@ -37,6 +40,12 @@
 * Het product moet notities ondersteunen.
 * Het product moet ruimte geven om feedback op te nemen van de eindredacteur.
 * Het product moet kunnen refereren van en naar content binnen de blauwdruk.
+* Het product moet de data in iedergeval de layouts document en tabel ondersteunen.
+
+## Twijfel
+* Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.
+<br> Note: Deze informatie kan gevoelig zijn.
+
 
 
 
