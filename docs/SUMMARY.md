@@ -1,6 +1,7 @@
 # Inhoudsopgave
 
 * [Overzichtspagina](README.md)
+* [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 	* [hoofdvragen](pages/onderzoeksvragen/hoofdvragen/README.md)
