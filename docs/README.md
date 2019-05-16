@@ -1,5 +1,5 @@
 # Overzichtspagina
 
 
-![Afstudeerproject: Blauwdruk](content/hoofdbeeld.png)
+![](content/hoofdbeeld.png)
 
