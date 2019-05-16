@@ -31,7 +31,7 @@
 ## Aannamens
 * Het product moet kunnen worden afgeschermd voor personen of groepen.
 * Het product moet je werk kunnen delen met medecollega.
-* Het product moet je werk kunnen verplaatsen.
+* Het product moet je werk kunnen managen.
 * Het product moet worden geoptimaliseerd voor het ondersteunen van een Plan van Aanpak (PvA).
 * Het product moet worden geoptimaliseerd voor het ondersteunen van een artikel opzet.
 * Het product moet notities ondersteunen.
