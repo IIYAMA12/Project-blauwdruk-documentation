@@ -28,11 +28,14 @@ Klement, A. (2018, 21 maart). When Coffee & Kale Compete [Boek]. Geraadpleegd op
 The Bureau of Investigative Journalism. (2018, 7 februari). Bureau Local Open Resources. Geraadpleegd op 9 mei 2019, van [https://www.thebureauinvestigates.com/projects/local-power/open-resources](https://www.thebureauinvestigates.com/projects/local-power/open-resources)
 
 ## Handleiding onderzoek door onderzoeksjournalist
-Hanson, N., Sabbagh, R., Sengers, L., Sullivan, D., Tait Svith, F., Thordsen, P., & Hunter, M. L. (2011). Story-Based Enquiry: A Manual for Investigative Journalists. Retrieved from https://transactions.sendowl.com/orders/40998265/bbdb1565d6eda6e571f5c5ccb6e18fb5/6
+Hanson, N., Sabbagh, R., Sengers, L., Sullivan, D., Tait Svith, F., Thordsen, P., & Hunter, M. L. (2011). Story-Based Enquiry: A Manual for Investigative Journalists. Geraadpleegd op 9 mei 2019, van https://transactions.sendowl.com/orders/40998265/bbdb1565d6eda6e571f5c5ccb6e18fb5/6
 
 
 
 ## Totstandkoming van een artikel 
-Nieto Solis, S. (2019, May 7). Hoe een kader over de totstandkoming van je artikel leidt tot meer vertrouwen in media | Stimuleringsfonds voor de Journalistiek. Retrieved May 16, 2019, from https://www.svdj.nl/nieuws/transparantie-journalistiek-vertrouwen-media/
+Nieto Solis, S. (2019, May 7). Hoe een kader over de totstandkoming van je artikel leidt tot meer vertrouwen in media | Stimuleringsfonds voor de Journalistiek. Geraadpleegd op 16 mei 2019, van https://www.svdj.nl/nieuws/transparantie-journalistiek-vertrouwen-media/
+
+Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.(2019, February). Building trust: What works for news organizations. Center for Media Engagement. Geraadpleegd op 16 mei 2019, van [https://mediaengagement.org/research/building-trust](https://mediaengagement.org/research/building-trust)
+
 
 
