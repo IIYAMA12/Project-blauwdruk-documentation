@@ -28,6 +28,7 @@
 			* [Dynamisch](pages/onderzoeksvragen/deelvragen/dynamisch/README.md)
 			* [Informatie en gebruik](pages/onderzoeksvragen/deelvragen/informatie_en_gebruik/README.md)
 			* [Invulbaar](pages/onderzoeksvragen/deelvragen/invulbaar/README.md)
+			* [Transparantie](pages/onderzoeksvragen/deelvragen/transparantie/README.md)
 			* [Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
 			* [Werkwijze & structuur](pages/onderzoeksvragen/deelvragen/werkwijze-onderzoeksjournalist/README.md)
 				* [Werkwijze van Frank Meijers](pages/research_methods/co-creation/frank-meijers/README.md)

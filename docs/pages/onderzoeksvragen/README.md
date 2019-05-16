@@ -31,9 +31,6 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? (Zijn h
 <br>`CONTENT TYPE`
 
 
-
- 
-
 Hoe dynamisch (flexibel voor content) kan een blauwdruk worden opgezet?
 <br>`DYNAMISCH`
  
@@ -63,6 +60,9 @@ Wat is de werkwijze van een onderzoekjournalist?
 <br>Hoe zit een journalistieke onderzoek in elkaar?
 <br>`WERKWIJZE` `STRUCTUUR`
 
+
+Hoe kan een blauwdruk transparanter worden gepresenteerd?
+<br>`TRANSPARANTIE`
 
 ## Onderzoeksvragen flow
 
