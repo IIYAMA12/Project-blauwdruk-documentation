@@ -1,6 +1,7 @@
 # Inhoudsopgave
 
 * [Overzichtspagina](README.md)
+* [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
