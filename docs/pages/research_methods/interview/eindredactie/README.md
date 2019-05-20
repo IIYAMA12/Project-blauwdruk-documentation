@@ -10,7 +10,7 @@ Type interview: Semigestructureerd
 
 
 Algemeen:
-De waar je tegenaanloopt verschild echt per verhaal.
+De waar je tegenaanloopt verschilt echt per verhaal.
 
 
 - [x] Transparantie
