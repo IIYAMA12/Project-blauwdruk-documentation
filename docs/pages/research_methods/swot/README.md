@@ -35,3 +35,4 @@ Dit proces is vaak ook toegepast op al het andere content. Zoals: zakelijke mail
 ### Weaknesses – Opportunities
 Follow the Money is een bedrijf dat ten alle tijden opzoek is naar vernieuwing, maar wordt voornamelijk gehinderd door technische limitaties om ideeën / concepten binnen een deadline te realiseren. Deze limitatie neemt gelijkmatig af bij de groei van connecties met mensen vanuit de creatieve en technische sector.
 
+
