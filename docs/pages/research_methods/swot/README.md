@@ -17,6 +17,6 @@ Deze methode geeft inzicht in waarin het bedrijf Follow the Money goed in is, mi
 SWOT analyse van het bedrijf Follow the Money.
 
 ![SWOT analyse in uitvoering](content/swot.png)
-[Afbeelding](content/swot.png)
+<br>[Afbeelding](content/swot.png)
 
 
