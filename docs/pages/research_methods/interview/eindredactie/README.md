@@ -2,13 +2,14 @@
 
 
 Afgenomen bij: Karin Spaink
+Type interview: Semigestructureerd
 
 ## Waar loopt de eindredactie tegenaan?
 
 
 
 
-Algemeent:
+Algemeen:
 De waar je tegenaanloopt verschild echt per verhaal.
 
 

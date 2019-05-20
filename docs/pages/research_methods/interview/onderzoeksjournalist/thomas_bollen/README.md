@@ -5,7 +5,7 @@ De werkwijze van Thomas Bollen had ik verzameld tijdens mijn stageperiode. Deze 
 ![Werkwijze Thomas](content/stageverslag-pag20.png)
 
 
-Een remake van deze informatie:
+Een remake van de informatie hierboven:
 
 
 ## Onderzoeksprocesstappen van Thomas Bollen
