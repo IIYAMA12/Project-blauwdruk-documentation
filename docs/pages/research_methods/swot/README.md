@@ -19,3 +19,4 @@ SWOT analyse van het bedrijf Follow the Money.
 ![SWOT analyse in uitvoering](content/swot.png)
 [Afbeelding](content/swot.png)
 
+

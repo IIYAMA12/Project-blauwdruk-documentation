@@ -54,4 +54,5 @@
 		* [Eindredactie](pages/research_methods/interview/eindredactie/README.md)
 	* [Analyse content](pages/research_methods/analyse_content/README.md)
 		* [Analyse tijdlijn van mira](pages/research_methods/analyse_content/tijdlijn/README.md)
+	* [SWOT analyse](pages/swot/README.md)
 * [Bibliografie](pages/bibliografie/README.md)
