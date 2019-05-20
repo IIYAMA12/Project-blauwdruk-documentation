@@ -1,6 +1,6 @@
 # Stakeholders
 
-## Stakeholders
+## Lijst
 * Follow the Money
 * Onderzoeksjournalisten
 * Regiojournalisten
