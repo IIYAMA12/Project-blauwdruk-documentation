@@ -1,4 +1,4 @@
-Wie heeft er baat bij het gebruik van een blauwdruk? / Wie zijn de stakeholders? / Wie zijn NIET de stakeholders?
+#  Wie zijn de stakeholders en wie zijn dat NIET?
 <br>`STAKEHOLDERS`
 
 
