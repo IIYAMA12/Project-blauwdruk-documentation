@@ -8,11 +8,11 @@
 
 
 ## Waarom?
-Deze methode geeft inzicht in waarin het bedrijf Follow the Money goed in is, minder goed in is, de gevaren waarop gelet moet worden en waar kansen liggen. Vanuit deze analyse kan ik als ontwerper gaan kijken waar ik risico's kan vermijden en in kan spelen op kansen.
+Deze methode geeft inzicht in waarin het bedrijf Follow the Money goed en minder goed in is maar ook de gevaren waarop gelet moet worden en waar kansen liggen. Deze SWOT is afgesteld op het gebruik van een blauwdruk binnen Follow the Money. Het doel is om inzichten te vergaren over de positie en onderzoeksrichtingen van het blauwdruk project. 
+
 
 
 ## Uitvoering
-
 
 SWOT analyse van het bedrijf Follow the Money.
 
