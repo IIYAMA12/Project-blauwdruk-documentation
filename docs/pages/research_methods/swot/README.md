@@ -25,13 +25,10 @@ SWOT analyse van het bedrijf Follow the Money.
 Een belangrijke eigenschap van Follow the Money is dat er voldoende tijd wordt gereserveerd voor onderzoeksprocessen. Er is voldoende ruimte voor de onderzoeksjournalist zijn of haar ambities te vervullen en relatief grote onderzoeken uit te voeren.
 
 ### Weaknesses 
-Er is altijd nog ruimte voor het verbeteren, toegankelijk maken en versnellen van de onderzoeksprocessen. Momenteel is er nog een middel voor om hier grote stappen mee te zetten. 
+Er is altijd nog ruimte voor het verbeteren, toegankelijk maken en versnellen van de onderzoeksprocessen. Momenteel is er nog geen middel voor om hier grote stappen mee te zetten. 
 
 ### Opportunities
 Door te focussen op het betrekking van de lezer en externe onderzoeksjournalisten kan de waardering voor `Follow the Money` groeien.
 
 ### Threats 
-Het in dienst nemen van goede onderzoeksjournalisten is een lastige opgave en dat is zeker het geval wanneer je concurrenten meer kunnen bieden qua salaris.
-
-
-
+Het in dienst nemen van goede onderzoeksjournalisten is een lastige opgave en dat is zeker het geval wanneer je concurrenten meer kunnen bieden qua salaris. Het verbreden van de productie kan als een drempel worden gezien wanneer deze zich voordoet als een verplichting.
