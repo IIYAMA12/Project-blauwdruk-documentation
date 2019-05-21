@@ -22,17 +22,16 @@ SWOT analyse van het bedrijf Follow the Money.
 
 
 ### Strengths
-Follow the Money besteed heel veel tijd en energie in het presenteerbaar maken van de verhalen die gepubliceerd worden. Er zit een iteratief proces achter waarbij het content langs verschillende stakeholders gaat voor dat dit gepubliceerd kan worden.
+Een belangrijke eigenschap van Follow the Money is dat er voldoende tijd wordt gereserveerd voor onderzoeksprocessen. Er is voldoende ruimte voor de onderzoeksjournalist zijn of haar ambities te vervullen en relatief grote onderzoeken uit te voeren.
 
-In dit proces worden:
-* Veel vragen gesteld
-* Het verhaal op begrijpbaarheid gecontroleerd.
-* Taalkundigheden gecorrigeerd.
+### Weaknesses 
+Er is altijd nog ruimte voor het verbeteren, toegankelijk maken en versnellen van de onderzoeksprocessen. Momenteel is er nog een middel voor om hier grote stappen mee te zetten. 
 
-Dit proces is vaak ook toegepast op al het andere content. Zoals: zakelijke mailings, social media uitingen, beeldmateriaal met tekst, presentaties.
+### Opportunities
+Door te focussen op het betrekking van de lezer en externe onderzoeksjournalisten kan de waardering voor `Follow the Money` groeien.
 
+### Threats 
+Het in dienst nemen van goede onderzoeksjournalisten is een lastige opgave en dat is zeker het geval wanneer je concurrenten meer kunnen bieden qua salaris.
 
-### Weaknesses – Opportunities
-Follow the Money is een bedrijf dat te alle tijden opzoek is naar vernieuwing, maar wordt voornamelijk gehinderd door technische limitaties om ideeën / concepten binnen een deadline te realiseren. Deze limitatie neemt gelijkmatig af bij de groei van connecties met mensen vanuit de creatieve en technische sector.
 
 
