@@ -1,5 +1,4 @@
 # Overzichtspagina
 
-
-![](content/hoofdbeeld.png)
+![](.gitbook/assets/hoofdbeeld.png)
 
