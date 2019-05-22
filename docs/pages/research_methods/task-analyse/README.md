@@ -41,3 +41,4 @@ Task analyse v1.0.0
       * URL
   * `5.4` Doe: Voeg toe 
 
+De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste prototype.

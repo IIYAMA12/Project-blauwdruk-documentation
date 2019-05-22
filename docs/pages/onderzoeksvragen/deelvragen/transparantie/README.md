@@ -9,17 +9,16 @@ Volgens het artikel wordt er in het contentblok 3 specifieke vragen beantwoord:
 
 > 1. waarom is het verhaal geschreven?
 >
->   
 >    De eerste vraag kan worden beantwoord door het ‘haakje’ van het artikel toe te lichten: waarom is het artikel relevant en moet het nú gepubliceerd worden?
+>
 >
 > 2. Hoe is het verhaal tot stand gekomen?
 >
->   
 >    Bij de totstandkoming van het verhaal kan worden uitgelegd welke bronnen zijn geraadpleegd en hoe lang de redactie bezig is geweest met het verhaal.
+>
 >
 > 3. Welke stappen zijn er genomen voor een gedegen verhaal?
 >
->   
 >    De laatste vraag kan worden beantwoord door eventuele tegenslagen in het onderzoek te benoemen en de gevonden oplossingen hiervoor te verklaren. 
 >
 > Wanneer bepaalde bronnen niet aan het verhaal wilden meewerken kan de journalist bijvoorbeeld toelichten waarom er voor alternatieve bronnen is gekozen en waarom die ook relevant zijn voor het verhaal.
