@@ -6,6 +6,10 @@
 ![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
 
 ![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
+![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
+
+  
+[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/task-analyse/content/task-analyse.png)
 
   
 [Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/task-analyse/content/task-analyse.png)
