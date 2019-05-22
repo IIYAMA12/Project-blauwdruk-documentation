@@ -4,7 +4,7 @@ Het volgende onderzoek onderdeel `co-creation` heb ik gebruikt om informatie te 
 
 Tot dit resultaat zijn we gekomen:
 
-![Werkwijze Frank](../../.gitbook/assets/onderzoeksanalyse-journalist-frank-zijn-werkwijze%20%281%29.svg)
+![Werkwijze Frank](onderzoeksanalyse-journalist-Frank zijn werkwijze.png)
 
 De werkwijze waarop Frank Meijer zijn onderzoeksjournalistieke proces uitvoert.
 
@@ -36,7 +36,7 @@ Het werkdocument is voor Frank een informatie vorm die zich constant evolueert e
 
 Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk dat er sneller toegang is tot de informatie op het moment dat je bezig bent hetzelfde deel van het werkdocument.
 
-![Alles op 1 locatie &amp; kolommen voor data inventarisatie](../../.gitbook/assets/onderzoeksanalyse-journalist-werkdocument%20%281%29.png)
+![Alles op 1 locatie &amp; kolommen voor data inventarisatie](content/diagram/onderzoeksanalyse-journalist-Werkdocument.png)
 
 ### 3. Werken vanuit het werkdocument
 
