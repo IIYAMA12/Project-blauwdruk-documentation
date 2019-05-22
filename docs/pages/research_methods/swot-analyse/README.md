@@ -15,10 +15,10 @@ Deze methode geeft inzicht in waarin het bedrijf Follow the Money goed en minder
 
 SWOT analyse van het bedrijf Follow the Money.
 
-![SWOT analyse in uitvoering](../.gitbook/assets/swot.png)
+![SWOT analyse in uitvoering](content/swot.png)
 
   
-[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/ff4c450705eac064247e95fdb265a4c1179f6467/docs/pages/research_methods/swot/content/swot.png)
+[Afbeelding](content/swot.png)
 
 ### Strengths
 
