@@ -1,18 +1,12 @@
 # Task analyse
 
    
-[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/a5003f7e4fc9edf62e864f4c56829600c0c232fd/docs/pages/research_methods/task-analyse/content/task-analyse.png)
 
-![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
+![Task analyse v1.0.0](content/task-analyse.png)  
 
-![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
-![Task analyse v1.0.0](../.gitbook/assets/task-analyse.png)
+<br>
+[Afbeelding](content/task-analyse.png)
 
-  
-[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/task-analyse/content/task-analyse.png)
-
-  
-[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/task-analyse/content/task-analyse.png)
 
 Task analyse v1.0.0
 
