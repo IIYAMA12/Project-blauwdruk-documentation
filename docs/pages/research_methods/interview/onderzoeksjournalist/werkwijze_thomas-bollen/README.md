@@ -2,7 +2,7 @@
 
 De werkwijze van Thomas Bollen had ik verzameld tijdens mijn stageperiode. Deze informatie heb ik niet voor de afstudeeropdracht verzameld, maar blijkt nu relevant te zijn geworden voor dit project.
 
-![Werkwijze Thomas](../../../.gitbook/assets/stageverslag-pag20%20%281%29.png)
+![Werkwijze Thomas](content/stageverslag-pag20.png)
 
 Een remake van de informatie hierboven:
 
