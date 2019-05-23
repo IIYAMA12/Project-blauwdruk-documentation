@@ -21,7 +21,7 @@ SWOT analyse van het bedrijf Follow the Money.
 [Afbeelding](content/swot.png)
 
 
-Deze SWOT-analyse heb ik in elkaar gezet met behulp van de input door [Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders). Zijn functie binnen Follow the Money is marketeer en productmanagement. Zijn input heeft geholpen om de SWOT meer in de richting van het blauwdruk project te sturen. 
+Deze SWOT-analyse heb ik in elkaar gezet met behulp van de input door [Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders). Zijn functie binnen Follow the Money is uitgever, marketeer en productmanagement. Zijn input heeft geholpen om de SWOT meer in de richting van het blauwdruk project te sturen. 
 
 
 ### Strengths
