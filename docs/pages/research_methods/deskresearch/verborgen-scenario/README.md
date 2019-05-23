@@ -168,7 +168,7 @@ Het blauwdruk zou ook een beschrijving van het leed kunnen omvangen.
 > * Idealen
 
 
-In het blauwdruk zouden de belangrijke verandering genoteerd kunnen worden die in het ontwerp spelen.
+In het blauwdruk zouden de belangrijke veranderingen genoteerd kunnen worden, die binnen het onderwerp spelen.
 
 
 (Sengers & Hunter, 2017, p. 20)
