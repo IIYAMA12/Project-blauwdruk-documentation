@@ -4,11 +4,11 @@ Download: [Projectvoorstel](content/projectvoorstel_optie.pdf)
 
 ![Cover](content/Tekengebied 1.png)
 
-[Cover large](content/Tekengebied 1.svg)
+[Cover grootformaat](content/Tekengebied 1.svg)
 
 ![Inhoud](content/Tekengebied 2.png)
 
-[Inhoud large](content/Tekengebied 2.svg)
+[Inhoud grootformaat](content/Tekengebied 2.svg)
 
 ![.](content/Tekengebied 3.png)
 
