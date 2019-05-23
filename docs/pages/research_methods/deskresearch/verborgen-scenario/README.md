@@ -226,7 +226,7 @@ Ja, dit zorgt er inderdaad voor dat je veel meer elementen tegenkomt.
 
 
 
-Zou een referentie naar deze pagina in van dit boek handig kunnen zijn?
+Zou een referentie naar deze pagina van dit boek handig kunnen zijn?
 
 
 (Sengers & Hunter, 2017, pp. 23-24)
@@ -258,7 +258,7 @@ De dader en accent verhaal zijn verwanten van elkaar. Het blauwdruk zou de mogel
 
 > Voor de meeste problemen zijn er meerdere actoren verantwoordelijk. En soms zijn er ook meerdere actoren die het probleem bestrijden. Wie promoveer je dan tot dader? Ons advies luidt: degene met de meeste invloed op de uitkomst. Want dat is degene die het probleem (misschien) kan oplossen.
 
-Het zou ook interessant kunnen zijn om de invloeden te mappen van de mensen in het verhaal.
+Het zou ook interessant kunnen zijn om de invloeden in kaart te brengen van mensen in het verhaal.
 
 
 (Sengers & Hunter, 2017, p. 25)
@@ -279,7 +279,7 @@ Het gedrag van de dader kan een rol spelen in de hypothese, wellicht is dit een 
 > * hun kennis vergroot (aansluitend bij hun belangstelling);
 
 
-Een beschrijving hoe de opgebouwde hypothese relevant is voor de betrokkenen zou een toevoeging kunnen zijn voor een blauwdruk.
+Een beschrijving van hoe de opgebouwde hypothese relevant is voor de betrokkenen, zou een toevoeging kunnen zijn voor een blauwdruk.
 
 
 (Sengers & Hunter, 2017, pp. 27-28)
