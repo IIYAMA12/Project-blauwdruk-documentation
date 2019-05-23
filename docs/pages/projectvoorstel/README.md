@@ -1,72 +1,72 @@
 # Projectvoorstel
 
-[Download : Projectvoorstel](content/projectvoorstel_optie.pdf)
+Download: [Projectvoorstel](content/projectvoorstel_optie.pdf)
 
-![Cover](.gitbook/assets/tekengebied-1.png)
+![Cover](content/tekengebied-1.png)
 
-[Cover large](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%201.svg)
+[Cover large](content/Tekengebied-1.svg)
 
-![Inhoud](.gitbook/assets/tekengebied-2.png)
+![Inhoud](content/tekengebied-2.png)
 
-[Inhoud large](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%202.svg)
+[Inhoud large](content/Tekengebied-2.svg)
 
-![.](.gitbook/assets/tekengebied-3.png)
+![.](content/tekengebied-3.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%203.svg)
+[.](content/Tekengebied-3.svg)
 
-![.](.gitbook/assets/tekengebied-4.png)
+![.](content/tekengebied-4.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%204.svg)
+[.](content/Tekengebied-4.svg)
 
-![.](.gitbook/assets/tekengebied-5.png)
+![.](content/tekengebied-5.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%205.svg)
+[.](content/tekengebied-5.svg)
 
-![.](.gitbook/assets/tekengebied-6.png)
+![.](content/tekengebied-6.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%206.svg)
+[.](content/Tekengebied-6.svg)
 
-![.](.gitbook/assets/tekengebied-7.png)
+![.](content/tekengebied-7.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%207.svg)
+[.](content/Tekengebied-7.svg)
 
-![.](.gitbook/assets/tekengebied-8.png)
+![.](content/tekengebied-8.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%208.svg)
+[.](content/Tekengebied-8.svg)
 
-![.](.gitbook/assets/tekengebied-9.png)
+![.](content/tekengebied-9.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%209.svg)
+[.](content/Tekengebied-9.svg)
 
-![.](.gitbook/assets/tekengebied-10.png)
+![.](content/tekengebied-10.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2010.svg)
+[.](content/Tekengebied-10.svg)
 
-![.](.gitbook/assets/tekengebied-11.png)
+![.](content/tekengebied-11.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2011.svg)
+[.](content/Tekengebied-11.svg)
 
-![.](.gitbook/assets/tekengebied-12.png)
+![.](content/tekengebied-12.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2012.svg)
+[.](content/Tekengebied-12.svg)
 
-![.](.gitbook/assets/tekengebied-13.png)
+![.](content/tekengebied-13.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2013.svg)
+[.](content/Tekengebied-13.svg)
 
-![.](.gitbook/assets/tekengebied-14.png)
+![.](content/tekengebied-14.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2014.svg)
+[.](content/Tekengebied-14.svg)
 
-![.](.gitbook/assets/tekengebied-15.png)
+![.](content/tekengebied-15.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2015.svg)
+[.](content/Tekengebied-15.svg)
 
-![.](.gitbook/assets/tekengebied-16.png)
+![.](content/tekengebied-16.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2016.svg)
+[.](content/Tekengebied-16.svg)
 
-![.](.gitbook/assets/tekengebied-17.png)
+![.](content/tekengebied-17.png)
 
-[.](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%2017.svg)
+[.](content/Tekengebied-17.svg)
 
