@@ -1,8 +1,13 @@
 # Planning
 
-![Planning](.gitbook/assets/planning.png)
+![Planning](content/planning.png)
+
+
+[Afbeelding](content/planning.png)
 
 V1.0.0
+
+
 
 Dit is de planning voor het blauwdrukproject.
 
