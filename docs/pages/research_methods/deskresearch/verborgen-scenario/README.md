@@ -271,5 +271,60 @@ Het zou ook interessant kunnen zijn om de invloeden te mappen van de mensen in h
 
 Het gedrag van de dader kan een rol spelen in de hypothese, wellicht is dit een stap die aangehaald kan worden tijdens het invoeren van een hypothese.
 
+### Beschrijf relevantie van het hypothese voor betrokkenen
+
+> Je hypothese moet relevant zijn. Dat wil zeggen: ze moet voordeel opleveren. Niet alleen voor de lezers, kijkers of luisteraars, maar ook voor jezelf en voor je opdrachtgever. Een gebeurtenis is relevantie voor de lezers, kijkers of luisteraars als:
+> * hun welvaart of welbevinden verbetert of verslechtert;
+> * hen instrumenten geeft om hun doelen of idealen te bereiken;
+> * hun kennis vergroot (aansluitend bij hun belangstelling);
 
 
+Een beschrijving hoe de opgebouwde hypothese relevant is voor de betrokkenen zou een toevoeging kunnen zijn voor een blauwdruk.
+
+
+(Sengers & Hunter, 2017, pp. 27-28)
+
+### Hypothese toetsing
+
+> Ga je hypothese niet bewijzen, maar toetsen. Toetsen veronderstelt een neutralere houding: het maakt niet uit wat je tegenkomt. Bij veel hypotheses is dat ook wérkelijk zo: of de stelling nu klopt of niet, in beide gevallen heb je een verhaal. De stellingkomt namelijk ergens vandaan; blijkbaar zijn er mensen die denken dat het zo zit. Dus als jij kan aantonen dat het ánders zit dan werd aangenomen, heb je óók nieuws.
+
+Een beschrijving van hoe je de hypothese hebt getoetst kan onderdeel zijn van een blauwdruk.
+
+(Sengers & Hunter, 2017, p. 29)
+
+
+
+## Bevindingen Hoofdstuk 4
+Hoofdstuk naam: Tijdlijn
+
+
+### Compleet maken van het verhaal door middel van een tijdlijn
+
+`Ze` = tijdlijn
+
+> Ze completeert je verhaal: Ze geeft antwoord op alle belangrijke vragen in verband met je hypothese: ‘Hoe kan dit?’, ‘Wat zijn de gevolgen?’ En: ‘Wat nu?’
+
+Dit zijn 3 belangrijke vragen om de volgende 3 punten te beantwoorden:
+
+> We begrijpen een probleem nu eenmaal beter als we de `oorzaken` ervan kennen. We vinden een probleem belangrijker als we zien wat de `gevolgen` zijn. En we komen misschien in actie als we zien hoe we het probleem kunnen `oplossen`.
+
+* Begrijpen probleem beter > als we de `oorzaken` kennen
+* Probleem belangrijker vinden > bekend zijn met de `gevolgen`
+* Eerder in actie komen > bij `oplossingen`
+
+Deze 3 punten spelen een belangrijke rol om het volledige verhaal te vertellen. Deze 3 onderdelen zouden ook gekoppeld kunnen worden aan het structuur van de blauwdruk.
+
+(Sengers & Hunter, 2017, p. 32)
+
+### Alle relevante gebeurtenissen inventariseren door middel van een tijdlijn
+
+> In een chronologie houden alle gebeurtenissen met elkaar verband. Elke stap moet een link hebben met stappen ervoor en stappen erna.
+
+Een tijdlijn kan bijdragen aan het vertellen van het verhaal in een chronologsche volgorde.
+
+
+> Kom je een gebeurtenis tegen die niet verklaard kan worden door één van de gebeurtenissen ervóór, dan heb je waarschijnlijk iets gemist.
+
+Het blauwdruk kan uitleggen hoe er indicaties vanuit een tijdlijn tot nieuwe bevindingen hebben geleid.
+
+(Sengers & Hunter, 2017, p. 32)
