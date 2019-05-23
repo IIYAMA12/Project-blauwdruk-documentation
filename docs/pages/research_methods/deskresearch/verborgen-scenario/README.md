@@ -4,7 +4,7 @@ Dit is een analyse van het boek `Het Verborgen Scenario`. Het lezen van dit boek
 
 Ik heb dit boek geanalyseerd omdat het heel helder en op een chronologische manier de onderzoeksstappen met bijbehorende onderdelen beschrijft.
 
-Boek:[Het Verborgen Scenario](https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_r56bug9Gsl0nUdLY/view)
+Boek: [Het Verborgen Scenario](https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_r56bug9Gsl0nUdLY/view)
 
 
 ## Bevindingen Hoofdstuk 1 
@@ -186,7 +186,7 @@ In het blauwdruk zouden de belangrijke veranderingen genoteerd kunnen worden, di
 > * Geldstromen
 > * Afspraken
 
-Het bijhouden van een lijst met wat er al in de publiciteit is geweest zou nuttig kunnen zijn voor een blauwdruk. (Deskresearch)
+Het bijhouden van een lijst met wat er al in de publiciteit is geweest, zou nuttig kunnen zijn voor een blauwdruk. (Deskresearch)
 
 
 
@@ -196,5 +196,80 @@ Het bijhouden van een lijst met wat er al in de publiciteit is geweest zou nutti
 
 ## Bevindingen Hoofdstuk 3
 Hoofdstuk naam: Hypothese
+
+
+> Een probleem is een gebeurtenis die om verandering (verbetering) schreeuwt.
+
+Mooie definitie!
+
+(Sengers & Hunter, 2017, p. 23)
+
+
+### Welke vragen roept een incident voor jouw op?
+
+> * 'Klopt dit?'
+> * 'Hoe kan dit?'
+> * 'Wat zijn de gevolgen?'
+> * 'Wat wordt hier aan gedaan?'
+
+Een vragenlijst voor bij een hypothese in een blauwdruk kan heel relevant zijn.
+
+
+
+
+In het artikel wordt aan geraden om de vragen vanuit de `hoe` vorm te schrijven in plaats van de `waarom` vorm. De reden hier achter heeft te maken met dat je vanuit de `hoe` vorm eenvoudiger de belangrijke elementen tegenkomt. 
+
+#### Even uitproberen:
+Hoe heeft het `[... element ...]` niet gezien dat `[... element ...]` niet goed functioneerde, waardoor `[... element ...]` schade heeft veroorzaakt aan `[... element ...]` en `[... element ...]` nu in het nadeel is geplaatst.
+
+Ja, dit zorgt er inderdaad voor dat je veel meer elementen tegenkomt.
+
+
+
+Zou een referentie naar deze pagina in van dit boek handig kunnen zijn?
+
+
+(Sengers & Hunter, 2017, pp. 23-24)
+
+
+### Belangrijkste vraag
+
+> Welke vraag is het belangrijkste?
+> Nu moet je een moeilijke keuze maken: welke vraag is het belangrijkste? Het is verstandig in elk verhaal slechts één vraag centraal te stellen, zodat de lezers en jij zelf niet van het pad afraken. Dat wilt niet zeggen dat je de andere vragen die je hebt bedacht niet in hetzelfde verhaal kunt proberen te beantwoorden, maar deze moeten dan wel in dienst staan van de kernvraag. Welke vraag je kiest, kun je laten afhangen van:
+> * Actualiteit: welke vraag staat in de belangstelling?
+> * Urgentie: wat moet dingend als eerste worden uitgezocht?
+> * Doelgroep: welke vraag brandt bij je doelgroep op de lippen?
+
+Een vraag centraal stellen zou een functionaliteit kunnen zijn binnen het blauwdruk.
+
+(Sengers & Hunter, 2017, p. 24)
+
+
+
+### Verantwoordelijk en invloeden
+
+> Wie is verantwoordelijk
+> Wie je kiest als dader hangt af van waar je in het verhaal het accent wilt leggen:
+> * Wil je een probleem onthullen of een boosdoener ontmaskeren, kies dan de boosdoener als dader.
+> * Zijn het probleem en de boosdoener al genoegzaam bekend, maar wil je laten zien wat er wordt gedaan om het probleem aan te pakken, kies dan de held als dader.
+
+De dader en accent verhaal zijn verwanten van elkaar. Het blauwdruk zou de mogelijkheid kunnen geven om deze keuze te verantwoorden.
+<br>Functionaliteit: Keuzes verantwoorden
+
+> Voor de meeste problemen zijn er meerdere actoren verantwoordelijk. En soms zijn er ook meerdere actoren die het probleem bestrijden. Wie promoveer je dan tot dader? Ons advies luidt: degene met de meeste invloed op de uitkomst. Want dat is degene die het probleem (misschien) kan oplossen.
+
+Het zou ook interessant kunnen zijn om de invloeden te mappen van de mensen in het verhaal.
+
+
+(Sengers & Hunter, 2017, p. 25)
+
+### Gedrag dader voor hypothese
+
+> Wat doet de dader zichtbaar?
+>
+> Formuleer zo concreet mogelijk. Zichtbaar betekent dat jij of anderen het kunnen waarnemen. Welke handelingen verricht de dader? Welke bewegingen maakt hij? Welke instrumenten of voorwerpen gebruikt hij? En waar precies doet hij dat? Door zichtbare zaken als mensen, voorwerpen, plaatsen en handelingen in je hypothese op te nemen, maak je hem heel concreet.
+
+Het gedrag van de dader kan een rol spelen in de hypothese, wellicht is dit een stap die aangehaald kan worden tijdens het invoeren van een hypothese.
+
 
 
