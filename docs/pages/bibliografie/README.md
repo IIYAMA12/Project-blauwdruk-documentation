@@ -42,3 +42,5 @@ Nieto Solis, S. \(2019, May 7\). Hoe een kader over de totstandkoming van je art
 
 Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.\(2019, February\). Building trust: What works for news organizations. Center for Media Engagement. Geraadpleegd op 16 mei 2019, van [https://mediaengagement.org/research/building-trust](https://mediaengagement.org/research/building-trust)
 
+
+Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019, van https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_r56bug9Gsl0nUdLY/view
