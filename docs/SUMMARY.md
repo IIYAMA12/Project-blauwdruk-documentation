@@ -42,6 +42,8 @@
 	* [Stakeholders](pages/stakeholders/README.md)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 	* [Onderzoeksmethodes](pages/research_methods/README.md)
+		* [Deskresearch](pages/research_methods/deskresearch/README.md)
+			* [Boek: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 		* [Competitive analysis](pages/research_methods/competitive_analysis/README.md)
 		* [Jobstories](pages/research_methods/jobstories/README.md)
 		* [Co-creation](pages/research_methods/co-creation/README.md)
