@@ -5,7 +5,9 @@
 
 Op 21 mei 2019, heb ik toegang gekregen tot een onderzoeksrapport dat verschillende onderzoeksprocessen beschrijft. Dit onderzoeksrapport is geschreven door [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal) en loopt paralel met het blauwdruk project, maar heeft niet het uitgangspunt om er een tool van te maken. Arne heeft zich meer gefocust op het ontwikkelen van een uniform onderzoeksformaat. Het rapport kan ik helaas niet laten zien, omdat het journalistiekeonderzoek waarop het rapport gebaseerd niet voor het publieke oog beschikbaar is.
 
+
 Bedankt voor het delen Arne!
+
 
 
 Dit zijn mijn bevindingen uit dit rapport:
