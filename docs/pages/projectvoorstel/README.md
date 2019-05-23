@@ -1,5 +1,7 @@
 # Projectvoorstel
 
+[Download : Projectvoorstel](content/projectvoorstel_optie.pdf)
+
 ![Cover](.gitbook/assets/tekengebied-1.png)
 
 [Cover large](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/047a175f95f678be94d0f27cb78aff6e6646b791/docs/pages/projectvoorstel/content/Tekengebied%201.svg)
