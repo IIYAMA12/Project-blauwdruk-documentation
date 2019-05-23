@@ -6,7 +6,7 @@ De ethische kant binnen dit project speelt een grote rol voor de informatie die 
 
 ### Gevoelige data
 
-Mocht het blauwdruk gevoelige data gaan bevatten, moet er een meer dan basic encryptie komen voor deze data. Voor dit project gaat dit wellicht te veel tijd kosten. Het project moet wel reëel en haalbaar blijven. Het is daarom belangrijk dat ik ook zelf ga beslissen welke data er `niet` het project komt. Naast de bronnen van de onderzoeksjournalist, wordt ik ook niet gelukkig als er heel gevoelige data in komt.
+Mocht het blauwdruk gevoelige data gaan bevatten, dan moet er een meer dan basic encryptie komen voor deze data. Voor dit project gaat dit wellicht te veel tijd kosten. Het project moet wel reëel en haalbaar blijven. Het is daarom belangrijk dat ik ook zelf ga beslissen welke data er `niet` in het project komt. Naast de bronnen van de onderzoeksjournalist, wordt ik ook niet gelukkig als er gevoelige data in komt.
 
 Hieronder aannames:
 
