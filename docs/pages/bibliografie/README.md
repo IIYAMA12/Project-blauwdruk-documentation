@@ -10,7 +10,10 @@ Finne, A. \(2005\). Blueprint for general quality attribute model. InProceedings
 
 ## UI/UX
 
-Saffer, D. \(2013\). Microinteractions \[Boek\]. Geraadpleegd op 29 maart 2019, van [https://www.bol.com/nl/f/microinteractions/9200000013570420/](https://www.bol.com/nl/f/microinteractions/9200000013570420/)
+Saffer, D. \(2013\). Microinteractions \[Boek\]. Geraadpleegd op 29 maart 2019. 
+
+* Aan te schaffen via: [https://www.bol.com/nl/f/microinteractions/9200000013570420/](https://www.bol.com/nl/f/microinteractions/9200000013570420/)
+
 
 ## Eco systemen voor versies controle
 
@@ -18,7 +21,9 @@ Van der Maas, J. C. \(2016, 17 februari\). Evolution of Collaboration in Open So
 
 ## Datavisualisaties
 
-Wong, D. \(2013\). The Wall Street Journal Guide to Information Graphics \[Boek\]. Geraadpleegd op 20 maart 2019, van [https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/](https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/)
+Wong, D. \(2013\). The Wall Street Journal Guide to Information Graphics \[Boek\]. Geraadpleegd op 20 maart 2019.
+
+* Aan te schaffen via: [https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/](https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/)
 
 ## Onderzoek bewijzen
 
@@ -43,4 +48,6 @@ Nieto Solis, S. \(2019, May 7\). Hoe een kader over de totstandkoming van je art
 Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.\(2019, February\). Building trust: What works for news organizations. Center for Media Engagement. Geraadpleegd op 16 mei 2019, van [https://mediaengagement.org/research/building-trust](https://mediaengagement.org/research/building-trust)
 
 
-Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019, van https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_r56bug9Gsl0nUdLY/view
+Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019.
+
+* Details van het boek: [https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630](https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630)
