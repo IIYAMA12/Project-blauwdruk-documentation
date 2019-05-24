@@ -50,4 +50,4 @@ Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.\(2019, February\). Building 
 
 Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019.
 
-* Details van het boek: [https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630](https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630)
+* Metagegevens van het boek: [https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630](https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630)
