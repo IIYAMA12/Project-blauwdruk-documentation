@@ -1,6 +1,8 @@
 # Table of contents
 * [Overzichtspagina](README.md)
 	* [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
+	* [Inleiding](pages/inleiding/README.md)
+	* [Aanleiding](pages/aanleiding/README.md)
 	* [Design challenge](pages/design-challenge/README.md)
 	* [Planning](pages/planning/README.md)
 	* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
