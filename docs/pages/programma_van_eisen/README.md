@@ -10,16 +10,19 @@
 ## Ondersteuning van content
 * Het product moet ruimte geven om een hypothese op te nemen.
 <br>[co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
+* Het product moet de totstandkoming van een hypothese kunnen beschrijven.
+<br>[Het Verborgen Scenario #hypothese toetsing](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#hypothese-toetsing)
 
 * Het product moet ruimte geven om een aanleiding op te nemen.
 * Het product moet ruimte geven om onderzoeksvragen op te nemen.
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
 <br>[co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
+<br>
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.
 * Het product moet de ruimte geven om belanghebbende op te nemen.
 <br>[Het Verborgen Scenario #lijst betrokkenen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
 
-* Het product moet instructies en toelichting kunnen geven hoe data\(van een referentie\) gelezen moet worden.  
+* Het product moet instructies en toelichting kunnen geven hoe data\(van een referentie\) gelezen moet worden.
 <br>[Competitie analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/competitive_analysis).
 
 * Het product moet inzicht geven hoe onderzoeksresultaten boven water zijn gekomen.
@@ -50,8 +53,8 @@
 
 * Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.  
    Note: Deze informatie kan gevoelig zijn.
-
-
+* Het product moet ondersteuning bieden voor een indeling van in iedergeval deze punten: `oorzaken`, `gevolgen`, `oplossingen`
+<br>[Het Verborgen Scenario #compleet maken van het verhaal door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#compleet-maken-van-het-verhaal-door-middel-van-een-tijdlijn)
 
 
 
