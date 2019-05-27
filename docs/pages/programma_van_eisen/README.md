@@ -1,6 +1,9 @@
 # Programma van Eisen \(PvE\)
 
 * Het product moet in grote lijnen worden afgesteld op de workflow van onderzoeksjournalist.
+* Het product moet transparantie bieden voor het onderzoeksproces.
+<br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
+
 * Het product moet ondersteuning bieden voor het contenttype: tekst
 * Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.
 * Het product moet je werk kunnen opslaan.  Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.
@@ -40,6 +43,14 @@
 * Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologsche manier te vertellen en alle relevante gebeurtennissen te inventariseren.
 <br>[Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
 
+* Het product moet helpen om uniformiteit binnen een serie artikelen te behouden.
+<br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
+
+* Het product moet helpen om reproduceerbaarheid te verbeteren
+<br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
+
+
+
 ## Aannamens
 
 * Het product moet kunnen worden afgeschermd voor personen of groepen.
@@ -51,6 +62,9 @@
 * Het product moet kunnen refereren van en naar content binnen de blauwdruk.
 * Het product moet de data in iedergeval de layout types `document` en `tabel` ondersteunen.
 
+
+
+
 ## Twijfel
 
 * Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.  
@@ -59,9 +73,12 @@
 <br>[Het Verborgen Scenario #compleet maken van het verhaal door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#compleet-maken-van-het-verhaal-door-middel-van-een-tijdlijn)
 
 
-
+* Het product moet de FTM lezer toegang verlenen tot een blauwdruk.
+<br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 
 
 * Het product moet signale/events (van partijen) in zich kunnen opnemen, die tot een volgende stap hebben geleid in het onderzoek.
 <br>[https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen](Het Verborgen Scenario)
+
+
 
