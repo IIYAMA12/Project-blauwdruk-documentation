@@ -44,7 +44,7 @@ Vanuit het werkdocument houd je je bezig met twee belangrijke onderzoeksprocesse
 
 ### 4. Concept & eindredactie
 
-Mochten alle hypotheses getoetst zijn dan zal je uitkomen op een concept. Dit concept is ee
+Mochten alle hypotheses getoetst zijn dan zal je uitkomen op een concept. Dit concept laat je testen bij de eindredactie en die geeft aan of deze klaar is voor de eindproductie.
 
 [Foto's van het proces](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/co-creation/frank-meijers/fotos.md)
 
