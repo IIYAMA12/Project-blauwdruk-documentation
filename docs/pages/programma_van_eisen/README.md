@@ -37,7 +37,7 @@
 * Het product moet het onderdeel `leed` van de slachtoffers kunnen omvangen.
 <br>[Het Verborgen Scenario #leed](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#leed)
 
-* Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologsche manier te vertellen.
+* Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologsche manier te vertellen en alle relevante gebeurtennissen te inventariseren.
 <br>[Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
 
 ## Aannamens
