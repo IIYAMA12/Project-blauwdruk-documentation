@@ -14,6 +14,7 @@
 * Het product moet ruimte geven om een aanleiding op te nemen.
 * Het product moet ruimte geven om onderzoeksvragen op te nemen.
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
+<br>[co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.
 * Het product moet de ruimte geven om belanghebbende op te nemen.
 <br>[Het Verborgen Scenario #lijst betrokkenen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
@@ -37,14 +38,13 @@
 ## Aannamens
 
 * Het product moet kunnen worden afgeschermd voor personen of groepen.
-* Het product moet je werk kunnen delen met medecollega.
-* Het product moet je werk kunnen managen.
+* Het product moet je blauwdrukken kunnen delen met medecollega.
 * Het product moet worden geoptimaliseerd voor het ondersteunen van een Plan van Aanpak \(PvA\).
 * Het product moet worden geoptimaliseerd voor het ondersteunen van een artikel opzet.
 * Het product moet notities ondersteunen.
 * Het product moet ruimte geven om feedback op te nemen van de eindredacteur.
 * Het product moet kunnen refereren van en naar content binnen de blauwdruk.
-* Het product moet de data in iedergeval de layouts document en tabel ondersteunen.
+* Het product moet de data in iedergeval de layout types `document` en `tabel` ondersteunen.
 
 ## Twijfel
 
