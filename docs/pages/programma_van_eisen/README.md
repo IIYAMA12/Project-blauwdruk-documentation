@@ -18,7 +18,21 @@
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.
 * Het product moet de ruimte geven om belanghebbende op te nemen.
+[Het Verborgen Scenario #lijst betrokkenen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
 * Het product moet instructies en toelichting kunnen geven hoe data\(van een referentie\) gelezen moet worden.  Deze eis komt vanuit de [competitie analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/competitive_analysis).
+
+* Het product moet inzicht geven hoe onderzoeksresultaten boven water zijn gekomen.
+[Het Verborgen Scenario #verborgen informatie](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#verborgen-informatie)
+
+* Het product moet de ruimte geven om suggesties gegeven, die de onderzoeksjournalist moet helpen om het meest relevant verhaaltype te kiezen voor het gekozen blauwdruk.
+[Het Verborgen Scenario #misverstanden helpen op te lossen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#misverstanden-te-helpen-oplossen)
+
+* Het product moet de ruimte geven om te noteren hoe een bepaald onderzoek begonnen is.
+[Het Verborgen Scenario #wat heeft je verbaasd?](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#wat-heeft-je-verbaasd)
+
+* Het product moet het onderdeel `leed` van de slachtoffers kunnen omvangen.
+[Het Verborgen Scenario #leed](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#leed)
+
 
 ## Aannamens
 
@@ -34,8 +48,15 @@
 
 ## Twijfel
 
-* Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.
-
-  
+* Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.  
    Note: Deze informatie kan gevoelig zijn.
+
+
+
+
+
+
+
+* Het product moet signale/events (van partijen) in zich kunnen opnemen, die tot een volgende stap hebben geleid in het onderzoek.
+[https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen](Het Verborgen Scenario)
 
