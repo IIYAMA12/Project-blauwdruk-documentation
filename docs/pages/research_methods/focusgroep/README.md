@@ -12,7 +12,7 @@ De Focusgroep bestaat uit 3 onderdelen.
   * `Structuur behouden` hoe doe jij dat?
   Het is belangrijk dat ik de best-practices en drempels verzamel waar de participanten tegenaan loop.
 
-2. Het overdraagbaar maken van onderzoek. Een blauwdruk is een afgekaderde versie van het onderzoek en moet ook voornamelijk overdraagbaar zijn. Daarom wil ik eerst een onderzoek overdraagbaar maken en dan pas gaan kijken hoe dit als een blauwdruk verwerkt zou kunnen worden. Tijdens dit onderdeel is het de bedoeling dat de participanten eens kritisch gaat kijken hoe een specifiek onderzoek overdraagbaar kan worden gemaakt. De uitvoering mag op een eigenmanier gedaan worden, maar om het eenvoudige te houden liggen er sticky notes klaar. De sticky notes kunnen gebruikt worden om onder andere: 
+2. Het overdraagbaar maken van onderzoek. Een blauwdruk is een afgekaderde versie van het onderzoek of onderzoeksproces en moet ook overdraagbaar zijn. Daarom wil ik eerst een onderzoek overdraagbaar maken en dan pas gaan kijken hoe dit als een blauwdruk verwerkt zou kunnen worden. Tijdens dit onderdeel is het de bedoeling dat de participanten eens kritisch gaat kijken hoe een specifiek onderzoek overdraagbaar kan worden gemaakt. De uitvoering mag op een eigenmanier gedaan worden, maar om het eenvoudige te houden liggen er sticky notes klaar. De sticky notes kunnen gebruikt worden om onder andere: 
   * Instructies te geven
   * Suggesties te geven
   * Referenties achter te laten
@@ -24,7 +24,7 @@ De Focusgroep bestaat uit 3 onderdelen.
 
 ## Uitnodiging voor de focusgroep
 
->
+
 > Beste *,
 >
 >
