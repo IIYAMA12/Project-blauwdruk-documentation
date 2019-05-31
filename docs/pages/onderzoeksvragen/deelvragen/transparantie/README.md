@@ -7,7 +7,7 @@ In dit [artikel: kader over de totstandkoming](https://www.svdj.nl/nieuws/transp
 
 Volgens het artikel wordt er in het contentblok 3 specifieke vragen beantwoord:
 
-> 1. waarom is het verhaal geschreven?
+> 1. Waarom is het verhaal geschreven?
 >
 >    De eerste vraag kan worden beantwoord door het ‘haakje’ van het artikel toe te lichten: waarom is het artikel relevant en moet het nú gepubliceerd worden?
 >
