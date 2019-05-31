@@ -16,7 +16,11 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn 
 * Conclusie
 * Plan van Aanpak(PvA)
 <br>Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/co-creation/werkwijze_frank-meijers)
+<br>
+<br>
 * Aanleiding
+<br>
+<br>
 * Beschrijving van hoe de aanleiding is gevonden
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
 * Lijst met betrokkenen
