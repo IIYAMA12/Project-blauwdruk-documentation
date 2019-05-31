@@ -20,22 +20,17 @@ Dit zijn mijn bevindingen uit dit rapport:
 * Pitch
 * Wat moet er onderzocht worden
   * Onderzoekspunten
-* Voor wie heeft dit gevolgen
-* Waarom moet dit verhaal worden onderzocht?
+* Voor wie heeft dit gevolgen?
+* Waarom moeten we dit onderzoeken?
 * Wat hebben wij al onderzocht?
-  * Risico's
-  * Werkgelegenheid
-  * Beïnvloeding, misleiding en manipulatie
   * Schade
+  * Werkgelegenheid
+  * Risico's
+  * Beïnvloeding, misleiding en manipulatie
 * Wat kunnen wij doen om te helpen?
 * Wie kunnen helpen?
 * Achtergrondinformatie
-  * Financiële relaties 
-  * Over [... onderwerp ...]
-  * Over [... onderwerp ...]
-  * Over [... onderwerp ...]
-  * Over [... onderwerp ...]
-* Belangenverstrengeling
+* Belangen(verstrengeling)
 * Kwaliteit en onafhankdelijkheid onderzoek?
 
 
