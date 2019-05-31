@@ -15,9 +15,7 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn 
 * __Samenvatting__
 * __Conclusie__
 * __Plan van Aanpak(PvA)__
-<br>Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/co-creation/werkwijze_frank-meijers)
-<br>
-<br>
+Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/co-creation/werkwijze_frank-meijers)
 * __Aanleiding__
 <br>
 <br>
