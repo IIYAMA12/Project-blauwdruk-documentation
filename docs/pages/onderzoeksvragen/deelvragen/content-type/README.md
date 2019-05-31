@@ -1,7 +1,9 @@
 # Content type
 
-Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)   
+Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)  
+
 `CONTENT TYPE`
+
 
 ## Verzameling
 * __Doel van dit onderzoek__
