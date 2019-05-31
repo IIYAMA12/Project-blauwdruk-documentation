@@ -4,69 +4,69 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn 
 `CONTENT TYPE`
 
 ## Verzameling
-* Doel van dit onderzoek
+* __Doel van dit onderzoek__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Heading
-* Inleiding
-* Onderzoekspunten / onderzoeksvragen
+* __Heading__
+* __Inleiding__
+* __Onderzoekspunten / onderzoeksvragen__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Inhoudsopgave
+* __Inhoudsopgave__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Samenvatting
-* Conclusie
-* Plan van Aanpak(PvA)
+* __Samenvatting__
+* __Conclusie__
+* __Plan van Aanpak(PvA)__
 <br>Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/co-creation/werkwijze_frank-meijers)
 <br>
 <br>
-* Aanleiding
+* __Aanleiding__
 <br>
 <br>
-* Beschrijving van hoe de aanleiding is gevonden
+* __Beschrijving van hoe de aanleiding is gevonden__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
-* Lijst met betrokkenen
+* __Lijst met betrokkenen__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 19)
-* Bronnenlijst
-* Tijdlijn
+* __Bronnenlijst__
+* __Tijdlijn__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 32)
 <br>Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
-* Hypothese
+* __Hypothese__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 23)
-* Gevolgen voor betrokkenen
+* __Gevolgen voor betrokkenen__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Onderzoeksreden
+* __Onderzoeksreden__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Centrale vraag (onderzoeksvraag)
+* __Centrale vraag (onderzoeksvraag)__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 24)
-* Publicatielijst
+* __Publicatielijst__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 23-24)
-* Signalenlijst / gebeurtenissen
+* __Signalenlijst / gebeurtenissen__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 20)
 <br>Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
-* Beschrijvingen leed van de slachtoffer
+* __Beschrijvingen leed van de slachtoffer__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 20)
-* Verantwoording en invloeden door betrokkenen
+* __Verantwoording en invloeden door betrokkenen__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 25)
-* Relevantie beschrijving van de hypothese, voor de betrokkenen
+* __Relevantie beschrijving van de hypothese, voor de betrokkenen__
 <br>Als je hypothese geen relevantie heeft voor de betrokkenen, dan kan het de lezer niet met je mee leven.
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 27-28)
-* Beschrijving van hoe de hypothese getoetst is
+* __Beschrijving van hoe de hypothese getoetst is__
 <br>Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 29)
-* Datums
+* __Datums__
 <br>Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
-* Pitch
+* __Pitch__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Achtergrondinformatie
+* __Achtergrondinformatie__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Eerder onderzocht
+* __Eerder onderzocht__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Positief resultaat
+* __Positief resultaat__
 <br>Wat kunnen wij doen om te helpen?
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Hulplijst
+* __Hulplijst__
 <br>Wie kunnen er helpen?
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Belangen(verstrengeling)
+* __Belangen(verstrengeling)__
 <br>Wie heeft waarbij belang?
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-* Verantwoording: Kwaliteit en onafhankdelijkheid onderzoek
+* __Verantwoording: Kwaliteit en onafhankdelijkheid onderzoek__
 <br>Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
