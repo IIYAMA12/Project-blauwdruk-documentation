@@ -25,6 +25,7 @@
 			* [Onderzoeksjournalistiek](pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/README.md)
 			* [Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
 			* [Content type](pages/onderzoeksvragen/deelvragen/content-type/README.md)
+				* [Boek: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
 			* [Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
 			* [Dynamisch](pages/onderzoeksvragen/deelvragen/dynamisch/README.md)
 			* [Informatie en gebruik](pages/onderzoeksvragen/deelvragen/informatie_en_gebruik/README.md)
