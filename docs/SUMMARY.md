@@ -42,6 +42,7 @@
 	* [Projectvoorstel](pages/projectvoorstel/README.md)
 	* [Stakeholders](pages/stakeholders/README.md)
 	* [Onderzoeksmethodes](pages/research_methods/README.md)
+		* [Focusgroep](pages/research_methods/focusgroep/README.md)
 		* [Deskresearch](pages/research_methods/deskresearch/README.md)
 			* [Boek: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 		* [Competitive analysis](pages/research_methods/competitive_analysis/README.md)
