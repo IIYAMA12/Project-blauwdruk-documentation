@@ -4,3 +4,4 @@
   
 `STAKEHOLDERS`
 
+[Lijst van alle stakeholders](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders)
