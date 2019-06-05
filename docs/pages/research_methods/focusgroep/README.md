@@ -96,4 +96,4 @@ De Focusgroep bestaat uit 3 onderdelen.
 * De vraag: "Wat gaan we weggeven?" is relevant.
 * Uitleggen hoe iets gedaan is, kan discussie creëren of juist voorkomen. Het is in iedergeval meer transparant.
 * Eenheid in data speelt is in bepaalde onderzoeken relevant. Deze onderzoeken worden in dit geval uitgevoerd door meerdere mensen. 
-  * Jorik: Is ook relevant voor multidisciplinair samenwerken.
+  * Jorik: Het is ook relevant voor multidisciplinair samenwerken.
