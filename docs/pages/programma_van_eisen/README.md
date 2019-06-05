@@ -22,10 +22,12 @@
 	- [ ] toegevoegd
 
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
+
 `Must`
 	- [ ] toegevoegd
 
 * **Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.**
+
 `Must`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
