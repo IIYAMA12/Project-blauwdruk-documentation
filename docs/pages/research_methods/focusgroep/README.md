@@ -69,6 +69,11 @@ De Focusgroep bestaat uit 3 onderdelen.
 > Groetjes,
 > 
 > Jorik van Essen
->
+
+
+
+## Presentatie focusgroep
+
+[Presentatie bekijken](content/focusgroep-presentatie/index.html)
 
 
