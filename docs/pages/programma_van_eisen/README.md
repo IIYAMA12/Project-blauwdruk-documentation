@@ -20,9 +20,13 @@
 [SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
+   
 <br><br><br>
 --
 <br><br><br>
+--
+<br><br><br>
+
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
 `Must`
 	- [ ] toegevoegd
@@ -37,6 +41,7 @@
 `Should`
 Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er eindredactiewerk verloren gaat.
 	- [ ] toegevoegd
+
 ## Ondersteuning van content
 * **Het product moet ruimte geven om een hypothese op te nemen.**
 `Should`
