@@ -1,11 +1,13 @@
 # Programma van Eisen \(PvE\)
 
 * Het product moet in grote lijnen worden afgesteld op de workflow van onderzoeksjournalist.
+- [ ] toegevoegd
 * Het product moet transparantie bieden voor het onderzoeksproces.
 <br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 <br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-
+- [ ] toegevoegd
 * Het product moet ondersteuning bieden voor het contenttype: tekst
+- [ ] toegevoegd
 * Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.
 <br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 
