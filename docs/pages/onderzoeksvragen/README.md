@@ -63,5 +63,5 @@ Hoe kan een blauwdruk transparanter worden gepresenteerd?
 
 ### Versie 1.0.0
 
-![Onderzoeksvragen flow: Versie 1.0.0](../.gitbook/assets/blauwdruk-proces-diagram-hoofd-en-deelvragen_v1.png)
+![Onderzoeksvragen flow: Versie 1.0.0](content/blauwdruk-proces-diagram-hoofd-en-deelvragen_v1.png)
 
