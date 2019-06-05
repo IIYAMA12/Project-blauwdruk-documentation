@@ -21,6 +21,8 @@
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
 <br><br><br>
+--
+<br><br><br>
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
 `Must`
 	- [ ] toegevoegd
