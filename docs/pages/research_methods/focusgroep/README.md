@@ -77,3 +77,23 @@ De Focusgroep bestaat uit 3 onderdelen.
 [Presentatie bekijken](content/focusgroep-presentatie/index.html)
 
 
+## Bevindingen
+
+* Als een onderzoeksjournalist zijn onderzoek op een hoog structuur niveau wil uitvoeren via de Google apps is de kans groot dat hij of zij te veel tabs open zal hebben. 
+* Structuur aanbrengen kost tijd en die tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grote van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
+* Tijdslijn werkt als methode om structuur te geven aan een onderzoek. Maar niet elke onderzoek leent zich daar voor.
+* Koppelingen naar rapporten zijn relevant.
+* Het uitschrijven van alle onderzoeksvragen geeft structuur. Deze zijn van belang wanneer er wederhoor plaats moet vinden.
+* Het markeren van tekst is een manier voor onderzoeksjournalisten om hiërarchie te creëren.
+  * Liner web extensie
+* Screenshot van rapport/document wordt als relevant beschouwd.
+* De tools Evernote en Onenote worden door sommige voor documentatie gebruikt
+* Als je een blauwdruk gaat bekijken
+  1. Moet je eerst het document structuur begrijpen
+  2. Daarna pas kan je de data gaan bekijken en begrijpen
+* Volgens de onderzoeksjournalist zal een blauwdruk alleen zijn functie kunnen vervullen wanneer deze suggestief informatie probeert over te brengen. 
+* Verbanden kunnen relevant zijn.
+* De vraag: "Wat gaan we weggeven?" is relevant.
+* Uitleggen hoe iets gedaan is, kan discussie creëren of juist voorkomen. Het is in iedergeval meer transparant.
+* Eenheid in data speelt is in bepaalde onderzoeken relevant. Deze onderzoeken worden in dit geval uitgevoerd door meerdere mensen. 
+  * Jorik: Is ook relevant voor multidisciplinair samenwerken.
