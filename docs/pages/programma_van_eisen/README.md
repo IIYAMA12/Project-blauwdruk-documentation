@@ -7,7 +7,7 @@
 * `Could` have (Zou er in kunnen, maar niet heel belangrijk) 
 * `Won't` have (Komt er niet in)
 
-</br>
+<br>
 --
 
 
@@ -21,9 +21,11 @@
 [SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
+<br>
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
 `Must`
 	- [ ] toegevoegd
+</br>
 * **Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.**
 `Must`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
