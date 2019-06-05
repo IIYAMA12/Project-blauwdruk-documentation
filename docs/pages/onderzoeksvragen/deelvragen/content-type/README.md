@@ -8,7 +8,9 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn 
 ## Verzameling
 * __Doel van dit onderzoek__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
+  - [ ] toegevoegd
 * __Heading__
+  - [ ] toegevoegd
 * __Inleiding__
 * __Onderzoekspunten / onderzoeksvragen__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
@@ -23,6 +25,7 @@ Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-bla
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
 * __Lijst met betrokkenen__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 19)
+Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
 * __Bronnenlijst__
 * __Referenties__
 Links / APA
@@ -33,12 +36,14 @@ Vanuit [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/res
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Hypothese__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 23)
+Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
 * __Gevolgen voor betrokkenen__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 * __Onderzoeksreden__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 * __Centrale vraag (onderzoeksvraag)__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 24)
+Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
 * __Onderzoeksvragen__
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Publicatielijst__
@@ -53,6 +58,7 @@ Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 25)
 * __Relevantie beschrijving van de hypothese, voor de betrokkenen__
 Als je hypothese geen relevantie heeft voor de betrokkenen, dan kan het de lezer niet met je mee leven.
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 27-28)
+Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Beschrijving van hoe de hypothese getoetst is__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 29)
 * __Datums__
