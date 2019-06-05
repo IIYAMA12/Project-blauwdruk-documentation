@@ -6,19 +6,22 @@ De grootste uitdaging van dit project is om een tool te bieden die helpt om blau
 ## De focus van de focusgroep
 De Focusgroep bestaat uit 3 onderdelen.
 
-1. Inkomen in het onderwerp door middel van een discussie over `journalistiek onderzoek`. Met de onderliggende ondelen:
+
+1. `Opdracht 1` Inkomen in het onderwerp door middel van een discussie over `journalistiek onderzoek`. Met de onderliggende ondelen:
   * Wat werkt supergoed?
   * Waar loop jij tegenaan?
   * `Structuur behouden` hoe doe jij dat?
   Het is belangrijk dat ik de best-practices en drempels verzamel waar de participanten tegenaan loop.
 
-2. Het overdraagbaar maken van onderzoek. Een blauwdruk is een afgekaderde versie van het onderzoek of onderzoeksproces en die moet overdraagbaar zijn. Daarom wil ik eerst een onderzoek overdraagbaar maken en dan pas gaan kijken hoe dit als een blauwdruk verwerkt zou kunnen worden. Tijdens dit onderdeel is het de bedoeling dat de participanten eens kritisch gaat kijken hoe een specifiek onderzoek overdraagbaar kan worden gemaakt. De uitvoering mag op een eigenmanier gedaan worden, maar om het eenvoudige te houden liggen er sticky notes klaar. De sticky notes kunnen gebruikt worden om onder andere: 
+
+2. `Opdracht 2` Het overdraagbaar maken van onderzoek. Een blauwdruk is een afgekaderde versie van het onderzoek of onderzoeksproces en die moet overdraagbaar zijn. Daarom wil ik eerst een onderzoek overdraagbaar maken en dan pas gaan kijken hoe dit als een blauwdruk verwerkt zou kunnen worden. Tijdens dit onderdeel is het de bedoeling dat de participanten eens kritisch gaat kijken hoe een specifiek onderzoek overdraagbaar kan worden gemaakt. De uitvoering mag op een eigenmanier gedaan worden, maar om het eenvoudige te houden liggen er sticky notes klaar. De sticky notes kunnen gebruikt worden om onder andere: 
   * Instructies te geven
   * Suggesties te geven
   * Referenties achter te laten
   * Beknopte werkwijzes achter te laten
 
-3. Een eerste blauwdruk maken. Ook bij dit onderdeel mag de uitvoering op een eigenmanier uitgevoerd worden. Het is natuurlijk een grote stap voor een eerste versie. Daarom is het belangrijk dat ik alvast een suggestie geef over hoe dit uitgevoerd zou kunnen worden.
+
+3. `Opdracht 3` Een eerste blauwdruk maken. Ook bij dit onderdeel mag de uitvoering op een eigenmanier uitgevoerd worden. Het is natuurlijk een grote stap voor een eerste versie. Daarom is het belangrijk dat ik alvast een suggestie geef over hoe dit uitgevoerd zou kunnen worden.
 
 
 
@@ -77,8 +80,10 @@ De Focusgroep bestaat uit 3 onderdelen.
 [Presentatie bekijken](content/focusgroep-presentatie/index.html)
 
 
-## Bevindingen
+## Bevindingen opdracht 1
+`Opdracht 1`
 
+Door: de groep
 * Als een onderzoeksjournalist zijn onderzoek op een hoog structuur niveau wil uitvoeren via de Google apps is de kans groot dat hij of zij te veel tabs open zal hebben. 
 * Structuur aanbrengen kost tijd en die tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grote van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
 * Tijdslijn werkt als methode om structuur te geven aan een onderzoek. Maar niet elke onderzoek leent zich daar voor.
@@ -97,3 +102,64 @@ De Focusgroep bestaat uit 3 onderdelen.
 * Uitleggen hoe iets gedaan is, kan discussie creëren of juist voorkomen. Het is in iedergeval meer transparant.
 * Eenheid in data speelt is in bepaalde onderzoeken relevant. Deze onderzoeken worden in dit geval uitgevoerd door meerdere mensen. 
   * Jorik: Het is ook relevant voor multidisciplinair samenwerken.
+
+
+## Informatie van opdracht 2
+`Opdracht 2`
+
+
+Hoe maak je het onderzoek dat nu voor je ligt overdraagbaar aan je collega?
+
+Dit zou je duidelijk kunnen maken door middel van:
+* Instructies (Hoe moet dit onderzoek gelezen worden?)
+* Suggesties (Hoe zou dit onderzoek kunnen voortzetten?)
+* Verbanden (Welke verbanden spelen een rol in dit onderzoek?)
+* Werkwijze (Hoe ben je tot dit resultaat gekomen?)
+
+
+
+
+### Case Taxateurs
+<br>Uitvoering opdracht door: [Peter Hendriks](https://www.ftm.nl/auteur/peter-hendriks) & [Liset Hamming](https://www.ftm.nl/auteur/liset-hamming)
+
+Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
+
+
+
+
+#### Instructie
+> * Onderwerp
+> * Hypothese
+> * Schets & cijfers
+>   * Achtergrond
+
+
+
+#### Suggesties
+> 1. Bel eens rond
+>   * Zo dichtbij mogelijk
+>   * Informeel
+>   * Off the record
+> * = in beeld krijgen
+> 2. Googlen (zoeken) op rapporten/onderzoeken + screenen
+>   * Wie uitgegeven voor samenvatting
+>   * = quotes
+> 3. In een word bestand zet ik de links
+>   * De namen
+>   * De samenvattingen
+>   * Highlights quotes + zinnen uit rapporten
+
+
+#### Verband
+> Welke belangen spelen er.
+
+#### Werkwijze
+> Tip om mij te begrijpen:
+> 1. Ik wil zo snel mogelijk schrijven
+> 2. Alles wat ik nodig heb / gebruiken staat er dan al
+
+![Uitvoering van opdracht 2](content/20190605_114607.jpg)
+
+## Informatie van opdracht 3
+`Opdracht 3`
+  
