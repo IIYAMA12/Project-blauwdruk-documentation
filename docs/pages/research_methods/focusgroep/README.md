@@ -77,7 +77,7 @@ De Focusgroep bestaat uit 3 onderdelen.
 
 ## Presentatie focusgroep
 
-[Presentatie bekijken](content/focusgroep-presentatie/index.html)
+[Presentatie bekijken](https://iiyama12.github.io/Project-blauwdruk-documentation/docs/presentaties/focusgroep-presentatie/assets/player/KeynoteDHTMLPlayer.html#0)
 
 
 ## Bevindingen opdracht 1
@@ -158,8 +158,11 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 > 1. Ik wil zo snel mogelijk schrijven
 > 2. Alles wat ik nodig heb / gebruiken staat er dan al
 
-![Uitvoering van opdracht 2](content/20190605_114607.jpg)
+[Uitvoering van opdracht 2](content/20190605_114607.jpg)
 
 ## Informatie van opdracht 3
 `Opdracht 3`
   
+
+![Uitwerking van de uitvoering van opdracht 3](content/Aanleiding ander onderzoek en tip.png)
+[Uitvoering van opdracht 3](content/20190605_120424.jpg)
