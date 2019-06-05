@@ -24,9 +24,13 @@ Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
 * __Lijst met betrokkenen__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 19)
 * __Bronnenlijst__
+* __Referenties__
+Links / APA
+Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Tijdlijn__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 32)
-Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
+Vanuit [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
+Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Hypothese__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 23)
 * __Gevolgen voor betrokkenen__
@@ -35,6 +39,8 @@ Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blau
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 * __Centrale vraag (onderzoeksvraag)__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 24)
+* __Onderzoeksvragen__
+Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 * __Publicatielijst__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 23-24)
 * __Signalenlijst / gebeurtenissen__
@@ -68,3 +74,8 @@ Wie heeft waarbij belang?
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 * __Verantwoording: Kwaliteit en onafhankdelijkheid onderzoek__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
+
+
+* __Verbanden__
+Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+Vanuit [Focusgroep #opdracht-2](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-2)

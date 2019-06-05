@@ -3,24 +3,34 @@
 * Het product moet in grote lijnen worden afgesteld op de workflow van onderzoeksjournalist.
 * Het product moet transparantie bieden voor het onderzoeksproces.
 <br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 
 * Het product moet ondersteuning bieden voor het contenttype: tekst
 * Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.
-* Het product moet je werk kunnen opslaan.  Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+* Het product moet je werk kunnen opslaan. Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.
 * Het product moet je werk bewaard blijven houden wanneer je de pagina perongelijk gesloten wordt. 
 <br>Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er eindredactiewerk verloren gaat.
 
 ## Ondersteuning van content
 * Het product moet ruimte geven om een hypothese op te nemen.
 <br>[co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
 * Het product moet de totstandkoming van een hypothese kunnen beschrijven.
 <br>[Het Verborgen Scenario #hypothese toetsing](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#hypothese-toetsing)
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 
 * Het product moet ruimte geven om een aanleiding op te nemen.
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
 * Het product moet ruimte geven om onderzoeksvragen op te nemen.
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.
 <br>[co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
-<br>
+
 * Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.
 * Het product moet de ruimte geven om belanghebbende op te nemen.
 <br>[Het Verborgen Scenario #lijst betrokkenen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
@@ -49,6 +59,29 @@
 * Het product moet helpen om reproduceerbaarheid te verbeteren
 <br>[SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 
+* Het product moet ervoor zorgen dat de gebruiker zich in het blauwdruk kan verdiepen op het moment dat er te veel browser tabs open staan
+(case: Mocht je heel gestructureerd werken met Google web apps, dan komt het voor dat je per browser-tab een deel van het onderzoek open hebt staan)
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+* Het product moet informatie structureren op een niveau die de gebruiker zelf aangeeft.
+Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is een lager niveau van structuur meer toepassenlijk.
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+* Het product moet de hiërarchie van onderdelen kunnen highlighten
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+
+* Het product moet de gebruiker helpen om zijn weg in het blauwdruk te vinden
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+* Het product moet aansporen om alleen suggestieve instructies te schrijven
+   * Niet: Deze stap moet je doen.
+   * Wel: Deze stap zou je kunnen doen.
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
+
+
+* Het product moet de mogelijkheid bieden om tot een eendheid te komen
+<br>[Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 
 
 ## Aannamens

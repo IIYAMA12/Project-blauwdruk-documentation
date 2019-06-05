@@ -87,7 +87,7 @@ Note: In de presentatie is de navigatie verstopt aan de ***linkerkant*** van het
 
 Door: de groep
 * Als een onderzoeksjournalist zijn onderzoek op een hoog structuur niveau wil uitvoeren via de Google apps is de kans groot dat hij of zij te veel tabs open zal hebben. 
-* Structuur aanbrengen kost tijd en die tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grote van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
+* Structuur aanbrengen kost tijd en dat tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grote van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
 * Tijdslijn werkt als methode om structuur te geven aan een onderzoek. Maar niet elke onderzoek leent zich daar voor.
 * Koppelingen naar rapporten zijn relevant.
 * Het uitschrijven van alle onderzoeksvragen geeft structuur. Deze zijn van belang wanneer er wederhoor plaats moet vinden.
@@ -106,7 +106,7 @@ Door: de groep
   * Jorik: Het is ook relevant voor multidisciplinair samenwerken.
 
 
-## Informatie van opdracht 2
+## Bevindingen opdracht 2
 `Opdracht 2`
 
 
@@ -162,7 +162,7 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 
 [Uitvoering van opdracht 2](content/20190605_114607.jpg)
 
-## Informatie van opdracht 3
+## Bevindingen opdracht 3
 `Opdracht 3`
   
 
