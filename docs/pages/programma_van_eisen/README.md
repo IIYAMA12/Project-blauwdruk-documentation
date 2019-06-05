@@ -4,8 +4,8 @@
 **M**o**SC**o**W**
 * `Must` (Moet er in)
 * `Should` (Zou er in moeten, maar het kan ook zonder)
-* `Could` have (Zou er in kunnen, maar niet heel belangrijk) 
-* `Won't` have (Komt er niet in)
+* `Could` (Zou er in kunnen, maar niet heel belangrijk) 
+* `Won't` (Komt er niet in)
 
 
 
@@ -20,12 +20,6 @@
 [SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
-   
-<br><br><br>
---
-<br><br><br>
---
-<br><br><br>
 
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
 `Must`
