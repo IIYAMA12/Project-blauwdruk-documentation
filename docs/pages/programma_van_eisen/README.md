@@ -2,14 +2,17 @@
 
 
 **M**o**SC**o**W**
-* **M**ust (Moet er in)
+* `**M**ust` (Moet er in)
 * **S**hould (Zou er in moeten, maar het kan ook zonder)
 * **C**ould have (Zou er in kunnen, maar niet heel belangrijk) 
 * **W**on't have (Moet er niet in)
 
+<br></br>
+--
+<br><br>
 
-* Het product moet in grote lijnen worden afgesteld op de workflow van onderzoeksjournalist.
-**Must**
+* **Het product moet in grote lijnen worden afgesteld op de workflow van onderzoeksjournalist.**
+`Must`
 	- [ ] toegevoegd
 * Het product moet transparantie bieden voor het onderzoeksproces.
 **Should**
