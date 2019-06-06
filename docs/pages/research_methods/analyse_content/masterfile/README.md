@@ -42,13 +42,16 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 ### Sourcemap
 
 | Actors | Plans | Reports | Evaluations |
-Verantwoordelijken | Alle documenten `voor` het probleem plaats vond | Alle documenten `tijdens` het moment dat het probleem plaats vond | Alle documenten `na` het moment dat het probleem plaats vond |
+| --- | --- | --- | --- |
+| Verantwoordelijken | Alle documenten `voor` het probleem plaats vond | Alle documenten `tijdens` het moment dat het probleem plaats vond | Alle documenten `na` het moment dat het probleem plaats vond |
 
 | Afflicted | Plans | Reports | Evaluations |
+| --- | --- | --- | --- |
 | Slachtoffers | | | |
 
 Witnesses | Plans | Reports | Evaluations
-Getuigen | | |
+| --- | --- | --- | --- |
+| Getuigen | | | |
 
 ![Masterfile sourcemap](content/sourcemap.png)
 
