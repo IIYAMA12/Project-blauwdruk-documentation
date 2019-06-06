@@ -50,7 +50,7 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 | --- | --- | --- | --- |
 | Slachtoffers | | | |
 
-Witnesses | Plans | Reports | Evaluations
+Witnesses | Plans | Reports | Evaluations |
 | --- | --- | --- | --- |
 | Getuigen | | | |
 
