@@ -5,14 +5,14 @@ In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers
 
 
 ## Onderdelen indeling:
-Story | Documents | People | Sourcemap | Questions
-Verhaal | Documenten | Mensen | Bronnen | Onderzoeksvragen
+| Story | Documents | People | Sourcemap | Questions |
+| Verhaal | Documenten | Mensen | Bronnen | Onderzoeksvragen |
 
 ### Story
 Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 
-Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | ? (check) | R (Ranking)
-Datum | Gebeurtenissen | Document (ref) | Pagina (ref) | Onderdeel / type | Specifiek onderdeel van het verhaal | Gecontroleerd op de waarheid | Prioriteit
+| Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | ? (check) | R (Ranking) |
+| Datum | Gebeurtenissen | Document (ref) | Pagina (ref) | Onderdeel / type | Specifiek onderdeel van het verhaal | Gecontroleerd op de waarheid | Prioriteit |
 
 ![Masterfile story](content/story.png)
 
