@@ -15,6 +15,7 @@ Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | 
 Datum | Gebeurtenissen | Document (ref) | Pagina (ref) | Onderdeel / type | Specifiek onderdeel van het verhaal | Gecontroleerd op de waarheid | Prioriteit
 
 ![Masterfile story](content/story.png)
+
 (Sengers, 2010)
 
 ### Documents
@@ -23,6 +24,7 @@ ID | Kind | Reference | Link | Organization | Contact | Date | Status
 Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Contact informatie | Datum | Status
 
 ![Masterfile documents](content/documents.png)
+
 (Sengers, 2010)
 
 ### People
@@ -31,6 +33,7 @@ Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home 
 Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat
 
 ![Masterfile people](content/people.png)
+
 (Sengers, 2010)
 
 ### Sourcemap
@@ -45,6 +48,7 @@ Witnesses | Plans | Reports | Evaluations
 Getuigen | | |
 
 ![Masterfile sourcemap](content/sourcemap.png)
+
 (Sengers, 2010)
 
 
