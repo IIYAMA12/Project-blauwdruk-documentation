@@ -20,8 +20,9 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 
 ### Documents
 
-ID | Kind | Reference | Link | Organization | Contact | Date | Status
-Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Contact informatie | Datum | Status
+| ID | Kind | Reference | Link | Organization | Contact | Date | Status
+| --- | --- | --- | --- | --- | --- | --- | --- |
+Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Contact informatie | Datum | Status |
 
 ![Masterfile documents](content/documents.png)
 
@@ -29,8 +30,8 @@ Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Co
 
 ### People
 
-Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home | Email | Website/Biography | Questions | Log
-Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat
+| Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home | Email | Website/Biography | Questions | Log |
+| Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat |
 
 ![Masterfile people](content/people.png)
 
@@ -38,11 +39,11 @@ Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele numm
 
 ### Sourcemap
 
-Actors | Plans | Reports | Evaluations
-Verantwoordelijken | Alle documenten `voor` het probleem plaats vond | Alle documenten `tijdens` het moment dat het probleem plaats vond | Alle documenten `na` het moment dat het probleem plaats vond
+| Actors | Plans | Reports | Evaluations |
+Verantwoordelijken | Alle documenten `voor` het probleem plaats vond | Alle documenten `tijdens` het moment dat het probleem plaats vond | Alle documenten `na` het moment dat het probleem plaats vond |
 
-Afflicted | Plans | Reports | Evaluations
-Slachtoffers | | |
+| Afflicted | Plans | Reports | Evaluations |
+| Slachtoffers | | | |
 
 Witnesses | Plans | Reports | Evaluations
 Getuigen | | |
