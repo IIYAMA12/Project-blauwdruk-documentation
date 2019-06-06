@@ -20,7 +20,7 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 
 ### Documents
 
-| ID | Kind | Reference | Link | Organization | Contact | Date | Status
+| ID | Kind | Reference | Link | Organization | Contact | Date | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Contact informatie | Datum | Status |
 
