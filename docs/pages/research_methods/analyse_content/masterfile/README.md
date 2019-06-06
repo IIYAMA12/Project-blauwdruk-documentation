@@ -15,7 +15,7 @@ Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | 
 Datum | Gebeurtenissen | Document (ref) | Pagina (ref) | Onderdeel / type | Specifiek onderdeel van het verhaal | Gecontroleerd op de waarheid | Prioriteit
 
 ![Masterfile story](content/story.png)
-(Sengers, n.d.)
+(Sengers, 2010)
 
 ### Documents
 
@@ -23,7 +23,7 @@ ID | Kind | Reference | Link | Organization | Contact | Date | Status
 Een uniek referentie nummer | Soort | Referentie | Link (URL) | Organisatie | Contact informatie | Datum | Status
 
 ![Masterfile documents](content/documents.png)
-(Sengers, n.d.)
+(Sengers, 2010)
 
 ### People
 
@@ -31,7 +31,7 @@ Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home 
 Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat
 
 ![Masterfile people](content/people.png)
-(Sengers, n.d.)
+(Sengers, 2010)
 
 ### Sourcemap
 
@@ -45,9 +45,9 @@ Witnesses | Plans | Reports | Evaluations
 Getuigen | | |
 
 ![Masterfile sourcemap](content/sourcemap.png)
-(Sengers, n.d.)
+(Sengers, 2010)
 
 
 
-Sengers, L. (n.d.). Masterfile-OZJ. Tabel. Geraadpleegd op 6 juni 2019 in masterfile. Excel.
-Sengers, L. (n.d.). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
+Sengers, L. (2010). Masterfile-OZJ. Tabel. Geraadpleegd op 6 juni 2019 in masterfile. Excel.
+Sengers, L. (2010). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
