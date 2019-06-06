@@ -54,6 +54,7 @@
 				* [Werkwijze Thomas](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)
 			* [Eindredactie](pages/research_methods/interview/eindredactie/README.md)
 		* [Analyse content](pages/research_methods/analyse_content/README.md)
+			* [Masterfile (Luuk Sengers)](pages/research_methods/analyse_content/masterfile/README.md)
 			* [Analyse tijdlijn (Mira)](pages/research_methods/analyse_content/tijdlijn/README.md)
 			* [Analyse onderzoeksrapport (Arne van der Wal)](pages/research_methods/analyse_content/onderzoeksrapport/README.md)
 		* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
