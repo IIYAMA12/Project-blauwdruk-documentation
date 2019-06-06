@@ -6,7 +6,7 @@ Een tijdlijn is een contenttype dat af en toe gebruikt wordt door onderzoeksjour
 
 | Jaar | Datum | Gebeurtenis | Bron | Speler | Naam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2019 | 12 september | Dit is er gebeurd | https:// | Belangrijkeste speler | `Niet gebruikt` |
+| 2019 | 12 september | Dit is er gebeurd | https:// | Belangrijkste speler | `Niet gebruikt` |
 
 Dit is het structuur van een tijdlijn van een bepaald onderzoek. Opmerking: De tijdlijn zelf kan ik niet tonen wegens de gevoeligheid van de data.
 
