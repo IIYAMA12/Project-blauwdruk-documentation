@@ -13,6 +13,7 @@ In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers
 Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 
 | Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | ? (check) | R (Ranking) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | Datum | Gebeurtenissen | Document (ref) | Pagina (ref) | Onderdeel / type | Specifiek onderdeel van het verhaal | Gecontroleerd op de waarheid | Prioriteit |
 
 ![Masterfile story](content/story.png)
@@ -33,7 +34,7 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 
 | Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home | Email | Website/Biography | Questions | Log |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat |
+| Manier van contact  | Datum | Tijd | Contact informatie | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat |
 
 ![Masterfile people](content/people.png)
 
