@@ -6,6 +6,7 @@ In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers
 
 ## Onderdelen indeling:
 | Story | Documents | People | Sourcemap | Questions |
+| --- | --- | --- | --- | --- |
 | Verhaal | Documenten | Mensen | Bronnen | Onderzoeksvragen |
 
 ### Story
@@ -31,6 +32,7 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 ### People
 
 | Action | Date | Time | Contact | Organization | Function | Work | Mobile | Home | Email | Website/Biography | Questions | Log |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Manier van contact  | Datum | Tijd | Organisatie | Functie | Werk | Mobiele nummer | Thuis nummer | Email | Website of biografie | Vragen voor deze persoon | Resultaat |
 
 ![Masterfile people](content/people.png)
