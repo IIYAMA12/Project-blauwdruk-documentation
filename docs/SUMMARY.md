@@ -60,5 +60,7 @@
 		* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
 		* [Task-analyse](pages/research_methods/task-analyse/README.md)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
+	* [Concepten](pages/concepten/README.md)
+		* [Vragenlijst entiteit](pages/concepten/vragenlijst-duplicatie/README.md)
 	* [Prototyping](pages/prototyping/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
