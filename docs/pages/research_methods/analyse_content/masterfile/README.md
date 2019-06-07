@@ -50,7 +50,7 @@ Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
 | --- | --- | --- | --- |
 | Slachtoffers | | | |
 
-Witnesses | Plans | Reports | Evaluations |
+| Witnesses | Plans | Reports | Evaluations |
 | --- | --- | --- | --- |
 | Getuigen | | | |
 
@@ -62,3 +62,5 @@ Witnesses | Plans | Reports | Evaluations |
 
 * Sengers, L. (2010). Masterfile-OZJ. Tabel. Geraadpleegd op 6 juni 2019 in masterfile. Excel.
 * Sengers, L. (2010). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
+
+> Master file in handen gekregen via een onderzoeksjournalist. TODO
