@@ -2,25 +2,26 @@
 
 Tijdens het invulproces kunnen onderzoeksvragen van bepaalde onderdelen`*` worden hergebruikt voor zelfde soort onderdelen`*`.
 
-Onderdelen `*`
+Voorbeelden van onderdelen `*`
 * Verantwoordelijke / slachtoffer
   * Persoon
   * Bedrijf
 * Gebeurtenissen
 
 
+## Vragenset
 
-Een nieuw onderdeel is geboren: `vragensets`
+Een nieuw onderdeel is geboren: `vragenset`
 
-* Een lijst met vragen samenstellen als 1 entiteit
-* 1 entiteit is updatebaar
-* Toepasbaar
-* Kopieerbaar
+Een lijst met vragen samenstellen als 1 entiteit, zorgt voor:
+* Updatebaarheid
+* Toepasbaarheid
+* Kopieerbaarheid
 
 Entiteit is iets dat op zichzelf kan staan, een ding, een [@wezen](http://www.mijnwoordenboek.nl/puzzelwoordenboek/ENTITEIT/1) dat een naam zou kunnen hebben.
 
 
-
+## Werking
 ![Vragenlijst concept](content/vragenlijst-concept.png)
 
 1. Een vragenlijst is aangemaakt
