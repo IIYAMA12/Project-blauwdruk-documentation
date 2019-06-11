@@ -29,3 +29,8 @@ Entiteit is iets dat op zichzelf kan staan, een ding, een [@wezen](http://www.mi
 3. De vragenlijst wordt gezien als een entiteit en is herbruikbaar maar ook kopieerbaar.
   1. Een vragenlijst past niet bij elk onderdeel`*`. Uitzonderingen zijn belangrijk. Een filter op de vragenlijst zou een oplossing hiervoor kunnen zijn.
 4. Het toepassen van een vragenlijst op een ander onderdeel.
+
+## Totstandkoming
+Onderzoeksvragen spelen een belangrijke rol in het onderzoeksproces van de onderzoeksjournalist. Deze vragen hebben als functie om op zoek te gaan naar antwoorden op de onderdelen binnen het onderzoek. Onderdelen als in dat informatie achterhaald moet worden om verder te komen met het onderzoek.
+
+Bij bepaalde onderdelen kunnen dezelfde vragen gesteld worden. Vaak zijn deze onderdelen gekoppeld aan een bepaald onderwerp zoals een bepaalde organisatie. Mocht een zelfde soort organisatie worden onderzocht dan kan je de onderzoeksvragen opnieuw stellen.
