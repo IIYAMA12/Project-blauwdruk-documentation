@@ -89,7 +89,7 @@ Afgenomen bij [Frank Meijers](https://www.ftm.nl/auteur/frank-meijer)
 
 
 ### Andere bevindingen
-* Frank maakt gebruik van een tijdsindicatie in de tekst die zich wel als een tijdslijn gedraagt, maar niet als een tijdslijn vormgegeven is. Dus meer op een vertellende wijze dan iets met een hoge visuele hiërarchie.
+* Frank maakt gebruik van een tijdsindicatie in de tekst die zich wel als een tijdslijn gedraagt, maar niet als een tijdslijn vormgegeven is. Dus de tijdsindicatie meer op een vertellende wijze dan met een hoge visuele hiërarchie.
 
 
 ### Behoefte
