@@ -75,9 +75,9 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 
 
 ### Samenvatting
-Onderzoeksjournalist Arjan heeft baat bij heel veel structuur en is opzoek naar de best practice die voor hem werkt. Hij maakt gebruik van Master File door Luuk Sengers. 
+Onderzoeksjournalist Arjan heeft baat bij heel veel structuur en is opzoek naar de best practice die voor hem werkt. Hij maakt gebruik van de [Master File door Luuk Sengers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/masterfile), deze bestandsstructuur is het toppunt van onderzoek doen met structuur. (Na het leren van dit formaat, heb je de basis kennis geleerd, die nodig is om databases die ook door webservers worden gebruikt te begrijpen.) Hij heeft veel baat bij het aan elkaar knopen van verschillende soorten informatie en zou meer doorzoekbaarheid willen, maar loopt nog tegen een aantal limieten/behoeftes aan.
 
-<!--> (voeg bron toe) -->
+
 
 
 ## Resultaten interview 2
