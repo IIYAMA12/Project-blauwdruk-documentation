@@ -22,7 +22,7 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 * Goed verwijzingen tussen meerdere soorten tijdlijnen kost extra tijd.
 
 
-## Formaten tijdlijn (voorinstellingen)
+## Dit soort type content hebben een specifieke tijdlijn indeling nodig 
 * Documenten
 * Gebeurtenissen
 * [Wet Openbaarheid van Bestuur (WOB)](https://www.rijksoverheid.nl/onderwerpen/wet-openbaarheid-van-bestuur-wob/openbaarheid-van-overheidsinformatie) verzoeken
