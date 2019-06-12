@@ -74,6 +74,11 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 | De datum waarneer de gebeurtenis plaats heeft gevonden | Een koppeling naar een ander deel van het onderzoek | De samenvatting van het onderzoeksonderdeel | De URL naar de bron |
 
 
+### Samenvatting
+Onderzoeksjournalist Arjan heeft baat bij heel veel structuur en is opzoek naar de best practice die voor hem werkt. Hij maakt gebruik van Master File door Luuk Sengers. 
+
+<!--> (voeg bron toe) -->
+
 
 ## Resultaten interview 2
 
