@@ -8,7 +8,7 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 
 
 ## Waarom het gebruik van meerdere tijdlijnen?
-* Sommige opeenvolging van gebeurtenissen overlappen niet
+* Sommige opeenvolging van gebeurtenissen overlappen niet en zal ook niet tot relevante informatie leiden wanneer deze samengevoegd worden. Er is daarom de keuze gemaakt om deze te scheiden.
 
 ## Wanneer zou je tijdlijnen samenvoegen?
 * Als gebeurtenissen met elkaar overlappen.
