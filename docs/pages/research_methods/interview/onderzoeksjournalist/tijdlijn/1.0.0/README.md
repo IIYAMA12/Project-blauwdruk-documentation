@@ -1,6 +1,6 @@
-## Interview vragen tijdlijn-1.0.0
+## Interviewvragen tijdlijn-1.0.0
 
-Interview vragen: `tijdlijn-1.0.0`
+Interviewvragen: `tijdlijn-1.0.0`
 
 
 ## Aanleiding
