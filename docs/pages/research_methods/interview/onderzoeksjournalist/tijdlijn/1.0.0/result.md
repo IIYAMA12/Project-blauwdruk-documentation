@@ -55,7 +55,7 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 * Verzamelen / zoeken naar
 * Verwerken / uitzoeken
 
-## Mogelijke formaten van een tijdlijn
+## Formaten van een tijdlijn door Arjan gebruikt
 
 ### Wet Openbaarheid van Bestuur (WOB)
 | Toevoegingsvolgorde | Van | Naar | Wat? | Functie in het onderzoek | Pagina | Datum |
