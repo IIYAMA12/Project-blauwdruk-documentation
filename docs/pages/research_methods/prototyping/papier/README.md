@@ -41,6 +41,7 @@ De meerwaardes: `Tabel`
 
 
 De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven dat een `Boom hiërarchie` wel kan.
+
 **Voorbeeld van data waarbij een Boom hiërarchie een belangrijke rol kan spelen**
 * Organisatie A (entiteit)
   * Persoon A (entiteit)
