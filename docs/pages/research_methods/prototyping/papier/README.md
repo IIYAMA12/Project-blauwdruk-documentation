@@ -31,11 +31,13 @@ Voorbeeld van een boom hiërarchie layout:
 
 De meerwaardes: `Boom hiërarchie`
 * Onderdelen kunnen onder elkaar worden geschoven. Bijvoorbeeld een persoon kan onder een organisatie worden geschoven. Dit kan ook andersom gedaan worden.
-* Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zitten niet zoals bij een grid vast aan kolommen.
+* Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zit niet zoals bij een grid vast aan kolommen.
 
 De meerwaardes: `Tabel`
 * Met een tabel zit je vast aan een grid. Het voordeel van een tabel is dat je alle zelfde soort gegevens onder elkaar kan zetten door te soorteren via kolommen.
-* Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Kijk maar hoe Firefox dit oplost: ![Firefox tabel layout](content/1.0.0/firefox-tabel-layout.png)
+* Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Kijk maar hoe Firefox dit oplost: 
+![Firefox tabel layout](content/1.0.0/firefox-tabel-layout.png)
+[Dit is een screenshot van de Firefox Netwerk tab dat beschikbaar is via het inspector menu.](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 
 
 De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven dat een `Boom hiërarchie` wel kan.
