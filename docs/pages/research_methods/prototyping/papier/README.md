@@ -26,7 +26,7 @@ Voorbeeld van een boom hiërarchie layout:
 
 
 
-[Meer voorbeelden van een `boom hiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=4-kIXcXPDNXE8gKE_rO4BQ&q=boom+hierarchy+data&oq=boom+hierarchy+data&gs_l=img.3...0.0..5686...0.0..0.0.0.......0......gws-wiz-img.9Q0GWwLo8rU)
+[Meer voorbeelden van een `boom hiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=CPIIXZb-GYaRmwXg6ZXwCQ&q=boom+hi%C3%ABrarchie+data&oq=boom+hi%C3%ABrarchie+data&gs_l=img.3...6287.6287..6648...0.0..0.42.42.1......0....2j1..gws-wiz-img.Iv0y6k-_MpY)
 
 
 De meerwaardes: `Boom hiërarchie`
