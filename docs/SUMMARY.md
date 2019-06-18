@@ -71,4 +71,4 @@
 		* [Doorzoekbare tijdlijn](pages/concepten/tijdlijn/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
 	* [Bijlage](pages/bijlage/README.md)
-	* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
+		* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
