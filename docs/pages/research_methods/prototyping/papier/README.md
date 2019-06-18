@@ -6,13 +6,24 @@
 
 ### Prototype 1.0.0
 Dit prototype is voortgekomen uit het concept:
+[Concept boom hiërarchie](https://app.gitbook.com/@jorik/s/project-blauwdruk/concepten/boom-hierarchie)
 
-{% page-ref page="./pages/concepten/boom-hiërarchie/README.md" %}
+Tijdens het uitvoeren van het prototype wordt er gekeken naar of een `boom hiërarchie` user interface de gebruiker kan voorzien van een meerwaarde in vergelijking met een tabel structuur. Deze keuze basseer ik op de aannamen: Naarmate de eigenschappen van entiteiten(bv. persoon / organisatie) groeien in een tabel layout, wordt de tabel minder overzichtelijk omdat er meer kolommen bijkomen. (Elke kolom staat voor een eigenschap van een entiteit)
 
-Tijdens het uitvoeren van het prototype wordt er gekeken naar of een `boom hiërarchie` user interface de gebruiker kan voorzien van een meerwaarde in vergelijking met een tabel structuur. Deze keuze basseer ik op de aannamen: Naarmate de eigenschappen van en entiteiten(bv. persoon / organisatie) groeien in een tabel layout, wordt de tabel minder overzichtelijk omdat er meer kolommen bijkomen. (Elke kolom staat voor een eigenschap van een entiteit)
+| Eigenschap: a | Eigenschap: B | Eigenschap: C | Eigenschap: D | Eigenschap: E |
+|---------------|---------------|---------------|---------------|---------------|
+| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
+| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
+| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
 
-[Nog geen beeld bij een `boom hiërarchie` type weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=4-kIXcXPDNXE8gKE_rO4BQ&q=boom+hierarchy+data&oq=boom+hierarchy+data&gs_l=img.3...0.0..5686...0.0..0.0.0.......0......gws-wiz-img.9Q0GWwLo8rU)
 
+
+Voorbeeld van een boom hiërarchie layout:
+![Hierarchy Task Analysis](content/1.0.0/hta.png)
+
+
+
+[Meer voorbeelden van een `boom hiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=4-kIXcXPDNXE8gKE_rO4BQ&q=boom+hierarchy+data&oq=boom+hierarchy+data&gs_l=img.3...0.0..5686...0.0..0.0.0.......0......gws-wiz-img.9Q0GWwLo8rU)
 
 
 De meerwaardes: `Boom hiërarchie`
