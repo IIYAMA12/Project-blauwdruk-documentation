@@ -9,9 +9,9 @@ Dit prototype is voortgekomen uit het concept:
 
 {% page-ref page="./pages/concepten/boom-hiërarchie/README.md" %}
 
-Tijdens het uitvoeren prototype wordt er gekeken naar of een `boom hiërarchie` user interface de gebruiker kan voorzien van een meerwaarde in vergelijking met een tabel structuur. Dit voornamelijk om eigenschappen van een entiteit(bv. persoon / organisatie) te structuren zonder dat de gebruiker tegen het probleem aan loopt dat het onoverzichtelijk wordt naarmate er meer  informatie bijkomt. 
+Tijdens het uitvoeren van het prototype wordt er gekeken naar of een `boom hiërarchie` user interface de gebruiker kan voorzien van een meerwaarde in vergelijking met een tabel structuur. Deze keuze basseer ik op de aannamen: Naarmate de eigenschappen van en entiteiten(bv. persoon / organisatie) groeien in een tabel layout, wordt de tabel minder overzichtelijk omdat er meer kolommen bijkomen. (Elke kolom staat voor een eigenschap van een entiteit)
 
-[Nog geen beeld bij dit soort weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=4-kIXcXPDNXE8gKE_rO4BQ&q=boom+hierarchy+data&oq=boom+hierarchy+data&gs_l=img.3...0.0..5686...0.0..0.0.0.......0......gws-wiz-img.9Q0GWwLo8rU)
+[Nog geen beeld bij een `boom hiërarchie` type weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=4-kIXcXPDNXE8gKE_rO4BQ&q=boom+hierarchy+data&oq=boom+hierarchy+data&gs_l=img.3...0.0..5686...0.0..0.0.0.......0......gws-wiz-img.9Q0GWwLo8rU)
 
 
 
@@ -29,13 +29,13 @@ De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te 
 * Organisatie A (entiteit)
   * Persoon A (entiteit)
     * Loon (Eigenschap)
-    * Contact gegevens (entiteit als lijst)
+    * Contactgegevens (entiteit als lijst)
       * Telefoonnummer 1 (Eigenschap)
       * Telefoonnummer 2 (Eigenschap)
       * Email (Eigenschap)
   * Persoon B (entiteit)
     * Loon (Eigenschap)
-      * Contact gegevens (entiteit als lijst)
+      * Contactgegevens (entiteit als lijst)
         * Telefoonnummer (Eigenschap)
   * Persoon C (entiteit)
     * Loon (Eigenschap)
