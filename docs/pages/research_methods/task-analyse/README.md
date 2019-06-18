@@ -25,7 +25,7 @@ Task analyse v1.0.0
   * `3.3` Vul onderdeel type in
   * `3.4` Vul onderdeel beschrijving in
   * `3.5` Bevestig toevoegen
-* `4.0` Verwijder onderdeel weg
+* `4.0` Verwijder onderdeel
   * `4.1` Doe: verwijder onderdeel
   * `4.2` Bevestig verwijderen onderdeel
 * `5.0` Voeg referentie toe aan lijst
