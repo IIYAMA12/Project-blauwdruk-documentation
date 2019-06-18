@@ -4,10 +4,13 @@
 ## Hiërarchie informatie invoer van personen/organisaties
 
 
+### Prototype 1.0.0
+Dit prototype is voortgekomen uit het concept:
+{% page-ref page="./pages/concepten/boom-hiërarchie/README.md" %}
 
 
 
-### Onderdelen
+#### Onderdelen
 
 ![Print 1](content/1.0.0/print1.png)
 
@@ -23,7 +26,7 @@
 
 [Prototype 1.0.0 – onderdelen voorbereiden](content/1.0.0/prototype-1.0.0-components.jpg)
 
-### Uitvoering
+#### Uitvoering
 
 
 ## Onderzoeksvragenlijst concept 
