@@ -10,15 +10,18 @@ Dit prototype is voortgekomen uit het concept:
 
 Tijdens het uitvoeren van het prototype wordt er gekeken naar of een `boom hiërarchie` user interface de gebruiker kan voorzien van een meerwaarde in vergelijking met een tabel structuur. Deze keuze basseer ik op de aannamen: Naarmate de eigenschappen van entiteiten(bv. persoon / organisatie) groeien in een tabel layout, wordt de tabel minder overzichtelijk omdat er meer kolommen bijkomen. (Elke kolom staat voor een eigenschap van een entiteit)
 
-| Eigenschap: a | Eigenschap: B | Eigenschap: C | Eigenschap: D | Eigenschap: E |
-|---------------|---------------|---------------|---------------|---------------|
-| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
-| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
-| [waarde]      | [waarde]      | [waarde]      | [waarde]      | [waarde]      |
+
+Voorbeeld tabel layout
+| Eigenschap: a | Eigenschap: B | Eigenschap: C |
+|---------------|---------------|---------------|
+| [waarde]      | [waarde]      | [waarde]      |
+| [waarde]      | [waarde]      | [waarde]      |
+| [waarde]      | [waarde]      | [waarde]      |
 
 
 
 Voorbeeld van een boom hiërarchie layout:
+
 ![Hierarchy Task Analysis](content/1.0.0/hta.png)
 
 
