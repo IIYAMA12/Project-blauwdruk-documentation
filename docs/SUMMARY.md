@@ -44,6 +44,8 @@
 		* [Prototyping](pages/research_methods/prototyping/README.md)
 			* [Papier prototype](pages/research_methods/prototyping/papier/README.md)
 				* [Boom hiërarchie 1.0.0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
+					* [Printen van het prototype](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
+					* [Resultaten](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/resultaten.md)
 			* [Digitaal prototype](pages/research_methods/prototyping/digitaal/README.md)
 		* [Focusgroep](pages/research_methods/focusgroep/README.md)
 		* [Deskresearch](pages/research_methods/deskresearch/README.md)
