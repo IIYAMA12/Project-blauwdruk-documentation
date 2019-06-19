@@ -1,4 +1,4 @@
-# Papier prototype
+# Boom hiërarchie
 
 
 ## Hiërarchie informatie invoer van personen/organisaties
@@ -75,7 +75,3 @@ De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te 
 
 {% page-ref page="resultaten.md" %}
 
-
-## Onderzoeksvragenlijst concept 
-
-**TODO**
