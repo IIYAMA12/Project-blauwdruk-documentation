@@ -22,7 +22,7 @@ Voorbeeld tabel layout
 
 Voorbeeld van een boom hiërarchie layout:
 
-![Hierarchy Task Analysis](content/1.0.0/hta.png)
+![Hierarchy Task Analysis](content/hta.png)
 
 
 
@@ -36,7 +36,7 @@ De meerwaardes: `Boom hiërarchie`
 De meerwaardes: `Tabel`
 * Met een tabel zit je vast aan een grid. Het voordeel van een tabel is dat je alle zelfde soort gegevens onder elkaar kan zetten door te soorteren via kolommen.
 * Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Kijk maar hoe Firefox dit oplost: 
-![Firefox tabel layout](content/1.0.0/firefox-tabel-layout.png)
+![Firefox tabel layout](content/firefox-tabel-layout.png)
 [Dit is een screenshot van de Firefox Netwerk tab dat beschikbaar is via het inspector menu.](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 
 
@@ -64,21 +64,16 @@ De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te 
 
 #### Onderdelen
 
-![Print 1](content/1.0.0/print1.png)
+{% page-ref page="printen.md" %}
 
-![Print 2](content/1.0.0/print2.png)
+![Prototype 1.0.0 onderdelen voorbereiden](content/prototype-1.0.0-components.jpg)
 
-![Print 3](content/1.0.0/print3.png)
-
-![Print 4](content/1.0.0/print4.png)
-
-![Print 5](content/1.0.0/print5.png)
-
-![Prototype 1.0.0 onderdelen voorbereiden](content/1.0.0/prototype-1.0.0-components.jpg)
-
-[Prototype 1.0.0 – onderdelen voorbereiden](content/1.0.0/prototype-1.0.0-components.jpg)
+[Prototype 1.0.0 – onderdelen voorbereiden](content/prototype-1.0.0-components.jpg)
 
 #### Uitvoering
+
+
+{% page-ref page="resultaten.md" %}
 
 
 ## Onderzoeksvragenlijst concept 
