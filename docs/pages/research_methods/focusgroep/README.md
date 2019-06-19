@@ -85,7 +85,7 @@ Note: In de presentatie is de navigatie verstopt aan de ***linkerkant*** van het
 ## Bevindingen opdracht 1
 `Opdracht 1`
 
-Door: de groep
+Uitgevoerd door de: groep
 * Als een onderzoeksjournalist zijn onderzoek op een hoog structuur niveau wil uitvoeren via de Google apps is de kans groot dat hij of zij te veel tabs open zal hebben. 
 * Structuur aanbrengen kost tijd en dat tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grote van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
 * Tijdslijn werkt als methode om structuur te geven aan een onderzoek. Maar niet elke onderzoek leent zich daar voor.
@@ -164,7 +164,8 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 
 ## Bevindingen opdracht 3
 `Opdracht 3`
-  
+
+Uitgevoerd door de: groep
 
 ![Uitwerking van de uitvoering van opdracht 3](content/Aanleiding ander onderzoek en tip.png)
 
