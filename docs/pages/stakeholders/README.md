@@ -4,17 +4,31 @@
 
 {% page-ref page="follow_the_money/README.md" %}
 
+__TODO__
+
 {% page-ref page="onderzoeksjournalist/README.md" %}
+
+__TODO__
 
 {% page-ref page="regiojournalist/README.md" %}
 
+__TODO__
+
 {% page-ref page="redacteur/README.md" %}
+
+__TODO__
 
 {% page-ref page="follow_the_money_lezer/README.md" %}
 
+__TODO__
+
 {% page-ref page="follow_the_money_leden/README.md" %}
 
+__TODO__
+
 {% page-ref page="frontwise/README.md" %}
+
+__TODO__
 
 ...
 
@@ -22,7 +36,6 @@
 * Expert 
 * Community-manager 
 * Redacteur sociale media
-* Frontwise \(ontwikkelaar FTM platform\)
 
 
 ## Belangrijkste
@@ -33,7 +46,6 @@
 
 {% page-ref page="redacteur/README.md" %}
 
-* Frontwise \(ontwikkelaar van het FTM platform\)
 
 ## Minder belangrijk
 
