@@ -9,6 +9,7 @@
 		* [Onderzoeksjournalist](pages/stakeholders/onderzoeksjournalist/README.md)
 		* [Regiojournalist](pages/stakeholders/regiojournalisten/README.md)
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
+		* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 	* [Design challenge](pages/design-challenge/README.md)
 	* [Planning](pages/planning/README.md)
 	* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
