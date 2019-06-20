@@ -29,7 +29,7 @@ Gebruiker: [Dennis Mijnheer](https://www.ftm.nl/auteur/Dennis-Mijnheer)
 * Gebruikt voor een bron ongeveer 8 kenmerken. (naam, telefoonnummer, email ect.)
 * Voor een bron schrijft hij vaak een URL naar een LinkedIn pagina op.
 * Werkt veel met Excel om informatie van bronnen te noteren.
-* Aannamen van Dennis: De hiërarchie van bronnen kan worden bepaald aan de hand van de informatie die zij afgeven.
+* Aannamen van Dennis: De hiërarchie van bronnen kan worden bepaald aan de hand van de informatiewaarde die zij afgeven.
 
 ![Foto van einde van sessie](content/testen-met-dennis.jpg)
 
