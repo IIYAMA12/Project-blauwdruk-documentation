@@ -22,13 +22,15 @@ const dataManager = {
 			this.parent = parent;
 			this.children = [];
 			this.data = {};
+			this.elements = [];
 			const methodsList = dataManager.constructor.methodsList;
 			for (let i = 0; i < methodsList.length; i++) {
 				const method = methodsList[i];
 				this[method.key] = method.func;
 			}
 		},
-		methodsList: [{
+		methodsList: [
+			{
 				func: function (key, data) {
 					this.data[key] = data;
 				},
@@ -64,6 +66,10 @@ const dataManager = {
 	/*
 	  Add item
 	*/
+	generateNewId: function () {
+		dataManager.lastId++;
+		return dataManager.lastId;
+	},
 	addItem: function (parent, index) {
 		index = Number(index);
 		if (parent == undefined) {
@@ -74,7 +80,7 @@ const dataManager = {
 		const itemsList = this.items.list;
 		const item = new dataManager.constructor.build(parent);
 
-		item.id = (dataManager.lastId++);
+		item.id = this.generateNewId();
 		itemsList[itemsList.length] = item;
 
 		if (isNaN(index)) {
@@ -129,11 +135,26 @@ const dataManager = {
 	},
 
 	/*
-		Replace
+		swap
 	*/
-	replaceBy: function (item1, item2) {
-		const index = this.getIndex(item1);
-		console.log(index);
+	swapBy: function (item1, item2) {
+		const index1 = this.getIndex(item1);
+		const index2 = this.getIndex(item2);
+
+
+		const parent1 = item1.parent;
+		const children1 = parent1.children;
+
+		const parent2 = item2.parent;
+		const children2 = parent2.children;
+
+		children1.splice(index1, 1, item2);
+		children2.splice(index2, 1, item1);
+
+		item1.parent = parent2;
+		item2.parent = parent1;
+
+		return true;
 	},
 
 	/* 
@@ -196,14 +217,23 @@ const dataManager = {
 
 	mirror: function (item, parent) {
 
+		const mirror = dataManager.addItem();
 
-		// const mirror = dataManager:addItem();
-		// item
-		// mirror
+		let mirrorId = item.mirrorId;
+		if (mirrorId === undefined) {
+			mirrorId = this.generateNewId();
+			item.mirrorId = newId;
+		}
+
+		mirror.mirrorId = mirrorId;
+		mirror.data = item.data;
+
+		return mirror;
 	},
 
 	unMirror: function (item) {
-
+		item.mirrorId = undefined;
+		item.data = deepCopy(item.data);
 	},
 
 	/*
