@@ -68,13 +68,131 @@ item.setData("test", true);
   };
 
   const addProperty = function () {
-    const parentId = this.getAttribute("parentId");
+    console.log("addProperty")
+    const parentId = this.getAttribute("parent-id");
+    
     if (parentId != undefined) {
-      const parentElement = document.getElementById(parentId);
-      if (parentElement) {
+      const parentElement = document.getElementById("item-id-" + parentId);
+      console.log(parentElement, "item-id-" + parentId);
+      if (parentElement != undefined) {
+        
         const item = dataManager.getItemFromElement(parentElement);
         if (item != undefined) {
 
+            const propertyList = parentElement.getElementsByClassName("property-list")[0];
+            const group = document.createElement("div");
+            group.classList.add("property");
+            (function() {
+              const inputModeContainer = document.createElement("div");
+              const input = document.createElement("input");
+              const label = document.createElement("label");
+          
+              inputModeContainer.classList.add("input-edit-mode");
+              inputModeContainer.appendChild(label);
+              inputModeContainer.appendChild(input);
+              group.appendChild(inputModeContainer);
+  
+              inputModeContainer.addEventListener("click", function (e) {
+                const source = e.target;
+                if (source.tagName === "LABEL") {
+                  this.classList.add("edit");
+                  this.getElementsByTagName("input")[0].focus();
+                }
+              });
+              input.addEventListener("input", function() {
+                const parentId = this.getAttribute("parent-id");
+                if (parentId != undefined) {
+                  
+                  const containerElement = document.getElementById("item-id-" + parentId);
+                  const item = dataManager.getItemFromElement(containerElement);
+                  
+                  if (item != undefined) {
+                    item.setData("property-" + this.id, this.value);
+                  }
+                }
+              });
+              
+              input.addEventListener("blur", function() {
+                const parentElement = this.parentElement;
+                parentElement.classList.remove("edit");
+          
+                const parentId = this.getAttribute("parent-id");
+                
+                if (parentId != undefined) {
+                  
+                  const containerElement = document.getElementById("item-id-" + parentId);
+                  
+                  const item = dataManager.getItemFromElement(containerElement);
+                  
+                  if (item != undefined) {
+                    parentElement.getElementsByTagName("label")[0].textContent = item.getData("property-" + this.id);
+                  }
+                }
+              });
+
+              const newId = dataManager.generateNewId();
+              label.setAttribute("for", "property-id-" + newId);
+              input.setAttribute("id", "property-id-" + newId);
+              input.setAttribute("parent-id", item.id);
+          
+              label.textContent = "<kenmerknaam>";
+            })();
+            (function() {
+              const inputModeContainer = document.createElement("div");
+              const input = document.createElement("input");
+              const label = document.createElement("label");
+          
+              inputModeContainer.classList.add("input-edit-mode");
+              inputModeContainer.appendChild(label);
+              inputModeContainer.appendChild(input);
+              group.appendChild(inputModeContainer);
+  
+              inputModeContainer.addEventListener("click", function (e) {
+                const source = e.target;
+                if (source.tagName === "LABEL") {
+                  this.classList.add("edit");
+                  this.getElementsByTagName("input")[0].focus();
+                }
+              });
+              input.addEventListener("input", function() {
+                const parentId = this.getAttribute("parent-id");
+                if (parentId != undefined) {
+                  
+                  const containerElement = document.getElementById("item-id-" + parentId);
+                  const item = dataManager.getItemFromElement(containerElement);
+                  
+                  if (item != undefined) {
+                    item.setData("property-" + this.id, this.value);
+                  }
+                }
+              });
+              
+              input.addEventListener("blur", function() {
+                const parentElement = this.parentElement;
+                parentElement.classList.remove("edit");
+          
+                const parentId = this.getAttribute("parent-id");
+                
+                if (parentId != undefined) {
+                  
+                  const containerElement = document.getElementById("item-id-" + parentId);
+                  
+                  const item = dataManager.getItemFromElement(containerElement);
+                  
+                  if (item != undefined) {
+                    parentElement.getElementsByTagName("label")[0].textContent = item.getData("property-" + this.id);
+                  }
+                }
+              });
+
+              const newId = dataManager.generateNewId();
+              label.setAttribute("for", "property-id-" + newId);
+              input.setAttribute("id", "property-id-" + newId);
+              input.setAttribute("parent-id", item.id);
+          
+              label.textContent = "<kenmerk>";
+            })();
+            propertyList.appendChild(group);
         }
       }
     }
@@ -92,9 +210,9 @@ item.setData("test", true);
   };
 
   const inputUpdate = function () {
-    const parentId = this.getAttribute("parentId");
+    const parentId = this.getAttribute("parent-id");
     if (parentId != undefined) {
-      const parentElement = document.getElementById(parentId);
+      const parentElement = document.getElementById("item-id-" + parentId);
       if (parentElement) {
         const item = dataManager.getItemFromElement(parentElement);
         if (item != undefined) {
@@ -113,12 +231,12 @@ item.setData("test", true);
     const article = document.createElement("article");
 
 
-    const item = dataManager.addItem(parent != undefined ? parent : mainContainer);
+    const item = dataManager.addItem(parent != undefined ? parent : mainContainer, 0);
     item.attachElement(article);
 
-    const id = "item-id-" + item.id;
-    article.id = id;
-
+    const id = item.id;
+    article.id = "item-id-" + id;
+    
 
     const section = document.createElement("section");
     article.appendChild(section);
@@ -131,30 +249,37 @@ item.setData("test", true);
     const header = document.createElement("header");
     section.appendChild(header);
 
-    const articleBody = document.createElement("section");
-    section.appendChild(articleBody);
+    const propertyList = document.createElement("section");
+    propertyList.classList.add("property-list");
+    section.appendChild(propertyList);
 
-
-    createPropertyButton(articleBody).setAttribute("parentId", id);
+    const footer = document.createElement("footer");
+    createPropertyButton(footer).setAttribute("parent-id", id);
+    propertyList.appendChild(footer);
 
     const aside = document.createElement("aside");
     const menu = document.createElement("ul");
     aside.appendChild(menu);
     const buttonItems = [
       {
-        label: "settings"
+        label: "instellingen",
+        image: "settings",
       },
       {
-        label: "breng item naar boven"
+        label: "breng item naar boven",
+        image: "up",
       },
       {
-        label: "breng item naar beneden"
+        label: "breng item naar beneden",
+        image: "down",
       },
       {
-        label: "kopie"
+        label: "kopie",
+        image: "copy",
       },
       {
-        label: "verwijder"
+        label: "verwijder",
+        image: "remove",
       }
 
     ];
@@ -162,7 +287,13 @@ item.setData("test", true);
       const buttonContainer = document.createElement("li");
       const button = document.createElement("button");
       const buttonData = buttonItems[i];
-      button.textContent = buttonData.label;
+      button.setAttribute("image", buttonData.image);
+      const buttonLabel = document.createElement("span");
+      buttonLabel.textContent = buttonData.label;
+      buttonLabel.classList.add("screen-reader-only");
+      button.appendChild(buttonLabel);
+      
+
       buttonContainer.appendChild(button);
       menu.appendChild(buttonContainer);
     }
@@ -183,20 +314,21 @@ item.setData("test", true);
         this.getElementsByTagName("input")[0].focus();
       }
     });
-
+    
     input.addEventListener("blur", function() {
-      const parentElement = input.parentElement;
+      const parentElement = this.parentElement;
       parentElement.classList.remove("edit");
-
-      const parentId = input.getAttribute("parentId");
+      
+      const parentId = this.getAttribute("parent-id");
+      
       if (parentId != undefined) {
         
-        const containerElement = document.getElementById(parentId);
+        const containerElement = document.getElementById("item-id-" + parentId);
         const item = dataManager.getItemFromElement(containerElement);
         if (item != undefined) {
           let name = item.getData("name");
           if (name == undefined || name.trim() === "") {
-            name = "name";
+            name = "<naam>";
           }
           parentElement.getElementsByTagName("label")[0].textContent = name;
           
@@ -208,12 +340,16 @@ item.setData("test", true);
 
     label.setAttribute("for", "name-item-id-" + item.id);
     input.setAttribute("id", "name-item-id-" + item.id);
-    input.setAttribute("parentId", id);
+    input.setAttribute("parent-id", item.id);
 
-    label.textContent = "name";
+    label.textContent = "<name>";
 
-    createAddButton(article).setAttribute("parentId", id);
-    parentElement.appendChild(article);
+
+    createAddButton(article).setAttribute("parent-id",  item.id);
+    
+    // parentElement.insertAdjacentElement('afterbegin', article);
+    parentElement.insertBefore(article, this.nextSibling);
+    // parentElement.appendChild(article);
   };
 
   const addItemButtons = document.getElementsByClassName("add-item");

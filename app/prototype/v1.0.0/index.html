@@ -32,10 +32,24 @@
         button, a {
           cursor: pointer;
         }
+ 
+        @keyframes show-up {
+          0% {
+            opacity: 0;
+            transform: translateX(5rem);
+          }
+          100% {
+            opacity: 1;
+            transform: translateX(0px);
+          }
+        }
+
         article {
           margin: 3rem 3rem 0 3rem;
           width: 15rem;
           position: relative;
+          animation: show-up 0.6s;
+          animation-fill-mode:forwards;
         }
         
         article:after {
@@ -55,7 +69,35 @@
           position: relative;
           min-height: 10rem;
           min-height: calc(10rem + 2px);
+          padding-bottom: 3rem;
         }
+
+        .property {
+          padding: 0.5rem 0;
+        }
+
+        .property .input-edit-mode:first-of-type {
+          font-weight: bolder;
+        }
+
+        .property .input-edit-mode:last-of-type {
+          font-weight: lighter;
+        
+        
+        }
+        .property:not(:last-of-type) {
+          border-bottom: 1px solid black;
+        }
+
+        article .container footer {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          padding: 1rem 0;
+        }
+
+
 
         header {
           background-color: black;
@@ -79,7 +121,9 @@
         aside li {
           margin: 0;
           list-style: none;
+          width: 2.5rem;
         }
+
         aside button {
           display: block;
           background: none;
@@ -87,6 +131,41 @@
           height: 2rem;
           border: none;
           padding: 0;
+        }
+
+        aside button[image=remove] {
+          background: rgba(0,0,0,0) url(images/verwijder.svg) no-repeat;
+        }
+
+        aside button[image=up] {
+          background: rgba(0,0,0,0) url(images/omhoog.svg) no-repeat;
+        }
+
+        aside button[image=down] {
+          background: rgba(0,0,0,0) url(images/omlaag.svg) no-repeat;
+        }
+
+        article:last-of-type > .container aside button[image=down] {
+          opacity: 0.4;
+          cursor:not-allowed;
+        }
+
+        article:first-of-type > .container aside button[image=up] {
+          opacity: 0.4;
+          cursor:not-allowed;
+        }
+
+        aside button[image=settings] {
+          background: rgba(0,0,0,0) url(images/instellingen.svg) no-repeat;
+        }
+
+        aside button[image=copy] {
+          background: rgba(0,0,0,0) url(images/kopie.svg) no-repeat;
+        }
+
+        aside button {
+          background-position: 50% 50% !important;
+          background-size: contain !important;
         }
 
         .add-item-container {
@@ -118,6 +197,12 @@
           position: fixed;
           left: -999999999px;
           top: -99999999px;
+          pointer-events: none;
+          width: 0;
+          height: 0;
+          overflow: hidden;
+          opacity: 0;
+
         }
 
         .input-edit-mode > * {
@@ -159,4 +244,6 @@
           background-color: white;
 
         }
+
+ 
       </style>
