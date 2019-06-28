@@ -1,49 +1,28 @@
-## Interviewvragen tijdlijn-1.0.0
-
-Interviewvragen: `tijdlijn-1.0.0`
+# Interview tijdlijn-1.1.0
 
 
 ## Aanleiding
-Vanuit verschillende onderzoeksmethode komt naar boven dat een tijdlijn een model is waar onderzoeksjournalisten iets aan hebben. Zie [eisenlijst](https://app.gitbook.com/@jorik/s/project-blauwdruk/programma_van_eisen). Het is daarom belangrijk om te gaan onderzoeken wat de onderzoeksjournalist precies met een tijdlijn zouden willen doen en ook waar ze tegen aanlopen met de tools die ze momenteel al tot hun beschikking hebben.
+Testen van 4 tijdlijn ideeën en of deze toegevoegde waarde hebben voor de onderzoeksjournalist.
 
 
-## Vragenlijst
+### 4 tijdlijn ideeën
+1. De tijdlijn geeft tussen de gebeurtenissen aan hoeveel tijd er tussen zit.
+Doel: Om mogelijke gemiste gebeurtenissen te controleren.
+
+2. De tijdlijn geeft aan hoe lang een gebeurtenis duurt.
+Doel: Gebeurtenissen varieren in tijdsduur, deze informatie zou relevant kunnen zijn.
+
+3. De tijdlijn kan per gebeurtennis aangeven of er iets in de toekomst moet gaan gebeuren. Bijvoorbeeld: Wanneer moet een [WOB verzoek](https://www.om.nl/organisatie/wet-openbaarheid/) verwerkt zijn?
+Doel: Sommige gebeurtenissen hebben de eigenschap of doel op iets in de toekomst te laten gebeuren. Bijvoorbeeld: Door een voicemail in te spreken kan ervoor zorgen dat iemand gaat terugbellen.
+
+4. De tijdlijn kan een op een volging van gebeurtenissen aan elkaar knopen.
+Doel: Om oorzaken en gevolgen in kaart brengen.
 
 
-### Context: Wanneer je een tijdlijn wil gebruiken
-
-#### Op welke dingen let jij op bij het aflezen van een tijdlijn.
+## Voorbereiding
 
 
-#### Hoe lees jij een tijdlijn?
-  * Leesstrategieën
-    * Oriënterend lezen
-    * Globaal lezen
-    * Zoekend lezen
-    * Intensief lezen
-    * Kritisch lezen
-    * Genietend lezen
+<!-- schetsen toevoegen -->
 
-
-#### Welke leesrichting van een tijdlijn vind jij prettig leesbaar?
-* Boven naar beneden.
-* Links naar rechts.
-
-#### Ben je voor je onderzoek ook opzoek naar verbanden in een tijdlijn? (Ook in vergelijking met je eigen data)
-
-### Context: Tijdlijn maken
-
-#### Maak je wel eens gebruik van een tijdlijn?
-* Zo ja, wanneer begint deze relevant te worden voor het onderzoek?
-  * Wat zijn de doelen? Wat wil je er uit halen? Heeft dat wellicht relatie met gebeurtenissen die geen duidelijke oorzaak hebben?
-  * Oorzaak > gevolg verbanden. (Correlatie?)
-* Zo nee, waarom niet?
-  * Te veel tijd om deze te bouwen?
-
-#### Welke gegevens zou je in een tijdlijn willen verwerken of naar kunnen verwijzen?
-  * Datums
-  * Gebeurtenissen
-  * Personen
-  * Contactgegevens
-  * Documenten
-  * Planning (Afspraken)
+* Eerste tijdlijn schetsen laten zien
+* De 4 ideeën voorlichten. (aanleiding)
