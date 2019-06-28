@@ -1,6 +1,6 @@
 # Design challenge
 
-Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces omzetten in de vorm van een blauwdruk? Om er zo voor te zorgen dat het __onderzoeksproces__ als blauwdruk `toegankelijk`, `transparant`, `reproduceerbaar` en `schaalbaar` is voor toepassingen zoals \(nieuwe\) artikelen en dossiers. Met als belangrijkste belang dat de ethische kant van de informatie binnen de blauwdruk gewaarborgd blijft.   
+Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces omzetten in de vorm van een blauwdruk? Om er zo voor te zorgen dat het __onderzoeksproces__ als blauwdruk `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` is voor toepassingen zoals artikelen en dossiers. Met als belangrijkste belang dat de ethische kant van de informatie binnen de blauwdruk gewaarborgd blijft.   
 
 **Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.**
 
