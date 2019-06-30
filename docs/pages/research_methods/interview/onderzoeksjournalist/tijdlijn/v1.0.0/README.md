@@ -1,7 +1,10 @@
 # Interview tijdlijn-1.1.0
 
 
-## Aanleiding
+
+## Interview 1
+
+### Aanleiding
 Testen van 4 tijdlijn ideeën en of deze toegevoegde waarde hebben voor de onderzoeksjournalist.
 
 
@@ -26,3 +29,14 @@ Doel: Om oorzaken en gevolgen in kaart brengen.
 
 * Eerste tijdlijn schetsen laten zien
 * De 4 ideeën voorlichten. (aanleiding)
+
+
+## Interview 2
+
+### Aanleiding
+Testen van all werkgebieden
+
+
+
+
+
