@@ -264,22 +264,72 @@ item.setData("test", true);
       {
         label: "instellingen",
         image: "settings",
+        attributes: [
+          {key: "disabled", value: "true"}
+        ]
       },
       {
         label: "breng item naar boven",
         image: "up",
+        func: function () {
+          console.log("down");
+          const parentId = this.getAttribute("parent-id");
+          if (parentId != undefined) {
+            const containerElement = document.getElementById("item-id-" + parentId);
+            if (containerElement != undefined) {
+              const index = Array.from(containerElement.parentElement.children).indexOf(containerElement);
+              if (containerElement.parentElement.children[index - 1].tagName == "ARTICLE") {
+               containerElement.parentElement.insertBefore(containerElement, containerElement.parentElement.children[index - 1]);
+              }
+            }
+          }
+        }
       },
       {
         label: "breng item naar beneden",
         image: "down",
+        func: function () {
+          
+          const parentId = this.getAttribute("parent-id");
+          if (parentId != undefined) {
+            const containerElement = document.getElementById("item-id-" + parentId);
+            if (containerElement != undefined) {
+              
+              const index = Array.from(containerElement.parentElement.children).indexOf(containerElement);
+              
+              if (containerElement.parentElement.children[index + 2] != undefined && containerElement.parentElement.children[index + 2].tagName == "ARTICLE") {
+                containerElement.parentElement.insertBefore(containerElement, containerElement.parentElement.children[index + 2]);
+              } else if (containerElement.parentElement.children[index + 1] != undefined) {
+                containerElement.parentElement.appendChild(containerElement);
+              }
+            }
+          }
+        }
       },
       {
         label: "kopie",
         image: "copy",
+        attributes: [
+          {key: "disabled", value: "true"}
+        ]
       },
       {
         label: "verwijder",
         image: "remove",
+        func: function () {
+          const parentId = this.getAttribute("parent-id");
+          if (parentId != undefined) {
+            const containerElement = document.getElementById("item-id-" + parentId);
+            if (containerElement != undefined) {
+              const item = dataManager.getItemFromElement(containerElement);
+              containerElement.parentElement.removeChild(containerElement);
+              if (item != undefined) {
+                console.log("remove")
+                item.remove();
+              }
+            }
+          }
+        }
       }
 
     ];
@@ -287,15 +337,26 @@ item.setData("test", true);
       const buttonContainer = document.createElement("li");
       const button = document.createElement("button");
       const buttonData = buttonItems[i];
+      const attributes = buttonData.attributes;
+      if (attributes != undefined) {
+        for (let i = 0; i < attributes.length; i++) {
+          const attribute = attributes[i];
+          button.setAttribute(attribute.key, attribute.value);
+        }
+      }
       button.setAttribute("image", buttonData.image);
       const buttonLabel = document.createElement("span");
       buttonLabel.textContent = buttonData.label;
       buttonLabel.classList.add("screen-reader-only");
       button.appendChild(buttonLabel);
-      
+      button.setAttribute("parent-id", item.id);
 
       buttonContainer.appendChild(button);
       menu.appendChild(buttonContainer);
+
+      if (buttonData.func != undefined) {
+        button.addEventListener("click", buttonData.func, false);
+      }
     }
     section.appendChild(aside);
 

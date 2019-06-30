@@ -29,6 +29,28 @@
           font-family: sans-serif;
         }
 
+        #test-database {
+          position: relative;
+        }
+
+        #test-database:after {
+          content: "";
+
+          display: inline-block;
+
+          position: absolute;
+
+          z-index: -1;
+
+          border-left: 1px solid #CCCCCC;
+
+          height: 100%;
+
+          left: 0.5rem;
+
+          top: 0;
+        }
+
         button, a {
           cursor: pointer;
         }
@@ -151,6 +173,11 @@
         }
 
         article:first-of-type > .container aside button[image=up] {
+          opacity: 0.4;
+          cursor:not-allowed;
+        }
+
+        [disabled] {
           opacity: 0.4;
           cursor:not-allowed;
         }
