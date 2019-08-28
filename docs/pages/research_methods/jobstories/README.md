@@ -20,7 +20,7 @@
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil maken binnen een druk onderzoeksproces, is het mogelijk om dit binnen eenvoudige stappen uit te voeren, die gescheiden van elkaar ingevuld kunnen worden.
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil maken na het onderzoeksproces is het mogelijk om dit via een vraag en antwoord gebruikersinterface in te vullen.
 * Wanneer een onderzoeksjournalist zijn of haar blauwdruk wil maken maar nog niet alles wil invullen, is het mogelijk om het document te heropenen en de lege velden aan te vullen.
-* Wanneer een onderzoeksproces erg complex is om te maken moet er ondersteuning zijn voor het maakproces. Druk de gebruiker op blauwdruk via stappenplan, de invulvelden komen nu tevoorschijn via in stappen.
+* Wanneer een onderzoeksproces erg complex is om te maken moet er ondersteuning zijn voor het maakproces. Dan drukt de gebruiker op blauwdruk via stappenplan, de invulvelden komen nu tevoorschijn in stappen.
   * De gebruiker kan stappen overslaan, mocht deze onduidelijk of niet van toepassing zijn.
   * Mocht een stap onduidelijk zijn, is er een mogelijkheid om feedback te vragen met een referentie naar deze stap in het proces.
   * Ook is het mogelijk om feedback op een stap te gegeven of er een eigen definitie aan te koppelen.
