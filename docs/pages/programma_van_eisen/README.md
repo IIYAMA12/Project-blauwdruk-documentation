@@ -87,7 +87,7 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 `Could`
 [Het Verborgen Scenario #leed](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#leed)
 	- [ ] toegevoegd
-* **Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologsche manier te vertellen en alle relevante gebeurtennissen te inventariseren.**
+* **Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologische manier te vertellen en alle relevante gebeurtenissen te inventariseren.**
 `Should`
 [Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
 	- [ ] toegevoegd
