@@ -68,6 +68,7 @@ Wat mij opvalt uit deze lijst is dat de informatie op een hoog niveau verijkt is
 #### Dossier-voorblad
 
 ![Voorblad dossier](content/voorblad-dossier.png)
+
 Op voorblad van dit dossier worden belangrijke punten opgesomd die veel zeggen over wat voor dossier/zaak het is. Niet elk punt is overigens ingevuld.
 * Soort Zaak
 * Dossiervorm
@@ -82,6 +83,6 @@ etc.
 
 
 
-Dit ga ik meenemen:
+## Belangrijke punten om op te nemen
 * Het gebruik van een dossier in de informatie hiërarchie.
 * Het gebruik van een voorblad om de basis informatie aan te bieden.
