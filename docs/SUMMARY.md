@@ -75,6 +75,7 @@
 						* [Resultaten 1.0.0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/result.md)
 			* [Eindredactie](pages/research_methods/interview/eindredactie/README.md)
 		* [Analyse content](pages/research_methods/analyse_content/README.md)
+			* [Proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
 			* [Masterfile (Luuk Sengers)](pages/research_methods/analyse_content/masterfile/README.md)
 			* [Analyse tijdlijn (Mira)](pages/research_methods/analyse_content/tijdlijn/README.md)
 			* [Analyse onderzoeksrapport (Arne van der Wal)](pages/research_methods/analyse_content/onderzoeksrapport/README.md)
