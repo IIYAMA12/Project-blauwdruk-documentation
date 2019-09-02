@@ -12,11 +12,11 @@ Dit is de lijst die ik tegengekomen ben:
 [Enkele proces-verbalen uit Denhaag](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf)
 
 
-## Analyse
+## Analyse indeling
 
 In dit document ben ik de volgende soort pagina's tegengekomen:
-* Mutatieformulier
-  Een formulier met velden dat in de toekomst kan veranderen (muteren). Dit formulier bevat voornamelijk een overzicht met belangrijke gegevens.
+* *Mutatieformulier*
+	Een formulier met velden dat in de toekomst kan veranderen (muteren). Dit formulier bevat voornamelijk een overzicht met belangrijke gegevens.
   * Memo
   * Aangehouden verdachten, verdachte
   * Aanhoudingsgegevens
@@ -30,8 +30,58 @@ In dit document ben ik de volgende soort pagina's tegengekomen:
   * Voorgeleiding
   * Inbeslaggenomen
 
-* Afstandsverklaring inbeslaggenomen voorwerpen
-  Beschrijving van inbelslaggenomen voorwerpen
+* *Afstandsverklaring inbeslaggenomen voorwerpen*
+	Beschrijving van inbelslaggenomen voorwerpen
 
 * Gegevensblad Verdachte 1.1
   Informatie over persoon.
+* Inhoudsopgave
+	* Algemene-paragraaf
+	* Verdachte-paragraaf
+	* Zaaks-paragraaf
+* Proces-verbaal van verhoor verdachte
+* Proces-verbaal
+	* Aanleiding en voortzetten onderzoek
+	* Aanwijzing veiligheidsrisicogebied
+	* Bevel officier van justitie
+	* Aanhouding
+	* Overbrengen, aankomst plaays onderzoek en voorgeleiding
+	* Insluitingsfouillering
+	* Inbeslagneming wapen
+	* Onderzoek wapen
+	* Foto wapen
+	* Verhoor verdachte
+	* Afstandsverklaring in beslag genomen goed
+	* In vrijheid stellen verdachte
+	* Afhandeling in beslag genomen wapen
+	* Antecedenten verdachte
+	* Verificatie persoonsgegevens verdachte
+* Voorblad dossier
+* Voorblad per incident
+
+
+### Bevindingen
+
+#### Meta data dossier
+Wat mij opvalt uit deze lijst is dat de informatie op een hoog niveau verijkt is met meta gegevens. Op elke pagina staat wel een registratie nummer van het dossier, de datum van publicatie en een versie van het rapport.
+
+#### Dossier-voorblad
+
+![Voorblad dossier](content/voorblad-dossier.png)
+Op voorblad van dit dossier worden belangrijke punten opgesomd die veel zeggen over wat voor dossier/zaak het is. Niet elk punt is overigens ingevuld.
+* Soort Zaak
+* Dossiervorm
+* Omschrijving dossier
+* Totaal aantal incidenten
+* Aantal verdachten 
+etc.
+
+
+
+[Openen in bronnen](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
+
+
+
+Dit ga ik meenemen:
+* Het gebruik van een dossier in de informatie hiërarchie.
+* Het gebruik van een voorblad om de basis informatie aan te bieden.
