@@ -79,10 +79,40 @@ etc.
 
 
 
-[Openen in bronnen](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
+[Bekijk van bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
+
+#### Bijlage met checklist
+
+![Bijlage checklist](content/bijlage-checklist.png)
+
+In dit proces-verbaal wordt een checklist gebruikt voor de bijlage. Hiermee kan een componentenlijst worden weergegeven en verteld ook welke informatie wel en niet aanwezig is.
+
+[Bekijk van bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
+
+
+#### Verdeling dossier
+
+De verdeling van het dossier is gestructureerd in de volgende punten:
+* Algemene-Paragraaf
+Algemene informatie over het dossier.
+
+* Verdachte-Paragraaf
+Alle informatie over de verdachten binnen het dossier.
+
+* Zaaks-Paragraaf
+Hoe de politiezaak in elkaar zit.
+
+
+Deze onderwerpen komen ook terug in een onderzoek van een onderzoeksjournalist.
 
 
 
-## Belangrijke punten om op te nemen
+
+
+
+
+### Belangrijke punten om op te nemen
 * Het gebruik van een dossier in de informatie hiërarchie.
 * Het gebruik van een voorblad om de basis informatie aan te bieden.
+* Een checklist met informatie dat voor bepaalde gebruikers niet aanwezig is, maar wel technisch gezien opgevraagd zou kunnen worden.
+* Indeling verdeling dossier.
