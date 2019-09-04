@@ -79,7 +79,7 @@ etc.
 
 
 
-[Bekijk van bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
+[Bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
 
 #### Bijlage met checklist
 
@@ -87,7 +87,7 @@ etc.
 
 In dit proces-verbaal wordt een checklist gebruikt voor de bijlage. Hiermee kan een componentenlijst worden weergegeven en verteld ook welke informatie wel en niet aanwezig is.
 
-[Bekijk van bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
+[Bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
 
 
 #### Verdeling dossier
