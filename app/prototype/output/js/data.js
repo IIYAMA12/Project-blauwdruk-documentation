@@ -24,6 +24,18 @@ const dataBaseRaw = [
         {key: "research-questions", key: []},
       ],
       [
+        {key:"connections-with", value: 
+        [
+          {
+            group: "event",
+            name: "event-345643"
+          },
+          {
+            group: "event",
+            name: "event-343443"
+          }
+        ]
+      },
         {key: "id", value: "00437635887"},
         {key:"name", value: "Jaap van Dijk"},
         {key:"firstname", value: "Jaap"},
@@ -96,7 +108,7 @@ const dataBaseRaw = [
           [
             {
               group: "event",
-              name: "event-345643"
+              name: "event-343443"
             }
           ]
         },
@@ -118,7 +130,7 @@ const dataBaseRaw = [
           [
             {
               group: "event",
-              name: "event-345643"
+              name: "event-325fsd345643"
             }
           ]
         },
@@ -127,9 +139,12 @@ const dataBaseRaw = [
   }
 ];
 
-const dataBase = {
 
-};
+/*
+  Process data
+*/
+const dataBase = {};
+
 
 const outputContainer = dataManager.addItem();
 
@@ -141,7 +156,6 @@ for (let i=0; i < dataBaseRaw.length; i++) {
   groupContainer.setData("group", true);
   groupContainer.setData("name", group.key);
   if (true) {
-    
     let parent;
 
     if (group.elementId != undefined) {
@@ -172,9 +186,28 @@ for (let i=0; i < dataBaseRaw.length; i++) {
           }
           
           itemNew.joinConnection(connection);
-          
         }
       }
+    }
+  }
+}
+
+
+/*
+  Draw info
+*/
+for (let i=0; i < dataBaseRaw.length; i++) {
+  if (true) {
+    const group = dataBaseRaw[i];
+    const groupContainer = dataBase[group.key];
+    let parent;
+
+    if (group.elementId != undefined) {
+      parent = document.getElementById(group.elementId);
+    }
+    for (let j=0; j < groupContainer.children.length; j++){
+      const item = groupContainer.children[j];
+
       if (group.key === "sources") {
         const template = [
           {
@@ -210,7 +243,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         },
                         {
                           key: "alt",
-                          value: itemNew.getData("name")
+                          value: item.getData("name")
                         }
                       ]
                     }
@@ -219,7 +252,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                     content: "figcaption",
                     type: "tag",
                     child: {
-                      content: itemNew.getData("name"),
+                      content: item.getData("name"),
                       type: "text"
                     }
                   }
@@ -229,8 +262,8 @@ for (let i=0; i < dataBaseRaw.length; i++) {
           }
         ];
         templateEngine.render(template, parent);
-        dataManager.attachElement(template[0].elements[0], itemNew);
-        dataManager.attachElement(template[0].child.elements[0], itemNew);
+        dataManager.attachElement(template[0].elements[0], item);
+        dataManager.attachElement(template[0].child.elements[0], item);
         template[0].child.elements[0].addEventListener("click", openDialog, false);
       } else if (group.key === "documents") {
         const template = [
@@ -267,7 +300,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         },
                         {
                           key: "alt",
-                          value: itemNew.getData("name")
+                          value: item.getData("name")
                         }
                       ]
                     }
@@ -292,7 +325,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                     content: "figcaption",
                     type: "tag",
                     child: {
-                      content: itemNew.getData("name"),
+                      content: item.getData("name"),
                       type: "text"
                     }
                   }
@@ -302,11 +335,11 @@ for (let i=0; i < dataBaseRaw.length; i++) {
           }
         ];
         templateEngine.render(template, parent);
-        dataManager.attachElement(template[0].elements[0], itemNew);
-        dataManager.attachElement(template[0].child.elements[0], itemNew);
+        dataManager.attachElement(template[0].elements[0], item);
+        dataManager.attachElement(template[0].child.elements[0], item);
         template[0].child.elements[0].addEventListener("click", openDialog, false);
       } else if (group.key === "events") {
-        const date = itemNew.getData("date");
+        const date = item.getData("date");
         const day = date.getDate();
         const monthIndex = date.getMonth();
         const month = monthIndex + 1;
@@ -409,7 +442,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                             content: "h3",
                             type: "tag",
                             child: {
-                              content: itemNew.getData("name"),
+                              content: item.getData("name"),
                               type: "text"
                             }
                           },
@@ -417,7 +450,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                             content: "p",
                             type: "tag",
                             child: {
-                              content: itemNew.getData("description"),
+                              content: item.getData("description"),
                               type: "text"
                             },
                           }
@@ -434,6 +467,84 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                             }
                           ],
                         },
+                        child: {
+                            content: function () {
+                              const elements = [];
+
+                              const connections = dataManager.getItemConnections(item);
+                              const connectionsFoundRegister = {};
+                              for (let i = 0; i < connections.length; i++) {
+                                const connection = connections[i];
+                                
+                                
+                                
+
+                                const connectedItems = dataManager.getConnectionItems(connection);
+                                for (let j = 0; j < connectedItems.length; j++) {
+                                  const connectedItem = connectedItems[j];
+
+                                  if (connectedItem !== item) {
+                                    const typeOfData = connectedItem.parent.getData("name");
+                                    if (connectionsFoundRegister[typeOfData] == undefined) {
+                                      connectionsFoundRegister[typeOfData] = {
+                                        count: 0,
+                                        list:[]
+                                      };
+                                    }
+                                    connectionsFoundRegister[typeOfData].count++;
+                                    connectionsFoundRegister[typeOfData].list[connectionsFoundRegister[typeOfData].list.length] = connectedItem;
+
+                                  }
+                                }
+
+                                for (var typeOfData in connectionsFoundRegister) {
+                                  if (connectionsFoundRegister.hasOwnProperty(typeOfData)) {
+                                    const connectedItems = connectionsFoundRegister[typeOfData].list;
+                                    const count = connectionsFoundRegister[typeOfData].count;
+
+                                    const container = document.createElement("div");
+                                    container.classList.add("connected-content-button-wrapper", "close");
+
+                                    const button = document.createElement("button");
+                                    container.appendChild(button);
+
+                                    button.setAttribute("type", "button");
+                                    button.classList.add("connected-content-button");
+
+                                    if (typeOfData == "sources") {
+                                      button.classList.add("source");
+                                    } else if (typeOfData == "documents") {
+                                      button.classList.add("doc");
+                                    }
+
+                                    const screenReaderElement = document.createElement("span");
+                                    const countElement = document.createElement("span");
+                                    countElement.textContent = count + "x";
+                                    button.appendChild(screenReaderElement);
+                                    button.appendChild(countElement);
+
+                                    const listElement = document.createElement("ul");
+                                    for (let i = 0; i < connectedItems.length; i++) {
+                                      const connectedItem = connectedItems[i];
+                                      const itemElement = document.createElement("li");
+                                      const button = document.createElement("button");
+                                      button.classList.add("open-dialog");
+                                      button.setAttribute("type", "button");
+                                      button.textContent = connectedItem.getData("name");
+                                      itemElement.appendChild(button);
+                                      listElement.appendChild(itemElement);
+                                      connectedItem.attachElement(button);
+                                      button.addEventListener("click", openDialog, false);
+                                    }
+                                    container.appendChild(listElement);
+                                    elements[elements.length] = container;
+                                  }
+                                }
+                              }
+                              return elements;
+                          },
+                          type: "function",
+                        }
                       }
                     ]
                   },
@@ -469,7 +580,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
         templateEngine.render(template, parent);
 
         
-        dataManager.attachElement(template[0].elements[0], itemNew);
+        dataManager.attachElement(template[0].elements[0], item);
         /*
          <li class="time-line-item">
                 <p class="time-line-item__date-year">2018</p>

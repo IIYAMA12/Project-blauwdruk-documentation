@@ -12,6 +12,7 @@ dataManager.doesConnectionExistByName = function (name) {
 
 
 dataManager.getConnectionByName = function (name) {
+
   const connections = this.connections;
   for (let i = 0; i < connections.length; i++) {
     if (connections[i].name === name) {
@@ -27,6 +28,7 @@ dataManager.createItemConnection = function (name, details) {
     const newConnection = {
       children: [],
       id: this.generateNewId(),
+      name: name,
       directions: {}
     };
 
@@ -39,17 +41,20 @@ dataManager.createItemConnection = function (name, details) {
 };
 
 
-dataManager.getItemConnection = function (item) {
+dataManager.getItemConnections = function (item) {
+  const connectionsList = [];
+  const connections = this.connections;
   for (let i = 0; i < connections.length; i++) {
     if (connections[i].children.includes(item)) {
-      return connections[i];
+      connectionsList[connectionsList.length] = connections[i];
     }
   }
+  return connectionsList;
 };
 
 
 dataManager.getConnectionItems = function (connection) {
-  return children;
+  return connection.children;
 };
 
 

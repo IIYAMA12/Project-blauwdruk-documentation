@@ -9,7 +9,7 @@ let openDialog;
     dialogWrapper.classList.remove("hidden");
 
     const item = dataManager.getItemFromElement(this);
-
+    console.log(this, item);
     if (item != undefined) {
       const groupName = item.parent.getData("name");
       if (groupName == "sources") {
