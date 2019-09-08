@@ -99,9 +99,11 @@ const templateEngine = (function () {
                     case "html": // html injection
                         return (function () {
                             // A wrapper is required to make sure that injected html code is removed. I do not prefer to use this `case`. But might be handy if it comes to that.
-                            const newElement = document.createTextNode("div");
+                            const newElement = document.createElement("div");
                             newElement.innerHTML += content;
+                            console.log(newElement);
                             newElement.setAttribute("template-engine-wrapper", true);
+                            
                             parent.appendChild(newElement);
                             return [{element: newElement, data: data}];
                         })();

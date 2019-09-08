@@ -8,7 +8,7 @@ const dataBaseRaw = [
         {key:"connections-with", value: 
           [
             {
-              group: "event",
+              group: "events",
               name: "event-345643"
             }
           ]
@@ -19,19 +19,65 @@ const dataBaseRaw = [
         {key:"email", value: "jan@gmail.com"},
         {key:"phonenumber", value: "06 201 244 264"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jan-van-doen"},
-        {key: "events", key: []},
-        {key: "connections", key: []},
-        {key: "research-questions", key: []},
+
+      ],
+      [
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-345643"
+            }
+          ]
+        },
+        {key: "id", value: "4uaycsihdk`y"},
+        {key:"name", value: "Zachary Brinks"},
+        {key:"firstname", value: "Zachary"},
+        {key:"email", value: "ZacharyBrinks@jourrapide.com"},
+        {key:"phonenumber", value: "06-23104639"},
+        {key: "ftm-netwerk-database", value: "www.ftm/tag/zachary-brinks"},
+      ],
+      [
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-343443"
+            }
+          ]
+        },
+        {key: "id", value: "74358fhks54e8I`y"},
+        {key:"name", value: "Nard Brabander"},
+        {key:"firstname", value: "Nard"},
+        {key:"email", value: "NardBrabander@rhyta.com"},
+        {key:"phonenumber", value: "06-25895271"},
+        {key: "ftm-netwerk-database", value: "www.ftm/tag/nard-brabander"},
+      ],
+      [
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-325fsd345643"
+            }
+          ]
+        },
+        {key: "id", value: "85sgdiryfh"},
+        {key:"name", value: "Pernelle van Essen"},
+        {key:"firstname", value: "Pernelle"},
+        {key:"email", value: "pernelle@gmail.com"},
+        {key:"phonenumber", value: "06 201 464 244"},
+        {key: "ftm-netwerk-database", value: "www.ftm/tag/pernelle-van-essen"},
       ],
       [
         {key:"connections-with", value: 
         [
           {
-            group: "event",
+            group: "events",
             name: "event-345643"
           },
           {
-            group: "event",
+            group: "events",
             name: "event-343443"
           }
         ]
@@ -42,9 +88,6 @@ const dataBaseRaw = [
         {key:"email", value: "jaap@gmail.com"},
         {key:"phonenumber", value: "06 251 264 264"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jaap-van-dijk"},
-        {key: "events", key: []},
-        {key: "connections", key: []},
-        {key: "research-questions", key: []},
       ]
     ],
   },
@@ -54,11 +97,57 @@ const dataBaseRaw = [
     items: [
       [
         {key:"name", value: "Jaarverslag zorg 20-06-2018"},
+        {key:"description", value: "Het Jaarverslag van `Zorggeld eters` uit 2018."},
+        {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2018. Opgevraagd op 21-07-2018 van www.jaarverslag-zorg.nl"},
+        {key:"document-status", value: "Openbaar"},
+        {key:"validation-status", value: "(geen)"},
+        {key:"date-of-issue", value: "20-06-2018"},
+        {key:"publisher", value: "Zorggeld eters"},
+        {key:"file-extension", value: "PDF"},
+        {key:"link", value: "<a target='_bank' href='https://www.ftm.nl/'>www.jaarverslag-zorg.nl</a>"},
         {key:"connections-with", value: 
           [
             {
-              group: "event",
+              group: "events",
               name: "event-345643"
+            }
+          ]
+        }
+      ],
+      [
+        {key:"name", value: "Jaarverslag zorg 20-06-2019"},
+        {key:"description", value: "Het Jaarverslag van `Zorggeld eters` uit 2019."},
+        {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2019. Opgevraagd op 21-07-2017 van www.jaarverslag-zorg.nl"},
+        {key:"document-status", value: "Openbaar"},
+        {key:"validation-status", value: "(geen)"},
+        {key:"date-of-issue", value: "20-06-2019"},
+        {key:"publisher", value: "Zorggeld eters"},
+        {key:"file-extension", value: "PDF"},
+        {key:"link", value: "<a target='_bank' href='https://www.ftm.nl/'>www.jaarverslag-zorg.nl</a>"},
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-325fsd345643"
+            }
+          ]
+        }
+      ],
+      [
+        {key:"name", value: "Personeelslijst"},
+        {key:"description", value: "Een lijst met alle medewerkers"},
+        {key:"reference", value: "(geen)"},
+        {key:"document-status", value: "Gelekt"},
+        {key:"validation-status", value: "(geen)"},
+        {key:"date-of-issue", value: "20-06-2019"},
+        {key:"publisher", value: "Onbekend"},
+        {key:"file-extension", value: "XLSX"},
+        {key:"link", value: "<a target='_bank' href='https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing'>https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing</a>"}, 
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-325fsd345643"
             }
           ]
         }
@@ -75,8 +164,12 @@ const dataBaseRaw = [
           value: "Faillissement bv. Zorggeld eters"
         },
         {
+          key:"connection-id",
+          value: "5438edhxlir7c64%S#54ruS"
+        },
+        {
           key:"description",
-          value: "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators."
+          value: "Het faillissement aanvraag van bv. Zorggeld eters is nu officieel ingediend."
         },
         {
           key: "date",
@@ -85,8 +178,12 @@ const dataBaseRaw = [
         {key:"connections-with", value: 
           [
             {
-              group: "event",
+              group: "events",
               name: "event-345643"
+            },
+            {
+              group: "connections",
+              name: "connection-34y2tfwd"
             }
           ]
         },
@@ -97,8 +194,12 @@ const dataBaseRaw = [
           value: "Ontslag medewerkers"
         },
         {
+          key:"connection-id",
+          value: "ghfhf485%fdhj#54ruS"
+        },
+        {
           key:"description",
-          value: "The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators."
+          value: "Het grootste gedeelte van de medewerkers zijn ontslagen afgezien van een aantal individuen die de administrator nog verder moeten afhandelen."
         },
         {
           key: "date",
@@ -107,8 +208,12 @@ const dataBaseRaw = [
         {key:"connections-with", value: 
           [
             {
-              group: "event",
+              group: "events",
               name: "event-343443"
+            },
+            {
+              group: "connections",
+              name: "connection-34y2tfwd"
             }
           ]
         },
@@ -116,11 +221,15 @@ const dataBaseRaw = [
       [
         {
           key:"name",
-          value: "Lancering product"
+          value: "Annulering lancering zorgproduct"
+        },
+        {
+          key:"connection-id",
+          value: "35gfhfhf485%fdhuhi3utgf#54ruS"
         },
         {
           key:"description",
-          value: "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. Are members of the same family."
+          value: "De investeerders van Zorggeld eters zijn verbijsterd over de annulering van de product lancering. Het bedrijf Zorggeld eters heeft namelijk de investeerders nog niet geinformeerd over het faillissement."
         },
         {
           key: "date",
@@ -129,8 +238,42 @@ const dataBaseRaw = [
         {key:"connections-with", value: 
           [
             {
-              group: "event",
+              group: "events",
               name: "event-325fsd345643"
+            },
+            {
+              group: "connections",
+              name: "connection-34y2tfwd"
+            }
+          ]
+        },
+      ]
+    ]
+  },
+  {
+    key: "connections",
+    elementId: "connections-graph-container",
+    items: [
+      [
+        {key:"connections-with", value: 
+          [
+            {
+              group: "connections",
+              name: "connection-34y2tfwd",
+              relations: [
+                {
+                  name: "Gevolgen faillissement",
+                  description: "Het geld was te lekker en dat zorgde er voor dat er niet genoeg geld overbleef om de medewerkers te betalen.",
+                  a: "5438edhxlir7c64%S#54ruS",
+                  b: "ghfhf485%fdhj#54ruS"
+                },
+                {
+                  name: "Niet genoeg personeel",
+                  description: "Na het ontslaan van een groot deel van de medewerkers, kon de productie voor een nieuw zorgproduct niet doorgaan.",
+                  a: "ghfhf485%fdhj#54ruS",
+                  b: "35gfhfhf485%fdhuhi3utgf#54ruS"
+                }
+              ]
             }
           ]
         },
@@ -317,7 +460,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                       ]
                     },
                     child: {
-                      content: "PDF",
+                      content: item.getData("file-extension") || "PDF",
                       type: "text"
                     }
                   },
@@ -477,67 +620,74 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                                 const connection = connections[i];
                                 
                                 
+                                const connectionGroup = dataManager.getConnectionGroup(connection);
+                                
+                                if (connectionGroup == "events") {
+
                                 
 
-                                const connectedItems = dataManager.getConnectionItems(connection);
-                                for (let j = 0; j < connectedItems.length; j++) {
-                                  const connectedItem = connectedItems[j];
+                                  const connectedItems = dataManager.getConnectionItems(connection);
+                                  for (let j = 0; j < connectedItems.length; j++) {
+                                    const connectedItem = connectedItems[j];
 
-                                  if (connectedItem !== item) {
-                                    const typeOfData = connectedItem.parent.getData("name");
-                                    if (connectionsFoundRegister[typeOfData] == undefined) {
-                                      connectionsFoundRegister[typeOfData] = {
-                                        count: 0,
-                                        list:[]
-                                      };
+                                    if (connectedItem !== item) {
+                                      const typeOfData = connectedItem.parent.getData("name");
+                                      if (typeOfData == "sources" || typeOfData == "documents") {
+                                        if (connectionsFoundRegister[typeOfData] == undefined) {
+                                          connectionsFoundRegister[typeOfData] = {
+                                            count: 0,
+                                            list:[]
+                                          };
+                                        }
+                                        connectionsFoundRegister[typeOfData].count++;
+                                        connectionsFoundRegister[typeOfData].list[connectionsFoundRegister[typeOfData].list.length] = connectedItem;
+                                      }
+
                                     }
-                                    connectionsFoundRegister[typeOfData].count++;
-                                    connectionsFoundRegister[typeOfData].list[connectionsFoundRegister[typeOfData].list.length] = connectedItem;
-
                                   }
-                                }
 
-                                for (var typeOfData in connectionsFoundRegister) {
-                                  if (connectionsFoundRegister.hasOwnProperty(typeOfData)) {
-                                    const connectedItems = connectionsFoundRegister[typeOfData].list;
-                                    const count = connectionsFoundRegister[typeOfData].count;
+                                  for (var typeOfData in connectionsFoundRegister) {
+                                    if (connectionsFoundRegister.hasOwnProperty(typeOfData)) {
+                                      const connectedItems = connectionsFoundRegister[typeOfData].list;
+                                      const count = connectionsFoundRegister[typeOfData].count;
 
-                                    const container = document.createElement("div");
-                                    container.classList.add("connected-content-button-wrapper", "close");
+                                      const container = document.createElement("div");
+                                      container.classList.add("connected-content-button-wrapper", "close");
 
-                                    const button = document.createElement("button");
-                                    container.appendChild(button);
-
-                                    button.setAttribute("type", "button");
-                                    button.classList.add("connected-content-button");
-
-                                    if (typeOfData == "sources") {
-                                      button.classList.add("source");
-                                    } else if (typeOfData == "documents") {
-                                      button.classList.add("doc");
-                                    }
-
-                                    const screenReaderElement = document.createElement("span");
-                                    const countElement = document.createElement("span");
-                                    countElement.textContent = count + "x";
-                                    button.appendChild(screenReaderElement);
-                                    button.appendChild(countElement);
-
-                                    const listElement = document.createElement("ul");
-                                    for (let i = 0; i < connectedItems.length; i++) {
-                                      const connectedItem = connectedItems[i];
-                                      const itemElement = document.createElement("li");
                                       const button = document.createElement("button");
-                                      button.classList.add("open-dialog");
+                                      container.appendChild(button);
+
                                       button.setAttribute("type", "button");
-                                      button.textContent = connectedItem.getData("name");
-                                      itemElement.appendChild(button);
-                                      listElement.appendChild(itemElement);
-                                      connectedItem.attachElement(button);
-                                      button.addEventListener("click", openDialog, false);
+                                      button.classList.add("connected-content-button");
+
+                                      if (typeOfData == "sources") {
+                                        button.classList.add("source");
+                                      } else if (typeOfData == "documents") {
+                                        button.classList.add("doc");
+                                      }
+
+                                      const screenReaderElement = document.createElement("span");
+                                      const countElement = document.createElement("span");
+                                      countElement.textContent = count + "x";
+                                      button.appendChild(screenReaderElement);
+                                      button.appendChild(countElement);
+
+                                      const listElement = document.createElement("ul");
+                                      for (let i = 0; i < connectedItems.length; i++) {
+                                        const connectedItem = connectedItems[i];
+                                        const itemElement = document.createElement("li");
+                                        const button = document.createElement("button");
+                                        button.classList.add("open-dialog");
+                                        button.setAttribute("type", "button");
+                                        button.textContent = connectedItem.getData("name");
+                                        itemElement.appendChild(button);
+                                        listElement.appendChild(itemElement);
+                                        connectedItem.attachElement(button);
+                                        button.addEventListener("click", openDialog, false);
+                                      }
+                                      container.appendChild(listElement);
+                                      elements[elements.length] = container;
                                     }
-                                    container.appendChild(listElement);
-                                    elements[elements.length] = container;
                                   }
                                 }
                               }
@@ -612,4 +762,4 @@ for (let i=0; i < dataBaseRaw.length; i++) {
 
 
 sortTimeline (true);
-
+renderConnectionGraph ();

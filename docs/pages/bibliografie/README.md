@@ -51,3 +51,8 @@ Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.\(2019, February\). Building 
 Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019.
 
 * Metagegevens van het boek: [https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630](https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630)
+
+
+
+## Inspiratie D3 voorbeelden
+Vilenski, E. (z.d.). Most basic network chart in d3.js. Geraadpleegd op 8 september 2019, van https://www.d3-graph-gallery.com/graph/network_basic.html

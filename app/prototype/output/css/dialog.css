@@ -21,6 +21,8 @@ dialog {
   background-color: rgba(0,0,0,0);
 }
 
+
+
 dialog h2 {
   margin: 0 0 1rem 0;
 }
@@ -35,7 +37,7 @@ dialog h2 {
 
 .dialog-header h1 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 1rem;
 }
 
@@ -60,21 +62,22 @@ dialog h2 {
   background-color: white;
 }
 
-#source-dialog .main-content {
+.dialog-container .main-content {
   display: grid;
   grid-template-columns: auto auto;
   overflow: scroll;
   max-height: 80vh;
+  border-radius: 0 0 5px 5px;
 }
 
 
-#source-dialog .main-content > *:first-child {
+.dialog-container .main-content > *:first-child {
   border-radius: 0 0 0 5px;
   background-color: white;
   overflow-y: scroll;
 }
 
-#source-dialog .main-content > *:last-child {
+.dialog-container .main-content > *:last-child {
   border-radius: 0 0 5px 0;
   background-color: #E3E6E8;
 }
@@ -84,7 +87,11 @@ dialog h2 {
   color: white;
 }
 
-#source-dialog .properties {
+#source-dialog footer h3 {
+  margin-bottom: 0.25rem;
+}
+
+.dialog-container .properties {
   display: grid;
   grid-template-rows: auto min-content;
 }
@@ -101,9 +108,23 @@ dialog h2 {
   border-radius: 5px;
   font-size: inherit;
   text-align: left;
+  margin-bottom: 0.5rem;
 }
 
 .reference-button:hover {
   color: #292F32;
   background-color: white;
+}
+
+.properties-container > div {
+  margin-bottom: 1rem;
+}
+
+.properties-container > div:last-of-type {
+  margin-bottom: 0;
+}
+
+
+.dialog-container .references p {
+  margin-bottom: 0.5rem;
 }

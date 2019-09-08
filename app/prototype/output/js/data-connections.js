@@ -57,12 +57,27 @@ dataManager.getConnectionItems = function (connection) {
   return connection.children;
 };
 
+dataManager.getConnectionItemsWithoutItem = function (connection, item) {
+  const itemList = [];
+  const oldList = connection.children;
+  for (let i = 0; i < oldList.length; i++) {
+    if (oldList[i] != item) {
+      itemList[itemList.length] = oldList[i];
+    }
+  }
+  return itemList;
+};
+
+
 
 dataManager.setConnectionGroup = function (connection, group) {
   connection.group = group;
   return true;
 };
 
+dataManager.getConnectionGroup = function (connection) {
+  return connection.group;
+};
 
 
 (function() {
@@ -75,6 +90,20 @@ dataManager.setConnectionGroup = function (connection, group) {
         children[children.length] = this;
       }
       return true;
+    }
+  };
+  methodsList[methodsList.length] = {
+    key: "getConnections",
+    func: function () {
+      const connectionsList = [];
+      const connections = dataManager.connections;
+      for (let i = 0; i < connections.length; i++) {
+        if (connections[i].children.includes(this)) {
+          console.log(connections, "<" , this);
+          connectionsList[connectionsList.length] = connections[i];
+        }
+      }
+      return connectionsList;
     }
   };
 })();

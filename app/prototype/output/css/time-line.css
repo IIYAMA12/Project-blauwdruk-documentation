@@ -24,12 +24,17 @@
   display: grid;
   grid-template-columns: 5rem auto 15rem;
   margin-bottom: 1rem;
+  transition: order 0.5s ease 0s;
+  width: 100%;
 }
 
 .time-line-item__article {
   background-color: white;
+  transition: color 0.3s, background-color 0.3s;
+  color: black;
   position: relative;
 }
+
 .time-line-item__article .padding-box {
   display: grid;
   grid-template-columns: auto auto;
@@ -65,6 +70,7 @@
 
 .connector, .connector .inner {
   border-radius: 100%;
+
 }
 .connector {
   width: 2rem;
@@ -82,6 +88,7 @@
   width: 0.666rem;
   height: 0.666rem;
   background-color: white;
+  transition: background-color 0.3s;
 }
 
 .time-line-item-list {
@@ -101,4 +108,14 @@
   grid-template-rows: 2.5rem 2.5rem 2.5rem;
   column-gap: 0.5rem;
   row-gap: 0.5rem;
+}
+
+.time-line-item__article.scroll-to-element-highlight {
+  color: white;
+  background-color: #DD3230;
+}
+
+
+.time-line-item__article.scroll-to-element-highlight .inner {
+  background-color: #DD3230;
 }

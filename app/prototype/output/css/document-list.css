@@ -25,6 +25,7 @@
 
 .document-list img {
   background-color: white;
+  display: block;
 }
 
 .document-list .format {
