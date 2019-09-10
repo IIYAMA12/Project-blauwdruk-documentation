@@ -227,43 +227,81 @@ let closeDialog;
 
 
         const references = baseDialog.getElementsByClassName("references")[0];
-        const referenceList = ["events", "connections", "research-questions"];
+        const referenceList = [{name:"events", type: "button"}, {name:"connections", type: "button"}, {name:"research-questions", type:"button"}];
         
+        const screenshotSection = references.getElementsByClassName("screenshots")[0];
+        const screenshotContainer = screenshotSection.getElementsByTagName("ul")[0];
+        const screenshots = item.getData("screenshots");
+        const screenshotTemplate = [];
+
+        screenshotContainer.innerHTML = "";
+        if (screenshots != undefined && screenshots.length > 0) {
+          
+          screenshotSection.classList.remove("hidden");
+          for (let index = 0; index < screenshots.length; index++) {
+            const screenshot = screenshots[index];
+            screenshotTemplate[screenshotTemplate.length] = {
+              content: "li",
+              type: "tag",
+              child: {
+                content : function () {
+                  const image = document.createElement("img");
+                  image.setAttribute("src", "assets/documents/" + screenshot); 
+                  return image;
+                },
+                type: "function"
+              }
+            }
+          }
+        } else {
+          screenshotSection.classList.add("hidden");
+        }
+        templateEngine.render(screenshotTemplate, screenshotContainer);
+        setScreenshotsViewAble(screenshotContainer);
+
         const itemConnections = item.getConnections();
         if (itemConnections.length > 0) {
           
           for (let i = 0; i < referenceList.length; i++) {
             const referenceTemplate = [];
-            const container = references.getElementsByClassName(referenceList[i])[0];
+            const container = references.getElementsByClassName(referenceList[i].name)[0];
             const list = container.getElementsByTagName("ul")[0];
 
             list.innerHTML = "";
             
+
+
+
             if (true) {
               
               for (let j = 0; j < itemConnections.length; j++) {
                 const itemConnection = itemConnections[j];
-                if (dataManager.getConnectionGroup(itemConnection) == referenceList[i]) {
-                  console.log(dataManager.getConnectionGroup(itemConnection), referenceList[i])
+                if (dataManager.getConnectionGroup(itemConnection) == referenceList[i].name) {
+                  console.log(dataManager.getConnectionGroup(itemConnection), referenceList[i].name)
                   const connectedItems = dataManager.getConnectionItemsWithoutItem(itemConnection, item);
+                  console.log(referenceList[i].type);
                   for (let k = 0; k < connectedItems.length; k++) {
                     const connectedItem = connectedItems[k];
-                    console.log(connectedItem.parent.getData("group"));
-                    if (connectedItem.parent.getData("group") && connectedItem.parent.getData("name") == referenceList[i]) {
-                      referenceTemplate[referenceTemplate.length] = {
-                        content: "li",
-                        type: "tag",
-                        child: {
-                          content : function () {
-                            const button = document.createElement("button");
-                            button.setAttribute("type", "button");
-                            button.classList.add("reference-button");
-                            button.textContent = connectedItem.getData("name");
-                            connectedItem.attachElement(button);
-                            return button;
-                          },
-                          type: "function"
+                    // console.log(connectedItem.parent.getData("group"));
+                    if (connectedItem.parent.getData("group") && connectedItem.parent.getData("name") == referenceList[i].name) {
+                      if (referenceList[i].type == "button") {
+                        referenceTemplate[referenceTemplate.length] = {
+                          content: "li",
+                          type: "tag",
+                          child: {
+                            content : function () {
+                              const button = document.createElement("button");
+                              button.setAttribute("type", "button");
+                              button.classList.add("reference-button");
+                              button.textContent = connectedItem.getData("name");
+                              connectedItem.attachElement(button);
+                              return button;
+                            },
+                            type: "function"
+                          }
                         }
+                      } else if (referenceList[i].type == "image") {
+                        
                       }
                     }
                   }
@@ -277,7 +315,7 @@ let closeDialog;
               const referenceButtons = list.getElementsByClassName("reference-button");
               for (let j = 0; j < referenceButtons.length; j++) {
                 const referenceButton = referenceButtons[j];
-                if (referenceList[i] == "events") {
+                if (referenceList[i].name == "events") {
                   referenceButton.addEventListener("click", scrollToTimelineElement, false);
                 }
                 
@@ -302,6 +340,7 @@ let closeDialog;
   }
   closeDialog = function () {
     dialogWrapper.classList.add("hidden");
+    hideImageDialog ();
   };
   document.getElementById("close-dialog").addEventListener("click", closeDialog, false);
   dialogWrapper.addEventListener("click", function (e) {

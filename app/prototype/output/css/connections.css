@@ -3,10 +3,22 @@
   transition: opacity 0.3s;
 }
 
-#connections-graph-container svg.loading {
+#connections-graph-container.loading svg {
   opacity: 0;
   pointer-events: none;
 }
+
+#connections-graph-container.loading {
+  background-image: url("../assets/loader.gif");
+  background-position: 50% 50%;
+  background-size: 4rem;
+  background-repeat: no-repeat;
+}
+
+#connections-graph-container svg text {
+  pointer-events: none;
+}
+
 
 
 .svg-name-label, .svg-type-label {
@@ -40,7 +52,7 @@ line.bounding-box-line {
   cursor: pointer;
 }
 
-line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-line + line.line-effect {
+line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-element + line.line-effect {
   stroke: #DD3230;
   stroke-width: 3px;
 }
@@ -56,7 +68,9 @@ circle.event-nodes {
   cursor: pointer;
 }
 
-circle.event-nodes:hover {
+
+
+circle.event-nodes:hover, circle.event-nodes.active-element  {
   fill: #DD3230 !important;
 }
 

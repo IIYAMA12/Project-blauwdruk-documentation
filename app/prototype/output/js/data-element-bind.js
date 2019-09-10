@@ -2,20 +2,20 @@ dataManager.attachElement = function (element, item) {
   const elements = item.elements;
   if (!elements.includes(element)) {
     elements[elements.length] = element;
+    return true;
   }
-  return false;
 };
 
 dataManager.detachElement = function (element, item) {
   const elements = item.elements;
-  if (!elements.includes(element)) {
+  if (elements.includes(element)) {
     for (let i = 0; i < elements.length; i++) {
       if (elements[i] === element) {
         elements.splice(i, 1);
+        return true;
       }
     }
   }
-  return false;
 };
 
 dataManager.clearDeletedElements = function (item) {

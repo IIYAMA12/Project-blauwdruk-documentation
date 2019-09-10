@@ -14,8 +14,8 @@
 #time-line > header {
   padding: 1rem 1rem 1rem 1rem;
   position: absolute;
-  top: 0;
   left: 0;
+  top: 1rem;
   z-index: 1;
 }
 
@@ -37,7 +37,9 @@
 
 .time-line-item__article .padding-box {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto 12rem;
+  grid-template-columns: auto max-content;
+  column-gap: 2rem;
 }
 
 
@@ -97,17 +99,17 @@
   overflow-y: scroll;
   position: relative;
   padding-top: 6rem;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;  
+  grid-template-rows: auto;
 }
 
-.connected-content {
+.time-line-item-list .connected-content {
   padding: 0 1rem 0 1rem;
   display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: 2.5rem 2.5rem 2.5rem;
-  column-gap: 0.5rem;
-  row-gap: 0.5rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(auto-fill, 2.5rem);
+  column-gap: 1rem;
+  row-gap: 1rem;
 }
 
 .time-line-item__article.scroll-to-element-highlight {

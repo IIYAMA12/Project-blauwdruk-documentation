@@ -103,8 +103,13 @@ const dataBaseRaw = [
         {key:"validation-status", value: "(geen)"},
         {key:"date-of-issue", value: "20-06-2018"},
         {key:"publisher", value: "Zorggeld eters"},
+        {key:"screenshots", value: [
+          "jaarverslag-2018/jaarverslag-2018.png",
+          "jaarverslag-2018/jaarverslag-2018_2.png",
+          "jaarverslag-2018/jaarverslag-2018_3.png"
+        ]},
         {key:"file-extension", value: "PDF"},
-        {key:"link", value: "<a target='_bank' href='https://www.ftm.nl/'>www.jaarverslag-zorg.nl</a>"},
+        {key:"link", value: "<a target='_bank' href='assets/documents/jaarverslag-2018/jaarverslag-2018.pdf'>www.jaarverslag-zorg.nl</a>"},
         {key:"connections-with", value: 
           [
             {
@@ -122,8 +127,13 @@ const dataBaseRaw = [
         {key:"validation-status", value: "(geen)"},
         {key:"date-of-issue", value: "20-06-2019"},
         {key:"publisher", value: "Zorggeld eters"},
+        {key:"screenshots", value: [
+          "jaarverslag-2019/jaarverslag-2019.png",
+          "jaarverslag-2019/jaarverslag-2019_2.png",
+          "jaarverslag-2019/jaarverslag-2019_3.png"
+        ]},
         {key:"file-extension", value: "PDF"},
-        {key:"link", value: "<a target='_bank' href='https://www.ftm.nl/'>www.jaarverslag-zorg.nl</a>"},
+        {key:"link", value: "<a target='_bank' href='assets/documents/jaarverslag-2019/jaarverslag-2019.pdf'>www.jaarverslag-zorg.nl</a>"},
         {key:"connections-with", value: 
           [
             {
@@ -140,6 +150,25 @@ const dataBaseRaw = [
         {key:"document-status", value: "Gelekt"},
         {key:"validation-status", value: "(geen)"},
         {key:"date-of-issue", value: "20-06-2019"},
+        {key:"publisher", value: "Onbekend"},
+        {key:"file-extension", value: "XLSX"},
+        {key:"link", value: "<a target='_bank' href='https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing'>https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing</a>"}, 
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-325fsd345643"
+            }
+          ]
+        }
+      ],
+      [
+        {key:"name", value: "Personeelslijst 2.0"},
+        {key:"description", value: "Een lijst met alle medewerkers versie 2.0"},
+        {key:"reference", value: "(geen)"},
+        {key:"document-status", value: "Gelekt"},
+        {key:"validation-status", value: "(geen)"},
+        {key:"date-of-issue", value: "24-06-2019"},
         {key:"publisher", value: "Onbekend"},
         {key:"file-extension", value: "XLSX"},
         {key:"link", value: "<a target='_bank' href='https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing'>https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing</a>"}, 
@@ -276,6 +305,78 @@ const dataBaseRaw = [
               ]
             }
           ]
+        },
+      ]
+    ]
+  },
+  {
+    key: "research-questions",
+    elementId: "research-question-list",
+    items: [
+      [
+        {
+          key:"question", value: "Waarom is de omzet van zorggeld eters veelmaler hoger dan de gemiddelde zorgleveraar?"
+        },
+        {
+          key:"answers", value: 
+          [
+            {
+              value: "Hieruit is te concluderen dat de wet artikel 461 overtreden is door het management van Zorggeld eters.",
+              tags: [
+                "conclusion"
+              ]
+            }
+          ]
+        },
+        {
+          key:"motive", value: "De omzet van zorggeld eters is rekenkundig onmogelijk te behalen met het aantal in dienst genomen personeel."
+        },
+        {
+          key:"goal", value: "Achterhalen of bedrijg `Zorggeld eters` niet fraude pleegt."
+        },
+        {key:"connections-with", value: 
+          [
+            {
+              group: "research-questions",
+              name: "connection-34yfhgfsdu802tfwd",
+            }
+          ]
+        },
+      ],
+      [
+        {
+          key:"question", value: "Waarom krijgt het bedrijf Zorggeld eters nog subsidie vanuit de overheid terwijl het onduidelijk is waar het geld aan besteed wordt?"
+        },
+        {
+          key:"answers", value: 
+          [
+            {
+              value: "Ik heb nooit gezegd dat wij subsidie krijgen",
+              tags: [
+                "interview",
+                "ontkenning"
+              ]
+            },
+            {
+              value: "Ik geef toe dat er subsidie verdwenen is, maar het vermogen bijhouden valt buiten mijn bevoegdheid.",
+              tags: [
+                "interview",
+                "bekentenis"
+              ]
+            },
+            {
+              value: "Ik veronderstel dat de bronnen die ik heb gesproken meer weten over de subsidie, maar verder geen informatie willen verschaffen. Hier is iets niet in de haak.",
+              tags: [
+                "aannamen"
+              ]
+            }
+          ]
+        },
+        {
+          key:"motive", value: "Subsidie kom is niet opgenomen in de jaarrekeningen"
+        },
+        {
+          key:"goal", value: "Geldspoor subsidie achterhalen"
         },
       ]
     ]
@@ -753,7 +854,328 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                 </article>
               </li>
         */
+      } else if (group.key === "research-questions") {
+        const template = [
+          {
+            content: "li",
+            type: "tag",
+            data: {
+              attributes: [
+                {
+                  value: "research-question-item",
+                  key: "class"
+                }
+              ]
+            },
+            children: [
+              {
+                content: "article",
+                type: "tag",
+                data: {
+                  attributes: [
+                    {
+                      value: "research-question-main-article",
+                      key: "class"
+                    }
+                  ]
+                },
+                children: [
+                  {
+                    content: "div",
+                    type: "tag",
+                    data: {
+                      attributes: [
+                        {
+                          value: "research-question-question-answer-wrapper",
+                          key: "class"
+                        }
+                      ]
+                    },
+                    children: [
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Vraag",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("question"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Antwoorden",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            data: {
+                              attributes: [
+                                {
+                                  value: "question-list-wrapper scroll-box-white",
+                                  key: "class"
+                                }
+                              ]
+                            },
+                            child: {
+                              content: "ul",
+                              type: "tag",
+                              data: {
+                                attributes: [
+                                  {
+                                    value: "question-list",
+                                    key: "class"
+                                  }
+                                ]
+                              },
+                              child: {
+                                content: function () {
+                                  const listItems = [];
+                                  const answers = item.getData("answers");
+                                  if (answers != undefined) {
+                                    for (let i = 0; i < answers.length; i++) {
+                                      const answer = answers[i];
+                                      const listItemElement = document.createElement("li");
+                                      const paragraph = document.createElement("p");
+                                      listItemElement.appendChild(paragraph);
+                                      listItemElement.classList.add("question-list-item")
+                                      paragraph.textContent = answer.value;
+                                      const tags = answer.tags;
+                                      if (tags != undefined) {
+                                        const tagList = document.createElement("ul");
+                                        
+                                        for (let j = 0; j < tags.length; j++) {
+                                          const tag = tags[j];
+                                          const tagListItemElement = document.createElement("li");
+                                          const tagElement = document.createElement("button");
+                                          tagElement.setAttribute("type", "button");
+                                          tagElement.classList.add("tag");
+                                          tagListItemElement.appendChild(tagElement);
+                                          tagElement.textContent = tag;
+                                          tagList.appendChild(tagListItemElement);
+                                        }
+                                        
 
+                                        listItemElement.appendChild(tagList);
+                                      }
+                                      
+                                      listItems[listItems.length] = listItemElement;
+                                    }
+                                  }
+                                  return listItems;
+                                },
+                                type: "function"
+                              }
+                            },
+                          }
+
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    content: "footer",
+                    type: "tag",
+                    data: {
+                      attributes: [
+                        {
+                          value: "research-question-question-footer",
+                          key: "class"
+                        }
+                      ]
+                    },
+                    children: [
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Aanleiding",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("motive"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Doel",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("goal"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                content: "button",
+                type: "tag",
+                data: {
+                  attributes: [
+                    {
+                      value: "research-question-question-show-more",
+                      key: "class"
+                    },
+                    {
+                      value: "button",
+                      key: "type"
+                    }
+                  ]
+                },
+                children: [
+                  {
+                    content: "span",
+                    type: "tag",
+                    data: {
+                      attributes: [
+                        {
+                          value: "options",
+                          key: "class"
+                        }
+                      ]
+                    },
+                    children: [
+                      {
+                        content: "span",
+                        type: "tag",
+                        data: {
+                          attributes: [
+                            {
+                              value: "show-more",
+                              key: "class"
+                            }
+                          ]
+                        },
+                        child: {
+                          content: "Toon meer",
+                          type: "text"
+                        }
+                      },
+                      {
+                        content: "span",
+                        type: "tag",
+                        data: {
+                          attributes: [
+                            {
+                              value: "show-less",
+                              key: "class"
+                            }
+                          ]
+                        },
+                        child: {
+                          content: "Toon minder",
+                          type: "text"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    content: "div",
+                    type: "tag",
+                    data: {
+                      attributes: [
+                        {
+                          value: "button-icon",
+                          key: "class"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ];
+
+        templateEngine.render(template, parent);
+
+        
+        dataManager.attachElement(template[0].elements[0], item);
       }
     }
   }

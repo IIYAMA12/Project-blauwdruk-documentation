@@ -82,6 +82,10 @@ body {
   grid-template-columns: auto auto;
 }
 
+body > header .info-blocks {
+  column-gap: 1rem;
+}
+
 body > header .info-blocks section {
   width: 30rem;
   /* max-width: calc(50% - 1rem); */
@@ -89,9 +93,9 @@ body > header .info-blocks section {
   box-sizing: border-box;
   margin-bottom: 2rem;
 
-  border-bottom: 1px solid #E3E6E8;
+  /* border-bottom: 1px solid #E3E6E8; */
   
-  padding: 0 0.5rem 0.5rem 0;
+  /* padding: 0 0.5rem 0.5rem 0; */
 }
 
 body > main, body > header {
@@ -100,12 +104,16 @@ body > main, body > header {
 }
 
 body > header {
-  padding: 2rem;
+  padding: 2.5rem 2.5rem 0 2.5rem;
   box-sizing: border-box;
+  background-color: #E3E6E8;
+}
+main {
+  background-color: white;
 }
 
 main > section, main > article {
-  padding: 2rem;
+  padding: 2.5rem;
   box-sizing: border-box;
 }
 
@@ -117,7 +125,7 @@ h1 {
 h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-top: 0;
 }
 
 h1, h2, h3 {
@@ -125,9 +133,8 @@ h1, h2, h3 {
 }
 
 h3 {
-  /* color: #666666;
-  margin-bottom: 0.25rem; */
-  
+  /* color: #666666;*/
+  margin-bottom: 0.25rem;
 }
 
 
@@ -213,4 +220,71 @@ button {
 .p-label {
   color: #666666;
   margin-bottom: 0.25rem;
+}
+
+
+.ftm-button {
+
+  padding: 6px 20px;
+
+  margin: 0;
+
+      margin-top: 0px;
+
+  text-align: center;
+
+  border-radius: 2px;
+
+  font-size: 13px;
+
+  color: #292f32;
+
+  background-color: transparent;
+
+  border: 1px solid rgba(0, 0, 0, 0.3);
+
+  border-top-color: rgba(0, 0, 0, 0.3);
+  border-right-color: rgba(0, 0, 0, 0.3);
+  border-bottom-color: rgba(0, 0, 0, 0.3);
+  border-left-color: rgba(0, 0, 0, 0.3);
+
+  display: inline-block;
+
+  text-transform: uppercase;
+
+  letter-spacing: 0.1em;
+
+  -webkit-appearance: none;
+
+  text-decoration: none;
+
+  vertical-align: middle;
+
+  cursor: pointer;
+
+  white-space: nowrap;
+
+  -webkit-user-select: none;
+
+  user-select: none;
+
+  white-space: normal;
+
+  transition: background 0.1s ease-in-out;
+}
+
+
+.ftm-button-invert {
+  color: white;
+  background-color: #dd3230;
+  border-color: #dd3230;
+}
+
+.ftm-button-invert:hover {
+  background-color: #fff;
+  color: #dd3230;
+}
+
+.overflow-hidden {
+  overflow: hidden;
 }

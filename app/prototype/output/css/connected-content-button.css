@@ -2,6 +2,7 @@
 .connected-content-button {
   background-color: white;
   border: 1px solid #666666;
+  color: #666666;
   border-radius: 5px;
   padding: 0.7rem 0.7rem 0.7rem 2.5rem;
 }
@@ -84,6 +85,8 @@
 .connected-content-button-wrapper ul li:last-of-type {
   margin-bottom: 0;
 }
+
+
 
 .connected-content-button-wrapper ul button:hover {
   color: #292F32;

@@ -10,7 +10,6 @@ const svgRoot = d3.select(connectionGraphContainer)
 .append("svg")
   .attr("width", width + margin.left + margin.right)
   .attr("height", height + margin.top + margin.bottom)
-  .attr("class", "loading")
   .attr("xmlns", "http://www.w3.org/2000/svg");
 
 svgRoot.append("defs")
@@ -177,7 +176,7 @@ function renderConnectionGraph () {
 
   // This function is run at each iteration of the force algorithm, updating the nodes position.
   function ticked() {
-    svgRoot.node().classList.remove("loading");
+    connectionGraphContainer.classList.remove("loading");
     link
         .attr("x1", function(d) { return d.source.x; })
         .attr("y1", function(d) { return d.source.y; })
@@ -187,11 +186,11 @@ function renderConnectionGraph () {
           // use d
           if (d != undefined) {
 
-            const activeLine = svgRoot.node().getElementsByClassName("active-line")[0];
-            if (activeLine != undefined) {
-              activeLine.classList.remove("active-line");
+            const activeElement = svgRoot.node().getElementsByClassName("active-element")[0];
+            if (activeElement != undefined) {
+              activeElement.classList.remove("active-element");
             }
-            this.classList.add("active-line");
+            this.classList.add("active-element");
 
             const connectionDetails = document.getElementsByClassName("connection-details")[0];
             if (connectionDetails != undefined) {
@@ -202,6 +201,11 @@ function renderConnectionGraph () {
               if (connectionDetails.getElementsByClassName("connection-details__description")[0] != undefined) {
                 connectionDetails.getElementsByClassName("connection-details__description")[0].textContent = d.description;
               }
+              const toInfoContainer = connectionDetails.getElementsByClassName("connection-details__to-info-container")[0];
+              if (toInfoContainer != undefined) {
+                toInfoContainer.classList.add("hidden");
+              }
+
               connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
             }
           } else {
@@ -223,11 +227,68 @@ function renderConnectionGraph () {
       copyOfdomLink.classList.remove("bounding-box-line")
     }
 
+    let connectionDetailsButton;
+    (function() {
+      const button =  document.getElementsByClassName("connection-details")[0].getElementsByClassName("connection-details__to-info")[0];
+      button.addEventListener("click", function() {
+        const item = dataManager.getItemFromElement(this);
+        if (item != undefined) {
+          scrollToTimelineElementByItem (item);
+        }
+      });
+    })();
+   
+
     node
         .attr("cx", function (d) { return d.x; })
         .attr("cy", function(d) { return d.y; })
         .on("click", function (d) {
-          scrollToTimelineElementByItem(d.item) 
+          // scrollToTimelineElementByItem(d.item) 
+          const item = d.item;
+          if (d != undefined) {
+
+            const activeElement = svgRoot.node().getElementsByClassName("active-element")[0];
+            if (activeElement != undefined) {
+              activeElement.classList.remove("active-element");
+            }
+            this.classList.add("active-element");
+
+            const connectionDetails = document.getElementsByClassName("connection-details")[0];
+            if (connectionDetails != undefined) {
+              connectionDetails.classList.remove("hidden");
+              if (connectionDetails.getElementsByClassName("connection-details__header")[0] != undefined) {
+                connectionDetails.getElementsByClassName("connection-details__header")[0].textContent = d.name;
+              }
+              if (connectionDetails.getElementsByClassName("connection-details__description")[0] != undefined) {
+                connectionDetails.getElementsByClassName("connection-details__description")[0].textContent = item.getData("description");
+              }
+
+              const toInfoContainer = connectionDetails.getElementsByClassName("connection-details__to-info-container")[0];
+              if (toInfoContainer != undefined) {
+                const parentName = item.parent.getData("name");
+                console.log(parentName);
+                if (parentName == "events") {
+                  toInfoContainer.classList.remove("hidden");
+                  const button = toInfoContainer.getElementsByClassName("connection-details__to-info")[0];
+                  if (button != undefined) {
+                    button.textContent = "Ga naar gebeurtenis";
+                    const previousItem = dataManager.getItemFromElement(button);
+                    if (previousItem) {
+                      dataManager.detachElement(button, previousItem);
+                    }
+                    console.log(dataManager.getItemFromElement(button));
+                    dataManager.attachElement(button, item);
+                  }
+                } else {
+                  toInfoContainer.classList.add("hidden");
+                }
+              }
+
+              connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
+            }
+          } else {
+            connectionDetails.classList.add("hidden");
+          }
         })
     ;
 
