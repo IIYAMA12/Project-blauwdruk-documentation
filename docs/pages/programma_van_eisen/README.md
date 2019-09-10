@@ -19,16 +19,16 @@
 `Should`
 [SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 
 * **Het product moet ondersteuning bieden voor het contenttype: tekst**
 `Must`
-	- [ ] toegevoegd
+	- [x] toegevoegd
 
 * **Het product moet kunnen refereren naar bronnen. \(ook bronnen met link\)  Dit type content wordt veel gebruikt.**
 `Must`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 
 * **Het product moet je werk kunnen opslaan. Een blauwdruk is voor later gebruik, opslaan van een blauwdruk zorgt er voor dat deze later gebruikt kan worden.**
 `Must`
@@ -42,31 +42,31 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 `Should`
 [co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet de totstandkoming van een hypothese kunnen beschrijven.**
 `Could`
 [Het Verborgen Scenario #hypothese toetsing](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#hypothese-toetsing)
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet ruimte geven om een aanleiding op te nemen.**
 `Could`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet ruimte geven om onderzoeksvragen op te nemen.**
 `Could`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet de ruimte geven voor beschrijvingen van de uitvoering van wederhooringen.**
 `Could`
 [co-creation](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/co-creation/werkwijze_frank-meijers#3-werken-vanuit-het-werkdocument)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet de ruimte geven voor beschrijvingen van de uitvoering van validatie technieken en het verloop er van.**
 `Could`
 	- [ ] toegevoegd
-* **Het product moet de ruimte geven om belanghebbende op te nemen.**
+* **Het product moet de ruimte geven om betrokkenen/bronnen op te nemen.**
 `Could`
 [Het Verborgen Scenario #lijst betrokkenen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet instructies en toelichting kunnen geven hoe data\(van een referentie\) gelezen moet worden.**
 `Should`
 [Competitie analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/competitive_analysis).
@@ -74,7 +74,7 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 * **Het product moet inzicht geven hoe onderzoeksresultaten boven water zijn gekomen.**
 `Could`
 [Het Verborgen Scenario #verborgen informatie](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#verborgen-informatie)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet de ruimte geven om suggesties gegeven, die de onderzoeksjournalist moet helpen om het meest relevant verhaaltype te kiezen voor het gekozen blauwdruk.**
 `Could`
 [Het Verborgen Scenario #misverstanden helpen op te lossen](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#misverstanden-te-helpen-oplossen)
@@ -90,7 +90,7 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 * **Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologische manier te vertellen en alle relevante gebeurtenissen te inventariseren.**
 `Should`
 [Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/deskresearch/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet helpen om uniformiteit binnen een serie artikelen te behouden. (eenheid)**
 `Could`
 [SWOT analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/v/development/research_methods/swot-analyse)
@@ -117,7 +117,7 @@ Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is e
 * **Het product moet de gebruiker helpen om zijn weg in het blauwdruk te vinden**
 `Should`
 [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet aansporen om alleen suggestieve instructies te schrijven**
    * Niet: Deze stap moet je doen.
    * Wel: Deze stap zou je kunnen doen.
