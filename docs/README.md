@@ -9,5 +9,4 @@ Mijn naam is Jorik van Essen en ik nodig je hierbij van harte uit om deze biogra
 
 
 
-Het is aan te raden om bij de aanleiding van het project te beginnen.
-{% page-ref page="pages/aanleiding/README.md" %}
+__Het is aan te raden om bij de aanleiding van het project te beginnen:__

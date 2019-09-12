@@ -5,7 +5,9 @@ De aanleiding voor deze stageopdracht is afkomstig van het bedrijf Follow the Mo
 
 ## Niet bekend met Follow the Money?
 Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet en publiceert met het kenmerk `geld`.
+
 __Meer informatie:__
+
 [Stakeholder: Follow the Money](../stakeholders/follow_the_money)
 
 
@@ -17,4 +19,4 @@ Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het rep
 __Bijvoorbeeld:__
 <br>Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Amsterdam gedaan worden. 
 
-* Het project heeft als tweede doel om het onderzoek toegankelijker te maken voor andere onderzoeksjournalisten. Het onderzoek dat aangeleerd is bij CMD heeft geen strikte richtlijnen, dat is hetzelfde geval bij het onderzoek van een onderzoeksjournalist. Dit betekent dat iedereen zijn onderzoek op een andere manier mag doen. Deze ruimte is heel belangrijk om zorgvuldig onderzoek te doen. Het heeft wel als nadeel dat de toegankelijkheid niet altijd nageleefd kan worden. Verslagen zijn voor CMD’ers de manier om het onderzoek toegankelijk te maken. Voor onderzoeksjournalisten is dat vaak in de vorm van een verhaal en de doelgroep is dan ook de lezer. 
+* Het project heeft als tweede doel om het onderzoek toegankelijker te maken voor andere onderzoeksjournalisten. De manier van onderzoek doen dat aangeleerd is bij de opleiding CMD heeft geen strikte richtlijnen, dat is hetzelfde geval bij het onderzoek van een onderzoeksjournalist. Dit betekent dat iedereen zijn onderzoek op een andere manier mag doen. Deze ruimte is heel belangrijk om zorgvuldig onderzoek te doen. Het heeft wel als nadeel dat de toegankelijkheid niet altijd nageleefd kan worden. Verslagen zijn voor CMD’ers de manier om het onderzoek toegankelijk te maken. Voor onderzoeksjournalisten is dat vaak in de vorm van een verhaal en de doelgroep is dan ook de lezer. 
