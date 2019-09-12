@@ -2,6 +2,12 @@
 
 De aanleiding voor deze stageopdracht is afkomstig van het bedrijf Follow the Money. Dit is ook het bedrijf waarbij ik het afgelopen halfjaar stage heb gelopen. Tijdens de stage heb ik samen met Follow the Money gekeken naar mogelijke projecten die ik als afstudeerproject zou kunnen uitvoeren. Daarvan vind ik het zogenoemde `blauwdruk-project` de meest interessante opdracht.
 
+
+## Niet bekend met Follow the Money?
+Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet en publiceert met het kenmerk `geld`.
+__Meer informatie:__
+{% page-ref page="../stakeholders/follow_the_money.md" %}
+
 ## Korte versie: Het blauwdruk-project
 Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het reproduceren van zijn of haar onderzoek in een andere context. Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt.
 
