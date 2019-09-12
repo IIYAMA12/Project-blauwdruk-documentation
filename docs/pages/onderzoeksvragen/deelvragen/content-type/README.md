@@ -8,26 +8,26 @@ Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn 
 ## Verzameling
 * __Doel van dit onderzoek__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Heading__
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Inleiding__
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Onderzoekspunten / onderzoeksvragen__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Inhoudsopgave__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 	- [ ] toegevoegd
 * __Samenvatting__
 	- [ ] toegevoegd
 * __Conclusie__
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Plan van Aanpak(PvA)__
 Vanuit [co-creation: Frank meijers](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/co-creation/werkwijze_frank-meijers)
 	- [ ] toegevoegd
 * __Aanleiding__
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Beschrijving van hoe de aanleiding is gevonden__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
 	- [ ] toegevoegd
@@ -36,40 +36,40 @@ Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 19)
 Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
 	- [ ] toegevoegd
 * __Bronnenlijst__
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Referenties__
 Links / APA
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Tijdlijn__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 32)
 Vanuit [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Hypothese__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 23)
 Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Gevolgen voor betrokkenen__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 	- [ ] toegevoegd
 * __Onderzoeksreden__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Centrale vraag (onderzoeksvraag)__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 24)
 Vanuit [Focusgroep #opdracht-3](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Onderzoeksvragen__
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Publicatielijst__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 23-24)
 	- [ ] toegevoegd
 * __Signalenlijst / gebeurtenissen__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 20)
 Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Beschrijvingen leed van de slachtoffer__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 20)
 	- [ ] toegevoegd
@@ -86,7 +86,7 @@ Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 29)
 	- [ ] toegevoegd
 * __Datums__
 Vanuit de [tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Pitch__
 Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 	- [ ] toegevoegd
@@ -114,4 +114,4 @@ Vanuit [analyse onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blau
 * __Verbanden__
 Vanuit [Focusgroep #opdracht-1](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 Vanuit [Focusgroep #opdracht-2](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-2)
-	- [ ] toegevoegd
+	- [x] toegevoegd
