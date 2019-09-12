@@ -86,6 +86,7 @@
 		* [Vragenlijst entiteit](pages/concepten/vragenlijst-duplicatie/README.md)
 		* [Boom hiërarchie](pages/concepten/boom-hiërarchie/README.md)
 		* [Doorzoekbare tijdlijn](pages/concepten/tijdlijn/README.md)
+		* [Werkgebieden](pages/concepten/werkgebieden/README.md)
 	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
 	* [Bijlage](pages/bijlage/README.md)
