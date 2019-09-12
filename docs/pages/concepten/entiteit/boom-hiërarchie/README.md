@@ -1,2 +1,2 @@
-# Boom hiërarchie
+# Entiteiten boom hiërarchie
 
