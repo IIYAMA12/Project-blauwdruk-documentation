@@ -36,3 +36,20 @@ Onderzoeksvragen spelen een belangrijke rol in het onderzoeksproces van de onder
 
 Bij bepaalde onderdelen kunnen dezelfde vragen gesteld worden. Vaak zijn deze onderdelen gekoppeld aan een bepaald onderwerp zoals een bepaalde organisatie. Mocht een zelfde soort organisatie worden onderzocht dan kan je de onderzoeksvragen opnieuw stellen.
 
+![7](content/schetsen7.png)
+
+![8](content/schetsen8.png)
+
+![9](content/schetsen9.png)
+
+![10](content/schetsen10.png)
+
+![11](content/schetsen11.png)
+
+![12](content/schetsen12.png)
+
+![14](content/schetsen14.png)
+
+![15](content/schetsen15.png)
+
+![16](content/schetsen16.png)
