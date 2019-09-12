@@ -6,7 +6,8 @@ De aanleiding voor deze stageopdracht is afkomstig van het bedrijf Follow the Mo
 ## Niet bekend met Follow the Money?
 Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet en publiceert met het kenmerk `geld`.
 __Meer informatie:__
-{% page-ref page="../stakeholders/follow_the_money.md" %}
+[Stakeholder: Follow the Money](../stakeholders/follow_the_money)
+
 
 ## Korte versie: Het blauwdruk-project
 Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het reproduceren van zijn of haar onderzoek in een andere context. Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt.
