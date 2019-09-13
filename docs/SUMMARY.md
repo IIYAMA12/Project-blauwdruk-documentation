@@ -47,6 +47,8 @@
 				* [Boek: Onderzoek bewijzen](pages/bibliografie/README.md#onderzoek-bewijzen)
 	* [Planning](pages/planning/README.md)
 	* [Onderzoeksproces](pages/research-process/README.md)
+		* [Data en gebruik analyse](pages/research-process/data-use-analyse.md)
+		* [Programma van Eisen (PvE)](pages/research-process/requirements.md)
 	* [Ethiek](pages/ethiek/README.md)
 	* [Onderzoeksmethodes](pages/research_methods/README.md)
 		* [Morfologische kaart](pages/research_methods/morfologische kaart/README.md)

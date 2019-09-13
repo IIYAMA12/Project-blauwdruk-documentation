@@ -3,6 +3,9 @@
 ## Data en gebruik analyse
 Boek: Het Verborgen Scenario
 
+## Programma van Eisen (PvE)
+Het werd tijd om te binnen met een eisenlijst.
+
 ## Werkwijze
 
 ### Interview
@@ -24,7 +27,7 @@ Boek: Het Verborgen Scenario
 
 
 
-## Programma van Eisen (PvE)
+
 
 ## Concept Boom hiërarchie 
 
