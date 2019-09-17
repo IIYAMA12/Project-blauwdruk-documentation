@@ -2,33 +2,34 @@
 
 ## Meest relevante stakeholders
 
+
+### Opdrachtgever
+
 {% page-ref page="follow_the_money/README.md" %}
 
-__Opdrachtgever__
+
+
+### Doelgroep
 
 {% page-ref page="onderzoeksjournalist/README.md" %}
 
-__Doelgroep__
+### Sub doelgroep
 
 {% page-ref page="regiojournalist/README.md" %}
 
-__Sub-Doelgroep__
 
 {% page-ref page="redacteur/README.md" %}
 
-__Sub-Doelgroep__
+### Mogelijke doelgroep
 
 {% page-ref page="follow_the_money_lezer/README.md" %}
 
-__Mogelijke doelgroep__
-
 {% page-ref page="follow_the_money_leden/README.md" %}
 
-__Mogelijke doelgroep__
+### Groot belang bij realisatie eindproduct
 
 {% page-ref page="frontwise/README.md" %}
 
-__Belang bij hosting van content op de website en design__
 * Webhosting
 * Ontwikkelaar
 * Designers

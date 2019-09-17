@@ -7,7 +7,7 @@
 		* [Follow the Money lezer](pages/stakeholders/follow_the_money_lezer/README.md)
 		* [Follow the Money leden](pages/stakeholders/follow_the_money_leden/README.md)
 		* [Onderzoeksjournalist](pages/stakeholders/onderzoeksjournalist/README.md)
-		* [Regiojournalist](pages/stakeholders/regiojournalisten/README.md)
+		* [Regiojournalist](pages/stakeholders/regiojournalist/README.md)
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
 		* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 	* [Design challenge](pages/design-challenge/README.md)
