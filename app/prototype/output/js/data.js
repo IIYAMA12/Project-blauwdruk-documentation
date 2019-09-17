@@ -232,7 +232,7 @@ const dataBaseRaw = [
         },
         {
           key: "date",
-          value: new Date(2018, 1, 6)
+          value: new Date(2018, 4, 20)
         },
         {key:"connections-with", value: 
           [

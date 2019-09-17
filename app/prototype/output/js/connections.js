@@ -1,9 +1,14 @@
+let svgToSpinView;
+let svgTimeView;
+
 /* 
   Inspiration from: https://www.d3-graph-gallery.com/graph/network_basic.html
 */
 const margin = {top: 10, right: 30, bottom: 30, left: 40},
 width = 1336 - margin.left - margin.right,
 height = 500 - margin.top - margin.bottom;
+
+let graphViewMode = "spin";
 
 const connectionGraphContainer = document.getElementById("connections-graph-container");
 const svgRoot = d3.select(connectionGraphContainer)
@@ -12,22 +17,42 @@ const svgRoot = d3.select(connectionGraphContainer)
   .attr("height", height + margin.top + margin.bottom)
   .attr("xmlns", "http://www.w3.org/2000/svg");
 
-svgRoot.append("defs")
-  .append("marker")
+svgRoot.node().setAttribute("viewBox","0 0 " + (width + margin.left + margin.right) +  " " +  (height + margin.top + margin.bottom));
+
+const defs =  svgRoot.append("defs");
+
+defs.append("marker")
     .attr("id", "svgheadarrow")
     .call(function (D3_element) {
 
       element = D3_element.node();
-      element.setAttributeNS("http://www.w3.org/2000/svg", "viewBox","0 0 10 10");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "refX","1");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "refY","5");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "markerUnits","strokeWidth");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "markerWidth","4");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "markerHeight","3");
-      element.setAttributeNS("http://www.w3.org/2000/svg", "orient", "auto");
+      element.setAttribute("viewBox","0 0 10 10");
+      element.setAttribute("refX","1");
+      element.setAttribute("refY","5");
+      element.setAttribute("markerUnits","strokeWidth");
+      element.setAttribute("markerWidth","10");
+      element.setAttribute("markerHeight","10");
+      element.setAttribute("orient", "auto");
     }).append("path")
-      .attr("d", "M 5,1 L 9,5 5,9 1,5 z")
-      .attr("fill", "#6a9100")
+      .attr("d", "M 0 0 L 10 5 L 0 10 z")
+      .attr("fill", "rgb(41, 47, 50)")
+;
+
+defs.append("marker")
+    .attr("id", "svgheadarrow-hover")
+    .call(function (D3_element) {
+
+      element = D3_element.node();
+      element.setAttribute("viewBox","0 0 10 10");
+      element.setAttribute("refX","1");
+      element.setAttribute("refY","5");
+      element.setAttribute("markerUnits","strokeWidth");
+      element.setAttribute("markerWidth","3.333");
+      element.setAttribute("markerHeight","3.333");
+      element.setAttribute("orient", "auto");
+    }).append("path")
+      .attr("d", "M 0 0 L 10 5 L 0 10 z")
+      .attr("fill", "red")
 ;
 
 
@@ -36,10 +61,10 @@ const svg = svgRoot
   .attr("transform",
         "translate(" + margin.left + "," + margin.top + ")");
 
-        svg.call(function(D3_element) {
-          console.log(D3_element);
-          D3_element.node().setAttributeNS("http://www.w3.org/2000/svg", "marker-end","url(#svgheadarrow)");
-        })
+        // svg.call(function(D3_element) {
+        //   console.log(D3_element);
+        //   D3_element.node().setAttribute("marker-end","url(#svgheadarrow)");
+        // })
 
       
 function renderConnectionGraph () {
@@ -174,14 +199,68 @@ function renderConnectionGraph () {
 
 
 
+  
+  const distanceFromNode = 25;
+  const distanceFromNodeArrow = 35;
+
   // This function is run at each iteration of the force algorithm, updating the nodes position.
   function ticked() {
     connectionGraphContainer.classList.remove("loading");
+
+
+
+
     link
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; })
+        .attr("x1", 
+          function(d) {
+            let x1 = d.source.x;
+            let y1 = d.source.y;
+            let x2 = d.target.x;
+            let y2 = d.target.y;
+  
+            const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+            
+            const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+            
+            return posX; 
+          })
+        .attr("y1",
+        function(d) {
+          let x1 = d.source.x;
+          let y1 = d.source.y;
+          let x2 = d.target.x;
+          let y2 = d.target.y;
+
+          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+          
+          const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+          
+          return posY; 
+        })
+        .attr("x2", function(d) {
+          let x1 = d.source.x;
+          let y1 = d.source.y;
+          let x2 = d.target.x;
+          let y2 = d.target.y;
+
+          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+          
+          const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+          
+          return posX; 
+        })
+        .attr("y2", function(d) {
+          let x1 = d.source.x;
+          let y1 = d.source.y;
+          let x2 = d.target.x;
+          let y2 = d.target.y;
+
+          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+          
+          const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+          
+          return posY; 
+        })
         .on("click", function (d, i) {
           // use d
           if (d != undefined) {
@@ -224,7 +303,9 @@ function renderConnectionGraph () {
       domLink.parentElement.insertBefore(domLink, copyOfdomLink);
 
       copyOfdomLink.classList.add("line-effect");
-      copyOfdomLink.classList.remove("bounding-box-line")
+      copyOfdomLink.classList.remove("bounding-box-line");
+      const data = d3.select(domLink).data();
+      data[0].copyOfdomLink = copyOfdomLink;
     }
 
     let connectionDetailsButton;
@@ -271,7 +352,7 @@ function renderConnectionGraph () {
                   toInfoContainer.classList.remove("hidden");
                   const button = toInfoContainer.getElementsByClassName("connection-details__to-info")[0];
                   if (button != undefined) {
-                    button.textContent = "Ga naar gebeurtenis";
+                    button.textContent = "Ga naar gebeurtenis in tijdlijn";
                     const previousItem = dataManager.getItemFromElement(button);
                     if (previousItem) {
                       dataManager.detachElement(button, previousItem);
@@ -303,6 +384,170 @@ function renderConnectionGraph () {
       .attr("x", function (d) { return d.x; })
       .attr("y", function(d) { return d.y - 40; })
     ;
+    if (graphViewMode == "time") {
+      svgTimeView();
+    }
+  }
+
+  svgToSpinView = function () {
+    connectionGraphContainer.classList.remove("timeview");
+    node
+        .attr("cx", function (d) { return d.x; })
+        .attr("cy", function(d) { return d.y; })
+
+    link
+    .attr("x1", 
+      function(d) {
+        let x1 = d.source.x;
+        let y1 = d.source.y;
+        let x2 = d.target.x;
+        let y2 = d.target.y;
+
+        const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        
+        const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+        d.copyOfdomLink.setAttribute("x1", posX);
+        return posX; 
+      })
+    .attr("y1",
+    function(d) {
+      let x1 = d.source.x;
+      let y1 = d.source.y;
+      let x2 = d.target.x;
+      let y2 = d.target.y;
+
+      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+      
+      const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+      
+      d.copyOfdomLink.setAttribute("y1", posY);
+
+      return posY; 
+    })
+    .attr("x2", function(d) {
+      let x1 = d.source.x;
+      let y1 = d.source.y;
+      let x2 = d.target.x;
+      let y2 = d.target.y;
+
+      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+      
+      const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+      d.copyOfdomLink.setAttribute("x2", posX);
+
+      return posX; 
+    })
+    .attr("y2", function(d) {
+      let x1 = d.source.x;
+      let y1 = d.source.y;
+      let x2 = d.target.x;
+      let y2 = d.target.y;
+
+      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+      
+      const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+      d.copyOfdomLink.setAttribute("y2", posY);
+      return posY; 
+    })
+    labelName
+        .attr("x", function (d) { return d.x; })
+        .attr("y", function(d) { return d.y - 25; })
+      ;
+
+    labelType
+      .attr("x", function (d) { return d.x; })
+      .attr("y", function(d) { return d.y - 40; })
+    ;
+
+
+  }
+  const posY = height * 0.6666;
+  svgTimeView = function () {
+    connectionGraphContainer.classList.add("timeview");
+    const nodeCount = node.nodes().length;
+    // width = 1336 - margin.left
+    const spacing  = width / nodeCount;
+    
+    const dates = nodes.reduce(function (accumulator, currentValue, currentIndex, array) {
+      accumulator[accumulator.length] = currentValue.item.getData("date");
+      return accumulator;
+    }, 
+    []
+    );
+
+    const scaleTime = d3.scaleLinear()
+      .domain([d3.min(dates), d3.max(dates)]);
+      
+      
+
+    node
+      .attr("cx", function (d, i) { 
+        return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
+      })
+      .attr("cy", posY)
+    ;
+
+    link
+      .attr("x1", 
+        function(d) {
+          const posX = spacing * (nodeCount-1) * scaleTime(d.source.item.getData("date")) + spacing / 2
+          d.copyOfdomLink.setAttribute("x1", posX);
+          return posX; 
+        })
+      .attr("y1",
+      function(d) {
+        d.copyOfdomLink.setAttribute("y1", posY);
+        return posY; 
+      })
+      .attr("x2", function(d) {
+        const posX = spacing * (nodeCount-1) * scaleTime(d.target.item.getData("date")) + spacing / 2;
+        d.copyOfdomLink.setAttribute("x2", posX);
+        return posX; 
+      })
+      .attr("y2", function(d) {
+        d.copyOfdomLink.setAttribute("y2", posY);
+        return posY; 
+      })
+    ;
+
+    labelName
+      .attr("x", function (d) { 
+        // return d.x; 
+        const box = this.getBBox();
+        return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + box.width / 2 + spacing / 2; 
+      })
+      .attr("y", function(d) { return posY - 20; })
+      .style("transform-origin", function(d) {
+        const box = this.getBBox();
+        //
+        
+        const posX = spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
+        return posX + "px " + (posY - 20 + box.height) + "px" ;
+      });
+    ;
+
+    
+
+    labelType
+      .attr("x", function (d) { return d.x; })
+      .attr("y", function(d) { return posY - 40; })
+    ;
+
   }
 }
+
+document.getElementById("graph-view-mode").addEventListener("change", function(e) {
+  const source = e.target;
+    
+  const value = source.options[source.selectedIndex].value;
+  graphViewMode = value;
+  console.log(graphViewMode);
+  if (!connectionGraphContainer.classList.contains("loading")) {
+    if (graphViewMode == "spin") {
+      svgToSpinView();
+    } else {
+      svgTimeView();
+    }
+  }
+});
 

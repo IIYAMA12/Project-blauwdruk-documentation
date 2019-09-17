@@ -294,6 +294,13 @@
               <h2 class="screen-reader">Verbanden</h2>
               <!-- <h3>Ontstaan nieuwe stichting</h3> -->
               <!-- <p></p> -->
+              <div class="select-wrapper"> 
+                <label class="screen-reader" for="graph-view-mode">Grafiek weergave</label>
+                <select id="graph-view-mode">
+                  <option selected="selected" value="spin">Weergave: Spin</option>
+                  <option value="time">Weergave: Tijd</option>
+                </select>
+              </div>
             </header>
             <section>
               <div id="connections-graph-container" class="loading"></div>
@@ -314,6 +321,8 @@
           </artikel>
           <artikel class="tab hidden">
             <h2 class="screen-reader">Onderzoeksvragen</h2>
+           
+            
             <!-- <img style="margin: auto; display: block; width: 100%" width="500" src="assets/preview-research-questions.png"> -->
             <ul id="research-question-list" class="padding-box">
               <!-- <li class="research-question-item">

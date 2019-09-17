@@ -28,6 +28,22 @@
 .svg-name-label {
   font-weight: bold;
   font-size: 1rem;
+  transform: rotate(0deg);
+  transition: transform 0.6s;
+  
+}
+
+#connections-graph-container.timeview .svg-name-label {
+  transform: rotate(-40deg)!important;
+}
+
+.event-nodes {
+  transition: r 0.6s;
+}
+
+
+#connections-graph-container.timeview .event-nodes {
+  r: 0.5rem!important;
 }
 
 .svg-type-label {
@@ -38,25 +54,33 @@
   user-select: none;
   -moz-user-select: none;
   -webkit-user-select: none;
+  transition: x 0.6s, y 0.6s;
 }
 
 line.line-effect {
   stroke-width: 1px;
   stroke: #000;
   pointer-events: none;
+  marker-end: url("#svgheadarrow");
+  transition: x1 0.6s, y1 0.6s, x2 0.6s, y2 0.6s;
 }
 
 line.bounding-box-line {
   stroke-width: 2rem;
   stroke: rgba(218, 128, 128, 0);
   cursor: pointer;
+  transition: x1 0.6s, y1 0.6s, x2 0.6s, y2 0.6s;
 }
 
 line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-element + line.line-effect {
   stroke: #DD3230;
   stroke-width: 3px;
+  marker-end: url("#svgheadarrow-hover");
 }
 
+#connections-graph-container.timeview line.line-effect {
+  marker-end: unset!important;
+}
 
 
 .connection-details {
@@ -66,6 +90,7 @@ line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-e
 
 circle.event-nodes {
   cursor: pointer;
+  transition: cx 0.6s, cy 0.6s;
 }
 
 
