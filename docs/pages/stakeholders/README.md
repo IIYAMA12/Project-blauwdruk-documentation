@@ -15,10 +15,9 @@
 
 ### Sub doelgroep
 
-{% page-ref page="regiojournalist/README.md" %}
-
-
 {% page-ref page="redacteur/README.md" %}
+
+{% page-ref page="regiojournalist/README.md" %}
 
 ### Mogelijke doelgroep
 
