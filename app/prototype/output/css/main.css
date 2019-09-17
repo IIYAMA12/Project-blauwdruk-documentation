@@ -104,7 +104,7 @@ body > main, body > header {
 }
 
 body > header {
-  padding: 2.5rem 2.5rem 0 2.5rem;
+  padding: 2.5rem 2.5rem 2.5rem 2.5rem;
   box-sizing: border-box;
   background-color: #E3E6E8;
 }

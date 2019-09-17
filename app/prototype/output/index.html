@@ -14,6 +14,7 @@
     <link rel="stylesheet" type="text/css" href="css/dialog.css">
     <link rel="stylesheet" type="text/css" href="css/research-questions.css">
     <link rel="stylesheet" type="text/css" href="css/scroll-box.css">
+    <link rel="stylesheet" type="text/css" href="css/show-more.css">
   </head>
   <body>
   <article id="image-dialog" class="hidden">
@@ -132,7 +133,7 @@
 
     </div>
 
-    <header>
+    <header class="show-more-container">
       <!-- <h1>Project blauwdruk</h1> -->
       <h2>Voorblad onderzoek</h2>
       <div class="flex info-blocks">
@@ -149,18 +150,33 @@
           <p>Mara</p>
         </section>
         <section>
-          <p class="p-label">Verhaalvormen die voor het onderzoek lenen:</p>
-          <p>Artikel, interview</p>
-        </section>
-        <section>
           <p class="p-label">Korte omschrijving onderzoek:</p>
           <p>Dit onderzoek is opgezet om na te gaan of het bedrijf `Zorggeld eters` wel alles volgens de wet heeft gedineerd.</p>
         </section>
+
+ 
         <section>
+          <p class="p-label">Startdatum:</p>
+          <p>11-04-2019</p>
+        </section>   
+        <section>
+          <p class="p-label">Publicatiedatum:</p>
+          <p>6-07-2019</p>
+        </section>
+        <section class="show-more-content">
+          <p class="p-label">Verhaalvormen die voor het onderzoek lenen:</p>
+          <p>Artikel, interview</p>
+        </section>
+        <section class="show-more-content">
+          <p class="p-label">Deze personen hebben bijgedragen aan het onderzoek:</p>
+          <p>Monica Jansen, Pieter Jansen</p>
+        </section>  
+        <section class="show-more-content">
           <p class="p-label">Relevantie onderzoek:</p>
           <p>Zorggeld moet niet gebruikt worden voor andere dingen dan zorg. Het is van algemeen belang dat hier goed mee omgegaan wordt.</p>
         </section>
       </div>
+      <button class="show-more-button" type="button"><span class="options"><span class="show-more">Toon meer</span><span class="show-less">Toon minder</span></span><div class="button-icon"></div></button>
     </header>
     
     <main>
@@ -247,7 +263,7 @@
               <h2 class="screen-reader">Tijdlijn</h2>
               <div class="select-wrapper"> 
                   <label class="screen-reader" for="order-timeline">Orden tijdlijn</label>
-                  <select id="order-timeline">
+                  <select autocomplete="off" id="order-timeline">
                     <option selected="selected" value="0">Oudste > nieuwste</option>
                     <option value="1">Nieuwste > oudste</option>
                   </select>
@@ -296,7 +312,7 @@
               <!-- <p></p> -->
               <div class="select-wrapper"> 
                 <label class="screen-reader" for="graph-view-mode">Grafiek weergave</label>
-                <select id="graph-view-mode">
+                <select autocomplete="off" id="graph-view-mode">
                   <option selected="selected" value="spin">Weergave: Spin</option>
                   <option value="time">Weergave: Tijd</option>
                 </select>
@@ -397,6 +413,6 @@
     <script src="js/data.js"></script>
     <script src="js/connected-content-button.js"></script>
     <script src="js/research-questions.js"></script>
-    
+    <script src="js/show-more.js"></script>
   </body>
 <html>

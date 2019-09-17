@@ -506,6 +506,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
           }
         ];
         templateEngine.render(template, parent);
+        console.log(template);
         dataManager.attachElement(template[0].elements[0], item);
         dataManager.attachElement(template[0].child.elements[0], item);
         template[0].child.elements[0].addEventListener("click", openDialog, false);
