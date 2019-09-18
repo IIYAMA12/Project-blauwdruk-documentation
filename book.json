@@ -1,6 +1,6 @@
 {
   "title": "Project blauwdruk",
-  "description": "Dit project gaat over het blauwdrukken van artikelen.",
+  "description": "Dit project gaat over het blauwdruk concept, waarbij het onderzoeksproces van de onderzoeksjournalist in een doorzoekbaar document word weergegeven.",
   "author": "Jorik van Essen",
   "root": "./docs",
   "language": "NL"
