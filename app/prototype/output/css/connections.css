@@ -16,7 +16,7 @@
 }
 
 #connections-graph-container svg text {
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 
@@ -37,13 +37,15 @@
   transform: rotate(-40deg)!important;
 }
 
-.event-nodes {
+.event-nodes circle {
   transition: r 0.6s;
 }
 
 
-#connections-graph-container.timeview .event-nodes {
+#connections-graph-container.timeview .event-nodes circle {
   r: 0.5rem!important;
+  stroke: #E3E6E8;
+  stroke-width: 5;
 }
 
 .svg-type-label {
@@ -78,8 +80,12 @@ line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-e
   marker-end: url("#svgheadarrow-hover");
 }
 
+
+
+
 #connections-graph-container.timeview line.line-effect {
   marker-end: unset!important;
+  stroke-dasharray: 5;
 }
 
 
@@ -88,16 +94,26 @@ line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-e
   border-radius: 5px 5px 0 0;
 }
 
-circle.event-nodes {
+.event-nodes {
   cursor: pointer;
+}
+
+.event-nodes circle {
   transition: cx 0.6s, cy 0.6s;
 }
 
 
 
-circle.event-nodes:hover, circle.event-nodes.active-element  {
+.event-nodes:hover, .event-nodes.active-element  {
   fill: #DD3230 !important;
 }
+
+.event-nodes:hover .time-bind-line, .event-nodes.active-element .time-bind-line  {
+  stroke:  #DD3230 !important;
+  marker-end: url("#svgheadarrow-hover");
+}
+
+
 
 .connection-details__description {
   columns: 2;
@@ -105,4 +121,54 @@ circle.event-nodes:hover, circle.event-nodes.active-element  {
   column-fill: auto;
   max-height: 6rem;
   overflow-y: scroll;
+  margin-bottom: 1rem;
+}
+
+.connections-header {
+  position: relative;
+}
+
+.connections-view-mode {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  z-index: 1;
+}
+
+.connections-web-heading {
+  padding: 1rem;
+  margin: 0;
+}
+
+.connections-web-paragraph {
+  padding: 0 1rem;
+  display: inline-block;
+
+  border-radius: 5px;
+
+  max-width: 30rem;
+}
+
+.time-line-axis text {
+  fill: black;
+  font-size: 1.125rem;
+}
+
+.time-line-axis line, .time-line-axis path {
+  stroke: white;
+  stroke-width: 2;
+}
+
+.time-line-axis, .time-bind-line {
+  display: none;
+}
+
+.timeview .time-line-axis, .timeview .time-bind-line {
+  display: inline;
+}
+
+.time-bind-line {
+  stroke: white;
+  stroke-width: 2;
+  marker-end: url("#svgheadarrow-white");
 }

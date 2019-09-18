@@ -22,10 +22,10 @@
 }
 
 
-
+/* 
 .dialog-container > dialog h2 {
   margin: 0 0 1rem 0;
-}
+} */
 
 
 
@@ -35,13 +35,13 @@
   border-radius: 5px 0 0 0;
 }
 
-.dialog-header h1 {
+.dialog-header h2 {
   margin: 0;
   font-size: 1.5rem;
   padding: 1rem;
 }
 
-.dialog-header h1 :first-child {
+.dialog-header h2 :first-child {
   font-weight: 400;
 }
 
@@ -181,4 +181,5 @@
 
 #image-dialog figcaption {
   text-align: center;
+  margin-top: 1rem;
 }

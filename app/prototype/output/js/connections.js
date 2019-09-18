@@ -19,6 +19,13 @@ const svgRoot = d3.select(connectionGraphContainer)
 
 svgRoot.node().setAttribute("viewBox","0 0 " + (width + margin.left + margin.right) +  " " +  (height + margin.top + margin.bottom));
 
+
+
+
+
+  
+
+
 const defs =  svgRoot.append("defs");
 
 defs.append("marker")
@@ -55,6 +62,23 @@ defs.append("marker")
       .attr("fill", "red")
 ;
 
+defs.append("marker")
+    .attr("id", "svgheadarrow-white")
+    .call(function (D3_element) {
+
+      element = D3_element.node();
+      element.setAttribute("viewBox","0 0 10 10");
+      element.setAttribute("refX","1");
+      element.setAttribute("refY","5");
+      element.setAttribute("markerUnits","strokeWidth");
+      element.setAttribute("markerWidth","3.333");
+      element.setAttribute("markerHeight","3.333");
+      element.setAttribute("orient", "auto");
+    }).append("path")
+      .attr("d", "M 0 0 L 10 5 L 0 10 z")
+      .attr("fill", "white")
+;
+
 
 const svg = svgRoot
   .append("g")
@@ -65,6 +89,9 @@ const svg = svgRoot
         //   console.log(D3_element);
         //   D3_element.node().setAttribute("marker-end","url(#svgheadarrow)");
         // })
+
+// Draw the axis
+let axis;
 
       
 function renderConnectionGraph () {
@@ -159,11 +186,27 @@ function renderConnectionGraph () {
     .selectAll("circle")
     .data(data.nodes)
     .enter()
-    .append("circle")
-      .attr("class", "event-nodes")
-      .attr("r", 20)
-      .style("fill", "#292F32")
+    .append("g")
+    .attr("class", "event-nodes")
+    .style("fill", "#292F32");
+  
+  node
+    .append("line")
+    .attr("x1", 0)
+    .attr("y1", 0)
+    .attr("x2", 0)
+    .attr("y2", 0)
+    .attr("class","time-bind-line")
   ;
+
+  node
+    .append("circle")
+      .attr("r", 15)
+  ;
+
+
+
+
 
   const labelType = svg
   .selectAll(".svg-type-label")
@@ -174,10 +217,8 @@ function renderConnectionGraph () {
     .text("Gebeurtenis")
   ;
 
-  const labelName = svg
-    .selectAll(".svg-name-label")
-      .data(data.nodes)
-      .enter()
+  const labelName = node
+    // .selectAll(".svg-name-label")
       .append("text")
       .attr("class", "svg-name-label")
       .text(function (d) {
@@ -321,8 +362,13 @@ function renderConnectionGraph () {
    
 
     node
-        .attr("cx", function (d) { return d.x; })
-        .attr("cy", function(d) { return d.y; })
+        .each(
+          function (d) {
+            d3.select(this).select("circle")
+            .attr("cx", function (d) { return d.x; })
+            .attr("cy", function(d) { return d.y; })
+          }
+        )
         .on("click", function (d) {
           // scrollToTimelineElementByItem(d.item) 
           const item = d.item;
@@ -372,7 +418,10 @@ function renderConnectionGraph () {
           }
         })
     ;
+    
 
+    
+        
 
 
     labelName
@@ -392,8 +441,14 @@ function renderConnectionGraph () {
   svgToSpinView = function () {
     connectionGraphContainer.classList.remove("timeview");
     node
-        .attr("cx", function (d) { return d.x; })
-        .attr("cy", function(d) { return d.y; })
+      .each(
+        function (d) {
+          d3.select(this).select("circle")
+          .attr("cx", function (d) { return d.x; })
+          .attr("cy", function(d) { return d.y; })
+        }
+      )
+    ;
 
     link
     .attr("x1", 
@@ -480,11 +535,31 @@ function renderConnectionGraph () {
       
       
 
+
     node
-      .attr("cx", function (d, i) { 
-        return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
-      })
-      .attr("cy", posY)
+      .each(
+        function (d) {
+          const selectedNodes = d3.select(this);
+
+          selectedNodes.select("circle")
+          .attr("cx", function (d, i) { 
+            return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
+          })
+          .attr("cy", posY);
+
+          selectedNodes.select(".time-bind-line")
+          .attr("x1", function (d, i) { 
+            return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
+          })
+          .attr("x2", function (d, i) { 
+            return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
+          })
+          .attr("y1", posY)
+          .attr("y2", posY + 43)
+        ;
+
+        }
+      )
     ;
 
     link
@@ -532,6 +607,16 @@ function renderConnectionGraph () {
       .attr("x", function (d) { return d.x; })
       .attr("y", function(d) { return posY - 40; })
     ;
+
+    axis = svg
+      .append("g")
+      .attr("class", "time-line-axis");
+
+    const axisScale = scaleTime.range([0, spacing * (nodeCount-1)]);       
+    
+    axis.call(d3.axisBottom(axisScale).tickFormat(d3.timeFormat("%d-%m-%Y"))); //d3.timeFormat("%Y-%m-%d")
+
+    axis.attr("transform", "translate(" + (spacing / 2) + ", " + (posY + 50) + ")")
 
   }
 }

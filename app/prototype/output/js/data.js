@@ -17,6 +17,8 @@ const dataBaseRaw = [
         {key:"name", value: "Jan van Doen"},
         {key:"firstname", value: "Jan"},
         {key:"email", value: "jan@gmail.com"},
+        {key:"functie", value: "Voorzitter van bestuur"},
+        {key:"bedrijf", value: "Brabant Inc."},
         {key:"phonenumber", value: "06 201 244 264"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jan-van-doen"},
 
@@ -220,6 +222,36 @@ const dataBaseRaw = [
       [
         {
           key:"name",
+          value: "Het opgegeten geld"
+        },
+        {
+          key:"connection-id",
+          value: "hxlir7c64fdhigshid%S#54ruS"
+        },
+        {
+          key:"description",
+          value: "Dokter van de Laan heeft het geld teruggevonden in een pizza."
+        },
+        {
+          key: "date",
+          value: new Date(2018, 6, 1)
+        },
+        {key:"connections-with", value: 
+          [
+            {
+              group: "events",
+              name: "event-345643"
+            },
+            {
+              group: "connections",
+              name: "connection-34y2tfwd"
+            }
+          ]
+        },
+      ],
+      [
+        {
+          key:"name",
           value: "Ontslag medewerkers"
         },
         {
@@ -301,6 +333,12 @@ const dataBaseRaw = [
                   description: "Na het ontslaan van een groot deel van de medewerkers, kon de productie voor een nieuw zorgproduct niet doorgaan.",
                   a: "ghfhf485%fdhj#54ruS",
                   b: "35gfhfhf485%fdhuhi3utgf#54ruS"
+                },
+                {
+                  name: "Opgegeten geld terecht",
+                  description: "Na het ontslaan van een groot deel van de medewerkers, kon de productie voor een nieuw zorgproduct niet doorgaan.",
+                  a: "ghfhf485%fdhj#54ruS",
+                  b: "hxlir7c64fdhigshid%S#54ruS"
                 }
               ]
             }
@@ -1184,5 +1222,10 @@ for (let i=0; i < dataBaseRaw.length; i++) {
 
 
 
-sortTimeline (true);
-renderConnectionGraph ();
+window.addEventListener("load", function () {
+  sortListOnKey(document.getElementById("sources-container"), "name", true)
+  sortListOnKey(document.getElementById("document-container"), "name", true)
+  sortTimeline (true);
+  renderConnectionGraph ();
+}, false)
+

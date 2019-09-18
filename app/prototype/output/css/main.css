@@ -57,7 +57,7 @@ hr {
   margin: 0;
 }
 
-body {
+body, select {
   font-family: "Montserrat", "Helvetica", sans-serif;
   font-size: 1.125rem;
   line-height: 1.2;
@@ -79,7 +79,7 @@ body {
 }
 
 .grid-2-column-auto {
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
 }
 
 body > header .info-blocks {
@@ -188,8 +188,14 @@ select {
   position: relative;
   padding-right: 1.5rem;
   display: block;
-  font-size: 14px;
+  color: #666666;
+  font-weight: lighter;
 }
+
+figcaption {
+  font-size: 0.875rem;
+}
+
 
 .select-wrapper {
   position: relative;
@@ -229,13 +235,13 @@ button {
 
   margin: 0;
 
-      margin-top: 0px;
+  margin-top: 0px;
 
   text-align: center;
 
   border-radius: 2px;
 
-  font-size: 13px;
+  font-size: 0.875rem;
 
   color: #292f32;
 
@@ -261,8 +267,6 @@ button {
   vertical-align: middle;
 
   cursor: pointer;
-
-  white-space: nowrap;
 
   -webkit-user-select: none;
 

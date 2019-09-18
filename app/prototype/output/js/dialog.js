@@ -40,7 +40,16 @@ let closeDialog;
         }, {
           key: "phonenumber",
           friendlyName: "Telefoonnummer:"
-        }];
+        },
+        {
+          key: "bedrijf",
+          friendlyName: "Bedrijf:"
+        },
+        {
+          key: "functie",
+          friendlyName: "Functie:"
+        }
+        ];
         const propertyTemplate = [];
         for (let i = 0; i < propertyList.length; i++) {
           const property = propertyList[i];
