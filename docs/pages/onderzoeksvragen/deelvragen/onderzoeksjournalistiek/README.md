@@ -1,5 +1,7 @@
 # Onderzoeksjournalistiek
 
+Wat is een onderzoeksjournalist en wat doet hij of zij?
+
 ## Wat we denken dat het is:
 
 **Vanuit een handleiding voor onderzoeksjournalistiek heb ik een definitie opgezocht. \(Dit is handmatig vertaald uit het Engels\)**
