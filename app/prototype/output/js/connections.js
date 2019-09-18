@@ -166,7 +166,7 @@ function renderConnectionGraph () {
     .selectAll("line")
     .data(data.links)
     .enter()
-    .append("line")
+    .append("path")
     .attr("class", "bounding-box-line")
   ;
       // const getDataFromLine = function (e) {
@@ -252,56 +252,70 @@ function renderConnectionGraph () {
 
 
     link
-        .attr("x1", 
-          function(d) {
-            let x1 = d.source.x;
-            let y1 = d.source.y;
-            let x2 = d.target.x;
-            let y2 = d.target.y;
+    .attr("d",
+      function(d) {
+        let x1 = d.source.x;
+        let y1 = d.source.y;
+        let x2 = d.target.x;
+        let y2 = d.target.y;
+        const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        const posX1 = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+        const posY1 = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+        const posX2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+        const posY2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+        return "M" + posX1 + "," + posY1 + " " + posX2 + "," + posY2; // M100,200 C100,100 400,100 400,200
+      })
+
+        // .attr("x1", 
+        //   function(d) {
+        //     let x1 = d.source.x;
+        //     let y1 = d.source.y;
+        //     let x2 = d.target.x;
+        //     let y2 = d.target.y;
   
-            const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        //     const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
             
-            const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+        //     const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
             
-            return posX; 
-          })
-        .attr("y1",
-        function(d) {
-          let x1 = d.source.x;
-          let y1 = d.source.y;
-          let x2 = d.target.x;
-          let y2 = d.target.y;
+        //     return posX; 
+        //   })
+        // .attr("y1",
+        // function(d) {
+        //   let x1 = d.source.x;
+        //   let y1 = d.source.y;
+        //   let x2 = d.target.x;
+        //   let y2 = d.target.y;
 
-          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
           
-          const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+        //   const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
           
-          return posY; 
-        })
-        .attr("x2", function(d) {
-          let x1 = d.source.x;
-          let y1 = d.source.y;
-          let x2 = d.target.x;
-          let y2 = d.target.y;
+        //   return posY; 
+        // })
+        // .attr("x2", function(d) {
+        //   let x1 = d.source.x;
+        //   let y1 = d.source.y;
+        //   let x2 = d.target.x;
+        //   let y2 = d.target.y;
 
-          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
           
-          const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+        //   const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
           
-          return posX; 
-        })
-        .attr("y2", function(d) {
-          let x1 = d.source.x;
-          let y1 = d.source.y;
-          let x2 = d.target.x;
-          let y2 = d.target.y;
+        //   return posX; 
+        // })
+        // .attr("y2", function(d) {
+        //   let x1 = d.source.x;
+        //   let y1 = d.source.y;
+        //   let x2 = d.target.x;
+        //   let y2 = d.target.y;
 
-          const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
           
-          const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+        //   const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
           
-          return posY; 
-        })
+        //   return posY; 
+        // })
         .on("click", function (d, i) {
           // use d
           if (d != undefined) {
@@ -451,59 +465,74 @@ function renderConnectionGraph () {
     ;
 
     link
-    .attr("x1", 
+      .attr("d",
       function(d) {
         let x1 = d.source.x;
         let y1 = d.source.y;
         let x2 = d.target.x;
         let y2 = d.target.y;
-
         const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-        
-        const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
-        d.copyOfdomLink.setAttribute("x1", posX);
-        return posX; 
+        const posX1 = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+        const posY1 = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+        const posX2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+        const posY2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+        const path = "M" + posX1 + "," + posY1 + " " + posX2 + "," + posY2; // M100,200 C100,100 400,100 400,200
+        d.copyOfdomLink.setAttribute("d", path);
+        return path;
       })
-    .attr("y1",
-    function(d) {
-      let x1 = d.source.x;
-      let y1 = d.source.y;
-      let x2 = d.target.x;
-      let y2 = d.target.y;
+    // .attr("x1", 
+    //   function(d) {
+    //     let x1 = d.source.x;
+    //     let y1 = d.source.y;
+    //     let x2 = d.target.x;
+    //     let y2 = d.target.y;
 
-      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+    //     const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+        
+    //     const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
+    //     d.copyOfdomLink.setAttribute("x1", posX);
+    //     return posX; 
+    //   })
+    // .attr("y1",
+    // function(d) {
+    //   let x1 = d.source.x;
+    //   let y1 = d.source.y;
+    //   let x2 = d.target.x;
+    //   let y2 = d.target.y;
+
+    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
       
-      const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
+    //   const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
       
-      d.copyOfdomLink.setAttribute("y1", posY);
+    //   d.copyOfdomLink.setAttribute("y1", posY);
 
-      return posY; 
-    })
-    .attr("x2", function(d) {
-      let x1 = d.source.x;
-      let y1 = d.source.y;
-      let x2 = d.target.x;
-      let y2 = d.target.y;
+    //   return posY; 
+    // })
+    // .attr("x2", function(d) {
+    //   let x1 = d.source.x;
+    //   let y1 = d.source.y;
+    //   let x2 = d.target.x;
+    //   let y2 = d.target.y;
 
-      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
       
-      const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
-      d.copyOfdomLink.setAttribute("x2", posX);
+    //   const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
+    //   d.copyOfdomLink.setAttribute("x2", posX);
 
-      return posX; 
-    })
-    .attr("y2", function(d) {
-      let x1 = d.source.x;
-      let y1 = d.source.y;
-      let x2 = d.target.x;
-      let y2 = d.target.y;
+    //   return posX; 
+    // })
+    // .attr("y2", function(d) {
+    //   let x1 = d.source.x;
+    //   let y1 = d.source.y;
+    //   let x2 = d.target.x;
+    //   let y2 = d.target.y;
 
-      const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
+    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
       
-      const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
-      d.copyOfdomLink.setAttribute("y2", posY);
-      return posY; 
-    })
+    //   const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
+    //   d.copyOfdomLink.setAttribute("y2", posY);
+    //   return posY; 
+    // })
     labelName
         .attr("x", function (d) { return d.x; })
         .attr("y", function(d) { return d.y - 25; })
@@ -555,7 +584,7 @@ function renderConnectionGraph () {
             return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2; 
           })
           .attr("y1", posY)
-          .attr("y2", posY + 43)
+          .attr("y2", posY + 143)
         ;
 
         }
@@ -563,26 +592,35 @@ function renderConnectionGraph () {
     ;
 
     link
-      .attr("x1", 
-        function(d) {
-          const posX = spacing * (nodeCount-1) * scaleTime(d.source.item.getData("date")) + spacing / 2
-          d.copyOfdomLink.setAttribute("x1", posX);
-          return posX; 
-        })
-      .attr("y1",
+      .attr("d",
       function(d) {
-        d.copyOfdomLink.setAttribute("y1", posY);
-        return posY; 
+        const posX1 = spacing * (nodeCount-1) * scaleTime(d.source.item.getData("date")) + spacing / 2;
+        const posX2 = spacing * (nodeCount-1) * scaleTime(d.target.item.getData("date")) + spacing / 2;
+        const bounce = 10 + Math.min((posX2 - posX1) * 0.3, 140);
+        const path = "M" + posX1 + "," + posY + " C" + posX1 + "," + (posY + bounce) + " " + posX2  + "," + (posY + bounce) + " " + posX2 + "," + posY; // M100,200 C100,100 400,100 400,200
+        d.copyOfdomLink.setAttribute("d", path);
+        return path;
       })
-      .attr("x2", function(d) {
-        const posX = spacing * (nodeCount-1) * scaleTime(d.target.item.getData("date")) + spacing / 2;
-        d.copyOfdomLink.setAttribute("x2", posX);
-        return posX; 
-      })
-      .attr("y2", function(d) {
-        d.copyOfdomLink.setAttribute("y2", posY);
-        return posY; 
-      })
+      // .attr("x1", 
+      //   function(d) {
+      //     const posX = spacing * (nodeCount-1) * scaleTime(d.source.item.getData("date")) + spacing / 2
+      //     d.copyOfdomLink.setAttribute("x1", posX);
+      //     return posX; 
+      //   })
+      // .attr("y1",
+      // function(d) {
+      //   d.copyOfdomLink.setAttribute("y1", posY);
+      //   return posY; 
+      // })
+      // .attr("x2", function(d) {
+      //   const posX = spacing * (nodeCount-1) * scaleTime(d.target.item.getData("date")) + spacing / 2;
+      //   d.copyOfdomLink.setAttribute("x2", posX);
+      //   return posX; 
+      // })
+      // .attr("y2", function(d) {
+      //   d.copyOfdomLink.setAttribute("y2", posY);
+      //   return posY; 
+      // })
     ;
 
     labelName
@@ -616,7 +654,7 @@ function renderConnectionGraph () {
     
     axis.call(d3.axisBottom(axisScale).tickFormat(d3.timeFormat("%d-%m-%Y"))); //d3.timeFormat("%Y-%m-%d")
 
-    axis.attr("transform", "translate(" + (spacing / 2) + ", " + (posY + 50) + ")")
+    axis.attr("transform", "translate(" + (spacing / 2) + ", " + (posY + 150) + ")")
 
   }
 }

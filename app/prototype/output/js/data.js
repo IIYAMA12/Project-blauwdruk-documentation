@@ -282,7 +282,7 @@ const dataBaseRaw = [
       [
         {
           key:"name",
-          value: "Annulering lancering zorgproduct"
+          value: "Annulering zorgproduct"
         },
         {
           key:"connection-id",
@@ -335,8 +335,8 @@ const dataBaseRaw = [
                   b: "35gfhfhf485%fdhuhi3utgf#54ruS"
                 },
                 {
-                  name: "Opgegeten geld terecht",
-                  description: "Na het ontslaan van een groot deel van de medewerkers, kon de productie voor een nieuw zorgproduct niet doorgaan.",
+                  name: "Eindbestemming geld waarschijnlijk terecht",
+                  description: "Het geld is waarschijnlijk besteed aan pizza, dat verteld Nard Brabander in een verklaring.",
                   a: "ghfhf485%fdhj#54ruS",
                   b: "hxlir7c64fdhigshid%S#54ruS"
                 }
@@ -370,7 +370,7 @@ const dataBaseRaw = [
           key:"motive", value: "De omzet van zorggeld eters is rekenkundig onmogelijk te behalen met het aantal in dienst genomen personeel."
         },
         {
-          key:"goal", value: "Achterhalen of bedrijg `Zorggeld eters` niet fraude pleegt."
+          key:"goal", value: "Achterhalen of bedrijf `Zorggeld eters` niet fraude pleegt."
         },
         {key:"connections-with", value: 
           [

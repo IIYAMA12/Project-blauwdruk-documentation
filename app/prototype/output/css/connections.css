@@ -30,7 +30,7 @@
   font-size: 1rem;
   transform: rotate(0deg);
   transition: transform 0.6s;
-  
+  filter: drop-shadow(rgb(227, 230, 232) -1px -1px 1px);
 }
 
 #connections-graph-container.timeview .svg-name-label {
@@ -59,7 +59,7 @@
   transition: x 0.6s, y 0.6s;
 }
 
-line.line-effect {
+path.line-effect {
   stroke-width: 1px;
   stroke: #000;
   pointer-events: none;
@@ -67,23 +67,27 @@ line.line-effect {
   transition: x1 0.6s, y1 0.6s, x2 0.6s, y2 0.6s;
 }
 
-line.bounding-box-line {
+path.bounding-box-line {
   stroke-width: 2rem;
   stroke: rgba(218, 128, 128, 0);
   cursor: pointer;
   transition: x1 0.6s, y1 0.6s, x2 0.6s, y2 0.6s;
 }
 
-line.bounding-box-line:hover + line.line-effect, line.bounding-box-line.active-element + line.line-effect {
+path.bounding-box-line:hover + path.line-effect, path.bounding-box-line.active-element + path.line-effect {
   stroke: #DD3230;
   stroke-width: 3px;
   marker-end: url("#svgheadarrow-hover");
 }
 
+path.line-effect, path.bounding-box-line {
+  fill: none;
+}
 
 
 
-#connections-graph-container.timeview line.line-effect {
+
+#connections-graph-container.timeview path.line-effect {
   marker-end: unset!important;
   stroke-dasharray: 5;
 }
