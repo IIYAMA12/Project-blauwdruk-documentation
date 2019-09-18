@@ -10,18 +10,53 @@ Mocht het blauwdruk gevoelige data gaan bevatten, dan moet er een meer dan basic
 
 Hieronder aannames:
 
-> Belang bij niet gevoelige data:
+> Belang bij het niet tonen van gevoelige data in het product:
 >
 > * Bronnen
 > * Onderzoeksjournalisten die het invoert
 > * Ontwerper
+> * Onderzoeksjournalist die de tool wil gebruiken om het onderzoek uit te leggen voor het publiek/lezer.
 >
-> Belang bij gevoelige data:
+> Belang bij het tonen van gevoelige data in het product:
 >
-> * Onderzoeksjournalist die het wil gebruiken
+> * Onderzoeksjournalist die de tool wil gebruiken voorzichzelf of voor een collega die hij of zij kan vertrouwen.
 >
-> Standpunt nog niet ingenomen:
+> Ligt volledig aan de context:
 >
 > * Follow the Money
 > * Eindredactie
+>
+
+## Data omgeving
+
+Het eindproduct is een webapplicatie. 
+
+
+### Eigenschappen
+* De data is opgeslagen in localStorage.
+`localStorage` is een soort database om data op te slaan binnen een bepaald website domein. Deze data is lokaal opgeslagen, dat betekend dat de data op de computer wordt opgeslagen. 
+[localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+De keuze om localStorage te gebruiken heeft als voordeel dat de data niet verzonden hoeft te worden over het internet.
+
+
+* De webapplicatie is draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
+Het gebruik van een `service worker` heeft geen directe invloeden op de veiligheid van de data, maar verminderd de aanvragen van bestanden via het internet. Dit verminderd de kans op het downloaden van bestanden uit een overgenomen/gekaapte website binnen een specifiek website-domein. Je hebt dus meer controle over welke bestanden wel of niet gedownload worden.
+[Service worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+
+Kortom kan je offline werken als er geen of onbeveiligde wifi is.
+
+## Gemakkelijk updatebaar
+
+Websites vanaf de zijn altijd up-to-date. Je bezoek bijvoorbeeld je favoriete webwinkel en elke week dat je deze website bezoekt staan er weer nieuwe aanbiedingen op.
+
+### Ethische voordelen updates
+* Problemen verhelpen die tot ethische gevolgen leiden.
+
+
+### Ethische nadelen updates
+* Problemen veroorzaken die tot ethische gevolgen leiden.
+
+
+
 
