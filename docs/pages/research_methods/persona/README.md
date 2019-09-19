@@ -33,9 +33,9 @@ De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroe
 
 ![Persona 1](content/persona1.png)
 
-Persona 1 heb ik ingevuld meer in de richting van het opschrijven.
+Persona 1 heb ik ingevuld in de richting van: meer `opschrijven`.
 
 
 ![Persona 2](content/persona2.png)
 
-Persona 2 heb ik ingevuld meer in de richting van het `onthouden`.
+Persona 2 heb ik ingevuld in de richting van: meer `onthouden`.
