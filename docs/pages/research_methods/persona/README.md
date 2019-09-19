@@ -30,15 +30,15 @@ De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroe
 
 
 
-
+## Persona 1
 
 ![Persona 1](content/persona1.png)
 
-Persona 1 heb ik voor de `gedrag` eigenschappen ingevuld in de richting van: `meer opschrijven`.
+De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
 
 
-
+## Persona 2
 
 ![Persona 2](content/persona2.png)
 
-Persona 2 heb ik voor de `gedrag` eigenschappen ingevuld in de richting van: `meer onthouden`.
+De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer onthouden`.
