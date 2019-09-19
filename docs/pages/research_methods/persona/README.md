@@ -20,7 +20,11 @@ Kortom, deze onderscheidbare werkwijze hebben te maken met informatie
 De werkwijze onthouden is altijd aanwezig, je begint met je onderzoek en onthoud de belangrijkste informatie.
 De werkwijze opschrijven doe je om de cognitievelading te verminderen, zodat je weer nieuwe informatie kan opnemen.
 
-Het is niet als of je moet kiezen welke werkwijze er nodig is om een onderzoek uit te voeren. Je kan ook ongeveer 30% onthouden en 70% opschrijven proberen. (per onderdeel dat je onderzoekt of het onderzoek in zijn geheel)
+Het is niet als of je moet kiezen welke werkwijze er nodig is om een onderzoek uit te voeren. Je kan bijvoorbeeld 30% onthouden en 70% opschrijven proberen.
+__Deze verhouding gebruiken:__
+* per onderdeel dat je onderzoekt.
+* bij het onderzoek in zijn geheel.
+
 
 
 Onderzoekers en onderzoeksjournalist hebben vaak te maken met veel onderzoeksinformatie. De hoeveelheid onderzoeksinformatie die je wegschrijft en juist probeert te onthouden heeft grotendeels met jouw voorkeur te maken. (Wat werkt goed voor jouw?) Alles proberen te onthouden betekend ook meer risico dat je iets daarvan vergeet en meer opschrijven __kan__ betekenen dat het langer duurt voordat je het teruggevonden hebt. Er komen nog andere scenario's bij kijken, zoals "je weet de informatie wel, maar je kan het op dat moment niet meer herrineren." of "je raakt je notities kwijt". Kenbaar?
