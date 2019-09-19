@@ -8,14 +8,21 @@ Van de onderzoeksjournalist heb ik 2 persona's gemaakt. Elk gebaseerd op twee ve
 ![Belangrijke onderscheidbare werkwijzen met onderzoeksdata](content/persona-classificatie.png)
 
 
-Het bijhouden van een onderzoek kan je met je hersenen doen of deze op te schrijven.
+__Het bijhouden van een onderzoek kan je doen door informatie:__
+* te onthouden.
+* op te schrijven (medium?)
+
 {% hint style="tip" %}
-Het type medium mag je er zelf bij bedenken. 
+Het type medium voor opschrijven van informatie mag je er zelf bijbedenken. 
 {% endhint %}
 
-Kortom, deze onderscheidbare werkwijze hebben te maken met informatie
-* Opschrijven (in een medium)
+---
+
+Kortom, deze onderscheidbare werkwijze heeft te maken met informatie:
 * Onthouden (met je hersenen)
+* Opschrijven (in een medium)
+
+---
 
 De werkwijze onthouden is altijd aanwezig, je begint met je onderzoek en onthoud de belangrijkste informatie.
 De werkwijze opschrijven doe je om de cognitievelading te verminderen, zodat je weer nieuwe informatie kan opnemen.
