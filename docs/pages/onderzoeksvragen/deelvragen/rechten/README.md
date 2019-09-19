@@ -7,7 +7,7 @@ Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?
 Voor nu, alleen de onderzoeksjournalist die er meebezig is. Het project wordt anders te groot voor de tijd die er voor is.
 
 ## Toekomst (na oplevering)
-Een verzameling onderzoeksjournalisten uit verschillende journalistieke instanties en Follow the Money. Journalistiek instanties Zoals: [Omroep brabant](https://www.omroepbrabant.nl/), [RTV Oost](https://www.rtvoost.nl/)
+Een verzameling onderzoeksjournalisten uit verschillende journalistieke instanties en altijd Follow the Money. Journalistiek instanties Zoals: [Omroep brabant](https://www.omroepbrabant.nl/), [RTV Oost](https://www.rtvoost.nl/)
 
 
 {% hint style='working' %}
