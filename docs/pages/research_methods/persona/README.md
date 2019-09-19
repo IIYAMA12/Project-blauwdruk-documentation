@@ -28,6 +28,7 @@ De werkwijze onthouden is altijd aanwezig, je begint met je onderzoek en onthoud
 De werkwijze opschrijven doe je om de cognitievelading te verminderen, zodat je weer nieuwe informatie kan opnemen.
 
 Het is niet als of je moet kiezen welke werkwijze er nodig is om een onderzoek uit te voeren. Je kan bijvoorbeeld 30% onthouden en 70% opschrijven proberen.
+
 __Deze verhouding gebruiken:__
 * per onderdeel dat je onderzoekt.
 * bij het onderzoek in zijn geheel.
@@ -41,11 +42,19 @@ De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroe
 
 
 
+
 ## Persona 1
 
 ![Persona 1](content/persona1.png)
 
 De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
+
+### Aannamen:
+De onderzoeksjournalist die meer opschrijft binnen een digitaal medium, zal pas iets met het product gaan doen als deze fijn kan samenwerken met de tools die al gebruikt worden.
+
+___Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
+* todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software
+* todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport
 
 
 ## Persona 2
@@ -53,3 +62,11 @@ De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
 ![Persona 2](content/persona2.png)
 
 De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer onthouden`.
+
+### Aannamen:
+De onderzoeksjournalist die minder opschrijft binnen een digitaal medium, zal waarschijnlijk zijn gewoontes niet veranderen, **mits** de meerwaarden van het product zoveel hoger ligt dan de energie die er in gestoken wordt. 
+
+__Deze aannamen is gebaseerd op:__
+>
+> Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of publiek.
+>
