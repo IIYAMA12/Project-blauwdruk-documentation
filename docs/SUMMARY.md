@@ -7,6 +7,7 @@
 		* [Follow the Money lezer](pages/stakeholders/follow_the_money_lezer/README.md)
 		* [Follow the Money leden](pages/stakeholders/follow_the_money_leden/README.md)
 		* [Onderzoeksjournalist](pages/stakeholders/onderzoeksjournalist/README.md)
+			* [Beschrijving](pages/stakeholders/onderzoeksjournalist/description/README.md)
 			* [Persona](pages/research_methods/morfologische kaart/persona/README.md)
 		* [Regiojournalist](pages/stakeholders/regiojournalist/README.md)
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
