@@ -103,7 +103,7 @@
 			* [2.0.0](pages/prototypes/input/2.0.0/README.md)
 		* [output](pages/prototypes/output/README.md)
 			* [1.0.0](pages/prototypes/output/1.0.0/README.md)
-			* [2.0.0](pages/prototypes/output/2.0.0/README.md)
+			* [1.1.0](pages/prototypes/output/1.1.0/README.md)
 	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
 	* [Bijlage](pages/bijlage/README.md)
