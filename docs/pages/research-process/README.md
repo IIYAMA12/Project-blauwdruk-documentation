@@ -1,5 +1,11 @@
 # Onderzoeksproces
 
+{% hint style='working' %}
+Hier komt een samenvatting van het onderzoeksproces. Dit is momenteel in opbouw.
+{% endhint %}
+
+
+
 ## Data en gebruik analyse
 Boek: Het Verborgen Scenario
 
