@@ -59,6 +59,6 @@ function scrollToTimelineElementHighlight (element) {
     highlightElement.classList.add("scroll-to-element-highlight");
     setTimeout(function () {
       highlightElement.classList.remove("scroll-to-element-highlight");
-    }, 700);
+    }, 1300);
   }
 };

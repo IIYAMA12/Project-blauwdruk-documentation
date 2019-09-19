@@ -143,11 +143,18 @@ function renderConnectionGraph () {
     }
   }
 
-  const relations = connectionInfo.getData("connections-with")[0].relations;
+  const relations = connectionInfo.getData("connections-with").filter(function (d) {
+    if (d.group == "connections") {
+      return true;
+    }
+    return false;
+  })[0].relations;
+  
   if (typeof(relations) == "object") {
-    console.log(relations);
     for (let i = 0; i < relations.length; i++) {
       const relation = relations[i];
+      console.log(relation);
+      
       const item1 = connectionIdToItem[relation.a];
       const item2 = connectionIdToItem[relation.b];
       if (item1 != undefined && item2 != undefined) {
@@ -155,7 +162,8 @@ function renderConnectionGraph () {
           name: relation.name,
           description: relation.description,
           source: item1.id,
-          target: item2.id
+          target: item2.id,
+          item: relation,
         };
       }
     }
@@ -340,6 +348,22 @@ function renderConnectionGraph () {
                 toInfoContainer.classList.add("hidden");
               }
 
+              const connectedContent = connectionDetails.getElementsByClassName("connected-content")[0];
+              if (connectedContent != undefined) {
+                connectedContent.innerHTML = "";
+                const item = d.item;
+                templateEngine.render(
+                  [
+
+                      {
+                        content: templatingConnectedButtons,
+                        type: "function",
+                        data: item
+                      }
+                    
+                    ], connectedContent);
+              }
+
               connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
             }
           } else {
@@ -384,7 +408,6 @@ function renderConnectionGraph () {
           }
         )
         .on("click", function (d) {
-          // scrollToTimelineElementByItem(d.item) 
           const item = d.item;
           if (d != undefined) {
 
@@ -417,12 +440,27 @@ function renderConnectionGraph () {
                     if (previousItem) {
                       dataManager.detachElement(button, previousItem);
                     }
-                    console.log(dataManager.getItemFromElement(button));
+                   
                     dataManager.attachElement(button, item);
                   }
+
                 } else {
                   toInfoContainer.classList.add("hidden");
                 }
+              }
+              const connectedContent = connectionDetails.getElementsByClassName("connected-content")[0];
+              if (connectedContent != undefined) {
+                connectedContent.innerHTML = "";
+                templateEngine.render(
+                  [
+
+                      {
+                        content: templatingConnectedButtons,
+                        type: "function",
+                        data: item
+                      }
+                    
+                    ], connectedContent);
               }
 
               connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});

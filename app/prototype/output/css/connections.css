@@ -18,7 +18,7 @@
 #connections-graph-container svg text {
   /* pointer-events: none; */
 }
-
+ 
 
 
 .svg-name-label, .svg-type-label {
@@ -96,6 +96,9 @@ path.line-effect, path.bounding-box-line {
 .connection-details {
   background-color: white;
   border-radius: 5px 5px 0 0;
+  display: grid;
+  grid-template-columns: auto max-content;
+  column-gap: 2rem;
 }
 
 .event-nodes {
@@ -120,9 +123,9 @@ path.line-effect, path.bounding-box-line {
 
 
 .connection-details__description {
-  columns: 2;
+  /* columns: 2;
   column-gap: 4rem;
-  column-fill: auto;
+  column-fill: auto; */
   max-height: 6rem;
   overflow-y: scroll;
   margin-bottom: 1rem;

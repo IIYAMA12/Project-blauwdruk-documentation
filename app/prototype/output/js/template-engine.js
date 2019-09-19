@@ -58,6 +58,7 @@ const templateEngine = (function () {
                 switch(type) {
                     case "function": // Let a custom function handle how the elements are created.
                         return (function () {
+                           
                             let elementsOrDataWithElement = content(data, parent, instruction);
 
 
