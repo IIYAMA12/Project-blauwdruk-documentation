@@ -1,6 +1,8 @@
 # Task analyse
 
-   
+{% hint style='danger' %}
+Het content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk niet meer gelijk met het huidige product.
+{% endhint %}
 
 ![Task analyse v1.0.0](content/task-analyse.png)  
 

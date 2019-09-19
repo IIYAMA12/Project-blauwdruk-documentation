@@ -1,5 +1,10 @@
 # Jobstories
 
+
+{% hint style='danger' %}
+Het content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk niet meer gelijk met het huidige product.
+{% endhint %}
+
 ## Profiel motivaties
 
 ## Hoofdvragen
