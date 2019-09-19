@@ -10,5 +10,5 @@ Voor nu, alleen de onderzoeksjournalist die er meebezig is. Het project wordt an
 Meedere onderzoeksjournalisten vanuit meerdere journalistieke instanties. Zoals: [Omroep brabant](https://www.omroepbrabant.nl/)
 
 {% hint style='working' %}
-Er moet nog een verwijzing worden toegevoegd, naar een productrichting voor het samenwerkingsverband met meerdere onderzoeksjournalisten. Dit heeft betrekking op de ontwikkeling van FTM pitch. Bij pitch werken meerdere journalistieke instanties samen om onderzoek te doen naar een door het publiek(Nederlanders) gekozen onderwerp onderzoek te doen. Lees hier meer over:[FTM pitch](https://www.ftm.nl/pitch/)
+Er moet nog een verwijzing worden toegevoegd, naar een productrichting voor het samenwerkingsverband met meerdere onderzoeksjournalisten. Dit heeft betrekking op de ontwikkeling van FTM pitch. Bij pitch werken meerdere journalistieke instanties samen om onderzoek te doen naar een door het publiek(Nederlanders) gekozen onderwerp. Lees hier meer over [FTM pitch](https://www.ftm.nl/pitch/).
 {% endhint %}
