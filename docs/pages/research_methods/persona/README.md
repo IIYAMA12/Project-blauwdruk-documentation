@@ -52,7 +52,7 @@ De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
 ### Aannamen:
 De onderzoeksjournalist die meer opschrijft binnen een digitaal medium, zal pas iets met het product gaan doen als deze fijn kan samenwerken met de tools die al gebruikt worden.
 
-___Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
+__Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
 * todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software
 * todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport
 
@@ -67,6 +67,7 @@ De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer onthouden`.
 De onderzoeksjournalist die minder opschrijft binnen een digitaal medium, zal waarschijnlijk zijn gewoontes niet veranderen, **mits** de meerwaarden van het product zoveel hoger ligt dan de energie die er in gestoken wordt. 
 
 __Deze aannamen is gebaseerd op:__
+
 >
-> Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of publiek.
+> Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of mijn lezers.
 >
