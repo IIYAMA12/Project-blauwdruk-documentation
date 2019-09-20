@@ -1,4 +1,4 @@
-|                         | Invulvrijheid | Opties / standaarden              | Extra omschrijving | Gebruikt in: Invoeren van onderzoeksdata | Gebruikt in: Visuele weergave van onderzoeksdata |
+| Datanaam                | Invulvrijheid | Opties / standaarden              | Extra omschrijving | Invoeren van onderzoeksdata | Visuele weergave van onderzoeksdata |
 |-------------------------|---------------|-----------------------------------|--------------------|------------------------------------------|--------------------------------------------------|
 | Naam                    |               |                                   |                    | x                                        | x                                                |
 | Link naar document      |               |                                   |                    | x                                        |                                                  |
