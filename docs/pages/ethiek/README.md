@@ -48,7 +48,7 @@ Het eindproduct is een webapplicatie.
 De keuze om localStorage te gebruiken heeft als voordeel dat de data niet verzonden hoeft te worden over het internet.
 
 
-* De webapplicatie is draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
+* De webapplicatie draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
 Het gebruik van een `service worker` heeft geen directe invloeden op de veiligheid van de data, maar verminderd de aanvragen van bestanden via het internet. Dit verminderd de kans op het downloaden van bestanden uit een overgenomen/gekaapte website binnen een specifiek website-domein. Je hebt dus meer controle over welke bestanden wel of niet gedownload worden.
 [Service worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
