@@ -184,13 +184,13 @@ let closeDialog;
             friendlyName: "Referentie:"
           }, {
             key: "document-status",
-            friendlyName: "Document status:"
+            friendlyName: "Documentstatus:"
           }, {
             key: "validation-status",
-            friendlyName: "Validatie status:"
+            friendlyName: "Validatiestatus:"
           }, {
             key: "date-of-issue",
-            friendlyName: "Uitgifte datum:"
+            friendlyName: "Uitgiftedatum:"
           }, {
             key: "publisher",
             friendlyName: "Uitgever:"
