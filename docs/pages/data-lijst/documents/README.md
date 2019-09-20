@@ -1,0 +1,14 @@
+|                         | Invulvrijheid | Opties / standaarden                | Extra omschrijving | Gebruikt in: Invoeren van onderzoeksdata | Gebruikt in: Visuele weergave van onderzoeksdata |
+|-------------------------|---------------|-------------------------------------|--------------------|------------------------------------------|--------------------------------------------------|
+| Naam                    |               |                                     |                    | x                                        | x                                                |
+| Link naar document      |               |                                     |                    | x                                        |                                                  |
+| Beschrijving            |               |                                     |                    | x                                        |                                                  |
+| Bestandstype            |               |                                     |                    | x                                        |                                                  |
+| Screenshots             |               |                                     |                    | x                                        | x                                                |
+| Screenshot beschrijving |               |                                     |                    |                                          | x (screenshot bestandsnaam)                      |
+| Bronvermelding          |               |                                     | APA, MLA           | x                                        | x                                                |
+| Documentstatus          |               | Gelekt / openbaar / (Niet openbaar) |                    |                                          |                                                  |
+| Validatiestatus         |               | Gevalideerd / ongevalideerd         |                    |                                          |                                                  |
+| Notitie                 |               |                                     |                    | x                                        | (uitgesloten)                                    |
+| Uitgiftedatum           | Alleen datums |                                     |                    | x                                        | x                                                |
+| Uitgever                |               |                                     |                    | x                                        | x                                                |
