@@ -9,4 +9,4 @@
 | Start datum onderzoek |               |                      |                                               | x                           | x                                   |
 | Publicatiedatum       |               |                      |                                               | x                           | x                                   |
 | Bijgedragen aan       |               |                      |                                               | x                           | x                                   |
-| Notitie               |               |                      |                                               | x                           | x                                   |
+| Notitie               |               |                      |                                               | x                           | (Uitgesloten)                                   |
