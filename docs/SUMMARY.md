@@ -57,7 +57,7 @@
 				* [Resultaten](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/resultaten.md)
 			* [1.1.0](pages/ontwerpproces/input/1.1.0/README.md)
 			* [2.0.0](pages/ontwerpproces/input/2.0.0/README.md)
-		* [Doorzoekbaar document](pages/ontwerpproces/output/README.md)
+		* [Visuele weergave](pages/ontwerpproces/output/README.md)
 			* [Startpunt](pages/ontwerpproces/output/start-point/README.md)
 			* [1.0.0](pages/ontwerpproces/output/1.0.0/README.md)
 			* [1.1.0](pages/ontwerpproces/output/1.1.0/README.md)

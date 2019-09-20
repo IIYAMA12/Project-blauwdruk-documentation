@@ -2,9 +2,9 @@
 
 ![Uitleg van 2 ontwerpflows](content/explanatory.png)
 
-## Invoeren van onderzoeksdata
+## Invoergedeelte - onderzoeksdata
 
-## Doorzoekbaar document
+## Visuele weergave - onderzoeksdata
 
 ## Startdatums ontwerpprocessen
 
