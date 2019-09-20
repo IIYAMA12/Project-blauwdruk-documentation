@@ -179,3 +179,21 @@ path.line-effect, path.bounding-box-line {
   stroke-width: 2;
   marker-end: url("#svgheadarrow-white");
 }
+
+
+.event-nodes .show-date {
+  display: none;
+}
+
+.timeview .event-nodes:hover .show-date  {
+  display: inline;
+}
+
+.event-nodes .show-date .date-background {
+  fill: #DD3230;
+}
+
+.event-nodes .show-date .date-text {
+  fill: white;
+  text-anchor: middle;
+}

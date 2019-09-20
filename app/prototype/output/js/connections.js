@@ -207,6 +207,26 @@ function renderConnectionGraph () {
     .attr("class","time-bind-line")
   ;
 
+  const showDate = node
+    .append("g")
+    .attr("class", "show-date")
+  ;
+
+  showDate
+    .append("rect")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("width", 0)
+    .attr("height", "24")
+    .attr("class", "date-background")
+  ;
+  showDate
+    .append("text")
+    .attr("x", 0)
+    .attr("y", 0)
+    .attr("class", "date-text")
+  ;
+
   node
     .append("circle")
       .attr("r", 15)
@@ -273,57 +293,6 @@ function renderConnectionGraph () {
         const posY2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
         return "M" + posX1 + "," + posY1 + " " + posX2 + "," + posY2; // M100,200 C100,100 400,100 400,200
       })
-
-        // .attr("x1", 
-        //   function(d) {
-        //     let x1 = d.source.x;
-        //     let y1 = d.source.y;
-        //     let x2 = d.target.x;
-        //     let y2 = d.target.y;
-  
-        //     const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-            
-        //     const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
-            
-        //     return posX; 
-        //   })
-        // .attr("y1",
-        // function(d) {
-        //   let x1 = d.source.x;
-        //   let y1 = d.source.y;
-        //   let x2 = d.target.x;
-        //   let y2 = d.target.y;
-
-        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-          
-        //   const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
-          
-        //   return posY; 
-        // })
-        // .attr("x2", function(d) {
-        //   let x1 = d.source.x;
-        //   let y1 = d.source.y;
-        //   let x2 = d.target.x;
-        //   let y2 = d.target.y;
-
-        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-          
-        //   const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
-          
-        //   return posX; 
-        // })
-        // .attr("y2", function(d) {
-        //   let x1 = d.source.x;
-        //   let y1 = d.source.y;
-        //   let x2 = d.target.x;
-        //   let y2 = d.target.y;
-
-        //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-          
-        //   const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
-          
-        //   return posY; 
-        // })
         .on("click", function (d, i) {
           // use d
           if (d != undefined) {
@@ -518,59 +487,7 @@ function renderConnectionGraph () {
         d.copyOfdomLink.setAttribute("d", path);
         return path;
       })
-    // .attr("x1", 
-    //   function(d) {
-    //     let x1 = d.source.x;
-    //     let y1 = d.source.y;
-    //     let x2 = d.target.x;
-    //     let y2 = d.target.y;
 
-    //     const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-        
-    //     const posX = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[0];
-    //     d.copyOfdomLink.setAttribute("x1", posX);
-    //     return posX; 
-    //   })
-    // .attr("y1",
-    // function(d) {
-    //   let x1 = d.source.x;
-    //   let y1 = d.source.y;
-    //   let x2 = d.target.x;
-    //   let y2 = d.target.y;
-
-    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-      
-    //   const posY = extendLine2D(x2, y2, x1, y1, distance - distanceFromNode)[1];
-      
-    //   d.copyOfdomLink.setAttribute("y1", posY);
-
-    //   return posY; 
-    // })
-    // .attr("x2", function(d) {
-    //   let x1 = d.source.x;
-    //   let y1 = d.source.y;
-    //   let x2 = d.target.x;
-    //   let y2 = d.target.y;
-
-    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-      
-    //   const posX = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[0];
-    //   d.copyOfdomLink.setAttribute("x2", posX);
-
-    //   return posX; 
-    // })
-    // .attr("y2", function(d) {
-    //   let x1 = d.source.x;
-    //   let y1 = d.source.y;
-    //   let x2 = d.target.x;
-    //   let y2 = d.target.y;
-
-    //   const distance = getDistanceBetweenPoints2D(x2, y2, x1, y1);
-      
-    //   const posY = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
-    //   d.copyOfdomLink.setAttribute("y2", posY);
-    //   return posY; 
-    // })
     labelName
         .attr("x", function (d) { return d.x; })
         .attr("y", function(d) { return d.y - 25; })
@@ -602,11 +519,12 @@ function renderConnectionGraph () {
       
       
 
-
+    const formatDate = d3.timeFormat("%d-%m-%Y");
     node
       .each(
         function (d) {
           const selectedNodes = d3.select(this);
+          
 
           selectedNodes.select("circle")
           .attr("cx", function (d, i) { 
@@ -625,6 +543,38 @@ function renderConnectionGraph () {
           .attr("y2", posY + 143)
         ;
 
+          const showDate = selectedNodes.select(".show-date");
+          
+
+          const dateBackground = showDate.select(".date-background");
+          const dateText = showDate.select(".date-text");
+      
+          
+          dateText
+            .text(function (d) {
+              return formatDate(d.item.getData("date"));
+            })
+            .attr("x", function (d) {
+              return spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2;
+            })
+            .attr("y", posY + 122)
+          ;
+          
+          showDate.style("display", "inline");
+
+          const box = dateText.node().getBBox();
+          const dateTextWidth = box.width;
+
+          showDate.style("display", "");
+
+          dateBackground
+            .attr("x", function (d) {
+              return (spacing * (nodeCount-1) * scaleTime(d.item.getData("date")) + spacing / 2) - (dateTextWidth / 2) - 4;
+            })
+            .attr("y", posY + 104)
+            .attr("width", dateTextWidth + 8)
+          ;
+
         }
       )
     ;
@@ -639,26 +589,6 @@ function renderConnectionGraph () {
         d.copyOfdomLink.setAttribute("d", path);
         return path;
       })
-      // .attr("x1", 
-      //   function(d) {
-      //     const posX = spacing * (nodeCount-1) * scaleTime(d.source.item.getData("date")) + spacing / 2
-      //     d.copyOfdomLink.setAttribute("x1", posX);
-      //     return posX; 
-      //   })
-      // .attr("y1",
-      // function(d) {
-      //   d.copyOfdomLink.setAttribute("y1", posY);
-      //   return posY; 
-      // })
-      // .attr("x2", function(d) {
-      //   const posX = spacing * (nodeCount-1) * scaleTime(d.target.item.getData("date")) + spacing / 2;
-      //   d.copyOfdomLink.setAttribute("x2", posX);
-      //   return posX; 
-      // })
-      // .attr("y2", function(d) {
-      //   d.copyOfdomLink.setAttribute("y2", posY);
-      //   return posY; 
-      // })
     ;
 
     labelName
