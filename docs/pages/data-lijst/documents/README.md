@@ -1,5 +1,6 @@
 | Datanaam                | Invulvrijheid | Opties / standaarden              | Extra omschrijving | Invoeren van onderzoeksdata | Visuele weergave van onderzoeksdata |
 |-------------------------|---------------|-----------------------------------|--------------------|------------------------------------------|--------------------------------------------------|
+| Identifier                      | Niet invulbaar              |                                   |                    | x                                        | x                  |
 | Naam                    |               |                                   |                    | x                                        | x                                                |
 | Link naar document      |               |                                   |                    | x                                        |                                                  |
 | Beschrijving            |               |                                   |                    | x                                        |                                                  |
