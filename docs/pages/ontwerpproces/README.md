@@ -16,6 +16,10 @@ __Naar:__ Visuele weergave
 Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij van belang dat ik keuzes maak welke ontwerp ik het verste uitwerk. De keuze die ik gemaakt heb, is het ontwerp de `visuele weergave van de onderzoeksdata` geworden. De belangrijkste reden achter deze keuze, aannamen: Je kan de frictie / drempel van het `invoergedeelte` zo laag mogelijk maken door slimmen oplossingen te verzinnen, maar als de __meerwaarde__ van de `Visuele weergave` niet een veelvoud van het `invoergedeelte` is, dan is de drempel nogsteeds te hoog om het daadwerkelijk te gaan gebruiken.
 
 
-## Start datums ontwerpen
+## Startdatums ontwerpen
 
 ![Startdatums ontwerpen](content/startdatums.png)
+
+
+## Waarom 2 ontwerpen?
+Lees verder op de volgende pagina.
