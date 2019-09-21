@@ -5,19 +5,39 @@
   color: #666666;
   border-radius: 5px;
   padding: 0.7rem 0.7rem 0.7rem 2.5rem;
+  position: relative;
+}
+
+.connected-content-button:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 0.6rem;
+  background: rgba(0,0,0,0) url("../assets/show-list-gray.svg") no-repeat;
+  background-size: 2.5rem;
+  background-position: 50% 100%;
 }
 
 .connected-content-button.source {
   background: white url("../assets/bron-gray-icon.svg") no-repeat;
-  background-position: 0.7rem 50%;
+  background-position: 0.8rem 50%;
   background-size: 1rem;
 }
 
 .connected-content-button-wrapper:not(.close) .connected-content-button.source, .connected-content-button.source:hover {
   background: #666666 url("../assets/bron-white-icon.svg") no-repeat;
-  background-position: 0.7rem 50%;
+  background-position: 0.8rem 50%;
   background-size: 1rem;
   color: white;
+}
+
+.connected-content-button-wrapper:not(.close) .connected-content-button.source:after, .connected-content-button.source:hover:after, .connected-content-button.doc:hover:after  {
+  background: rgba(0,0,0,0) url("../assets/show-list-white.svg") no-repeat;
+  background-size: 2.5rem;
+  background-position: 50% 100%;
 }
 
 .connected-content-button.doc {

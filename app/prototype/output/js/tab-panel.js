@@ -16,9 +16,9 @@ let changeTab;
           const tab = tabs[value];
           if (tab != undefined) {
             for (let i = 0; i < tabs.length; i++) {
-              tabs[i].classList.add("hidden");
+              tabs[i].classList.add("invisible");
             }
-            tab.classList.remove("hidden");
+            tab.classList.remove("invisible");
           }
         }
       }
@@ -37,9 +37,9 @@ let changeTab;
         const tab = tabs[value];
         if (tab != undefined) {
           for (let i = 0; i < tabs.length; i++) {
-            tabs[i].classList.add("hidden");
+            tabs[i].classList.add("invisible");
           }
-          tab.classList.remove("hidden");
+          tab.classList.remove("invisible");
         }
       }
     }

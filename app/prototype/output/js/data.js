@@ -99,12 +99,12 @@ const dataBaseRaw = [
     items: [
       [
         {key:"name", value: "Jaarverslag zorg 20-06-2018"},
-        {key:"description", value: "Het Jaarverslag van `Zorggeld eters` uit 2018."},
+        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2018."},
         {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2018. Opgevraagd op 21-07-2018 van www.jaarverslag-zorg.nl"},
         {key:"document-status", value: "Openbaar"},
         {key:"validation-status", value: "(geen)"},
         {key:"date-of-issue", value: "20-06-2018"},
-        {key:"publisher", value: "Zorggeld eters"},
+        {key:"publisher", value: "'Zorggeld-eters'"},
         {key:"screenshots", value: [
           "jaarverslag-2018/jaarverslag-2018.png",
           "jaarverslag-2018/jaarverslag-2018_2.png",
@@ -123,12 +123,12 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Jaarverslag zorg 20-06-2019"},
-        {key:"description", value: "Het Jaarverslag van `Zorggeld eters` uit 2019."},
+        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2019."},
         {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2019. Opgevraagd op 21-07-2017 van www.jaarverslag-zorg.nl"},
         {key:"document-status", value: "Openbaar"},
         {key:"validation-status", value: "(geen)"},
         {key:"date-of-issue", value: "20-06-2019"},
-        {key:"publisher", value: "Zorggeld eters"},
+        {key:"publisher", value: "'Zorggeld-eters'"},
         {key:"screenshots", value: [
           "jaarverslag-2019/jaarverslag-2019.png",
           "jaarverslag-2019/jaarverslag-2019_2.png",
@@ -192,7 +192,7 @@ const dataBaseRaw = [
       [
         {
           key:"name",
-          value: "Faillissement bv. Zorggeld eters"
+          value: "Faillissement BV 'Zorggeld-eters'"
         },
         {
           key:"connection-id",
@@ -200,7 +200,7 @@ const dataBaseRaw = [
         },
         {
           key:"description",
-          value: "Het faillissement aanvraag van bv. Zorggeld eters is nu officieel ingediend."
+          value: "Het faillissement aanvraag van BV 'Zorggeld-eters' is nu officieel ingediend."
         },
         {
           key: "date",
@@ -290,7 +290,7 @@ const dataBaseRaw = [
         },
         {
           key:"description",
-          value: "De investeerders van Zorggeld eters zijn verbijsterd over de annulering van de product lancering. Het bedrijf Zorggeld eters heeft namelijk de investeerders nog niet geinformeerd over het faillissement."
+          value: "De investeerders van 'Zorggeld-eters' zijn verbijsterd over de annulering van de product lancering. Het bedrijf 'Zorggeld-eters' heeft namelijk de investeerders nog niet geinformeerd over het faillissement."
         },
         {
           key: "date",
@@ -359,13 +359,13 @@ const dataBaseRaw = [
     items: [
       [
         {
-          key:"question", value: "Waarom is de omzet van zorggeld eters veelmaler hoger dan de gemiddelde zorgleveraar?"
+          key:"question", value: "Waarom is de omzet van 'Zorggeld-eters' veelmaler hoger dan de gemiddelde zorgleveraar?"
         },
         {
           key:"answers", value: 
           [
             {
-              value: "Hieruit is te concluderen dat de wet artikel 461 overtreden is door het management van Zorggeld eters.",
+              value: "Hieruit is te concluderen dat de wet artikel 461 overtreden is door het management van 'Zorggeld-eters'.",
               tags: [
                 "conclusion"
               ]
@@ -373,10 +373,10 @@ const dataBaseRaw = [
           ]
         },
         {
-          key:"motive", value: "De omzet van zorggeld eters is rekenkundig onmogelijk te behalen met het aantal in dienst genomen personeel."
+          key:"motive", value: "De omzet van 'Zorggeld-eters' is rekenkundig onmogelijk te behalen met het aantal in dienst genomen personeel."
         },
         {
-          key:"goal", value: "Achterhalen of bedrijf `Zorggeld eters` niet fraude pleegt."
+          key:"goal", value: "Achterhalen of bedrijf 'Zorggeld-eters' geen fraude pleegt."
         },
         {key:"connections-with", value: 
           [
@@ -389,7 +389,7 @@ const dataBaseRaw = [
       ],
       [
         {
-          key:"question", value: "Waarom krijgt het bedrijf Zorggeld eters nog subsidie vanuit de overheid terwijl het onduidelijk is waar het geld aan besteed wordt?"
+          key:"question", value: "Waarom krijgt het bedrijf 'Zorggeld-eters' nog subsidie vanuit de overheid terwijl het onduidelijk is waar het geld aan besteed wordt?"
         },
         {
           key:"answers", value: 

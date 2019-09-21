@@ -84,12 +84,25 @@ path.line-effect, path.bounding-box-line {
   fill: none;
 }
 
+@-webkit-keyframes move-line-effect {
+  from {stroke-dashoffset: 0;}
+  to {stroke-dashoffset: 1000px;}
+}
+
+
 
 
 
 #connections-graph-container.timeview path.line-effect {
   marker-end: unset!important;
   stroke-dasharray: 5;
+}
+
+#connections-graph-container.timeview path.bounding-box-line:hover + path.line-effect, #connections-graph-container.timeview path.bounding-box-line.active-element + path.line-effect {
+  stroke-dashoffset: 0;
+  animation: move-line-effect 240s infinite;
+  animation-direction: reverse;
+  animation-timing-function: linear;
 }
 
 
