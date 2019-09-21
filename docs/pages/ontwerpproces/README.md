@@ -5,8 +5,9 @@ In dit hoofdstuk wordt uitgelegd hoe de ontwerpen van dit product tot stand zijn
 
 ## Vertakking naar een tweede ontwerp
 Het eerste ontwerpt, het `invoergedeelte van de onderzoeksdata` heeft zich vertakt in een tweede ontwerp.
-* Invoergedeelte
-* Visuele weergave
+
+__Vanaf:__ Invoergedeelte 
+__Naar:__ Visuele weergave
 
 
 ![Uitleg van 2 ontwerpflows](content/explanatory.png)
@@ -15,3 +16,6 @@ Het eerste ontwerpt, het `invoergedeelte van de onderzoeksdata` heeft zich verta
 Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij van belang dat ik keuzes maak welke ontwerp ik het verste uitwerk. De keuze die ik gemaakt heb, is het ontwerp de `visuele weergave van de onderzoeksdata` geworden. De belangrijkste reden achter deze keuze, aannamen: Je kan de frictie / drempel van het `invoergedeelte` zo laag mogelijk maken door slimmen oplossingen te verzinnen, maar als de __meerwaarde__ van de `Visuele weergave` niet een veelvoud van het `invoergedeelte` is, dan is de drempel nogsteeds te hoog om het daadwerkelijk te gaan gebruiken.
 
 
+## Start datums ontwerpen
+
+[Startdatums ontwerpen](content/startdatums.png)
