@@ -18,4 +18,4 @@ Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij 
 
 ## Start datums ontwerpen
 
-[Startdatums ontwerpen](content/startdatums.png)
+![Startdatums ontwerpen](content/startdatums.png)
