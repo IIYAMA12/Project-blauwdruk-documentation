@@ -6,6 +6,9 @@ Het ontwerpproces van het `Invoeren van onderzoeksdata` begon vanaf het moment d
 
 __De basis voor dit ontwerpt begon bij het begrijpen van:__
 
+* de eerste onderzoeksvragen opstellen.
+{% page-ref page="research-questions/README.md" %}
+
 * de context van de onderzoeksjournalist.
 {% page-ref page="context/README.md" %}
 
