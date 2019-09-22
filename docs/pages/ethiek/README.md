@@ -56,7 +56,7 @@ Kortom kan je offline werken als er geen of onbeveiligde wifi is.
 
 ## Gemakkelijk updatebaar
 
-Websites vanaf de zijn altijd up-to-date. Je bezoek bijvoorbeeld je favoriete webwinkel en elke week dat je deze website bezoekt staan er weer nieuwe aanbiedingen op.
+Websites zijn vrijwel altijd up-to-date met wat de server serveert, dit in vergelijking met bijvoorbeeld je Photoshop applicatie die je vaak handmatig moet updaten.
 
 ### Ethische voordelen updates
 * Problemen verhelpen die tot ethische gevolgen leiden.
