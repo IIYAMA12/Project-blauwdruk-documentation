@@ -81,8 +81,6 @@ De data is alleen beschikbaar via een unieke webadres. Dit betekend dat andere w
 [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 
-De keuze om localStorage te gebruiken heeft als voordeel dat de data niet verzonden hoeft te worden over het internet.
-
 
 ### Offline WEB-APP
 * De webapplicatie draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
