@@ -70,5 +70,5 @@ __Deze aannamen is gebaseerd op deze wens:__
 
 > Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of mijn lezers.
 
-Deze wens komt uit:
-* [Interview](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/eindredactie/~/settings/integrations) afgenomen bij Karin Spaink
+
+Die wens is weergebaseerd op het probleem dat sommige artikelen erg moeilijk zijn om te begrijpen. Dat probleem komt naarvoren uit dit [interview, afgenomen bij Karin Spaink.](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/eindredactie/~/settings/integrations) 
