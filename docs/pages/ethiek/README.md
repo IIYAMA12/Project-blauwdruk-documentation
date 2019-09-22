@@ -33,21 +33,25 @@ Het eindproduct is een webapplicatie.
 
 
 ### Eigenschappen
+* Lokale opslag
+* Offline WEB-APP
+
+
+### Opslag
 * De data word opgeslagen in de [IndexedDB](https://developers.google.com/web/ilt/pwa/working-with-indexeddb)
 
+#### IndexedDB
 
 
-
-#### localStorage 
+#### localStorage
 `localStorage` is een soort database om data op te slaan binnen een bepaald website domein. Deze data is lokaal opgeslagen, dat betekend dat de data op de computer wordt opgeslagen. Maar na naderonderzoek blijkt het minder veilig te zijn dan de IndexedDB, [volgens dit artikel](https://dev.to/rdegges/please-stop-using-local-storage-1i04).
 [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-
-
 
 
 De keuze om localStorage te gebruiken heeft als voordeel dat de data niet verzonden hoeft te worden over het internet.
 
 
+### Offline WEB-APP
 * De webapplicatie draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
 Het gebruik van een `service worker` heeft geen directe invloeden op de veiligheid van de data, maar verminderd de aanvragen van bestanden via het internet. Dit verminderd de kans op het downloaden van bestanden uit een overgenomen/gekaapte website binnen een specifiek website-domein. Je hebt dus meer controle over welke bestanden wel of niet gedownload worden.
 [Service worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
