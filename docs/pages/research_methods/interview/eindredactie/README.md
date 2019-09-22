@@ -12,8 +12,10 @@ Algemeen: De waar je tegenaanloopt verschilt echt per verhaal.
 
 __Resultaten samengevat:__
 
-* Waar kan ik externe informatie vinden? \(Link\)
 * [x] Onderwerp begrijpen
+
+> * Waar kan ik externe informatie vinden? \(Link\)
+
 
 ### Loop je tegen het probleem aan dat het onderwerp lastig te begrijpen is?
 
