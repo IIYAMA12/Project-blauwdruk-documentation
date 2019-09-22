@@ -31,7 +31,7 @@ Hieronder aannames:
 
 Het eindproduct is een webapplicatie. 
 
-__Deze keuze heb ik gemaakt voor de volgende redenen: (Niet alle punten zijn vanuit ethiek beschreven)__
+__Deze keuze heb ik gemaakt voor de volgende redenen: (Niet alle punten zijn vanuit ethiek standpunt geschreven)__
 * Onderzoeksjournalisten maken veel gebruik van de Webbrowser voor het vakgebied.
   * Het CMS van Follow the Money draait op een webapplicatie. 
   * Deskresearch gebeurt in de webbrowser.

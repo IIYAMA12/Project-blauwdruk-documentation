@@ -51,6 +51,7 @@
 	* [Ontwerpproces](pages/ontwerpproces/README.md)
 		* [Invoeren van onderzoeksdata](pages/ontwerpproces/input/README.md)
 			* [Startpunt](pages/ontwerpproces/input/start-point/README.md)
+				* [Onderzoeksvragen](pages/ontwerpproces/input/start-point/research-questions/README.md)
 				* [Context onderzoeksjournalist](pages/ontwerpproces/input/start-point/context/README.md)
 				* [Wensen van Follow the Money](pages/ontwerpproces/input/start-point/wish-client/README.md)
 				* [Onderzoeksproces onderzoeksjournalist](pages/ontwerpproces/input/start-point/research-process/README.md)
