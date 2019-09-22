@@ -42,9 +42,25 @@ Het eindproduct is een webapplicatie.
 
 #### IndexedDB
 
+De indexedDB is een offline browser data-base gebruikt om offline data op te slaan.
+
+
+> Each IndexedDB database is unique to an origin (typically, this is the site domain or subdomain), meaning it cannot access or be accessed by any other origin. 
+(Google, z.d.-b)
+
+De data is alleen beschikbaar via een unieke webadres. Dit betekend dat andere websites geen toegang tot deze data kunnen verschaffen.
+
+
+![Browser ondersteuning (Caniuse, z.d.)](content/indexedDB.png)
+
+[Browser ondersteuning: momenteel](https://caniuse.com/#search=IndexedDB)
+
+[IndexedDB API](https://developer.mozilla.org/nl/docs/IndexedDB)
+
 
 #### localStorage
 `localStorage` is een soort database om data op te slaan binnen een bepaald website domein. Deze data is lokaal opgeslagen, dat betekend dat de data op de computer wordt opgeslagen. Maar na naderonderzoek blijkt het minder veilig te zijn dan de IndexedDB, [volgens dit artikel](https://dev.to/rdegges/please-stop-using-local-storage-1i04).
+
 [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 

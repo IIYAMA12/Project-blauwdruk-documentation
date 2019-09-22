@@ -56,3 +56,10 @@ Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd 
 
 ## Inspiratie D3 voorbeelden
 Vilenski, E. (z.d.). Most basic network chart in d3.js. Geraadpleegd op 8 september 2019, van https://www.d3-graph-gallery.com/graph/network_basic.html
+
+
+## Web ondersteuning
+Caniuse. (z.d.). Method of storing data client-side, allows indexed database queries. [screenshot]. Geraadpleegd op 22 september 2019, van https://caniuse.com/#search=IndexedDB
+
+## Applicatie veiligheid
+Google. (z.d.-b). What is IndexedDB? Geraadpleegd op 22 september 2019, van https://developers.google.com/web/ilt/pwa/working-with-indexeddb
