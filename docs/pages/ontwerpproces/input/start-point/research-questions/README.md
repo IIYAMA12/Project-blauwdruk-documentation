@@ -9,7 +9,11 @@ __Legenda__
 * Hoofdvraag
   * Deelvraag
 
+----
 
+----
+
+__Onderzoeksvragen__
 * Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden? `DOORGRONDEN`
   * Welke vorm/content is het duidelijkste voor journalisten te doorscannen? (Zijn het korte stukjes tekst, of misschien wel een flowchart?)
 

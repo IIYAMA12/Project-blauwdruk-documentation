@@ -40,7 +40,6 @@
 						* [Werkwijze van Frank Meijers](pages/research_methods/co-creation/werkwijze_frank-meijers/README.md)
 						* [Werkwijze Thomas](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)
 			* [Vergelijken](pages/onderzoeksvragen/hoofdvragen/vergelijken/README.md)
-				* [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md)
 			* [Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
 				* [Stakeholders](pages/stakeholders/README.md)
 			* [Andere onderzoeksvragen]()
