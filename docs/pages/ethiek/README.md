@@ -31,7 +31,7 @@ Hieronder aannames:
 
 Het eindproduct is een webapplicatie. 
 
-__Deze keuze heb ik gemaakt voor de volgende redenen:__
+__Deze keuze heb ik gemaakt voor de volgende redenen: (Niet alle punten zijn vanuit ethiek beschreven)__
 * Onderzoeksjournalisten maken veel gebruik van de Webbrowser voor het vakgebied.
   * Het CMS van Follow the Money draait op een webapplicatie. 
   * Deskresearch gebeurt in de webbrowser.
@@ -39,11 +39,12 @@ __Deze keuze heb ik gemaakt voor de volgende redenen:__
 * Mocht een uitwerking van een journalistiekonderzoek worden gemaakt voor de doelgroep: Follow the Money lezer. Dan moet dat weer apart ontwikkeld worden voor op de website.
 * De applicatie is eenvoudig deelbaar met collega's, sinds op een centraalpunt kan wordt gehost.
 * De applicatie heeft geen toegang tot andere data dat op de onderzoeksjournalist zijn computer draait.
-* Follow the Money is nog klein en het produceren van een native applicatie voor zowel Mac OS en Windows valt ver buiten het budget.
+* Follow the Money is nog klein en het produceren van een native applicatie voor zowel Mac OS en Windows valt ver buiten het budget. Dat houd ook in dat de applicatie beschikbaar  gemaakt kan worden voor elk apparaat dat maar een browser ondersteund, klaar voor de toekomst!
 * De applicatie kan geüpdate worden zonder complexe update tools.
+* Ik kan zelf als ontwikkelaar beoordelen of er fouten in de code staan.
 
 
-__Nadelen voor deze keuze:__
+__Nadelen voor deze keuze ten opzichte van een native applicatie:__
 * Native apps kunnen hogere prestaties behalen, omdat er programmeertalen gebruikt kunnen worden die dichter bij de processor en het geheugen staan.
 * Data kan perongelijk gewist worden via browserinstellingen.
 * Mocht de browser geïnfecteerd worden dan kan de veiligheid van de data in het geding zijn.
