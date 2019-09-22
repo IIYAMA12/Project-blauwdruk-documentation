@@ -31,11 +31,27 @@ Hieronder aannames:
 
 Het eindproduct is een webapplicatie. 
 
+__Deze keuze heb ik gemaakt voor de volgende redenen:__
+* Onderzoeksjournalisten maken veel gebruik van de Webbrowser voor het vakgebied.
+  * Het CMS van Follow the Money draait op een webapplicatie. 
+  * Deskresearch gebeurt in de webbrowser.
+  * De Google apps (Docs, Sheets) draaien in de webbrowser.
+* Mocht een uitwerking van een journalistiekonderzoek worden gemaakt voor de doelgroep: Follow the Money lezer. Dan moet dat weer apart ontwikkeld worden voor op de website.
+* De applicatie is eenvoudig deelbaar met collega's, sinds op een centraalpunt kan wordt gehost.
+* De applicatie heeft geen toegang tot andere data dat op de onderzoeksjournalist zijn computer draait.
+* Follow the Money is nog klein en het produceren van een native applicatie voor zowel Mac OS en Windows valt ver buiten het budget.
+* De applicatie kan geüpdate worden zonder complexe update tools.
+
+
+__Nadelen voor deze keuze:__
+* Native apps kunnen hogere prestaties behalen, omdat er programmeertalen gebruikt kunnen worden die dichter bij de processor en het geheugen staan.
+* Data kan perongelijk gewist worden via browserinstellingen.
+* Mocht de browser geïnfecteerd worden dan kan de veiligheid van de data in het geding zijn.
+
 
 ### Eigenschappen
 * Lokale opslag
 * Offline WEB-APP
-
 
 ### Opslag
 * De data word opgeslagen in de [IndexedDB](https://developers.google.com/web/ilt/pwa/working-with-indexeddb)
@@ -48,7 +64,7 @@ De indexedDB is een offline browser data-base gebruikt om offline data op te sla
 > Each IndexedDB database is unique to an origin (typically, this is the site domain or subdomain), meaning it cannot access or be accessed by any other origin. 
 (Google, z.d.-b)
 
-De data is alleen beschikbaar via een unieke webadres. Dit betekend dat andere websites geen toegang tot deze data kunnen verschaffen.
+De data is alleen beschikbaar via een unieke webadres. Dit betekend dat andere websites geen toegang tot deze data hebben.
 
 
 ![Browser ondersteuning (Caniuse, z.d.)](content/indexedDB.png)
