@@ -66,8 +66,9 @@ De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer onthouden`.
 ### Aannamen:
 De onderzoeksjournalist die minder opschrijft binnen een digitaal medium, zal waarschijnlijk zijn gewoontes niet veranderen, **mits** de meerwaarden van het product zoveel hoger ligt dan de energie die er in gestoken wordt. 
 
-__Deze aannamen is gebaseerd op:__
+__Deze aannamen is gebaseerd op deze wens:__
 
->
 > Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of mijn lezers.
->
+
+Deze wens komt uit:
+* [Interview](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/eindredactie/~/settings/integrations) afgenomen bij Karin Spaink
