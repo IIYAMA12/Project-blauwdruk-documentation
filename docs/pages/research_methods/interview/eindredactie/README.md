@@ -19,14 +19,14 @@ __Resultaten samengevat:__
 
 ### Loop je tegen het probleem aan dat het onderwerp lastig te begrijpen is?
 
----
+
 
 __Resultaten samengevat:__
 
-* Er is tijd en moeite nodig om in te kruipen in het onderwerp.
-* Als de eindredactie het niet begrijpt, is er een grote kans dat de lezer het ook niet begrijpen. Een terugkoppeling kan leiden tot een leermoment voor de auteur en eindredactie.
-* Het niveau van het onderwerp speelt ook een belangrijke rol. Dit niveau is soms ook te hoog voor de auteur.
-* Elke keer als je een \(nieuw\) artikel delegeert leer je ook meer over het onderwerp en dit maakt het begrijpen er eenvoudiger van.
+> * Er is tijd en moeite nodig om in te kruipen in het onderwerp.
+> * Als de eindredactie het niet begrijpt, is er een grote kans dat de lezer het ook niet begrijpen. Een terugkoppeling kan leiden tot een leermoment voor de auteur en eindredactie.
+> * Het niveau van het onderwerp speelt ook een belangrijke rol. Dit niveau is soms ook te hoog voor de auteur.
+> * Elke keer als je een \(nieuw\) artikel delegeert leer je ook meer over het onderwerp en dit maakt het begrijpen er eenvoudiger van.
 
 ### Is het doel van elk stuk in het artikel altijd even duidelijk?
 
@@ -41,23 +41,23 @@ __Resultaten samengevat__
 
 __Resultaten samengevat:__
 
-* Dit is niet altijd relevant voor de eindredacteur.
-* [x] Feiten
-* [x] Aannames
-* [x] Conclusies
-* [x] Samenvatting
-* [ ] Data\(sets\)
 
-  -- Nog navragen
-
-* [ ] Lijst belanghebbende
-
-  -- Nog navragen
-
-* [ ] Notities / instructies
-
-  -- Nog navragen
-
-* [ ] Onderzoeksproces
-
-  -- Onbekend
+> * [x] Feiten
+> * [x] Aannames
+> * [x] Conclusies
+> * [x] Samenvatting
+> * [ ] Data\(sets\)
+>
+>  -- Nog navragen
+>
+> * [ ] Lijst belanghebbende
+>
+>  -- Nog navragen
+>
+> * [ ] Notities / instructies
+>
+>  -- Nog navragen
+>
+> * [ ] Onderzoeksproces
+>
+>  -- Dit is niet altijd relevant voor de eindredacteur.
