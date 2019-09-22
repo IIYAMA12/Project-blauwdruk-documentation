@@ -56,7 +56,7 @@
 				* [Context onderzoeksjournalist](pages/ontwerpproces/input/start-point/context/README.md)
 				* [Wensen van Follow the Money](pages/ontwerpproces/input/start-point/wish-client/README.md)
 				* [Onderzoeksproces onderzoeksjournalist](pages/ontwerpproces/input/start-point/research-process/README.md)
-			* [v1.0.0)](pages/ontwerpproces/input/1.0.0/README.md))
+			* [v1.0.0](pages/ontwerpproces/input/1.0.0/README.md))
 			* [Prototype v1.0.0](pages/ontwerpproces/input/1.0.0/prototype.md)
 				* [Boom hiërarchie v1.0.0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
 				* [Printen van het prototype](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
