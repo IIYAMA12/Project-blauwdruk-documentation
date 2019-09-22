@@ -1,12 +1,16 @@
 # Eindredactie
 
-Afgenomen bij: Karin Spaink Type interview: Semigestructureerd
+* Afgenomen bij: Karin Spaink 
+* Type interview: Semigestructureerd
 
 ## Waar loopt de eindredactie tegenaan?
 
-Algemeen: De waar je tegenaanloopt verschilt echt per verhaal.
 
 * [x] Transparantie
+
+__Resultaten samengevat:__
+> Algemeen: De waar je tegenaanloopt verschilt echt per verhaal.
+
 
 ### Loop je tegen het probleem aan dat er sommige informatie niet terug te vinden is?
 
@@ -14,7 +18,7 @@ __Resultaten samengevat:__
 
 * [x] Onderwerp begrijpen
 
-> * Waar kan ik externe informatie vinden? \(Link\)
+> Waar kan ik externe informatie vinden? \(Link\)
 
 
 ### Loop je tegen het probleem aan dat het onderwerp lastig te begrijpen is?
@@ -34,7 +38,7 @@ __Resultaten samengevat:__
 
 __Resultaten samengevat__
 
-* Bij sommige onderdelen is dit inderdaad niet altijd even duidelijk, de eindredacteur maakt hier wel een terugkoppeling van naar de auteur.
+> Bij sommige onderdelen is dit inderdaad niet altijd even duidelijk, de eindredacteur maakt hier wel een terugkoppeling van naar de auteur.
 
 ## Waar heb jij iets aan?
 
