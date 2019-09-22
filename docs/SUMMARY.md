@@ -51,6 +51,8 @@
 	* [Ontwerpproces](pages/ontwerpproces/README.md)
 		* [Invoeren van onderzoeksdata](pages/ontwerpproces/input/README.md)
 			* [Startpunt](pages/ontwerpproces/input/start-point/README.md)
+				* [Context](pages/ontwerpproces/input/context/README.md)
+				* [Onderzoeksproces](pages/ontwerpproces/input/research-process/README.md)
 			* [Prototype 1.0.0](pages/ontwerpproces/input/1.0.0/README.md)
 				* [Boom hiërarchie 1.0.0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
 				* [Printen van het prototype](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
