@@ -70,7 +70,7 @@
 				* [Verbanden](pages/ontwerpproces/input/1.1.0/components/connections.md)
 			* [Prototype v1 . 1 . 0](pages/ontwerpproces/input/1.1.0/prototype.md)
 			* [v2 . 0 . 0](pages/ontwerpproces/input/2.0.0/README.md)
-			* [Prototype v2 . 0 . 0](pages/ontwerpproces/input/2.0.0/prototype.md)
+			* [Prototype v2_0_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 		* [Visuele weergave](pages/ontwerpproces/output/README.md)
 			* [Startpunt](pages/ontwerpproces/output/start-point/README.md)
 			* [Prototype v1 . 0 . 0](pages/ontwerpproces/output/1.0.0/README.md)
