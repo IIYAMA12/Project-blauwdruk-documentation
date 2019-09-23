@@ -84,7 +84,7 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
 
 ## Eerste design
 
-
+![Eerste design](content/design-1.0.0@4x.png)
 
 
 
