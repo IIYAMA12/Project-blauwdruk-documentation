@@ -50,9 +50,10 @@ Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een bo
 Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
 
-![Eerste indeling](schetsen29.png)
+![Eerste indeling](content/schetsen29.png)
 
 
 
 
-![](schetsen33.png)
+
+![Interactie elementen indeling](content/schetsen33.png)
