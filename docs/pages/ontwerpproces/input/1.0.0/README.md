@@ -45,16 +45,20 @@ Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een bo
 
 ## Eerste schetsen
 
+### Vormschetsen
+
 ![Geschikte vormen](content/schetsen28.png)
 
 Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
+### Eerste indeling
 
 ![Eerste indeling](content/schetsen29.png)
 
 Voor de eerste indeling heb ik het scherm in 2e gedeeld. De linkerkant wordt gebruikt voor de boomstructuur hiërarchie en de rechtekant is waar je details van bronnen kan weergegeven wanneer je ergens extra informatie over wilt hebben. De rechterkant is overigens standaard verborgen, totdat je details wil weergeven.
 
 
+### Informatiestructuur vrijheid
 
 ![Interactie elementen indeling](content/schetsen33.png)
 
@@ -67,24 +71,33 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
   * Invulveld waarde eigenschap.
 
 
+### Pas informatie direct aan bij de bron(entiteit) zelf
+
 ![Details](content/schetsen30.png)
 
-* Design pattern[Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor)
+* Design pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor)
 * Dupliceer eigenschap
 * Notitie veld toegevoegd
 * Type eigenschap
+
+### Categorieën
 
 ![Bron categorieën](content/schetsen31.png)
 
 * Categorieën als dropdown of tekst invulveld met suggesties
 * Tags in plaats van categorieën
 
+### Alles laten samenkomen
 
 ![Ruwe schets van een combinatie van alle punten hierboven](content/schetsen32.png)
 
 ## Eerste design
 
-![Eerste design](content/design-1.0.0@4x.png)
+![Eerste HiFi design](content/design-1.0.0@4x.png)
+
+Klaar voor een prototype!
+
+
 
 
 
