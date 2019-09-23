@@ -7,3 +7,8 @@ Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar
 
 ## Vanuit de opdracht, het concept 'receptenboek' is te statisch
 In de opdracht van Follow the Money word geschreven over een onderzoeksproces omzetten in een receptenboek. Maar voor het eindproduct heb ik gekozen voor het concept 'doorzoekbaar document', dit is net even wat anders. Bij een receptenboek moet je je aan het recept houden, anders kan je niet tot het 'verwachte' resultaat komen. Bij een 'doorzoekbaar document' kan je het onderzoek bekijken vanaf welk onderzoeksonderdeel dan ook. Je hoeft daar niet bovenaan een recept te beginnen om te begrijpen wat je gaat maken.
+
+
+## Term 'Blauwdruk'
+In deze biografie zal je de term 'Blauwdruk' meerdere malen terugvinden. De term is bedacht aan het begin van dit onderzoek en werd gezien als een flexibele versie van een receptenboek. Ik kan begrijpen dat je als lezer de term 'Blauwdruk' verwarrend vind, maar het is in principe gewoon een bouwtekening van iets. Het bevat net zo als bij een recept ingrediënten/bouwstenen maar het is minder strikt hoe iets gedaan moet worden. Je kan beginnen waar je wil beginnen als de fundering maar staat.
+
