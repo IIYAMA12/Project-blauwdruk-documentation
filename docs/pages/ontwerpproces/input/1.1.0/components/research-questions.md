@@ -23,3 +23,5 @@ Beschrijvingen toevoegen
 ![](content/onderzoeksvragen/schetsen16.png)
 
 ![Onderzoeksvragen](content/designs4.png)
+
+Onderzoeksvragen opstellen en deze stellen aan bronnen(personen/organisaties).

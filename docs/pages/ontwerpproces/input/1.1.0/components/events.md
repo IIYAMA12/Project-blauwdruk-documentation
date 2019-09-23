@@ -20,3 +20,8 @@ Beschrijvingen toevoegen
 
 
 ![Gebeurtenissen in een tijdlijn](content/designs3.png)
+
+__Deze tijdlijn bestaat uit 3 delen:__
+* Datums
+* Gebeurtenis beschrijving + onderdelen
+* Verbanden van opeenvolging van gebeurtenissen.
