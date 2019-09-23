@@ -10,3 +10,5 @@ Beschrijvingen toevoegen
 ![](content/verbanden/schetsen5.png)
 
 ![Verbanden](content/designs5.png)
+
+Verbanden tussen entiteiten (bronnen) invullen, zodat er een visualisatie uitrolt.
