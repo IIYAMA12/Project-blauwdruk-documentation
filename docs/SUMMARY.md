@@ -50,6 +50,7 @@
 				* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
 	* [Planning](pages/planning/README.md)
 	* [Ontwerpproces](pages/ontwerpproces/README.md)
+		* [Context ontwerp](pages/ontwerpproces/context/README.md)
 		* [Invoeren van onderzoeksdata](pages/ontwerpproces/input/README.md)
 			* [Startpunt](pages/ontwerpproces/input/start-point/README.md)
 				* [Onderzoeksvragen](pages/ontwerpproces/input/start-point/research-questions/README.md)
