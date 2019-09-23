@@ -7,7 +7,7 @@
 		* [Follow the Money lezer](pages/stakeholders/follow_the_money_lezer/README.md)
 		* [Follow the Money leden](pages/stakeholders/follow_the_money_leden/README.md)
 		* [Onderzoeksjournalist](pages/stakeholders/onderzoeksjournalist/README.md)
-			* [Wat is een onderzoeksjournalist en wat doet hij of zij?](pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/README.md)
+			* [Beroep onderzoeksjournalist](pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/README.md)
 			* [(opbouw) Beschrijving](pages/stakeholders/onderzoeksjournalist/description.md)
 			* [Persona](pages/research_methods/persona/README.md)
 		* [Regiojournalist](pages/stakeholders/regiojournalist/README.md)
