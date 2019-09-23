@@ -18,11 +18,7 @@ De onderzoeksjournalist gebruikt objectieve informatie dat bestaat uit feiten en
 
 ## Vergelijking tussen de rollen journalist & onderzoeksjournalist
 
-![Vergelijking rollen journalist en onderzoeksjournalist](https://raw.githubusercontent.com/IIYAMA12/Project-blauwdruk-documentation/8db972f2a8c2b44ceb95a6a0d46bb8a7544b4605/docs/pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/content/SBI_Manual-11.png)
+![Vergelijking rollen journalist en onderzoeksjournalist \(Hanson et al., 2011, p.11\)](https://raw.githubusercontent.com/IIYAMA12/Project-blauwdruk-documentation/8db972f2a8c2b44ceb95a6a0d46bb8a7544b4605/docs/pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/content/SBI_Manual-11.png)
 
-[Afbeelding](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/8db972f2a8c2b44ceb95a6a0d46bb8a7544b4605/docs/pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/content/SBI_Manual-11.png)
-
-\(Hanson et al., 2011, p.11\)
-
-Links de journalist en rechts de onderzoeksjournalist.
+Aan de linkerkant van de afbeelding de journalist en aan de rechtekant de onderzoeksjournalist.
 
