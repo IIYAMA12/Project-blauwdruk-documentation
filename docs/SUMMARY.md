@@ -62,7 +62,7 @@
 				* [Boom hiërarchie v1_0_0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
 				* [Printen van het prototype](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
 				* [Resultaten](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/resultaten.md)
-			* [v1_1_0](pages/ontwerpproces/input/1.1.0/prototype.md)
+			* [v1_1_0](pages/ontwerpproces/input/1.1.0/README.md)
 				* [Algemene informatie](pages/ontwerpproces/input/1.1.0/components/general-information.md)
 				* [Documenten](pages/ontwerpproces/input/1.1.0/components/documents.md)
 				* [Gebeurtenissen](pages/ontwerpproces/input/1.1.0/components/events.md)
