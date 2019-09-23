@@ -11,6 +11,7 @@
 			* [(opbouw) Beschrijving](pages/stakeholders/onderzoeksjournalist/description.md)
 			* [Persona](pages/research_methods/persona/README.md)
 		* [Regiojournalist](pages/stakeholders/regiojournalist/README.md)
+		* [Bronnen](pages/stakeholders/bronnen/README.md)
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
 		* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 	* [Design challenge](pages/design-challenge/README.md)

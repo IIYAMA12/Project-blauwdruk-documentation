@@ -15,6 +15,8 @@
 
 ### Sub doelgroep
 
+{% page-ref page="bronnen/README.md" %}
+
 {% page-ref page="redacteur/README.md" %}
 
 {% page-ref page="regiojournalist/README.md" %}
