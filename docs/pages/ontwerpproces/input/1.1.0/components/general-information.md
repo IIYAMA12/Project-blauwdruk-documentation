@@ -1,3 +1,8 @@
 {% hint style='working' %}
-Invoegen
+Beschrijvingen toevoegen
 {% endhint %}
+
+
+
+
+![Onderzoeksvragen](content/designs2.png)
