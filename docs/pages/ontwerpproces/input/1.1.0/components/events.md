@@ -3,6 +3,10 @@ Beschrijvingen toevoegen
 {% endhint %}
 
 
+## Onderzoeksmethodes
+* [Tijdlijn analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/tijdlijn)
+* [Interviews met als onderwerp: tijdlijn](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn)
+* [Morfologische-kaart](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/morfologische-kaart/tijdlijn)
 
 ![](content/tijdlijn/schetsen17.png)
 

@@ -5,3 +5,6 @@ Het ontwerpproces van het `Visuele weergave` begon na de Feedback Frenzy. Het we
 De verzameling van de `visuele weergaven` van de onderzoeksdata, plaats ik nu onder de term: `Doorzoekbaar document`. Dit maakt dit ontwerp / onderwerp een stuk makkelijker uit te leggen. Het product geeft het niet alleen de data weer, maar bied ook de mogelijkheid om deze te doorzoeken.
 
 `Doorzoekbaar document` = Een document dat je op bepaalde manieren kan doorzoeken.
+
+
+* [Content analyse: Proces-verbaal](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/proces-verbaal)

@@ -11,3 +11,6 @@ __Naast het boomstructuur voor het invoeren van bronnen, zijn er nu ook concepte
 
 
 
+
+* [Content analyse: Masterfile](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/masterfile)
+* [Content analyse: onderzoeksrapport](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)

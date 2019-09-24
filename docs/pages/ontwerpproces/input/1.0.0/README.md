@@ -51,6 +51,8 @@ Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een bo
 
 Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
+Uitgewerkt tot [Morfologische-kaart](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/morfologische-kaart/entiteit).
+
 ### Eerste indeling
 
 ![Eerste indeling](content/schetsen29.png)

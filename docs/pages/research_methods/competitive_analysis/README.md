@@ -20,11 +20,11 @@ Dit project gaat over hoe `The Bureau of Investigative Journalism` een recept cr
 
 [The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com)
 
-![Recept overzicht](../.gitbook/assets/recept-overzicht.png)
+![Recept overzicht](content/recept-overzicht.png)
 
 Dit is de lijst met resources\(recept\) / reports en data. [Hier te vinden](https://www.thebureauinvestigates.com/projects/refuges/open-resources)
 
-![Recept indeling resource](../.gitbook/assets/recept-indeling.png)
+![Recept indeling resource](content/recept-indeling.png)
 
 Dit is de indeling van hoe een recept `resource` is ingedeeld, met daarin de documentatie en data.
 
