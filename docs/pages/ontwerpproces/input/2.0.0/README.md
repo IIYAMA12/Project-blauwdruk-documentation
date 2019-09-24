@@ -93,6 +93,7 @@ Deze modal komt tevoorschijn wanneer je op de knop VOEG ONDERDEEL TOE drukt van 
 
 
 
+
 ### Filter
 
 ![Filter](content/designs15.png)
