@@ -34,7 +34,7 @@ De algemene informatie van je project wordt hier weergegeven. Hier kan je ook de
 
 ![Bronnen](content/designs12.png)
 
-De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke bron kan je kenmerken hangen. Per eigenschap kan je kiezen welke kenmerken je wil tonen wanneer de venster details van de bron gesloten is. Met als uitgangspunt om alleen de informatie te tonen die voor jouw van belang is. Moet je bijvoorbeeld deze bron nog een paar keer bellen? Vink dan de checkbox aan naast het telefoonnummer.
+De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke bron kan je kenmerken hangen. Per eigenschap kan je kiezen welke kenmerken je wil tonen wanneer de  [details element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) van de bron gesloten is. Met als uitgangspunt om alleen de informatie te tonen die voor jouw van belang is. Moet je bijvoorbeeld deze bron nog een paar keer bellen? Vink dan de checkbox aan naast het telefoonnummer.
 
 ### Documenten
 
