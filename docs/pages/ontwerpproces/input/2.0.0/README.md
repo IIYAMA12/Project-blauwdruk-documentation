@@ -124,9 +124,6 @@ Het design heeft overigens nog twee problemen, die ik nog niet heb opgelost.
 __Indrukt wekt dat:__
 
 - [x] Wanneer deze aangekruist wordt,
-  - [ ]
-  - [ ]
-  - [ ]
 
 __...__
 
