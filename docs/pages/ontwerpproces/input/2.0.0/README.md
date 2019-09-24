@@ -62,7 +62,20 @@ De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke 
 
 ![Export opslaan](content/designs17.png)
 
-Exporteer je project naar een doorzoekbaar document. Alle informatie van je document is standaard uitgevinkt voor de veiligeheid. De gebruiker moet voor elke gegeven, entiteit en 
+Exporteer je project naar een doorzoekbaar document. Alle informatie van je document is standaard uitgevinkt voor de veiligeheid. De gebruiker moet voor elke datapunt bevestigen of deze in het doorzoekbare document komt. 
+
+#### Gekoppelde onderdelen
+Gekoppelde onderdelen binnen gebeurtenissen of verbanden worden alleen toegevoegd wanneer ze zelf zijn ingeschakeld.
+
+__Bijvoorbeeld:__
+
+Binnen een gebeurtenis komt een bron voor. Deze bron is een klokkenluider en heeft deze gebeurtenis gemeld aan de onderzoeksjournalist en wil graag annoniem blijven. Als de bron niet toegevoegd is aan het doorzoekbaar document zal deze ook niet terugkomen in de gekoppelde gebeurtenissen. Je ziet dan dat deze doorgestreept is met een rode lijn.
+
+__Nog niet opgelost probleem in deze versie van het ontwerp:__
+
+Het design heeft overigens nog 1 probleem, waar ik nog niet over uit ben. "Wat als de bron op meerde plekken in het onderzoeksdocument voor komt, maar alleen bij bepaalde gebeurtenissen mag terugkomen?" 
+
+
 
 ## Ontwikkeling van deze pagina's staan op pauze
 * Onderzoeksvragen
