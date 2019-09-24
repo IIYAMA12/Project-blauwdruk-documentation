@@ -20,8 +20,18 @@
 
 ![Gebeurtenissen](content/designs11.png)
 
+![Gebeurtenissen - onderdeel toevoegen](content/designs7.png)
+
 ![Verbanden](content/designs10.png)
 
+![Verbanden - gebeurtenis toevoegen](content/designs6.png)
+
+![Filter](content/designs15.png)
+
+
+![Export](content/designs16.png)
+
+![Export opslaan](content/designs17.png)
 
 ## Ontwikkeling van deze pagina's staan op pauze
 * Onderzoeksvragen
