@@ -116,8 +116,16 @@ Binnen een gebeurtenis komt een bron voor. Deze bron is een klokkenluider en hee
 
 __Nog niet opgelost probleem in deze versie van het ontwerp:__
 
-Het design heeft overigens nog 1 probleem, waar ik nog niet over uit ben. "Wat als de bron op meerde plekken in het onderzoeksdocument voor komt, maar alleen bij bepaalde gebeurtenissen mag terugkomen?" 
+Het design heeft overigens nog twee problemen, die ik nog niet heb opgelost. 
+* "Wat als de bron op meerde plekken in het onderzoeksdocument voor komt, maar alleen bij bepaalde gebeurtenissen mag terugkomen?" 
+* Checkboxen die meer content weergeven, kunnen de indrukwekken dat wanneer deze worden aangekruist, de vinkjes van de sub-onderdelen ook op dat moment worden aangekruist.
 
+
+
+- [x] Wanneer deze aangekruist wordt,
+  - [x] deze meegaat
+  - [x] en deze
+  - [x] en deze
 
 
 ## Ontwikkeling van deze pagina's staan op pauze
