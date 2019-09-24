@@ -44,7 +44,46 @@ De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke 
 
 ![Gebeurtenissen](content/designs11.png)
 
+__Belangrijke interactie elementen op deze pagina:__
+
+* Oudeste > nieuwste
+* + GEBEURTENIS
+* Nieuw verbandenweb
+* Koppelingen
+
+#### Oudeste > nieuwste
+
+De tijd van een tijdlijn omdraaien is een belangrijke functionaliteit. Als je de tijdlijn wil gebruiken om aan te vullen is het logischer om de nieuwste onderdelen boven aan te hebben. Maar wanneer je de opeenvolging van gebeurtenissen als verhaal wil beschouwen is het veel logischer om te beginnen met de oudste onderdelen.
+
+
+#### + GEBEURTENIS
+Voeg een nieuwe gebeurtenis toe aan de tijdlijn. Deze word toegevoegd op de plek waar je momenteel staat in de tijdlijn, ook al heb je nog geen tijd ingesteld. De gebeurtenis krijgt een tijd toegekent die precies tussen de gebeurtenissen op het scherm in valt.
+
+__Gebeurtenissen zichtbaar op het scherm:__
+* Datum 12-9-2019
+* Datum 15-9-2019
+
+__<__ Midden 16-9-2019 + nieuwe gebeurtenis.
+
+* Datum 17-9-2019
+* Datum 19-9-2019
+
+Deze gegenereerde datum wordt alleen als placeholder gebruikt voor gebruiksvriendlijkheid.
+
+#### Nieuw verbanden web
+
+Aan de rechterkant van de gebruikersinterface zijn rode circles zichtbaar met een plusteken erbij. Een label met de tekst 'Nieuw verbanden web' staat er naast. Deze functie kan je gebruiken om snel een verbanden web te maken vanaf deze gebeurtenis. Wanneer je daarop klikt zal je naar de pagina verbanden gaan, een nieuw 'verbanden web' wordt aangemaakt en het eerst volgende verband zal beginnen met de gebeurtenis waar de voegtoe knop (rode circle) aanvast zat.
+
+De verbanden die toegevoegd zijn worden automaties zichtbaar in de tijdlijn.
+
+Nog onduidelijk wat een verband inhouden? Lees verder bij het hoofdstuk verbanden iets verder hieronder.
+
+
+#### Koppelingen
+
 ![Gebeurtenissen - onderdeel toevoegen](content/designs7.png)
+
+Deze modal komt tevoorschijn wanneer je op de knop VOEG ONDERDEEL TOE drukt van de vorige afbeelding. Je hebt nu de mogelijkheid om een koppeling toe te voegen naar een: bron, document of onderzoeksvraag.
 
 ### Verbanden
 
@@ -52,9 +91,13 @@ De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke 
 
 ![Verbanden - gebeurtenis toevoegen](content/designs6.png)
 
+
+
 ### Filter
 
 ![Filter](content/designs15.png)
+
+Om rekening te houden met grote projecten waarbij veel onderdelen aanwezig zijn, kunnen filters handig zijn. Het filter systeem bestaat uit de zoekbalk, de eenvoudige filter waarbij je snel naar een onderdeel zoekt op naam en de geavanceerde filters. De geavanceerde filters kan je gebruiken door de checkbox met de label "Filter" aan te vinken. De logica van dit filtersysteem is gebasseerd op de filter gebruikersinterface die Follow the Money ook in het CMS gebruikt.
 
 ### Export
 
