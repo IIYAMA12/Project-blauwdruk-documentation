@@ -62,6 +62,8 @@ De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke 
 
 ![Export opslaan](content/designs17.png)
 
+Exporteer je project naar een doorzoekbaar document. Alle informatie van je document is standaard uitgevinkt voor de veiligeheid. De gebruiker moet voor elke gegeven, entiteit en 
+
 ## Ontwikkeling van deze pagina's staan op pauze
 * Onderzoeksvragen
 Het ontwerp het weergeven van de onderzoeksvragen is nog niet helemaal duidelijk. Daarom staat het de ontwikkeling van deze pagina tijdelijk op pauze.
