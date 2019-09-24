@@ -120,7 +120,14 @@ Het design heeft overigens nog twee problemen, die ik nog niet heb opgelost.
 * "Wat als de bron op meerde plekken in het onderzoeksdocument voor komt, maar alleen bij bepaalde gebeurtenissen mag terugkomen?" 
 * Checkboxen die meer content weergeven, kunnen de indrukwekken dat wanneer deze worden aangekruist, de vinkjes van de sub-onderdelen ook op dat moment worden aangekruist.
 
+__Indrukt wekt dat:__
 
+- [x] Wanneer deze aangekruist wordt,
+  - [ ]
+  - [ ]
+  - [ ]
+
+__...__
 
 - [x] Wanneer deze aangekruist wordt,
   - [x] deze meegaat
