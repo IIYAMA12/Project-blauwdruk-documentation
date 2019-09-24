@@ -11,7 +11,7 @@ __Dit ontwerp is opgebouwd uit het volgende onderdelen:__
 
 De inspiratie van deze indeling kwam vanuit de [content analyse van een Proces-verbaal](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/proces-verbaal).
 
-__De indeling van een Proces-verbaal:__
+__Indeling van een Proces-verbaal:__
 * Voorblad
 * Algemene Paragraaf
 * Verdachte-paragraaf
