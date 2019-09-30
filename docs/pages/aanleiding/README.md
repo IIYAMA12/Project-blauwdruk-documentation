@@ -20,9 +20,9 @@ __Bijvoorbeeld: (context | onderwerp zorg)__
 
 1. Een zorgbedrijf heeft Fraude gepleegd met zorggeld via een (niet ethisch) manier/constructie. De onderzoeksjournalist heeft onderzoek hier naar gedaan en dit uitgevonden hoe deze manier werkt.
 2. Een tweede zorgbedrijf bedrijf komt inbeeld omdat daar veel te veel winst is gemaakt, maar het is onduidelijk hoe deze dit heeft behaald.
-3. De onderzoeksjournalist zou met `dit product*` dat ontwikkeld is kunnen controleren of er met dezelfde manier fraude is gepleegd bij het tweede zorgbedrijf.
+3. De onderzoeksjournalist zou met `dit product*` kunnen controleren of er met dezelfde manier fraude is gepleegd bij het tweede zorgbedrijf.
 
-\* Het product dat ik nu aan het ontwikkelen ben.
+`\* Het product dat ik nu aan het ontwikkelen ben.`
 
 Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt.
 
