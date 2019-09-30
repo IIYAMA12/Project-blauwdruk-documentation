@@ -14,4 +14,3 @@ In de opdracht van Follow the Money word geschreven over een onderzoeksproces om
 ## Term 'Blauwdruk'
 In deze biografie zal je de term 'Blauwdruk' meerdere malen terugvinden. De term is bedacht aan het begin van dit onderzoek en werd gezien als een flexibele versie van een receptenboek. Ik kan begrijpen dat je als lezer de term 'Blauwdruk' verwarrend vind, maar het is in principe gewoon een bouwtekening van iets. Het bevat net zo als bij een recept ingrediënten/bouwstenen maar het is minder strikt hoe iets gedaan moet worden. Je kan beginnen waar je wil beginnen als de fundering maar staat.
 
-{% tooltip "sample tooltip" %} sample tooltip test with **Emphasis** {% endtooltip %}
