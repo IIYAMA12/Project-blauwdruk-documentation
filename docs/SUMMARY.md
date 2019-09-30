@@ -14,7 +14,6 @@
 		* [Bronnen](pages/stakeholders/bronnen/README.md)
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
 		* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
-	* [Woordenlijst](GLOSSARY.md)
 	* [Design challenge](pages/design-challenge/README.md)
 	* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 		* [hoofdvragen](pages/onderzoeksvragen/hoofdvragen/README.md)
