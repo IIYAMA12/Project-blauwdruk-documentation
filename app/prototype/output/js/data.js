@@ -367,7 +367,7 @@ const dataBaseRaw = [
             {
               value: "Hieruit is te concluderen dat de wet artikel 461 overtreden is door het management van 'Zorggeld-eters'.",
               tags: [
-                "conclusion"
+                "conclusie"
               ]
             }
           ]

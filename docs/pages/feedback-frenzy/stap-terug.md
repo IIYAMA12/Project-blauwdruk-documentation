@@ -111,6 +111,14 @@ Dit artikel gaat over het uitleggen van je onderzoek aan een skeptische belanghe
   * Handleiding? Het is meer dan een handleiding en ook een handleiding die je niet hoeft te volgen.
   * Misschien? Doorzoekbaar Onderzoeksjournalistiek Document Formaat. Afkorting: D.O.D.F. .dodf
 
+
+DUJO
+UDJO
+
+Doorzoekbaar Onderzoeksformaat Voor Journalisten
+DOVJ
+
+
 ## Todo
 - [ ] Persona maken
 - [ ] Vragenlijst beantwoorden, die hierboven is weergegeven
