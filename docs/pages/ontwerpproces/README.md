@@ -15,15 +15,31 @@ Een computer kan niet bepalen wat elk onderdeel van je onderzoek inhoud, zonder 
 
 Oplossing 1 is niet een gebruikersvriendelijke manier van informatie invoeren voor een niet programmeur. Oplossing 2 is veel beter geschikt voor de onderzoeksjournalist. Als je iets op [Google](https://www.google.nl/) opzoekt, maak je namelijk al gebruik van deze vorm van interactie.
 
+### Design challenge
+__Vanuit de design challenge zorgt dit ontwerp voor:__
+
+* `Aanvulbaarheid`
 
 ## Het tweede ontwerp: visuele weergave
 Het tweede ontwerp focused op de informatie weergave van wat ingevoerd is. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
 
+### Probleem en oplossing
+Via het eerste ontwerp is de ingevoerde informatie nu gestructureerd, maar nog steeds niet doorzoekbaar. Het tweede ontwerp is bedoeld om de gestructureerde informatie op een logische manier weer te geven en doorzoekbaar te maken.
+
+
+### Design challenge
+__Vanuit de design challenge zorgt dit ontwerp voor:__
+
+* `Transparantie`
+* `Toegankelijkheid`
+* Kan helpen met `reproceerbaarheid`, maar de onderzoeksjournalist moet dit nog steeds zelf doen.
 
 ## Waarom 2 ontwerpen?
 Het bouwen van een product die alle behoeftes van alle gebruikers vervuld is een lastige opgave. Dit wordt nog lastiger wanneer het product twee verschillende soorten rollen gaat spelen. Namelijk het invoeren van informatie, de informatie weergeven en daarbovenop moet het ook nog eens de informatie doorzoekbaar maken.
 
 Wanneer je deze rollen vanaf het begin van de productontwikkeling gaat bundelen in 1 product wordt het een rommeltje. Te veel interactie-elementen op hetzelfde scherm, moeilijke keuzes maken welke elementen moeten blijven en het is lastig om de beste gebruikersflow te vinden.
+
+
 
 
 
