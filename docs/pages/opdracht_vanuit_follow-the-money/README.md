@@ -4,9 +4,13 @@
 
 > * Maak het voor bestaande, ervaren journalisten van Follow the Money zo makkelijk mogelijk om een artikelrecept te ontwikkelen tijdens hun productieproces
 > * De ontwikkeling van het recept moet door verschillende redacteuren op een vergelijkbare wijze gebeuren, zodat er een uniform receptenboek ontstaat
-> * Maak het voor geïnteresseerden zo eenvoudig mogelijk om het recept te begrijpen en te kunnen reproduceren
+> * Maak het voor `geïnteresseerden*` zo eenvoudig mogelijk om het recept te begrijpen en te kunnen reproduceren
 
 [@ Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders/?originalSubdomain=nl)
+
+`* Geïnteresseerden, onder andere: onderzoeksjournalisten, [redacteuren](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/redacteur) en wellicht ook de [FTM lezers](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/follow_the_money_lezer)`
+
+
 
 ## Achtergrond verhaal
 
