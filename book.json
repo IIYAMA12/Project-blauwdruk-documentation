@@ -9,7 +9,7 @@
   ],
   "pluginsConfig": {
       "glossary-tooltip":{
-          "parseGlossaryItems": false,
+          "parseGlossaryItems": false
       }
   }
 }
