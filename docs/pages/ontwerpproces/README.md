@@ -21,7 +21,7 @@ __Vanuit de design challenge zorgt dit ontwerp voor:__
 * `Aanvulbaarheid`
 
 ## Het tweede ontwerp: visuele weergave
-Het tweede ontwerp focused op de informatie weergave van wat ingevoerd is. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
+Het tweede ontwerp gaat over de visuele weergave van de ingevoerd informatie. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
 
 ### Probleem en oplossing
 Via het eerste ontwerp is de ingevoerde informatie nu gestructureerd, maar nog steeds niet doorzoekbaar. Het tweede ontwerp is bedoeld om de gestructureerde informatie op een logische manier weer te geven en doorzoekbaar te maken.
