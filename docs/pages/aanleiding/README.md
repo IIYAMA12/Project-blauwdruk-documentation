@@ -36,6 +36,8 @@ Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Ams
 * Boosdoender 2: Provincie
 * Benadeelde: Bewoners
 
+Het `dit product` kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naarboven kamen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen er allemaal speelden, deze valideren met de betrokkenen en bijvoorbeeld gebruiken in interviews met de boosdoenders.
+
 __Termen:__
 
 * In dit project verwijst “blauwdruk” of “recept” naar een contentvorm. Deze vorm is gemaakt door middel van informatieordening, labelen en filteren tot er een __mal overblijft__. Een mal heeft als eigenschap dat deze opnieuw gevuld kan worden en je uiteindelijk een soortgelijk product overhoud. Deze mal is bedoeld voor journalistiek onderzoek en moet het maakproces ondersteunen. De manier hoe de mal anders gevuld kan worden heeft voornamelijk te maken met de context om het onderzoek heen. Context verschillen als in: locatie, stakeholder soort of bedrijfstype. 
