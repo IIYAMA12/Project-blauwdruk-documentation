@@ -12,5 +12,13 @@ __Belangrijke motivatiepunten voor dit ontwerp:__
 
 
 ## SWOT-analyse
-Via de [SWOT-analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/swot-analyse) methode heb ik inzichten verzameld over de rol die het product moet dienen binnen Follow the Money. Hieruit bevestigde ik dat de focus op het journalistieke onderzoeksproces de juiste richting is.
+Het vaststellen van de rol van het ontwerp binnen Follow the Money is belangrijk om te valideren of ik wel op het goede spoor zit. De onderzoeksmethode [SWOT-analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/swot-analyse) geeft inzichten in de belangrijke informatie waarmee ik rekening moet houden binnen het product.
+
+
+### Punten voor dit ontwerp
+* __Weaknesses: er is nog geen uniform artikel formaat.__
+<br>Voor dit ontwerp is het belangrijk om de informatie in kaart te brengen, een logisch structuur bepalen en rekening houden met de werkwijze.
+
+* __Threats: De onderzoeksjournalist moet wel tijd willen besteden voor dit soort extra producties__
+<br>Voor dit ontwerp is het heel belangrijk om naar de onderzoeksjournalist zijn of haar visie te vragen. Je eigen visie voorleggen. Kijken of er overeenkomsten zijn.
 
