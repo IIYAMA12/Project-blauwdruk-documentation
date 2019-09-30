@@ -18,9 +18,9 @@
   * Documenten
     * Koppelingen/referenties naar documenten zijn relevant.
     * Screenshots van documenten.
-    * Google apps
+    * Google APPs
   * Verbanden tussen bijvoorbeeld organisaties en personen kunnen relevant zijn.
-  * Tijdslijn kan relevant zijn.
+  * Tijdslijn kan relevant zijn. (Als het onderzoek zich er voor leent)
   * Onderzoeksvragen
   * Informatie moet uitgesloten worden wanneer deze wordt weggegeven.
   * Uitleggen hoe iets gedaan is kan transparantie bieden.
@@ -29,3 +29,10 @@
   * Actoren/betrokkenen: bronnen
   * Delen van data.
 * [Interview: Hoe gaat een onderzoeksjournalist te werk?](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen)
+<br>Een heranalyse van een onderzoek naar de werkwijze van de Thomas Bollen
+<br>__Belangrijke punten:__
+  * Verhaaltypes
+  * Content type: `bronnen`
+  * Documenten/referenties
+    * Rapport
+    * Kamervragen
