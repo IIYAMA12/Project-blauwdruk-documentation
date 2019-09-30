@@ -17,7 +17,7 @@ Oplossing 1 is niet een gebruikersvriendelijke manier van informatie invoeren vo
 
 
 ## Het tweede ontwerp: visuele weergave
-Het tweede ontwerp focused op de informatie weergave van wat ingevoerd wordt. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
+Het tweede ontwerp focused op de informatie weergave van wat ingevoerd is. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
 
 
 ## Waarom 2 ontwerpen?
