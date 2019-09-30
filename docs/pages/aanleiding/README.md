@@ -36,7 +36,9 @@ Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Ams
 * Boosdoender 2: Provincie
 * Benadeelde: Bewoners
 
-Het `dit product` kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naarboven kamen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen er allemaal speelden, deze valideren met de betrokkenen en bijvoorbeeld gebruiken in interviews met de boosdoenders.
+`Dit product*` kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naarboven kamen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen er allemaal speelden, deze valideren met de betrokkenen en bijvoorbeeld gebruiken in interviews met de boosdoenders.
+
+`* Het product dat ik nu aan het ontwikkelen ben.`
 
 __Termen:__
 
