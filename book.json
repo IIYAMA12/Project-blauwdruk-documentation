@@ -6,10 +6,5 @@
   "language": "NL",
   "plugins": [
     "glossary-tooltip"
-  ],
-  "pluginsConfig": {
-      "glossary-tooltip":{
-          "parseGlossaryItems": false
-      }
-  }
+  ]
 }
