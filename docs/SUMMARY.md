@@ -130,5 +130,6 @@
 	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 	* [Stijlgids](pages/stijlgids/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
+	* [Woordenlijst](GLOSSARY.md)
 	* [Bijlage](pages/bijlage/README.md)
 		* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)

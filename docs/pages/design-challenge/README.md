@@ -1,10 +1,10 @@
 # Design challenge
 
-Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces omzetten in vorm van een __doorzoekbaar document*__? Om er zo voor te zorgen dat het __onderzoeksproces__  `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` is voor toepassingen zoals artikelen en dossiers. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
+Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces omzetten in vorm van een `doorzoekbaar document*`? Om er zo voor te zorgen dat het __onderzoeksproces__  `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` is voor toepassingen zoals artikelen en dossiers. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
 
 **Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.**
 
-
+`* doorzoekbaar document:` Een document die op een bepaalde manieren doorzoekbaar is. Dit kan bijvoorbeeld met een tijdlijn. De informatie is nu op een chronologische volgorde geplaatst en dit geeft een tijdgebonden overzicht van gebeurtenissen die in een journalistiek onderzoek naarvoren zijn gekomen. Wanneer de onderzoeksjournalist ook nog eens de tijdlijn kan sorteren van 'oud naar nieuw' en van 'nieuw naar oud' wordt de informatie nog beter doorzoekbaar.
 
 
 ## Vanuit de opdracht, het concept 'receptenboek' is te statisch
