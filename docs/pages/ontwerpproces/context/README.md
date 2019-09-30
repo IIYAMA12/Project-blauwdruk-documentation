@@ -18,7 +18,7 @@ Onderbouwing toevoegen
 
 
 ## Gebruiker
-Deze versie van het product is geschikt voor maar 1 onderzoeksjournalist.
+Deze versie van __ontwerp 1__ (invoeren van onderzoeksdata) is geschikt voor 1 laptop. __Ontwerp 2__ (Visuele weergave) is wel beschikbaar voor meerdere gebruikers.
 
 
 ## Data
