@@ -8,7 +8,7 @@
 
 [@ Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders/?originalSubdomain=nl)
 
-`* Geïnteresseerden, onder andere: onderzoeksjournalisten, [redacteuren](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/redacteur) en wellicht ook de [FTM lezers](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/follow_the_money_lezer)`
+`* Geïnteresseerden, onder andere:` onderzoeksjournalisten, [redacteuren](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/redacteur) en wellicht ook de [FTM lezers](https://app.gitbook.com/@jorik/s/project-blauwdruk/stakeholders/follow_the_money_lezer).
 
 
 
