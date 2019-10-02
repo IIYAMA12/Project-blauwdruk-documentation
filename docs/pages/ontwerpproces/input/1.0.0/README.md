@@ -15,13 +15,9 @@ Een boom heeft een stam, de stam heeft takken  ... , de takken hebben kleineren 
 
 Moeilijk voor je te zien? Denk maar eens aan een stamboom, dat is een heel concreet voorbeeld van een informatieboom. Alleen de informatie van een bron is complexer dan een basis stamboom zou kunnen bevatten.
 
+Het concept heeft als doel om meer vrijheid te brengen in de informatiestructuur. Zie voorbeeld hieronder:
 
-Meer informatie over dit concept: [boom hiërarchie](https://app.gitbook.com/@jorik/s/project-blauwdruk/concepten/boom-hierarchie)
-
-Het concept heeft als doel
-
-
-## Informatie structuur
+### Informatiestructuur
 
 * Boom / root
   * Bron 1
@@ -46,6 +42,10 @@ Het concept heeft als doel
       * Type / tag / groep
 
 Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een boomstructuur.
+
+
+Meer informatie over dit concept: [boom hiërarchie](https://app.gitbook.com/@jorik/s/project-blauwdruk/concepten/boom-hierarchie)
+
 
 
 ## Eerste schetsen
