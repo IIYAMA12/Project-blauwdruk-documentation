@@ -7,6 +7,7 @@ ___Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boom hiërarchie. Onder het moed
 De onderzoeksjournalist heeft 
 
 ![bedrijfsstructuur](content/bedrijfsstructuur.png)
+
 [Gebruikte op deze pagina](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) __FTM account nodig om te bekijken__
 
 Smit, E., Van Essen, J., & FTM. (2019, 18 mei). Verblind door een cybercharlatan [Illustratie]. Geraadpleegd op 1 oktober 2019, van https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton
