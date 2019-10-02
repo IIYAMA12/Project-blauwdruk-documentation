@@ -53,8 +53,8 @@ De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
 De onderzoeksjournalist die meer opschrijft binnen een digitaal medium, zal pas iets met het product gaan doen als deze fijn kan samenwerken met de tools die al gebruikt worden.
 
 __Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
-* todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software
-* todo: https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport
+* todo: https://jorik.gitbook.io/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software
+* todo: https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport
 
 
 ## Persona 2
@@ -71,4 +71,4 @@ __Deze aannamen is gebaseerd op deze wens:__
 > Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of mijn lezers.
 
 
-Die wens is weer gebaseerd op het probleem dat sommige artikelen erg moeilijk zijn om te begrijpen. Dat probleem komt naarvoren uit dit [interview, afgenomen bij Karin Spaink.](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/interview/eindredactie/~/settings/integrations) 
+Die wens is weer gebaseerd op het probleem dat sommige artikelen erg moeilijk zijn om te begrijpen. Dat probleem komt naarvoren uit dit [interview, afgenomen bij Karin Spaink.](https://jorik.gitbook.io/project-blauwdruk/research_methods/interview/eindredactie/~/settings/integrations) 

@@ -4,7 +4,7 @@ Op deze pagina is de vertaalslag naar een eerste ontwerp te vinden. Dit ontwerp 
 
 
 ## Task-analyse
-Om deze te maken was de eerste versie van de [Task-analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/task-analyse) nuttig om de stappen in de gebruikersinterface te verzamelen. Stappen waaronder data toevoegen, verwijderen en referenties toevoegen.
+Om deze te maken was de eerste versie van de [Task-analyse](https://jorik.gitbook.io/project-blauwdruk/research_methods/task-analyse) nuttig om de stappen in de gebruikersinterface te verzamelen. Stappen waaronder data toevoegen, verwijderen en referenties toevoegen.
 
 
 
@@ -44,7 +44,7 @@ Het concept heeft als doel om meer vrijheid te brengen in de informatiestructuur
 Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een boomstructuur.
 
 
-Meer informatie over dit concept: [boom hiërarchie](https://app.gitbook.com/@jorik/s/project-blauwdruk/concepten/boom-hierarchie)
+Meer informatie over dit concept: [boom hiërarchie](https://jorik.gitbook.io/project-blauwdruk/concepten/boom-hierarchie)
 
 
 
@@ -56,7 +56,7 @@ Meer informatie over dit concept: [boom hiërarchie](https://app.gitbook.com/@jo
 
 Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
-Uitgewerkt tot [Morfologische-kaart](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/morfologische-kaart/entiteit).
+Uitgewerkt tot [Morfologische-kaart](https://jorik.gitbook.io/project-blauwdruk/research_methods/morfologische-kaart/entiteit).
 
 ### Eerste indeling
 

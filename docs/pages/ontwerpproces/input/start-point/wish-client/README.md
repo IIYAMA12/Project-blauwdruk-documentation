@@ -1,7 +1,7 @@
 # Wensen Follow the Money
 
 ## Opdracht vanuit Follow the Money
-De wensen van Follow the Money zijn terug te lezen in de [de opdracht](https://app.gitbook.com/@jorik/s/project-blauwdruk/opdracht_vanuit_follow-the-money).
+De wensen van Follow the Money zijn terug te lezen in de [de opdracht](https://jorik.gitbook.io/project-blauwdruk/opdracht_vanuit_follow-the-money).
 
 __Belangrijke motivatiepunten voor dit ontwerp:__
 > Er is onder (jonge) onervaren FTM-journalisten grote behoefte aan inzicht in de werkwijze van hun meer ervaren collega’s. Veel journalisten opereren individueel, waardoor ze niet dagelijks contact hebben met de ervaren journalisten. Dat maakt het voor nieuwe redacteuren vaak lastig om te beginnen.
@@ -12,7 +12,7 @@ __Belangrijke motivatiepunten voor dit ontwerp:__
 
 
 ## SWOT-analyse
-Het vaststellen van de rol van het ontwerp binnen Follow the Money is belangrijk om te valideren of ik wel op het goede spoor zit. De onderzoeksmethode [SWOT-analyse](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/swot-analyse) geeft inzichten in de belangrijke informatie waarmee ik rekening moet houden binnen het product.
+Het vaststellen van de rol van het ontwerp binnen Follow the Money is belangrijk om te valideren of ik wel op het goede spoor zit. De onderzoeksmethode [SWOT-analyse](https://jorik.gitbook.io/project-blauwdruk/research_methods/swot-analyse) geeft inzichten in de belangrijke informatie waarmee ik rekening moet houden binnen het product.
 
 
 ### Punten voor dit ontwerp

@@ -9,7 +9,7 @@ __Dit ontwerp is opgebouwd uit het volgende onderdelen:__
 * Onderzoeksproces(sen)
 
 
-De inspiratie van deze indeling kwam vanuit de [content analyse van een Proces-verbaal](https://app.gitbook.com/@jorik/s/project-blauwdruk/research_methods/analyse_content/proces-verbaal).
+De inspiratie van deze indeling kwam vanuit de [content analyse van een Proces-verbaal](https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/proces-verbaal).
 
 __Indeling van een Proces-verbaal:__
 * Voorblad
