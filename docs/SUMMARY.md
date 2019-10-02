@@ -84,7 +84,7 @@
 		* [Verbanden](pages/data-lijst/connections/README.md)
 		* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
 		* [Gebeurtenissen](pages/data-lijst/events/README.md)
-		* [Andere data](pages/data-lijst/other/README.md)
+		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
 	* [Ethiek](pages/ethiek/README.md)
 	* [Onderzoeksmethodes](pages/research_methods/README.md)
 		* [Persona](pages/research_methods/persona/README.md)

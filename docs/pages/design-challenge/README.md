@@ -4,7 +4,7 @@ Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar
 
 **Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.**
 
-`* doorzoekbaar document:` Een document die op een bepaalde manieren doorzoekbaar is. Dit kan bijvoorbeeld met een tijdlijn. De informatie is in een tijdlijn op een chronologische volgorde geplaatst en dit geeft een tijdgebonden overzicht van gebeurtenissen die in een journalistiek onderzoek naarvoren zijn gekomen. Wanneer de onderzoeksjournalist ook nog eens de tijdlijn kan sorteren van 'oud naar nieuw' en van 'nieuw naar oud' wordt de informatie nog beter doorzoekbaar.
+`* doorzoekbaar document:` Een document die op een bepaalde manieren doorzoekbaar is. Dit kan bijvoorbeeld met een tijdlijn. De informatie is in een tijdlijn op een chronologische volgorde geplaatst en dit geeft een tijdgebonden overzicht van gebeurtenissen, die in een journalistiek onderzoek naarvoren zijn gekomen. Wanneer de onderzoeksjournalist ook nog eens de tijdlijn kan sorteren van 'oud naar nieuw' en van 'nieuw naar oud' wordt de informatie nog beter doorzoekbaar.
 
 
 ## Vanuit de opdracht, het concept 'receptenboek' is te statisch
