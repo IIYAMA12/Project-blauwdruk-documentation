@@ -16,9 +16,9 @@ Een computer kan niet bepalen wat elk onderdeel van je onderzoek inhoud, zonder 
 Oplossing 1 is niet een gebruikersvriendelijke manier van informatie invoeren voor een niet programmeur. Oplossing 2 is veel beter geschikt voor de onderzoeksjournalist. Als je iets op [Google](https://www.google.nl/) opzoekt, maak je namelijk al gebruik van deze vorm van interactie.
 
 ### Design challenge
-__Vanuit de design challenge gaat dit ontwerp zorgen voor (nog niet helemaal):__
+__Vanuit de design challenge gaat dit ontwerp zorgen voor:__
 
-* ~~`Aanvulbaarheid`~~
+* `Aanvulbaarheid`
 
 Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar voor veiligheids overwegingen en afkadering project. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend niet dat je niet gezamenlijk met 1 computer er aan kan werken.
 
