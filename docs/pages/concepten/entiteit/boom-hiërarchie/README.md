@@ -4,11 +4,9 @@ De gebruiker kan via een boom hiërarchie indeling, entiteiten op een __ouders e
 
 ___Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boom hiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
 
-De onderzoeksjournalist heeft 
+De onderzoeksjournalist heeft hier behoefte aan, dit blijkt uit het journalistiekonderzoek: ['Verblind door een cybercharlatan'](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) (__FTM account nodig om te bekijken__), waarin de volgende afbeelding is gebruikt:
 
 ![bedrijfsstructuur](content/bedrijfsstructuur.png)
-
-[Gebruikte op deze pagina](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) __FTM account nodig om te bekijken__
 
 Smit, E., Van Essen, J., & FTM. (2019, 18 mei). Verblind door een cybercharlatan [Illustratie]. Geraadpleegd op 1 oktober 2019, van https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton
 
@@ -16,9 +14,9 @@ Smit, E., Van Essen, J., & FTM. (2019, 18 mei). Verblind door een cybercharlatan
 Deze manier van hiërarchie moet het eenvoudiger maken dit soort informatie in te vullen en te structureren.
 
 
+## Eigenschappen
 
 Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het probleem dat eigenschappen
-
 
 
 Voorbeeld tabel layout
