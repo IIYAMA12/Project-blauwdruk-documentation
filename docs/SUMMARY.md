@@ -124,7 +124,7 @@
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 	* [Concepten](pages/concepten/README.md)
 		* [Vragenlijst entiteit](pages/concepten/vragenlijst-duplicatie/README.md)
-		* [Boom hiërarchie](pages/concepten/boom-hiërarchie/README.md)
+		* [Boom hiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Doorzoekbare tijdlijn](pages/concepten/tijdlijn/README.md)
 		* [Werkgebieden](pages/concepten/werkgebieden/README.md)
 	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
