@@ -1,5 +1,5 @@
 
-## blauwdruk 
+## Blauwdruk 
 Dit is in dit project een type content dat als hulpmiddel gebruikt kan worden om iets binnen een bepaalde structuur op te bouwen. 
 
 
