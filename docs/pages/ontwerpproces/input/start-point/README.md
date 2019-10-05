@@ -10,8 +10,6 @@ __De basis voor dit ontwerpt begon bij het begrijpen van:__
 {% page-ref page="research-questions/README.md" %}
 
 
-
-
 ### Context van de onderzoeksjournalist.
 {% page-ref page="context/README.md" %}
 
