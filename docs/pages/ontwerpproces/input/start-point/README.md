@@ -1,20 +1,17 @@
 
-Het ontwerpproces van het `Invoeren van onderzoeksdata` begon vanaf het moment dat het `Projectvoorstel` werd ingeleverd.
-
-## Basis
 
 
-__De basis voor dit ontwerpt begon bij het begrijpen van:__
+__De basis voor dit concept en ontwerpt begon bij het begrijpen van:__
 
-### Eerste onderzoeksvragen opstellen.
+__1.__ Eerste onderzoeksvragen opstellen.
 {% page-ref page="research-questions/README.md" %}
 
 
-### Context van de onderzoeksjournalist.
+__2.__ Context van de onderzoeksjournalist.
 {% page-ref page="context/README.md" %}
 
 
-### Wensen van de opdrachtgever: Follow the Money.
+__3.__ Wensen van de opdrachtgever: Follow the Money.
 {% page-ref page="wish-client/README.md" %}
 
 __Belangrijke punten:__
@@ -27,7 +24,9 @@ __Belangrijke punten:__
   * Heb je hier wat aan?
 
 
-### Onderzoeksproces en de data die daarbij hoort
+<br>
+
+__4.__ Journalistiekonderzoeksproces en de data die daarbij hoort
 {% page-ref page="research-process/README.md" %}
 
 
