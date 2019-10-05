@@ -3,15 +3,13 @@
 
 __De basis voor dit concept en ontwerpt begon bij het begrijpen van:__
 
-<!-- __1.__ Eerste onderzoeksvragen
-{% page-ref page="research-questions/README.md" %} -->
 
 
-__1.__ Context van de onderzoeksjournalist.
+__1.__ De context van de onderzoeksjournalist.
 {% page-ref page="context/README.md" %}
 
 
-__2.__ Wensen van de opdrachtgever: Follow the Money.
+__2.__ De wensen van de opdrachtgever: Follow the Money.
 {% page-ref page="wish-client/README.md" %}
 
 __Belangrijke punten:__
@@ -26,10 +24,13 @@ __Belangrijke punten:__
 
 <br>
 
-__3.__ Journalistiekonderzoeksproces en de data die daarbij hoort
+__3.__ Het journalistiekonderzoeksproces en de data die daarbij hoort
 {% page-ref page="research-process/README.md" %}
 
 
+
+__5.__ De onderzoeksdata door middel van het beantwoorden van de onderzoeksvragen
+{% page-ref page="research-questions/README.md" %} 
 
 
 
