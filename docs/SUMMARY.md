@@ -15,6 +15,7 @@
 		* [Redacteur](pages/stakeholders/redacteur/README.md)
 		* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 	* [Design challenge](pages/design-challenge/README.md)
+	* [Planning](pages/planning/README.md)
 	* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 		* [hoofdvragen](pages/onderzoeksvragen/hoofdvragen/README.md)
 			* [Bewijzen](pages/onderzoeksvragen/hoofdvragen/bewijzen/README.md)
@@ -48,8 +49,6 @@
 				* [Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
 				* [Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
 				* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
-	
-	* [Planning](pages/planning/README.md)
 	* [Vooronderzoek]()
 		* [Interview werkwijze Journalist](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)
 		* [Interview eindredactie](pages/research_methods/interview/eindredactie/README.md)
@@ -106,7 +105,7 @@
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
 	* [Ethiek](pages/ethiek/README.md)
 	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
-	* [Onderzoeksmethodes](pages/research_methods/README.md)
+	* [Alle onderzoeksmethodes](pages/research_methods/README.md)
 		* [Interview werkwijze Journalist](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)
 		* [Interview eindredactie](pages/research_methods/interview/eindredactie/README.md)
 		* [Co-creation Werkwijze Journalist](pages/research_methods/co-creation/werkwijze_frank-meijers/README.md)

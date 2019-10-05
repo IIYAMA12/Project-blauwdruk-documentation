@@ -6,7 +6,7 @@ De aanleiding voor deze stageopdracht is afkomstig van het bedrijf Follow the Mo
 
 
 ## Niet bekend met Follow the Money?
-Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet en publiceert met het kenmerk `geld`.
+Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet naar misstanden in de samenleving met het kenmerk `geld` en publiceert dit.
 
 __Meer informatie:__
 
@@ -14,7 +14,8 @@ __Meer informatie:__
 
 
 ## Korte versie: Het blauwdruk-project
-Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het reproduceren van zijn of haar onderzoek in een andere context. Wanneer een onderzoeksjournalist het onderzoek heeft afgerond kan het zijn dat er een zelfde soort onderzoek uitgevoerd moet worden alleen dan naar een soort gelijke situatie. 
+Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het reproduceren van zijn of haar onderzoek in een andere context. Wanneer een onderzoeksjournalist het onderzoek heeft afgerond, kan het zijn dat er nog een vergelijkbaar onderzoek uitgevoerd moet worden.
+
 
 __Bijvoorbeeld: (context | onderwerp zorg)__
 
@@ -24,7 +25,7 @@ __Bijvoorbeeld: (context | onderwerp zorg)__
 
 `* Het product dat ik nu aan het ontwikkelen ben.`
 
-Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt.
+Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt. Dit formaat moet er voor zorgen dat het nieuwe onderzoeksproces sneller verloopt.
 
 
 
