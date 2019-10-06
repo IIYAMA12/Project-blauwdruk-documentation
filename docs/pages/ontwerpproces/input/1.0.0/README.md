@@ -10,7 +10,7 @@ Om deze te maken was de eerste versie van de [Task-analyse](https://jorik.gitboo
 
 ## Informatiestructuur
 
-De informatiestructuur van het bij behorende concept
+De informatiestructuur van het bij behorende concept 
 
 * Boom / root
   * Bron 1
