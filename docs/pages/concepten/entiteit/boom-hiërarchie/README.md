@@ -7,12 +7,18 @@ __Inclusief:__
 * Eigenschappen van de bron
 * Bedrijfsstructuur (Vanuit eigen ervaring)
 
-## Bedrijfstructuur
 
+__Entiteiten:__
+
+* Persoon
+* Organisatie
+
+[Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
+
+## Bedrijfstructuur
 
 De gebruiker kan via een boom hiërarchie indeling, entiteiten op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen entiteiten kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
-[Definitie `entiteit`](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
 
 
 ___Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boom hiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
