@@ -10,7 +10,7 @@ In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers
 | Verhaal | Documenten | Mensen | Bronnen | Onderzoeksvragen |
 
 ### Story
-Op de pagina story houd je het verhaal bij en vult waaronder deze kolommen in:
+Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 
 | Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | ? (check) | R (Ranking) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
