@@ -1,6 +1,19 @@
 # Concept boom hiërarchie
 
-De gebruiker kan via een boom hiërarchie indeling, entiteiten op een __ouders en kinderen__ relatie indelen. Dit heeft als voorbeeld dat je hiërarchie tussen entiteiten kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfstructuur probeert vast te stellen. 
+> Hoe kan de onderzoeksjournalist zijn bronnen opnemen in het product?
+
+
+__Inclusief:__
+* Eigenschappen van de bron
+* Bedrijfsstructuur (Vanuit eigen ervaring)
+
+## Bedrijfstructuur
+
+
+De gebruiker kan via een boom hiërarchie indeling, entiteiten op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen entiteiten kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+
+[Definitie `entiteit`](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
+
 
 ___Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boom hiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
 
@@ -14,7 +27,7 @@ Smit, E., Van Essen, J., & FTM. (2019, 18 mei). Verblind door een cybercharlatan
 Deze manier van hiërarchie moet het eenvoudiger maken dit soort informatie in te vullen en te structureren.
 
 
-## Eigenschappen
+## Eigenschappen en vergelijking met contentvorm `tabel`
 
 Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het probleem dat eigenschappen
 

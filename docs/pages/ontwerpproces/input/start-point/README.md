@@ -1,7 +1,7 @@
 
 
 
-__De basis voor dit concept en ontwerpt begon bij het begrijpen van:__
+__De basis voor de toekomstige concepten en ontwerpten begon bij het begrijpen van:__
 
 
 
