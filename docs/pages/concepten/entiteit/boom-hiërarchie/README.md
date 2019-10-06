@@ -16,7 +16,12 @@ __Inclusief:__
 
 ## Concept zin
 
-Hoe kan de gebruiker bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfstructuur aangeeft.
+De gebruiker kan bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfstructuur aangeeft.
+
+{% hint style='info' %}
+Een concept zin is invulbaar.
+{% endhint %}
+
 
 ## Bedrijfstructuur
 
