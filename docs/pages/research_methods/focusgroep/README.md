@@ -160,7 +160,7 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 > 1. Ik wil zo snel mogelijk schrijven
 > 2. Alles wat ik nodig heb / gebruiken staat er dan al
 
-[Uitvoering van opdracht 2](content/20190605_114607.jpg)
+![Uitvoering van opdracht 2](content/20190605_114607.jpg)
 
 ## Bevindingen opdracht 3
 `Opdracht 3`
@@ -169,4 +169,4 @@ Uitgevoerd door de: groep
 
 ![Uitwerking van de uitvoering van opdracht 3](content/Aanleiding ander onderzoek en tip.png)
 
-[Uitvoering van opdracht 3](content/20190605_120424.jpg)
+![Uitvoering van opdracht 3](content/20190605_120424.jpg)
