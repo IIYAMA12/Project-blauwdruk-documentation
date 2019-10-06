@@ -6,3 +6,7 @@ Sommige documenten kunnen informatie bevatten die terug kunnen leiden tot de bro
 ## Concept zin
 
 De onderzoeksjournalist kan naar zijn documenten refereren en er toegang tot krijgen zonder het bestand in de applicatie op te slaan.
+
+{% hint style='info' %}
+Een concept zin is invulbaar.
+{% endhint %}
