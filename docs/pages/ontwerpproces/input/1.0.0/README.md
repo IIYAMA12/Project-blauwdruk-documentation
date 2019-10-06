@@ -8,16 +8,9 @@ Om deze te maken was de eerste versie van de [Task-analyse](https://jorik.gitboo
 
 
 
-## Concept boom hiërarchie
-In dit concept wordt informatie gehangen aan een 'boom'. 
+## Informatiestructuur
 
-Een boom heeft een stam, de stam heeft takken  ... , de takken hebben kleineren takken ... en de kleinste takken hebben dan de bladeren  ... .
-
-Moeilijk voor je te zien? Denk maar eens aan een stamboom, dat is een heel concreet voorbeeld van een informatieboom. Alleen de informatie van een bron is complexer dan een basis stamboom zou kunnen bevatten.
-
-Het concept heeft als doel om meer vrijheid te brengen in de informatiestructuur. Zie voorbeeld hieronder:
-
-### Informatiestructuur
+De informatiestructuur van het bij behorende concept
 
 * Boom / root
   * Bron 1
@@ -41,10 +34,6 @@ Het concept heeft als doel om meer vrijheid te brengen in de informatiestructuur
       * Waarde
       * Type / tag / groep
 
-Met de content vorm lijsten (in lijsten in lijsten) krijg je al vrij snel een boomstructuur.
-
-
-Meer informatie over dit concept: [boom hiërarchie](https://jorik.gitbook.io/project-blauwdruk/concepten/boom-hierarchie)
 
 
 
