@@ -165,8 +165,11 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 ## Bevindingen opdracht 3
 `Opdracht 3`
 
-Uitgevoerd door de: groep
+Uitgevoerd door de: groep (alle onderzoeksjournalisten die momenteel aanwezig waren)
+
+![Uitvoering van opdracht 3](content/20190605_120424.jpg)
+
+__Vertaling naar diagram__
 
 ![Uitwerking van de uitvoering van opdracht 3](content/Aanleiding ander onderzoek en tip.png)
 
-![Uitvoering van opdracht 3](content/20190605_120424.jpg)
