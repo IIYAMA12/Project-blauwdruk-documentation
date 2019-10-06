@@ -12,7 +12,7 @@ __Met behulp van:__
 
 ## Informatiestructuur
 
-De informatiestructuur van het bij behorende concept 
+De informatiestructuur van het bijbehorende concept: boom hiërarchie
 
 * Boom / root
   * Bron 1
@@ -85,10 +85,10 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
 
 ![Details](content/schetsen30.png)
 
-* Design pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor)
-* Dupliceer eigenschap
-* Notitie veld toegevoegd
-* Type eigenschap
+* Design pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor) > In dit pattern heb je de mogelijkheid om een waarde aan te passen op dezelfde plek als het wordt weergegeven. Dit heeft als voordeel dat de gebruiker niet naar een andere pagina wordt gestuurd om iets aan te passen.
+* Dupliceer eigenschap. > Experimenteel, moet getest worden.
+* Notitie veld toegevoegd. > Een plek voor je eigen aantekeningen.
+* Type eigenschap. > Meta informatie toevoegen aan informatie.
 
 ### Categorieën
 
