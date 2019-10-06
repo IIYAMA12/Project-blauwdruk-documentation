@@ -86,7 +86,7 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
 * Design pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor) > In dit pattern heb je de mogelijkheid om een waarde aan te passen op dezelfde plek als het wordt weergegeven. Dit heeft als voordeel dat de gebruiker niet naar een andere pagina wordt gestuurd om iets aan te passen.
 * Dupliceer eigenschap. > Experimenteel, moet getest worden.
 * Notitie veld toegevoegd. > Een plek voor je eigen aantekeningen.
-* Type eigenschap. > Meta informatie toevoegen aan informatie.
+* Type eigenschap. > Meta-informatie toevoegen aan een eigenschap van een bron.
 
 ### Categorieën
 

@@ -8,7 +8,6 @@ __Type bronnen:__
 * Persoon
 * Organisatie
 
-[Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
 
 __Inclusief:__
 * Eigenschappen van de bron
@@ -41,6 +40,7 @@ Deze manier van hiërarchie moet het eenvoudiger maken dit soort informatie in t
 
 Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het probleem dat eigenschappen
 
+[Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
 
 Voorbeeld tabel layout
 | Eigenschap: a | Eigenschap: B | Eigenschap: C |
