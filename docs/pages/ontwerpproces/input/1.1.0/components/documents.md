@@ -1,22 +1,50 @@
-{% hint style='working' %}
-Beschrijvingen toevoegen
-{% endhint %}
 
 
-![](content/documenten/schetsen13.png)
 
-![](content/documenten/schetsen24.png)
+<!-- ![](content/documenten/schetsen13.png) -->
 
-![](content/documenten/schetsen25.png)
+![Hier kunnen referenties naar documenten worden ingevoerd](content/documenten/schetsen24.png)
+
+__Eigenschappen:__
+
+* __Naam__<br>
+De naam van het document. 
+<br>
+* __Link(url)__<br>
+tTegang tot je document die je in de cloud hebt opgeslagen. (Google: Docs, Spreadsheets, Drive)
+<br>
+* __Screenshots__<br>
+Screenshots kunnen gebruikt worden voor herkenning van het document of als bewijsmateriaal.
+<br>
+* __Beschrijving__
+* __Documentstatus__<br>
+Aangegeven of een document gelekt is. (Mag dus niet binnen een publicatie gebruikt worden)
+<br>
+* __Type__ (Document type: pdf, excel, psd)
+* __Bron/contactpersoon__<br>
+De persoon die het document heeft vrijgegeven.
+<br>
+* __Organisatie__<br>
+De organisatie die het document heeft vrijgegeven.
+<br>
+* __(Publicatiedatum of/en toevoegingsdatum)__<br>
+Maakt het mogelijk om documenten te sorteren op tijd.
+
+![Gebruikersinterface om een document status op te gegeven](content/documenten/schetsen25.png)
+
+
+
+
 
 ![](content/documenten/schetsen26.png)
 
 ![Documenten](content/designs.png)
 
-Het gebruik van documenten (jaarverslagen) is een belangrijke bron van informatie en daar naar toe moet gerefereerd kunnen worden.
+Een digitale schets.
+
 
 ### Verwijderde documenten
 Mocht een organisatie of een persoon een document verwijderen, dan heb je als back-up nog een screenshot ervan.
 
-### Ethisch
-De `document status` is relevant voor de veiligheid van de bronnen die de informatie hebben weggegeven.
+### Document gebruik
+De `documentstatus` is relevant voor de veiligheid van de bronnen die de informatie hebben weggegeven.
