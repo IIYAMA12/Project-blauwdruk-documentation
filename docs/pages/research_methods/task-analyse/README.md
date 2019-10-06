@@ -1,8 +1,7 @@
 # Task analyse
 
-{% hint style='danger' %}
-Het content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk niet meer gelijk met het huidige product.
-{% endhint %}
+Voor het concept wordt uitgewerkt tot een ontwerp, helpt het voor mij om eerst een taken analyse te maken, om goed de gebruikersflow the begrijpen. Je ziet dan al vrij snel dat informatie invoeren niet de bovenste laag van je ontwerp is. De bovenste laag is namelijk: 'Waarin word de ingevoerde informatie opgeslagen?'.
+
 
 ![Task analyse v1.0.0](content/task-analyse.png)  
 
@@ -10,7 +9,7 @@ Het content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk
 [Afbeelding](content/task-analyse.png)
 
 
-Task analyse v1.0.0
+__Task analyse v1.0.0:__
 
 * `1.0` Bestand openen
   * `1.1` Ga naar bestandenoverzicht 
@@ -43,4 +42,4 @@ Task analyse v1.0.0
       * URL
   * `5.4` Doe: Voeg toe 
 
-De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste prototype.
+De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste ontwerp.

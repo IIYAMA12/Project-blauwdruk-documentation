@@ -69,6 +69,7 @@
 				* [Onderzoeksproces onderzoeksjournalist](pages/ontwerpproces/input/start-point/research-process/README.md)
 			* [Concept v1_0_0](pages/ontwerpproces/input/1.0.0/concept.md)
 				* [Boom hiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
+			* [Task-analyse v1_0_0](pages/research_methods/task-analyse/README.md)
 			* [Ontwerp v1_0_0](pages/ontwerpproces/input/1.0.0/README.md)
 			* [Prototype v1_0_0](pages/ontwerpproces/input/1.0.0/prototype.md)
 				* [Boom hiërarchie v1_0_0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
