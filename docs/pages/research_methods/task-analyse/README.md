@@ -5,8 +5,8 @@ Voor het concept wordt uitgewerkt tot een ontwerp, helpt het voor mij om eerst e
 
 ![Task analyse v1.0.0](content/task-analyse.png)  
 
-<br>
-[Afbeelding](content/task-analyse.png)
+
+
 
 
 __Task analyse v1.0.0:__
@@ -19,17 +19,17 @@ __Task analyse v1.0.0:__
   * `Is bestand nog niet eerder opgeslagen?`
   * `2.1.1` Vul bestandsnaam in
   * `2.1.2` Bevestig opslaan
-* `3.0` Voeg een onderdeel toe
+* `3.0` Voeg een onderdeel toe (bron)
   * `Stappen`3.2`,`3.3`en`3.4`zijn optioneel`
   * `3.1` Doe: voeg onderdeel toe
   * `3.2` Vul onderdeel naam in
   * `3.3` Vul onderdeel type in
   * `3.4` Vul onderdeel beschrijving in
   * `3.5` Bevestig toevoegen
-* `4.0` Verwijder onderdeel
+* `4.0` Verwijder onderdeel (bron)
   * `4.1` Doe: verwijder onderdeel
   * `4.2` Bevestig verwijderen onderdeel
-* `5.0` Voeg referentie toe aan lijst
+* `5.0` Voeg referentie toe aan lijst (referentielijst)
   * `5.1` Doe: voeg referentie toe
   * `5.2` Geef referentie een naam
     * `Doe stap`5.2.1`of`5.2.2 ``

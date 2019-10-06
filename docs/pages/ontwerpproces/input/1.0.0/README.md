@@ -2,9 +2,11 @@
 
 Op deze pagina is de vertaalslag naar een eerste ontwerp te vinden. Dit ontwerp is specifiek gericht op het invoeren van broninformatie.
 
+__Met behulp van:__
 
-## Task-analyse
-Om deze te maken was de eerste versie van de [Task-analyse](https://jorik.gitbook.io/project-blauwdruk/research_methods/task-analyse) nuttig om de stappen in de gebruikersinterface te verzamelen. Stappen waaronder data toevoegen, verwijderen en referenties toevoegen.
+* Informatiestructuur
+* Task-analyse
+
 
 
 
@@ -34,6 +36,18 @@ De informatiestructuur van het bij behorende concept
       * Waarde
       * Type / tag / groep
 
+## Task-analyse
+
+* `3.0` Voeg een onderdeel toe (bron)
+  * `Stappen`3.2`,`3.3`en`3.4`zijn optioneel`
+  * `3.1` Doe: voeg onderdeel toe
+  * `3.2` Vul onderdeel naam in
+  * `3.3` Vul onderdeel type in
+  * `3.4` Vul onderdeel beschrijving in
+  * `3.5` Bevestig toevoegen (misschien)
+* `4.0` Verwijder onderdeel (bron)
+  * `4.1` Doe: verwijder onderdeel
+  * `4.2` Bevestig verwijderen onderdeel
 
 
 
