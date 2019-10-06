@@ -62,7 +62,7 @@
 		<!-- * [Context ontwerp](pages/ontwerpproces/context/README.md) -->
 		* [Startpunt](pages/ontwerpproces/start-point.md)
 		* [Invoeren van onderzoeksdata v1_0_0 t/m v1_1_0](pages/ontwerpproces/input/README.md)
-			* [Startpunt](pages/ontwerpproces/input/start-point/README.md)
+			* [Startpunt v1_0_0](pages/ontwerpproces/input/start-point/README.md)
 				* [Onderzoeksvragen](pages/ontwerpproces/input/start-point/research-questions/README.md)
 				* [Context onderzoeksjournalist](pages/ontwerpproces/input/start-point/context/README.md)
 				* [Wensen van Follow the Money](pages/ontwerpproces/input/start-point/wish-client/README.md)
@@ -86,7 +86,7 @@
 			* [Context ontwerp](pages/ontwerpproces/input/context-1.0.0/README.md)
 		* [Tweede ontwerp](pages/ontwerpproces/tweede-ontwerp/README.md)
 		* [Visuele weergave v1_0_0 t/m v1_1_0](pages/ontwerpproces/output/README.md)
-			* [Startpunt](pages/ontwerpproces/output/start-point/README.md)
+			* [Startpunt v1_0_0](pages/ontwerpproces/output/start-point/README.md)
 			* [Ontwerp v1_0_0](pages/ontwerpproces/output/1.0.0/README.md)
 			* [Prototype v1_0_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 			* [Prototype v1_1_0](pages/ontwerpproces/output/1.1.0/README.md)

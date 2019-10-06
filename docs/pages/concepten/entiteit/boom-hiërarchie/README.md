@@ -3,21 +3,25 @@
 > Hoe kan de onderzoeksjournalist zijn bronnen opnemen in het product?
 
 
-__Inclusief:__
-* Eigenschappen van de bron
-* Bedrijfsstructuur (Vanuit eigen ervaring)
-
-
-__Entiteiten:__
+__Type bronnen:__
 
 * Persoon
 * Organisatie
 
 [Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
 
+__Inclusief:__
+* Eigenschappen van de bron
+* Bedrijfsstructuur (Vanuit eigen ervaring)
+
+
+## Concept zin
+
+Hoe kan de gebruiker bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfstructuur aangeeft.
+
 ## Bedrijfstructuur
 
-De gebruiker kan via een boom hiërarchie indeling, entiteiten op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen entiteiten kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+De gebruiker kan via een boom hiërarchie indeling, bronnen op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
 
 
@@ -67,7 +71,7 @@ De meerwaardes: `Tabel`
 [Dit is een screenshot van de Firefox Netwerk tab dat beschikbaar is via het inspector menu.](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 
 
-De `Tabel` weergave is hele goede manieren om informatie van entiteiten weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven dat een `Boom hiërarchie` wel kan.
+De `Tabel` weergave is hele goede manieren om informatie van bronnen weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven dat een `Boom hiërarchie` wel kan.
 
 **Voorbeeld van data waarbij een Boom hiërarchie een belangrijke rol kan spelen**
 * Organisatie A (entiteit)
