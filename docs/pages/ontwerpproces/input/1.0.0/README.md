@@ -8,8 +8,6 @@ __Met behulp van:__
 * Task-analyse
 
 
-
-
 ## Informatiestructuur
 
 De informatiestructuur van het bijbehorende concept: boom hiërarchie
@@ -94,8 +92,8 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
 
 ![Bron categorieën](content/schetsen31.png)
 
-* Categorieën als dropdown of tekst invulveld met suggesties
-* Tags in plaats van categorieën
+* Categorieën als dropdown of tekst invulveld met suggesties. Categoriseer de bron. Gaat het om een persoon, een organisatie of wellicht extra contactinformatie.
+* Tags in plaats van categorieën. Tags bieden meer vrijheid dan categorieën, omdat deze vorm meerdere antwoorden toelaat. Maar ook kan het zorgen tot verwarring en inconsistentie.
 
 ### Alles laten samenkomen
 
