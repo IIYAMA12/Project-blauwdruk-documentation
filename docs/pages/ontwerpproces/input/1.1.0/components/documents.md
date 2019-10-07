@@ -1,5 +1,6 @@
 
 > Welke informatie heb je nodig om naar een document te refereren, het document niet op te laten slaan in de applicatie, maar wel het mogelijk maken om er bij te kunnen? 
+
 Om dit mogelijk te maken heb ik deze eigenschappen lijst samengesteld:
 
 * __Naam__
@@ -28,6 +29,7 @@ Maakt het mogelijk om documenten te sorteren op tijd.
 <!-- ![](content/documenten/schetsen13.png) -->
 
 ![Hier kunnen referenties naar documenten worden ingevoerd](content/documenten/schetsen24.png)
+
 
 De document-referenties zijn voorzien van een [details + summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) element, om de details te verbergen van het document.
 
