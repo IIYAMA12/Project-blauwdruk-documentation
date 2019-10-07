@@ -1,5 +1,6 @@
 
-Welke informatie heb je nodig om naar een document te refereren, het document niet op te laten slaan in de applicatie, maar wel het mogelijk maken om er bij te kunnen? Om dit mogelijk te maken heb ik deze eigenschappenlijst samengesteld:
+> Welke informatie heb je nodig om naar een document te refereren, het document niet op te laten slaan in de applicatie, maar wel het mogelijk maken om er bij te kunnen? 
+Om dit mogelijk te maken heb ik deze eigenschappen lijst samengesteld:
 
 * __Naam__
 De naam van het document. 
