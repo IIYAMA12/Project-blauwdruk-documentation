@@ -8,7 +8,7 @@ Boek: [Het Verborgen Scenario](https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_
 
 
 ## Bevindingen Hoofdstuk 1 
-Hoofdstuk naam: Motief
+Hoofdstuknaam: Motief
 
 
 ### Verborgen informatie
@@ -45,7 +45,7 @@ In het blauwdruk zou de onderzoeksjournalist kunnen aangeven welke vorm aan te r
 
 
 ## Bevindingen Hoofdstuk 2
-Hoofdstuk naam: Incident
+Hoofdstuknaam: Incident
 
 
 ### Wat heeft je verbaasd?
@@ -188,7 +188,7 @@ Het bijhouden van een lijst met wat er al in de publiciteit is geweest, zou nutt
 
 
 ## Bevindingen Hoofdstuk 3
-Hoofdstuk naam: Hypothese
+Hoofdstuknaam: Hypothese
 
 
 > Een probleem is een gebeurtenis die om verandering (verbetering) schreeuwt.
@@ -288,7 +288,7 @@ Een beschrijving van hoe je de hypothese hebt getoetst kan onderdeel zijn van ee
 
 
 ## Bevindingen Hoofdstuk 4
-Hoofdstuk naam: Tijdlijn
+Hoofdstuknaam: Tijdlijn
 
 
 ### Compleet maken van het verhaal door middel van een tijdlijn
