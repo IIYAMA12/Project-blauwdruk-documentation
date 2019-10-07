@@ -7,9 +7,10 @@ Aan de hand van de interviews van het vorige hoofdstuk heb ik een aantal eisen k
 De onderzoeksjournalist kan zijn gebeurtenissen invullen in het ontwerp, met daarbij de betrokken onderdelen (bronnen, documenten, etc.). Ook heeft hij een overzicht van de verbanden tussen bepaalde gebeurtenissen in een tweede dimensie, die de gevolgen en oorzaken van de gebeurtenissen laten zien.
 
 
-\* Verbanden: Gebeurtenis A in de tijdlijn zorgt voor gebeurtenis B.
+\* Verbanden: __Gebeurtenis A__ in de tijdlijn zorgt voor __gebeurtenis B__.
 
 __Voorbeeld:__
-* A – Faillissement organisatie.
-* B – Ontslag medewerkers.
-Verband: De faillissement van de organisatie, zorgt voor ontslag medewerkers.
+* __A__ – Faillissement organisatie.
+* __B__ – Ontslag medewerkers.
+
+__Verband: De faillissement van de organisatie, zorgt voor ontslag medewerkers.__
