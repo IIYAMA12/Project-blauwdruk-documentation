@@ -23,7 +23,7 @@ Onder bronnen zijn deze sub-werkgebieden zichtbaar:
 * Documenten
 * Wederhoor
 
-Bronnen, documenten en wederhoor lopen vaak in elkaar over, vandaar dat ik deze heb samengevoegt.
+Bronnen, documenten en wederhoor staan vaak dicht bij elkaar, vandaar dat ik deze heb samengevoegt. Zie redenering:
 
 * Bronnen zijn vaak in bezit van documenten. (Sommige onderzoeksjournalisten beschouwen documenten ook als bronnen)
 * Bij bronnen wordt wederhoor gepleegd om te controleren of de informatie valide is.
