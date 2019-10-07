@@ -13,4 +13,4 @@ __Voorbeeld:__
 * __A__ – Faillissement organisatie.
 * __B__ – Ontslag medewerkers.
 
-__Verband: De faillissement van de organisatie, zorgt voor ontslag medewerkers.__
+__Verband: Het faillissement van een organisatie, zorgt voor ontslagen medewerkers.__

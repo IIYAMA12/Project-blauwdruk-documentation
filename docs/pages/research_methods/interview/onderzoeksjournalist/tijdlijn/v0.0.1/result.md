@@ -100,12 +100,13 @@ Afgenomen bij [Frank Meijers](https://www.ftm.nl/auteur/frank-meijer)
 ### Behoefte
 * Er is een behoefte aan een manier om verbanden* te maken boven op het chronologische ordening van het content. Wanneer de ordening veranderd aan de hand van de verbanden, kan de chronologische ordening worden verstoord.
 
-\* Verband: Gebeurtenis A in de tijdlijn zorgt voor gebeurtenis B.
+\* Verbanden: __Gebeurtenis A__ in de tijdlijn zorgt voor __gebeurtenis B__.
 
 __Voorbeeld:__
-* A – Faillissement organisatie.
-* B – Ontslag medewerkers.
-Verband: De faillissement van de organisatie, zorgt voor ontslag medewerkers.
+* __A__ – Faillissement organisatie.
+* __B__ – Ontslag medewerkers.
+
+__Verband: Het faillissement van een organisatie, zorgt voor ontslagen medewerkers.__
 
 
 ### Aannames
