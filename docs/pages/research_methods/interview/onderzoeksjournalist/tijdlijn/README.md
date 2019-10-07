@@ -7,4 +7,4 @@ Vanuit verschillende onderzoeksmethode komt naar boven dat een tijdlijn een mode
 
 
 ## Doel
-Onderzoeken welke tijdsweergave/tijdslijn een onderzoeksjournalist nodig heeft voor zijn gebeurtenissen binnen het onderzoek.
+Onderzoeken wat voor soort tijdsweergave/tijdslijn een onderzoeksjournalist nodig heeft voor zijn gebeurtenissen binnen het onderzoek.
