@@ -7,6 +7,8 @@
 
 Het zoeken naar de beste indeling van een tijdsweergave.
 
+## Onderdelen tijdlijn
+
 ![](content/tijdlijn/schetsen18.png)
 
 __Onderdelen:__
@@ -15,6 +17,8 @@ __Onderdelen:__
 * Koppelingen (betrokkenen) met: bronnen, documenten, etc.
 
 
+
+## Tijdsweergave
 
 ![Tijdsweergave](content/tijdlijn/schetsen19.png)
 
@@ -29,6 +33,7 @@ Een tijdlijn lees je vaak in een chronologsche volgorde van oud naar nieuw. Het 
 
 Om de gevarieerde tijdsweergave op te lossen is het handig om de tijdsvolgorde om te draaien.
 
+## Details
 
 ![Detail weergave koppelingen.](content/tijdlijn/schetsen20.png)
 
@@ -37,9 +42,13 @@ Koppelingen (bronnen, documenten etc.) hebben nu een eigen detail weergave. (Mee
 ![Extra schets](content/tijdlijn/schetsen21.png)
 
 
+## Hoofdstukken
+
 ![Hoofdstukken](content/tijdlijn/schetsen22.png)
 
 Hoofdstukken toevoegen binnen een tijdsweergave.
+
+## Digitale schets
 
 ![Gebeurtenissen in een tijdlijn](content/designs3.png)
 
