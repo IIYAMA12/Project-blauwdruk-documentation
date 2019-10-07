@@ -7,3 +7,6 @@ Wanneer een onderzoeksjournalist zijn of haar verhaal verteld, is er bijna altij
 ## Concept zin
 De onderzoeksjournalist kan oorzaak en gevolg verbanden leggen tussen gebeurtenissen en deze beschrijven en deze samenvoegen tot een verbanden web. Deze verbanden webben kunnen hun eigenverhaal vertellen.
 
+{% hint style='info' %}
+Een concept zin is invulbaar.
+{% endhint %}

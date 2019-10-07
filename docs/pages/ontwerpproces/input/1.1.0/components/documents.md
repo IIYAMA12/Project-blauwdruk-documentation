@@ -36,7 +36,7 @@ De document-referenties zijn voorzien van een [details + summary](https://develo
 __Technische specificatie:__
 
 * details element: Informatie verbergen wanneer het 'details element' gesloten is.
-* summary element: Deze informatie wordt weergegeven wanneer het element gesloten is.
+* summary element: Deze informatie wordt altijd weergegeven. (Samenvatting)
 
 ```HTML
 <details>

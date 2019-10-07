@@ -14,3 +14,7 @@ __Voorbeeld:__
 * __B__ – Ontslag medewerkers.
 
 __Verband: Het faillissement van een organisatie, zorgt voor ontslagen medewerkers.__
+
+{% hint style='info' %}
+Een concept zin is invulbaar.
+{% endhint %}
