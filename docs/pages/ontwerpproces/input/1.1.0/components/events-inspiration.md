@@ -1,5 +1,5 @@
 
-Inspiratie van de vormgeving van een tijdlijn die ik in mijn stageperiode heb ontworpen.
+Inspiratie van de vormgeving van een tijdlijn die ik in mijn stageperiode heb ontworpen. Deze zijn al richting de stijl van Follow the Money ontworpen.
 
 ![Mobiel](content/timeline-mobile.png)
 ![Tablet of desktop](content/timeline-tablet.png)
