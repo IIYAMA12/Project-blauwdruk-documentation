@@ -90,18 +90,27 @@ Afgenomen bij [Frank Meijers](https://www.ftm.nl/auteur/frank-meijer)
 * Het artikel zich ervoor leent.
 
 ### Leesrichting
-* Voorkeur: Content onderdelen van boven naar beneden.
+* Voorkeur: Content onderdelen van boven naar beneden. (niet van links naar rechts)
 
 
 ### Andere bevindingen
-* Frank maakt gebruik van een tijdsindicatie in de tekst die zich wel als een tijdslijn gedraagt, maar niet als een tijdslijn vormgegeven is. Dus de tijdsindicatie meer op een vertellende wijze dan met een hoge visuele hiërarchie.
+* Frank maakt gebruik van een tijdsindicatie in zijn werkdocument die zich wel als een tijdslijn gedraagt, maar niet als een tijdslijn vormgegeven is.
 
 
 ### Behoefte
-* Er is een behoefte aan een manier om verbanden te maken boven op het chronologische ordening van het content. Wanneer de ordening veranderd aan de hand van de verbanden, wordt de chronologische ordening verstoord.
+* Er is een behoefte aan een manier om verbanden* te maken boven op het chronologische ordening van het content. Wanneer de ordening veranderd aan de hand van de verbanden, kan de chronologische ordening worden verstoord.
+
+\* Verband: Gebeurtenis A in de tijdlijn zorgt voor gebeurtenis B.
+
+__Voorbeeld:__
+* A – Faillissement organisatie.
+* B – Ontslag medewerkers.
+Verband: De faillissement van de organisatie, zorgt voor ontslag medewerkers.
+
 
 ### Aannames
-* Wanneer de werkwijze verlangzaamd word door het groei van het content, dan heeft de gebruiker de mogelijkheid om informatie te verbergen om ervoor te zorgen dat de werk efficiëntie niet met grote maten achteruit gaat. 
+* Wanneer de werkwijze verlangzaamd word door het groei van het ingevoerde onderzoeksdata, dan heeft de gebruiker de mogelijkheid om informatie te verbergen om ervoor te zorgen dat de werk efficiëntie niet met grote maten achteruit gaat.
+
 
 
 
