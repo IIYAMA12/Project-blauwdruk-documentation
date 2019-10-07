@@ -7,6 +7,6 @@ __Naast het boomstructuur voor het invoeren van bronnen, zijn er nu ook concepte
 * __Documenten__  (Inspiratie uit Masterfile: [Documents](https://jorik.gitbook.io/project-blauwdruk/research_methods/masterfile#documents))
 * __Gebeurtenissen__  (Inspiratie uit Masterfile: [Story](https://jorik.gitbook.io/project-blauwdruk/research_methods/masterfile#story))
 * __Onderzoeksvragen__
-* __Verbanden__
+* __Verbanden__ (Inspiratie uit [bevindingen uit gebruikerstest - prototype v1_0_0](https://jorik.gitbook.io/project-blauwdruk/v/development/ontwerpproces/input/prototype/resultaten#bevindingen))
 
 
