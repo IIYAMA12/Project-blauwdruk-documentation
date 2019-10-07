@@ -92,7 +92,7 @@
 						* [Interview v2_0_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/README.md)
 							* [Resultaten v2_0_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/result.md)
 					* [Concept - gebeurtenissen](pages/ontwerpproces/input/1.1.0/components/events-concept.md)
-					* [Inspiratie](pages/ontwerpproces/input/1.1.0/components/events-inspiration.md)
+					* [Inspiratie - vormgeving](pages/ontwerpproces/input/1.1.0/components/events-inspiration.md)
 					* [Ontwerp - gebeurtenissen](pages/ontwerpproces/input/1.1.0/components/events.md)
 				* [Onderzoeksvragen]()
 					* [Concept - onderzoeksvragen]()

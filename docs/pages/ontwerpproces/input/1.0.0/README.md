@@ -51,13 +51,13 @@ De informatiestructuur van het bijbehorende concept: boom hiërarchie
 
 ## Eerste schetsen
 
-### Vormschetsen
+### Morfologische-kaart
 
-![Geschikte vormen](content/schetsen28.png)
+![Morfologische-kaart](content/morfologische kaart entiteit.png)
+
 
 Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
-Uitgewerkt tot [Morfologische-kaart](https://jorik.gitbook.io/project-blauwdruk/research_methods/morfologische-kaart/entiteit).
 
 ### Eerste indeling
 

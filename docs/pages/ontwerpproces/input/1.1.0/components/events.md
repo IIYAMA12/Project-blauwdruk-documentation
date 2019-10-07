@@ -3,7 +3,7 @@
 
 
 
-![Morfologische-kaart](content/tijdlijn/schetsen17.png)
+![Morfologische-kaart](content/tijdlijn/morfologische kaart tijdlijn.png)
 
 Het zoeken naar de beste indeling van een tijdsweergave.
 
