@@ -24,13 +24,6 @@ Hoofdstuk naam: Motief
 
 Mocht de onderzoeksjournalist tegen het probleem aan lopen dat iets verborgen is, dan is het vastleggen er van wellicht interessant voor het blauwdruk. Deze redenen om iets te verbergen zouden ook terug kunnen komen in de tool.
 
-### Objectief of subjectief
-
-Todo
-
-
-(Sengers & Hunter, 2017, p. 15)
-
 
 ### Misverstanden te helpen oplossen
 

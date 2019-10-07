@@ -6,5 +6,5 @@ Voor de duidelijkheid, wanneer ik over een bron praat, heb ik het over een perso
 __De bron heeft in iedergeval deze twee belangen:__
 * Anoniem te blijven. (direct en indirect)
   * Direct: De naam van de bron staat vermeld.
-  * Indirect: De boosdoender die in het onderzoek naarvoren komt, kan achterhalen met bepaalde informatie wie de bron is.
+  * Indirect: De boosdoender die in het onderzoek naar voren komt, kan achterhalen met bepaalde informatie wie de bron is.
 * In bepaalde gevallen een belang bij het privé houden van gelekte informatie. Zeker in het geval dat de informatie niet eigendom is van de bron zelf. Dit kan bijvoorbeeld tot een rechtzaak leiden.
