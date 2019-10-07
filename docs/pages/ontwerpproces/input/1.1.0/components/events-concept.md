@@ -4,7 +4,7 @@ Aan de hand van de interviews van het vorige hoofdstuk heb ik een aantal eisen k
 
 ## Concept zin
 
-De onderzoeksjournalist kan zijn gebeurtenissen invullen in het ontwerp, met daarbij de betrokken onderdelen (bronnen, documenten, etc.). Ook heeft hij een overzicht van de verbanden tussen bepaalde gebeurtenissen in een tweede dimensie, die de gevolgen en oorzaken van de gebeurtenissen laten zien.
+De onderzoeksjournalist kan zijn gebeurtenissen invullen in het ontwerp, met daarbij de betrokken onderdelen (bronnen, documenten, etc.). Ook heeft hij of zij een overzicht van de verbanden tussen bepaalde gebeurtenissen in een tweede dimensie, die de gevolgen en oorzaken van de gebeurtenissen laten zien.
 
 
 \* Verbanden: __Gebeurtenis A__ in de tijdlijn zorgt voor __gebeurtenis B__.
