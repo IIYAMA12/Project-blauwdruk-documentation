@@ -1,5 +1,11 @@
 # Feedback Frenzy
 
+![Poster onderzoek en concept](content/poster-1.png)
+
+
+![Poster ontwerp](content/poster-2.png)
+
+
 ## Feedback
 
 ### Feedback van Thomas
