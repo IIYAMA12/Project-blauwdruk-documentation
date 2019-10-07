@@ -23,7 +23,7 @@ Onderbouwing toevoegen
 
 
 ## Gebruiker
-De hoofdgebruiker is de [onderzoeksjournalist](https://jorik.gitbook.io/project-blauwdruk/v/development/stakeholders/onderzoeksjournalist).
+De hoofdgebruiker is de [onderzoeksjournalist](https://jorik.gitbook.io/project-blauwdruk/stakeholders/onderzoeksjournalist).
 
 ### Aantal gebruikers/apparaten
 Deze versie van __ontwerp 1__ (invoeren van onderzoeksdata) is geschikt voor 1 laptop. __Ontwerp 2__ (Visuele weergave) is wel beschikbaar voor meerdere gebruikers.
