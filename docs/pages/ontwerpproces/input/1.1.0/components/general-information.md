@@ -1,6 +1,3 @@
-{% hint style='working' %}
-Beschrijvingen toevoegen
-{% endhint %}
 
 
 
