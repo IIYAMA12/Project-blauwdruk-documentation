@@ -88,6 +88,6 @@ Per onderzoeksvragenlijst zou je aan kunnen geven aan welke bron je de vraag ste
 
 Wanneer de onderzoeksjournalist tekst in de aanleiding of het antwoord veld heeft getyped, verschijnt de geselecteerde bron naast de onderzoeksvraag.
 
-![Onderzoeksvragen](content/designs4.png)
+![Digitale schets](content/designs4.png)
 
-Onderzoeksvragen opstellen en deze stellen aan bronnen(personen/organisaties).
+Onderzoeksvragen opstellen en deze stellen aan bronnen.
