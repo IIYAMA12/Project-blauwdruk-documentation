@@ -51,7 +51,7 @@ De tekst in de knop is niet duidelijk. De tekst had eigenlijk moeten zijn: __"Ga
 
 ![Referentie knoppen](content/knoppen-tijdlijn.png)
 
-De referentie knoppen binnen de tijdlijn worden nog niet gebruikt. Na de reden achter deze verschijnsel gevraagd te hebben, bleek de verwachte feedback na het klikken op de knop onduidelijk. Het was overigens wel duidelijk dat deze te maken hadden met bronnen en documenten.
+De referentie knoppen binnen de tijdlijn worden nog niet gebruikt. Na de reden achter deze verschijnsel gevraagd te hebben, bleek de verwachte gebruikersinterface-feedback na het klikken op de knop onduidelijk. Het was overigens wel duidelijk dat deze te maken hadden met bronnen en documenten.
 
 
 #### Verbanden
