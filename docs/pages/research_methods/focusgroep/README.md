@@ -77,7 +77,7 @@ De Focusgroep bestaat uit 3 onderdelen.
 
 ## Presentatie focusgroep
 
-[Presentatie bekijken](https://iiyama12.github.io/Project-blauwdruk-documentation/docs/presentaties/focusgroep-presentatie/assets/player/KeynoteDHTMLPlayer.html#0)
+[Presentatie slides](https://iiyama12.github.io/Project-blauwdruk_html-content/focusgroep-presentatie/assets/player/KeynoteDHTMLPlayer.html)
 
 Note: In de presentatie is de navigatie verstopt aan de ***linkerkant*** van het ***zwarte gedeelte*** tegen de ***kantlijn*** aan.
 
