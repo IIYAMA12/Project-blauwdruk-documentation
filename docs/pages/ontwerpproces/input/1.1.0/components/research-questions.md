@@ -84,6 +84,11 @@ Onderzoeksvragen hergebruiken.
 
 Per onderzoeksvragenlijst zou je aan kunnen geven aan welke bron je de vraag stelt. Bij het toevoegen van een nieuwe bron blijft de onderzoeksvraag blijft staan, maar de aanleiding voor het stellen van de vraag en het antwoord wordt leeggehaald. Zo kan je per bron opnieuw defineren waarom je deze onderzoeksvraag aan deze bron stuurt. Ook heb je nu per bron een uniek antwoord.
 
+__Extra opties:__
+* Mee kopiëren van aanleiding
+* Mee kopiëren van antwoord
+
+
 ![Weergeven wie de onderzoeksvragen heeft beantwoord](content/onderzoeksvragen/schetsen15.png)
 
 Wanneer de onderzoeksjournalist tekst in de aanleiding of het antwoord veld heeft getyped, verschijnt de geselecteerde bron naast de onderzoeksvraag.
