@@ -26,7 +26,7 @@ Doel (van de onderzoeksvraag) opnieuw toevoegen
 
 ![Koppeling modal](content/onderzoeksvragen/schetsen14.png)
 
-Modal gebruikersinterface toegevoegd
+Modal gebruikersinterface toegevoegd wanneer je onderdelen (bronnen, documenten, gebeurtenisse etc.) aan de onderzoeksvraag koppeld.
 
 
 

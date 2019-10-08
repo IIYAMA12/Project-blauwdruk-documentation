@@ -11,7 +11,7 @@ Voorbeelden van onderdelen `*`
 
 ## Vragenset
 
-Een nieuw onderdeel is geboren: `vragenset`
+Een nieuw onderdeel is geboren: `vragenlijst`
 
 Een lijst met vragen samenstellen als 1 entiteit, zorgt voor:
 * Updatebaarheid

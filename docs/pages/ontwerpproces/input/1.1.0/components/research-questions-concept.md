@@ -21,12 +21,11 @@ __Voorbeelden van betrokkenen__ `*`
 
 ## Vragenset
 
-Een nieuw entiteit is geboren, de: `vragenset`
+Een nieuw entiteit is geboren, de: `vragenlijst`
 
 Dit is lijst met vragen en moet zorgt voor:
 * Updatebaarheid
-* Toepasbaarheid
-* Kopieerbaarheid
+* Herbruikbaarheid
 
 
 ## Werking
@@ -38,7 +37,7 @@ Dit is lijst met vragen en moet zorgt voor:
 3. Er zijn 3 andere soort gelijke organisaties, waarbij dezelfde soort vragen gesteld kunnen worden: ***4.1***, ***4.2***. en ***4.3***. De `vragenlijst` kan worden hergebruikt bij deze organisaties, met als optie om vragen te filteren ***3.x***.
 4. De onderzoeksjournalist kan nu de `vragenlijst` gebruiken om per organisatie de juiste onderzoeksvragen te stellen.
 
-
-
+## Betrokkenen als bronnen
+Sinds de betrokkenen ook gezien kunnen worden als 'bronnen' en deze als in het systeem voorkomen, is het voor de eenvoud handig om binnen de applicatie de entiteit 'bronnen' te gebruiken.
 
 
