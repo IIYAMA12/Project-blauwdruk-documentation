@@ -41,8 +41,7 @@ __Vanuit de design challenge gaat het ontwerp `invoeren van onderzoeksdata` zorg
 
 * `Aanvulbaarheid`
 
-Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar voor veiligheids overwegingen en afkadering project. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend niet dat je niet gezamenlijk met 1 computer er aan kan werken.
-
+Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar en ook om het project af te kaderen. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend natuurlijk niet dat je er niet gezamenlijk met 1 computer aan kan werken.
 
 
 ## Het tweede ontwerp: visuele weergave
