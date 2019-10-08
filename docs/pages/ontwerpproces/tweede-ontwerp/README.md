@@ -13,7 +13,7 @@ __Dit zijn de belangrijkste verbeterpunten:__
 * Persona ter ondersteuning
 * Hele scherpe vraag: Alle informatie ingevuld en dan? (Tip van Thomas: kijk naar een rechercheur/politie case)
 
-Bij de laatste verbeterpunt 'Alle informatie ingevuld en dan?', had ik het gevoel dat ik onhandig bezig was. Het is niet alsof ik er niet bij stilgestaan heb, maar om die vraag te beantwoorden is een heel andere versie van het ontwerp nodig.
+Bij de laatste verbeterpunt 'Alle informatie ingevuld en dan?', had ik het gevoel dat ik onhandig bezig ben geweest. Het is niet alsof ik er niet bij stilgestaan heb, maar om die vraag te beantwoorden is een heel andere versie van het ontwerp nodig.
 
 ![Reflectie van mijzelf](content/facepalm.png)
 
