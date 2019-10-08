@@ -30,7 +30,7 @@ Dit is lijst met vragen en moet zorgt voor:
 
 
 ## Werking
-![Vragenlijst concept](content/vragenlijst-concept.png)
+![Vragenlijst concept](content/onderzoeksvragen/vragenlijst-concept.png)
 
 
 1. Er is bijvoorbeeld organisatie waarbij de onderzoeksjournalist onderzoeksvragen stelt.
