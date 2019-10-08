@@ -107,7 +107,7 @@
 			* [Focusgroep](pages/research_methods/focusgroep/README.md)
 			* [Context ontwerp](pages/ontwerpproces/input/context-1.0.0/README.md)
 		* [Feedback Frenzy](pages/feedback-frenzy/README.md)
-		* [Tweede ontwerp](pages/ontwerpproces/tweede-ontwerp/README.md)
+		* [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 		* [Visuele weergave v1_0_0 t/m v1_1_0](pages/ontwerpproces/output/README.md)
 			* [Startpunt v1_0_0](pages/ontwerpproces/output/start-point/README.md)
 			* [Ontwerp v1_0_0](pages/ontwerpproces/output/1.0.0/README.md)

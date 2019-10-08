@@ -1,5 +1,12 @@
 # Feedback Frenzy
 
+De Feedback Frenzy is een presentatie moment waar binnen je het concept en je eerste ontwerp presenteert.
+
+
+
+
+## Voorbereiding
+
 Voor de presentatie op de Feedback Frenzy heb ik de volgende 3 onderdelen voorbereid:
 
 * Poster met onderzoeksproces, doelgroep en concept
