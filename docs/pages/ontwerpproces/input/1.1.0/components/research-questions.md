@@ -48,13 +48,16 @@ Misschien is een lijst met onderwerpen handig?
 __De onderzoeksvraag indelen in:__
 
 1. Aanleiding
-  * Koppeling met onderdelen die bij de aanleiding horen
+  * Koppeling met onderdelen* die bij de aanleiding horen 
 2. Onderzoeksvraag
 3. Beantwoorden
-  * Koppeling met onderdelen die bij de beantwoording horen
+  * Koppeling met onderdelen* die bij de beantwoording horen
 
-
-
+__\* Onderdelen:__
+* Bronnen
+* Documenten
+* Gebeurtenissen
+etc.
 
 ![Koppeling modal](content/onderzoeksvragen/schetsen14.png)
 
