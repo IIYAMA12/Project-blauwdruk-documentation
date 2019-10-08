@@ -40,7 +40,9 @@ __Onderzoeksvraag:__
 
 ![Vragenlijst toevoegen en koppelen aan onderwerp](content/onderzoeksvragen/schetsen9.png)
 
-Misschien is een lijst met onderwerpen handig?
+> Misschien is het handig om een onderwerp aan een onderzoeksvraag te hangen? 
+
+Ik zie er zelf nog niet het nut van in, maar misschien heb je vraag die financiën gaat of juist over zorg.
 
 
 ![Indeling onderzoeksvraag](content/onderzoeksvragen/schetsen11.png)
@@ -68,16 +70,19 @@ __\* Onderdelen:__
 
 ![Conclusies](content/onderzoeksvragen/schetsen8.png)
 
-Zou je hier al van je onderzoeksvragen conclusies kunnen trekken?
+> Zou je hier al van je onderzoeksvragen conclusies kunnen trekken?
+
+
 
 ![Vragenlijst hergebruiken](content/onderzoeksvragen/schetsen10.png)
 
-Onderzoeksvragn hergebruiken.
+Onderzoeksvragen hergebruiken.
 
 ![Onderzoeksvragen langs 'onderdelen'/betrokkenen halen.](content/onderzoeksvragen/schetsen12.png)
 
 ![Vragen stellen aan meerdere bronnen](content/onderzoeksvragen/schetsen7.png)
 
+Per onderzoeksvragenlijst zou je aan kunnen geven aan welke bron je de vraag stelt. Bij het toevoegen van een nieuwe bron blijft de onderzoeksvraag blijft staan, maar de aanleiding voor het stellen van de vraag en het antwoord wordt leeggehaald. Zo kan je per bron opnieuw defineren waarom je deze onderzoeksvraag aan deze bron stuurt. Ook heb je nu per bron een uniek antwoord.
 
 ![Weergeven wie de onderzoeksvragen heeft beantwoord](content/onderzoeksvragen/schetsen15.png)
 Wanneer de onderzoeksjournalist tekst in de aanleiding of het antwoord veld heeft getyped, verschijnt de geselecteerde bron naast de onderzoeksvraag.
