@@ -1,12 +1,11 @@
 # Aanleiding
 
-De aanleiding voor deze stageopdracht is afkomstig van het bedrijf Follow the Money. Dit is ook het bedrijf waarbij ik het afgelopen halfjaar stage heb gelopen. Tijdens de stage heb ik samen met Follow the Money gekeken naar mogelijke projecten die ik als afstudeerproject zou kunnen uitvoeren. Daarvan vind ik het zogenoemde `blauwdruk-project` de meest interessante opdracht. Over de oorsprong van het project en de naam daarvan kan je hieronder lezen.
-
+De aanleiding vanuit het bedrijf Follow the Money heeft geresulteerd in een uitdagende stageopdracht. Dit is ook het bedrijf waarbij ik het afgelopen halfjaar stage heb gelopen. Tijdens de stage heb ik samen met Follow the Money gekeken naar mogelijke projecten die ik als afstudeerproject zou kunnen uitvoeren. Hiervan vind ik het zogenoemde `blauwdruk-project` de meest interessante opdracht. Over de oorsprong van het project en de naam daarvan kan je hieronder lezen.
 
 
 
 ## Niet bekend met Follow the Money?
-Follow the Money is een onderzoeksjournalistiek platform, dat onderzoeken doet naar misstanden in de samenleving met het kenmerk `geld` en publiceert dit.
+Follow the Money is een onderzoeksjournalistiek platform, dat onderzoek doet naar misstanden in de samenleving met het kenmerk `geld` en publiceert dit.
 
 __Meer informatie:__
 
@@ -19,7 +18,7 @@ Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het rep
 
 __Bijvoorbeeld: (context | onderwerp zorg)__
 
-1. Een zorgbedrijf heeft Fraude gepleegd met zorggeld via een (niet ethisch) manier/constructie. De onderzoeksjournalist heeft onderzoek hier naar gedaan en dit uitgevonden hoe deze manier werkt.
+1. Een zorgbedrijf heeft fraude gepleegd met zorggeld via een bepaalde manier / constructie. De onderzoeksjournalist heeft onderzoek hier naar gedaan en dit uitgevonden hoe deze manier werkt.
 2. Een tweede zorgbedrijf bedrijf komt inbeeld omdat daar veel te veel winst is gemaakt, maar het is onduidelijk hoe deze dit heeft behaald.
 3. De onderzoeksjournalist zou met `dit product*` kunnen controleren of er met dezelfde manier fraude is gepleegd bij het tweede zorgbedrijf.
 
