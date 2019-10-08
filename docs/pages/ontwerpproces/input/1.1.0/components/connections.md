@@ -10,8 +10,9 @@ Voor nu houd ik er rekening mee met het idee dat niet alleen gebeurtenissen kunn
 
 __Bijvoorbeeld:__
 
+| Entiteit A | Entiteit B | 
+---------------------
 | __Persoon A__ | __heeft organisatie B opgericht__ |
-
 | __Bron__ | __Gebeurtenis (+ organisatie)__ |
 
 ## Variant A
