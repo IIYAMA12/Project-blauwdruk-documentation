@@ -14,7 +14,7 @@ Voor de presentatie op de Feedback Frenzy heb ik de volgende 3 onderdelen voorbe
 * Prototype v1_1_0
 
 
-![Poster onderzoek en concept](content/poster-1.png)
+![Poster onderzoeksproces, doelgroep en concept](content/poster-1.png)
 
 ![Poster ontwerp v1_1_0](content/poster-2.png)
 

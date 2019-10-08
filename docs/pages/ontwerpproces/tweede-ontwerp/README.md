@@ -3,15 +3,21 @@
 <!-- In dit hoofdstuk wordt uitgelegd hoe de ontwerpen van dit product tot stand zijn gekomen. Er worden in totaal 2 hoofdontwerpen beschreven. Het eerste ontwerp `invoergedeelte` gaat over de invoer van onderzoeksdata in database. Het tweede ontwerp gaat over de `visuele weergave` van de onderzoeksdata.
  -->
 
-De Feedback uit de 'Feedback Frenzy' gaf duidelijk aan dat de concepten en ontwerpen nog niet helemaal duidelijk waren voor de gebruikers. Kortom, ik miste nog een paar hele belangrijke punten.
+De Feedback op de 'Feedback Frenzy' presentatie gaf een duidelijk beeld over de status van het project. 
 
-* User journey
-* Complexiteit gebruikersinterface
+__Dit zijn de belangrijkste verbeterpunten:__
+* User journey inkaart brengen
+* Denk aan complexiteit van het gebruikersinterface
 * Zoom wat meer uit, minder op detail niveau
 * Een goede probleem beschrijving
-* Persona
-* Alle informatie ingevuld en dan? (Tip van Thomas: kijk naar een rechercheur/politie case)
+* Persona ter ondersteuning
+* Hele scherpe vraag: Alle informatie ingevuld en dan? (Tip van Thomas: kijk naar een rechercheur/politie case)
 
+Bij de laatste verbeterpunt 'Alle informatie ingevuld en dan?', had ik het gevoel dat ik onhandig bezig was. Het is niet alsof ik er niet bij stilgestaan heb, maar om die vraag te beantwoorden is een heel andere versie van het ontwerp nodig.
+
+[Reflectie van mijzelf](content/facepalm.png)
+
+Google. (z.d.-c). Facepalm. Geraadpleegd op 8 oktober 2019, van https://www.google.com/search?q=facepalm&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiomaPMv4zlAhVCEVAKHUvNDCwQ_AUIESgB&biw=2319&bih=1442
 
 
 
