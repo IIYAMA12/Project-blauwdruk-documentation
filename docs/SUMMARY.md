@@ -103,6 +103,7 @@
 				* [Werkgebieden]()
 					* [Concept - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections-concept.md)
 					* [Ontwerp - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections.md)
+				* [Applicatie structuur]()
 			* [Prototype v1_1_0](pages/ontwerpproces/input/1.1.0/prototype.md)
 			* [Focusgroep](pages/research_methods/focusgroep/README.md)
 			* [Context ontwerp](pages/ontwerpproces/input/context-1.0.0/README.md)
