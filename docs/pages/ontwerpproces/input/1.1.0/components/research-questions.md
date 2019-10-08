@@ -40,35 +40,42 @@ __Onderzoeksvraag:__
 
 ![Vragenlijst toevoegen en koppelen aan onderwerp](content/onderzoeksvragen/schetsen9.png)
 
+Misschien is een lijst met onderwerpen handig?
 
 
 ![Indeling onderzoeksvraag](content/onderzoeksvragen/schetsen11.png)
 
+__De onderzoeksvraag indelen in:__
+
 1. Aanleiding
+  * Koppeling met onderdelen die bij de aanleiding horen
 2. Onderzoeksvraag
 3. Beantwoorden
+  * Koppeling met onderdelen die bij de beantwoording horen
 
 
-![](content/onderzoeksvragen/schetsen15.png)
 
-Doel (van de onderzoeksvraag) opnieuw toevoegen
 
 ![Koppeling modal](content/onderzoeksvragen/schetsen14.png)
 
-Modal gebruikersinterface toegevoegd wanneer je onderdelen (bronnen, documenten, gebeurtenisse etc.) aan de onderzoeksvraag koppeld.
+* Doel (van de onderzoeksvraag) opnieuw toevoegen
+* Modal gebruikersinterface toegevoegd wanneer je onderdelen (bronnen, documenten, gebeurtenisse etc.) aan de onderzoeksvraag koppeld.
 
 
-
-![Bronnen, verbanden, documenten etc. vanuit andere werkgebieden koppelen](content/onderzoeksvragen/schetsen8.png)
-
+![Conclusies](content/onderzoeksvragen/schetsen8.png)
+Zou je hier al van je onderzoeksvragen conclusies kunnen trekken?
 
 ![Vragenlijst hergebruiken](content/onderzoeksvragen/schetsen10.png)
+
+Onderzoeksvragn hergebruiken.
 
 ![Onderzoeksvragen langs 'onderdelen'/betrokkenen halen.](content/onderzoeksvragen/schetsen12.png)
 
 ![Vragen stellen aan meerdere bronnen](content/onderzoeksvragen/schetsen7.png)
 
 
+![Weergeven wie de onderzoeksvragen heeft beantwoord](content/onderzoeksvragen/schetsen15.png)
+Wanneer de onderzoeksjournalist tekst in de aanleiding of het antwoord veld heeft getyped, verschijnt de geselecteerde bron naast de onderzoeksvraag.
 
 ![Onderzoeksvragen](content/designs4.png)
 
