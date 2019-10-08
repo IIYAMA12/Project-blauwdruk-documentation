@@ -28,7 +28,7 @@ Download als pdf voor een volledige weergave: [Projectvoorstel](content/projectv
 
 ![.](content/Tekengebied 11.png)
 
-![.](content/Tekengebied 12.png)
+![.](content/Tekengebied 13.png)
 
 ![.](content/Tekengebied 14.png)
 
@@ -36,9 +36,9 @@ Download als pdf voor een volledige weergave: [Projectvoorstel](content/projectv
 
 ![.](content/Tekengebied 16.png)
 
-![.](content/Tekengebied 13.png)
 
-![.](content/Tekengebied 17.png)
+
+<!-- ![.](content/Tekengebied 17.png) -->
 
 
 
