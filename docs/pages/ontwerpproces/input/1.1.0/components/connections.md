@@ -54,9 +54,11 @@ De onderzoeksjournalist heeft de mogelijkheid om steeds een verband tussen 2 ent
 
 ## Variant B
 
-![Gebruikersinterface met direct manipulatie](content/verbanden/schetsen4.png)
+![Gebruikersinterface met direct manipulation](content/verbanden/schetsen4.png)
 
-De gebruiker kan in deze variant direct manipulatie gebruiken.
+De gebruiker kan in deze variant 'direct manipulation'* gebruiken.
+
+\* Direct manipulation: Je kan een object direct manipuleren, zoals bijvoorbeeld het slepen van bestanden binnen Finder (Mac OS) en Explorer (Windows), zodat deze van locatie veranderen binnen de computer.
 
 * Klikken op het entiteit geeft een sub-menu weer. Met de opties:
   * Sluiten sub-menu.
@@ -71,7 +73,10 @@ De gebruiker kan in deze variant direct manipulatie gebruiken.
 Variant B zou ik persoonlijk zelf heel graag gebruiken om mijn visalisaties te maken, maar er hangen ook heel veel nadelen. Zoals: 
 
 * Overlapping van entiteiten en bijbehorende labels.
-* Leercurve en herkenning van direct manipulatie binnen een netwerk diagram.
+* Leercurve en herkenning van 'direct manipulation binnen een netwerk diagram.
+
+
+
 
 Dit heb ik ondervonden toen ik de software [draw.io](https://about.draw.io/about-us/) ging gebruiken.
 
