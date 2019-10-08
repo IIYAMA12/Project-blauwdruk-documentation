@@ -30,7 +30,7 @@ Prototype test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal
 
 Wanneer je in het netwerk-diagram een gebeurtenis aanklikt komt deze knop te voorschijn:
 
-![Ga naar gebeurtenis](ga-naar-gebeurtenis.png)
+![Ga naar gebeurtenis](content/ga-naar-gebeurtenis.png)
 
 __Na het klikken op de knop Ga naar gebeurtenis:__
 
