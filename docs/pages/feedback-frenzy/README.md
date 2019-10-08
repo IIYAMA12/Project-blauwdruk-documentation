@@ -1,6 +1,6 @@
 # Feedback Frenzy
 
-De Feedback Frenzy is een presentatie moment waar binnen je het concept en je eerste ontwerp presenteert.
+De Feedback Frenzy is een presentatiemoment waar je het concept en je eerste ontwerp presenteert. Het publiek bestaat uit afstudeerders die in hetzelf traject zitten en de afstudeerbegeleiders. Dit moment is bedoelt om feedback te vergaren voor en door studenten, om zo van elkaar te leren en elkaar verder te helpen.
 
 
 
@@ -20,6 +20,7 @@ Voor de presentatie op de Feedback Frenzy heb ik de volgende 3 onderdelen voorbe
 
 [Link naar prototype v1_1_0](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
 Op dit prototype is Feedback gegeven door Sadjad, dit is [hier](https://jorik.gitbook.io/project-blauwdruk/feedback-frenzy#prototype) terug te vinden.
+
 
 ## Feedback
 
