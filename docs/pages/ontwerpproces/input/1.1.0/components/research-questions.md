@@ -62,7 +62,7 @@ __\* Onderdelen:__
 
 ![Koppeling modal](content/onderzoeksvragen/schetsen14.png)
 
-* Doel (van de onderzoeksvraag) opnieuw toevoegen
+* Doel (van de onderzoeksvraag)
 * Modal gebruikersinterface toegevoegd wanneer je onderdelen (bronnen, documenten, gebeurtenisse etc.) aan de onderzoeksvraag koppeld.
 
 
