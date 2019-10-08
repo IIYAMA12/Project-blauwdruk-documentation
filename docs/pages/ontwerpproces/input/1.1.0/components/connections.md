@@ -22,7 +22,7 @@ __Bijvoorbeeld:__
 
 __Deze variant bestaat uit:__
 * Voorvertoning in de vorm van een __netwerk diagram__.
-  * Entiteiten (Cirkels met A, B, C)
+  * Entiteiten (Cirkels met A, B, C, D)
     * Tooltip (Met muis hover kan je de naam van het entiteit bekijken)
   * Verbanden (Lijnen tussen de cirkels)
     * Tooltip (Met muis hover kan je de beschrijving zien)

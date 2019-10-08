@@ -1,6 +1,8 @@
 
 
 
+Dit ontwerp `Visuele weergave` is zoals je zou verwachten gebaseerd op `invoeren van onderzoeksdata`. De data die daar is ingevoerd, moet hier weer terugkomen.
+
 ## Opbouw
 
 __Dit ontwerp is opgebouwd uit het volgende onderdelen:__
@@ -26,6 +28,9 @@ Als laatste de is de __Zaaks-paragraaf__ gebruikt om het onderzoek te beschrijve
 
 
 ## Designs
+
+
+
 
 ![Voorblad, Bronnen en documenten](content/designs.png)
 
