@@ -38,6 +38,6 @@ Dit is lijst met vragen en moet zorgt voor:
 4. De onderzoeksjournalist kan nu de `vragenlijst` gebruiken om per organisatie de juiste onderzoeksvragen te stellen.
 
 ## Betrokkenen als bronnen
-Sinds de betrokkenen ook gezien kunnen worden als 'bronnen' en deze als in het systeem voorkomen, is het voor de eenvoud handig om binnen de applicatie de entiteit 'bronnen' te gebruiken.
+Sinds de betrokkenen ook gezien kunnen worden als 'bronnen' en deze als in het systeem voorkomen, is het voor de eenvoud handig om binnen de onderzoeksvragen ook de entiteit 'bronnen' te gebruiken.
 
 
