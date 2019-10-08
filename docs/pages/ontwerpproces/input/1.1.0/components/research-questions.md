@@ -7,7 +7,7 @@ __Eigenschappen van een onderzoeksvraag:__
 * Aanleiding voor het stellen van de vraag
 * Antwoorden op de vraag
 * De persoon die de vraag stelt (onderzoeksjournalist)
-* De persoon die de vraag moet beantwoorden (bron of de onderzoeksjournalist)
+* De persoon die de vraag moet beantwoorden (bron of de onderzoeksjournalist zelf)
 
 
 
@@ -15,10 +15,15 @@ __Eigenschappen van een onderzoeksvraag:__
 
 __De onderzoeksvragenlijst:__
 
+Mocht je de vragen willen groeperen onder onderwerp, een specifiek segment van je bronnen of misschien alleen vragen voor jezelf, dan is een verdeling nodig. 
+
+> Onderzoeksvragenlijsten!
+
+Met eigenschappen:
 1. Naam van de lijst
 2. Beschrijving van de lijst
 
-Mocht je de vragen willen groeperen onder onderwerp, een specifiek segment van je bronnen of misschien alleen vragen voor jezelf, dan is een boven liggende verdeling nodig.
+
 
 * Vragenlijst – Iedere bron die belang heeft bij het tegengaan van 'klimaatverandering'
   1. Onderzoeksvraag
