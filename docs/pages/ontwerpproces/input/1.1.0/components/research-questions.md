@@ -1,8 +1,6 @@
 
 
-{% hint style='working' %}
-Beschrijvingen toevoegen
-{% endhint %}
+
 
 ![](content/onderzoeksvragen/schetsen7.png)
 

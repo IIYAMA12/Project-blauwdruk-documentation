@@ -1,9 +1,9 @@
 
 ## Onderzoeksvraag
 
-Onderzoeksvragen spelen een belangrijke rol in het onderzoeksproces van de onderzoeksjournalist. Deze vragen hebben als functie om op zoek te gaan naar verborgen informatie en er achter te komen wat er nu eigenlijk echt aan de hand is.
+Onderzoeksvragen spelen een belangrijke rol in het onderzoeksproces van de onderzoeksjournalist. Deze vragen hebben als functie om op zoek te gaan naar verborgen informatie en er achter  komen wat er nu eigenlijk echt aan de hand is.
 
-Bij bepaalde onderdelen kunnen dezelfde vragen gesteld worden. Vaak zijn deze onderdelen gekoppeld aan een bepaald onderwerp zoals een bepaalde organisatie. Mocht een zelfde soort organisatie worden onderzocht dan kan je de onderzoeksvragen opnieuw stellen.
+Bij sommige betrokkenen in het journalistieke onderzoek kunnen dezelfde vragen gesteld worden. Vaak zijn deze betrokkenen gekoppeld aan een organisatie of delen ze dezelfde belangen. Kom je betrokkenen tegen die dezelfde belangen hebben, een zelfde soort functie heeft of bij een zelfde soort organisatie werkt, dan kan je de onderzoeksvragen opnieuw stellen.
 
 ## Doel
 * Tijdbesparen met invullen
