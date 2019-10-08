@@ -32,7 +32,7 @@ Met eigenschappen:
 * Vragenlijst – Deze bronnen werken allemaal bij dezelfde organisatie
   1. Onderzoeksvraag
   2. Onderzoeksvraag
-* Vragenlijst – Vragen die de onderzoeksjournalist zelf moet beantwoorden door middel deskresearch
+* Vragenlijst – Vragen die de onderzoeksjournalist zelf moet beantwoorden door middel van deskresearch
   1. Onderzoeksvraag
   2. Onderzoeksvraag
   3. Onderzoeksvraag
