@@ -76,9 +76,9 @@ Variant B zou ik persoonlijk zelf heel graag gebruiken om mijn visalisaties te m
 * Leercurve en herkenning van 'direct manipulation binnen een netwerk diagram.
 
 
+Deze nadelen heb ik ondervonden toen ik de software [draw.io](https://about.draw.io/about-us/) ging gebruiken.
 
-
-Dit heb ik ondervonden toen ik de software [draw.io](https://about.draw.io/about-us/) ging gebruiken.
+De leercurve van 'Variant A' is lager en daarom is deze meer geschikt voor de onderzoeksjournalist.
 
 
 ## Verbanden binnen de tijdlijn
