@@ -6,8 +6,8 @@ __Eigenschappen van een onderzoeksvraag:__
 * Doel van de vraag
 * Aanleiding voor het stellen van de vraag
 * Antwoorden op de vraag
-* De persoon die de vraag stelt (dat ben je meestal zelf)
-* De persoon die de vraag moet beantwoorden (bron of jezelf)
+* De persoon die de vraag stelt (onderzoeksjournalist)
+* De persoon die de vraag moet beantwoorden (bron of de onderzoeksjournalist)
 
 
 
