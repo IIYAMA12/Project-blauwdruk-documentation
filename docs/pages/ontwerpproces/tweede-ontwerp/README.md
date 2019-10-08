@@ -15,9 +15,33 @@ __Dit zijn de belangrijkste verbeterpunten:__
 
 Bij de laatste verbeterpunt 'Alle informatie ingevuld en dan?', had ik het gevoel dat ik onhandig bezig was. Het is niet alsof ik er niet bij stilgestaan heb, maar om die vraag te beantwoorden is een heel andere versie van het ontwerp nodig.
 
-[Reflectie van mijzelf](content/facepalm.png)
+![Reflectie van mijzelf](content/facepalm.png)
 
 Google. (z.d.-c). Facepalm. Geraadpleegd op 8 oktober 2019, van https://www.google.com/search?q=facepalm&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiomaPMv4zlAhVCEVAKHUvNDCwQ_AUIESgB&biw=2319&bih=1442
+
+
+## Is een tweede ontwerp nodig?
+Het bouwen van een product die alle behoeftes van alle gebruikers vervuld is een lastige opgave. Dit wordt nog lastiger wanneer het product twee verschillende soorten rollen gaat spelen. Namelijk het invoeren van informatie, de informatie weergeven en daarbovenop moet het ook nog eens de informatie doorzoekbaar maken.
+
+Wanneer je deze rollen vanaf het begin van de productontwikkeling gaat bundelen in 1 product wordt het een rommeltje. Te veel interactie-elementen op hetzelfde scherm, moeilijke keuzes maken welke elementen moeten blijven en het is lastig om de beste gebruikersflow te vinden.
+
+![Uitleg van 2 ontwerpflows](content/explanatory.png)
+
+Ik heb daarom besloten om een tweede ontwerp te ontwerpen, die moet aansluiten op het eerste ontwerp.
+
+* Eerste ontwerp: invoeren van onderzoeksdata
+* Tweede ontwerp: visuele weergave
+
+Beide moeten een deel van de design challenge beantwoorden.
+
+## Het eerste ontwerp: invoeren van onderzoeksdata
+
+### Design challenge
+__Vanuit de design challenge gaat het ontwerp `invoeren van onderzoeksdata` zorgen voor:__
+
+* `Aanvulbaarheid`
+
+Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar voor veiligheids overwegingen en afkadering project. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend niet dat je niet gezamenlijk met 1 computer er aan kan werken.
 
 
 
@@ -35,13 +59,6 @@ __Vanuit de design challenge zorgt dit ontwerp voor:__
 * `Toegankelijkheid`
 * Kan helpen met `reproceerbaarheid`, maar de onderzoeksjournalist moet dit nog steeds zelf doen.
 
-## Waarom 2 ontwerpen?
-Het bouwen van een product die alle behoeftes van alle gebruikers vervuld is een lastige opgave. Dit wordt nog lastiger wanneer het product twee verschillende soorten rollen gaat spelen. Namelijk het invoeren van informatie, de informatie weergeven en daarbovenop moet het ook nog eens de informatie doorzoekbaar maken.
-
-Wanneer je deze rollen vanaf het begin van de productontwikkeling gaat bundelen in 1 product wordt het een rommeltje. Te veel interactie-elementen op hetzelfde scherm, moeilijke keuzes maken welke elementen moeten blijven en het is lastig om de beste gebruikersflow te vinden.
-
-
-![Uitleg van 2 ontwerpflows](content/explanatory.png)
 
 
 ## Focus op het tweede ontwerp: Visuele weergave
@@ -55,9 +72,4 @@ Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij 
 
 
 
-### Design challenge: invoeren van onderzoeksdata
-__Vanuit de design challenge gaat het ontwerp `invoeren van onderzoeksdata` zorgen voor:__
 
-* `Aanvulbaarheid`
-
-Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar voor veiligheids overwegingen en afkadering project. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend niet dat je niet gezamenlijk met 1 computer er aan kan werken.
