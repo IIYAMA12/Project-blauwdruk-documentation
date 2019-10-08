@@ -54,10 +54,11 @@ __De onderzoeksvraag indelen in:__
   * Koppeling met onderdelen* die bij de beantwoording horen
 
 __\* Onderdelen:__
+
 * Bronnen
 * Documenten
 * Gebeurtenissen
-etc.
+* etc.
 
 ![Koppeling modal](content/onderzoeksvragen/schetsen14.png)
 
@@ -66,6 +67,7 @@ etc.
 
 
 ![Conclusies](content/onderzoeksvragen/schetsen8.png)
+
 Zou je hier al van je onderzoeksvragen conclusies kunnen trekken?
 
 ![Vragenlijst hergebruiken](content/onderzoeksvragen/schetsen10.png)
