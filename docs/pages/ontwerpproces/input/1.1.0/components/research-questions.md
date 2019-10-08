@@ -32,6 +32,7 @@ Met eigenschappen:
 * Vragenlijst – Deze bronnen werken allemaal bij dezelfde organisatie
   1. Onderzoeksvraag
   2. Onderzoeksvraag
+  3. Onderzoeksvraag
 * Vragenlijst – Vragen die de onderzoeksjournalist zelf moet beantwoorden door middel van deskresearch
   1. Onderzoeksvraag
   2. Onderzoeksvraag
@@ -39,6 +40,7 @@ Met eigenschappen:
 
 __Onderzoeksvraag:__
 
+Met de basis eigenschappen:
 1. Onderzoeksvraag
 2. Doel (van de onderzoeksvraag)
 
