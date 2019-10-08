@@ -9,7 +9,9 @@ Om deze te beantwoorden ben ik gaan kijken of dit nuttig is en of het misschien 
 Voor nu houd ik er rekening mee met het idee dat niet alleen gebeurtenissen kunnen zijn, maar het zou ook een verband kunnen zijn tussen een bron en een gebeurtenis. Dit zorgt even voor wat meer vrijheid binnen het iteratieproces.
 
 __Bijvoorbeeld:__
+
 | __Persoon A__ | __heeft organisatie B opgericht__ |
+
 | __Bron__ | __Gebeurtenis (+ organisatie)__ |
 
 ## Variant A
@@ -26,8 +28,8 @@ __Deze variant bestaat uit:__
 
 * Verbanden (__Invulvelden onder de netwerk diagram__)
   * Startpunt (Entiteit)
-  * Richting (pijl)
-  * Eindpunt (entiteit)
+  * Richting (Pijl)
+  * Eindpunt (Entiteit)
   * Beschrijving
 
 De onderzoeksjournalist heeft de mogelijkheid om steeds een verband tussen 2 entiteiten te trekken. Zie implementatie van het vorige voorbeeld.
@@ -65,11 +67,20 @@ De gebruiker kan in deze variant direct manipulatie gebruiken.
 
 
 
+## Keuze variant
+Variant B zou ik persoonlijk zelf heel graag gebruiken om mijn visalisaties te maken, maar er hangen ook heel veel nadelen. Zoals: 
+
+* Overlapping van entiteiten en bijbehorende labels.
+* Leercurve en herkenning van direct manipulatie binnen een netwerk diagram.
+
+Dit heb ik ondervonden toen ik de software [draw.io](https://about.draw.io/about-us/) ging gebruiken.
 
 
-
+## Verbanden binnen de tijdlijn
 
 ![Verbanden binnen de tijdlijn](content/verbanden/schetsen5.png)
+
+Het lijkt mij een goede toevoeging dat er tijdgebonden verbanden zijn gebruikt, dat deze kunnen terugkomen binnen de tijdlijn vanuit het vorige hoofdstuk.
 
 ![Verbanden](content/designs5.png)
 
