@@ -123,7 +123,7 @@
 			* [Verbanden](pages/data-lijst/connections/README.md)
 			* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
 			* [Gebeurtenissen](pages/data-lijst/events/README.md)
-		* [Groenlicht presentatie](pages/groenlicht_presentatie/README.md)
+		* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
 	* [Ethiek](pages/ethiek/README.md)
