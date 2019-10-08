@@ -105,8 +105,8 @@
 					* [Ontwerp - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections.md)
 			* [Prototype v1_1_0](pages/ontwerpproces/input/1.1.0/prototype.md)
 			* [Focusgroep](pages/research_methods/focusgroep/README.md)
-			* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 			* [Context ontwerp](pages/ontwerpproces/input/context-1.0.0/README.md)
+		* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 		* [Tweede ontwerp](pages/ontwerpproces/tweede-ontwerp/README.md)
 		* [Visuele weergave v1_0_0 t/m v1_1_0](pages/ontwerpproces/output/README.md)
 			* [Startpunt v1_0_0](pages/ontwerpproces/output/start-point/README.md)
@@ -123,6 +123,8 @@
 			* [Verbanden](pages/data-lijst/connections/README.md)
 			* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
 			* [Gebeurtenissen](pages/data-lijst/events/README.md)
+		* [Groenlicht presentatie](pages/groenlicht_presentatie/README.md)
+			* [Groenlicht presentatie](pages/groenlicht_presentatie/content/presentatie/index.html)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
 	* [Ethiek](pages/ethiek/README.md)
