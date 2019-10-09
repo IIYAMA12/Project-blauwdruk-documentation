@@ -1,6 +1,6 @@
 [Link naar prototype](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/output/version-1.0.0/)
 
-## Test ronden 1
+## Gebruikerstest 1
 
 Prototype test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal)
 
@@ -61,5 +61,35 @@ De referentie knoppen binnen de tijdlijn worden nog niet gebruikt. Na de reden a
 De gebruiker verwachte niet dat je (muis) interactie kan hebben met het netwerkdiagram.
 
 
+
+
+## Feedback ronde 1
+
+Met Charl en 
+
+
+### Feedback
+
+#### Tijdlijn
+
+> Is het mogelijk om een gebeurtenis te markeren op basis van bronnen en documeten?
+
+
+#### Verbanden
+
+![Netwerkdiagram](content/klikken-op-diagram.png)
+
+> De logica hoe verbanden in elkaar zitten is momenteel nog niet duidelijk en dat heeft er mee te maken dat de positie van de 'gebeurtenissen' binnen het netwerkdiagram nog geen meerwaarde hebben.
+
+Kan tijd misschien ook binnen dit diagram een rol spelen?
+
+__Toevoeging om deze verwarring te voorkomen:__
+
+De pijlen (->) bij de verbanden missen momenteel nog, deze zitten wel in het ontwerp: "Invoeren van onderzoeksdata". Als er geen pijlen in staan dan is het niet altijd even duidelijk in welke volgorde je het verband moet lezen.
+
+
+#### Onderzoeksvragen
+
+Vanuit de feedback van Arne was de meerwaarde van het onderdeel onderzoeksvragen niet helemaal duidelijk. Ik heb daarom dit voorgelegt.
 
 
