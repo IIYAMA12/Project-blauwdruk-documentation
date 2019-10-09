@@ -30,18 +30,18 @@ Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij repr
 
 __Bijvoorbeeld: (context | locatie)__
 
-Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek.  Je weet welke verschillende betrokkenen en belanghebbende er in voorkomen.
+Een onderzoek naar bodemvervuiling in Groningen kan via het product van dit project ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek. Je weet welke verschillende betrokkenen en belanghebbende er in voorkomen.
 
-Ook is bekend welke betrokkenen er benadeelt zijn door de 'boosdoenders'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden.  De ‘boosdoender’ kan het grondbedrijf zijn die vervuilde grond levert.
+Ook is bekend welke betrokkenen er benadeelt zijn door de 'boosdoenders'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden. De ‘boosdoender’ kan het grondbedrijf zijn die vervuilde grond levert.
 
 
 * Boosdoender 1: Grondbedrijf
 * Boosdoender 2: Provincie
 * Benadeelde: Bewoners
 
-`Dit product*` kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naarboven kamen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen er allemaal speelden, deze valideren met de betrokkenen en bijvoorbeeld gebruiken in interviews met de boosdoenders.
 
-`* Het product dat ik nu aan het ontwikkelen ben.`
+Het product van dit project kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naar boven komen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen hier speelden en deze valideren met de betrokkenen. 
+
 
 __Termen:__
 
