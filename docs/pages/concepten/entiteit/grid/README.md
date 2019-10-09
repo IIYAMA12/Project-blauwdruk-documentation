@@ -74,8 +74,8 @@ __Regels:__
 
 * Bedrijfstructuur verdeling:
 
-| niveau |      |      |      |      |      |
-|------|------|------|------|------|------|
+| niveau |      |      |      |      |
+|------|------|------|------|------|
 |  1   | bron A | (leeg) | bron B |      |
 |  2   | bron (Valt onder A) | (leeg) | bron (Valt onder B) | bron (Valt onder B) |
 
