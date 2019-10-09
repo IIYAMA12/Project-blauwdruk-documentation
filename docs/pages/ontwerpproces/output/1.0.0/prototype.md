@@ -65,7 +65,7 @@ De gebruiker verwachte niet dat je (muis) interactie kan hebben met het netwerkd
 
 ## Feedback ronde 1
 
-Met Charl en 
+Met Charl en Sadjad
 
 
 ### Feedback
