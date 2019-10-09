@@ -2,7 +2,7 @@
 
 Op deze pagina is de vertaalslag naar een eerste ontwerp te vinden. Dit ontwerp is specifiek gericht op het invoeren van broninformatie.
 
-__Met behulp van:__
+__Met behulp van (die hier onder aanbod komen):__
 
 * Informatiestructuur
 * Task-analyse
