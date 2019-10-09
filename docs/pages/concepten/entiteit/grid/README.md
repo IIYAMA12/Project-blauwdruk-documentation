@@ -30,7 +30,7 @@ Hoe kan de onderzoeksjournalist zijn bronnen organiseren op een grid. Daarnaast 
 
 __Regels:__
 
-* Horizontale regel staat voor een bedrijfstructuur niveau
+* Horizontale regel staat voor een bedrijfstructuur niveau:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -38,26 +38,24 @@ __Regels:__
 |  2   |      |      |      |      |      |
 |  3   |      |      |      |      |      |
 
-* Elk bedrijfstructuur niveau begint op het moment dat er een bron ingevuld is.
+* Elk bedrijfstructuur niveau begint op het moment dat er een bron ingevuld is:
+
+| niveau |      |      |      |      |      |
+|------|------|------|------|------|------|
+|  1   | bron (hier) |      |      |      |      |
+|  2   |      |      |      |      |      |
+|  3   |      |      |      |      |      |
+
+* Wanneer er een leeg horizontale regel is, begint het niveau opnieuw:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
 |  1   | bron |      |      |      |      |
 |  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-
-* Wanneer er een leeg horizontale regel is, begint het niveau opnieuw
-
-| niveau |      |      |      |      |      |
-|------|------|------|------|------|------|
 |  1   | bron |      |      |      |      |
 |  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
-|  1   | bron |      |      |      |      |
-|  2   |      |      |      |      |      |
-|  3   |      |      |      |      |      |
 
-* Bronnen die op dezelfde horizontale regel staan hebben hetzelfde niveau
+* Bronnen die op dezelfde horizontale regel staan hebben hetzelfde niveau:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -66,7 +64,7 @@ __Regels:__
 |  3   |      |      |      |      |      |
 
 
-* Bronnen die direct op de volgende horizontale regel staan, bevinden zich op niveau + 1
+* Bronnen die direct op de volgende horizontale regel staan, bevinden zich op niveau + 1:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -74,7 +72,7 @@ __Regels:__
 |  2   | bron |      |      |      |      |
 
 
-* Bedrijfstructuur verdeling
+* Bedrijfstructuur verdeling:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
