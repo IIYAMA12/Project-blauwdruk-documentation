@@ -16,7 +16,7 @@ Het vaststellen van de rol van het ontwerp binnen Follow the Money is belangrijk
 
 
 ### Punten voor dit ontwerp
-* __Weaknesses: er is nog geen uniform artikel formaat.__
+* __Weaknesses: er is nog geen uniform artikel format.__
 <br>Voor dit ontwerp is het belangrijk om de informatie in kaart te brengen, een logisch structuur bepalen en rekening houden met de werkwijze.
 
 * __Threats: De onderzoeksjournalist moet wel tijd willen besteden voor dit soort extra producties__

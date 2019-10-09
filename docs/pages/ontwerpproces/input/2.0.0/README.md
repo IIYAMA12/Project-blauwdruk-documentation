@@ -10,7 +10,7 @@
 
 ![Project pagina](content/designs8.png)
 
-Op deze pagina zijn alle projecten te zien. Elk project staat gelijk aan een journalistiek onderzoek dat binnen dit formaat is ingevuld.
+Op deze pagina zijn alle projecten te zien. Elk project staat gelijk aan een journalistiek onderzoek dat binnen dit format is ingevuld.
 
 ![Project toevoegen - zonder naam](content/designs3.png)
 

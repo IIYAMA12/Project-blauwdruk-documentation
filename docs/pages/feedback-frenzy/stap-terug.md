@@ -57,7 +57,7 @@ Dit zijn voornamelijk vragen aan mezelf.
   * 
 
 * Waarom doe ik dit onderzoek ook alweer? Wat is het hoofddoel van het onderzoek?
-  * Onderzoeksjournalisten ondersteuning bieden voor een overdraagbaar en doorzoekbaar formaat? < sounds cool >
+  * Onderzoeksjournalisten ondersteuning bieden voor een overdraagbaar en doorzoekbaar format? < sounds cool >
 
 
 * Wat wil ik nog meer leren?
@@ -115,7 +115,7 @@ Dit artikel gaat over het uitleggen van je onderzoek aan een skeptische belanghe
 DUJO
 UDJO
 
-Doorzoekbaar Onderzoeksformaat Voor Journalisten
+Doorzoekbaar Onderzoeksformat Voor Journalisten
 DOVJ
 
 

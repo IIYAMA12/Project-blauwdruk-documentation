@@ -36,8 +36,8 @@ __Task analyse v1.0.0:__
     * `5.2.1` Vul referentie naam in
     * `5.2.2` Doe: Genereer een uniek en random naam
   * `5.3` Vul referentie informatie in
-    * `Doe stap`5.3.1`als de waarde niet gelijk staat aan het formaat.`
-    * `5.3.1` Selecteer referentie formaat
+    * `Doe stap`5.3.1`als de waarde niet gelijk staat aan het format.`
+    * `5.3.1` Selecteer referentie format
       * APA / MLA / etc.
       * URL
   * `5.4` Doe: Voeg toe 

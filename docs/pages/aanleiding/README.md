@@ -18,19 +18,22 @@ Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het rep
 
 __Bijvoorbeeld: (context | onderwerp zorg)__
 
-1. Een zorgbedrijf heeft fraude gepleegd met zorggeld via een bepaalde manier / constructie. De onderzoeksjournalist heeft onderzoek hier naar gedaan en dit uitgevonden hoe deze manier werkt.
-2. Een tweede zorgbedrijf bedrijf komt inbeeld omdat daar veel te veel winst is gemaakt, maar het is onduidelijk hoe deze dit heeft behaald.
-3. De onderzoeksjournalist zou met `dit product*` kunnen controleren of er met dezelfde manier fraude is gepleegd bij het tweede zorgbedrijf.
+1. Een zorgbedrijf heeft fraude gepleegd met zorggeld via een bepaalde manier / constructie. De onderzoeksjournalist heeft hier onderzoek naar gedaan en heeft ontdekt hoe dit in zijn werk gaat.
+2. Een tweede zorgbedrijf komt in beeld omdat er een te grote winst is behaalt. Onduidelijk is hoe deze winst is behaald.
+3. De onderzoeksjournalist zou met dit project kunnen controleren of er op dezelfde manier fraude is gepleegd als bij het andere bedrijf.
 
-`* Het product dat ik nu aan het ontwikkelen ben.`
 
-Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt. Dit formaat moet er voor zorgen dat het nieuwe onderzoeksproces sneller verloopt.
+
+Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij reproductie heel toepasselijk kan zijn. Er is nog geen format voor en het is wel belangrijk dat deze er komt. Dit format moet er voor zorgen dat het nieuwe onderzoeksproces sneller verloopt.
 
 
 
 __Bijvoorbeeld: (context | locatie)__
 
-Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Amsterdam gedaan worden. Als onderzoeker ben je bekend met de context van het onderzoek. Je weet welke (soorten) betrokkenen en belanghebbende er in voorkomen. Je weet welke betrokkenen er benadeelt zijn door de 'boosdoenders'. Boosdoenders als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden. De boosdoender kan bijvoorbeeld het grondbedrijf zijn die vervuilde grond levert.
+Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek.  Je weet welke verschillende betrokkenen en belanghebbende er in voorkomen.
+
+Ook is bekend welke betrokkenen er benadeelt zijn door de 'boosdoenders'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden.  De ‘boosdoender’ kan het grondbedrijf zijn die vervuilde grond levert.
+
 
 * Boosdoender 1: Grondbedrijf
 * Boosdoender 2: Provincie
@@ -42,13 +45,16 @@ Een onderzoek naar bodemvervuiling in Groningen kan via een blauwdruk ook in Ams
 
 __Termen:__
 
-* In dit project verwijst “blauwdruk” of “recept” naar een contentvorm. Deze vorm is gemaakt door middel van informatieordening, labelen en filteren tot er een __mal overblijft__. Een mal heeft als eigenschap dat deze opnieuw gevuld kan worden en je uiteindelijk een soortgelijk product overhoud. Deze mal is bedoeld voor journalistiek onderzoek en moet het maakproces ondersteunen. De manier hoe de mal anders gevuld kan worden heeft voornamelijk te maken met de context om het onderzoek heen. Context verschillen als in: locatie, stakeholder soort of bedrijfstype. 
+* In dit project verwijst ‘blauwdruk’ of ‘recept’ naar een contentvorm. Deze vorm is te produceren wanneer je al een bestaand 'eindproduct' hebt. Door middel van bijvoorbeeld informatieordening, labelen en filteren is het mogelijk om 'eindproduct' beter te begrijpen en te segmenteren. Onderzoek welke stappen er ondernomen zijn tijdens de productie, breng structuur aan binnen je bevindingen en schuif overtollige informatie naar de bijlage tot er een __mal overblijft__. De mal heeft als eigenschap dat deze opnieuw gevuld kan worden waardoor er uiteindelijk een soortgelijk product overblijft. In de journalistieke onderzoek kan deze mal worden ingezet om het maakproces te ondersteunen. De verschillende mogelijkheden om de mal in te vullen heeft voornamelijk te maken met de context van het onderzoek. Contextverschillen zijn onder anderen: locatie, stakeholder soort of bedrijfstype. 
 
 
-### Tweede hoofddoel
+### Secundaire doel
 
-Er zijn geen richtlijnen hoe een onderzoek gedaan wordt. Dat zorgt ervoor dat   een onderzoek minder toegankelijk is voor andere onderzoeksjournalisten.
+Er zijn geen vaste richtlijnen hoe een onderzoek uitgevoerd moet worden. Dit zorgt er voor dat het onderzoek minder toegankelijk is voor andere onderzoeksjournalisten.
 
-* Het project heeft als tweede doel om het onderzoek toegankelijker te maken voor andere onderzoeksjournalisten.
-Er zijn geen richtlijnen hoe een onderzoek gedaan moet worden. Dat zorgt ervoor dat een onderzoek minder toegankelijk is voor andere onderzoeksjournalisten en stakeholders.
+Het project heeft als secundaire doelstelling om het onderzoek meer toegankelijk te krijgen voor andere onderzoeksjournalisten. Er zijn geen vaste richtlijnen hoe een onderzoek gedaan moet worden.
+
+Het gevolg hiervan is dat het onderzoeksproces niet altijd goed te volgen is voor andere onderzoeksjournalisten en stakeholders.
+
+
 
