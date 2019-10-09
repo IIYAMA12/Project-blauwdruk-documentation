@@ -51,7 +51,7 @@ __Regels:__
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
 |  1   | bron |      |      |      |      |
-|  2   |      |      |      |      |      |
+|  2   | (leeg) |      |      |      |      |
 |  1   | bron |      |      |      |      |
 |  2   |      |      |      |      |      |
 
@@ -76,6 +76,6 @@ __Regels:__
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
-|  1   | bron A |      |      | bron B |      |
-|  2   | bron (Valt onder A) |      |      | bron (Valt onder B) | bron (Valt onder B) |
+|  1   | bron A | (leeg) | bron B |      |
+|  2   | bron (Valt onder A) | (leeg) | bron (Valt onder B) | bron (Valt onder B) |
 
