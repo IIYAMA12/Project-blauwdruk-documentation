@@ -106,18 +106,26 @@
 
 .reference-button {
   background-color: #292F32;
-  padding: 0.5rem;
+  padding: 0.5rem 2.6rem 0.5rem 1rem;
   border: none;
   color: white;
-  border-radius: 5px;
+  border-radius: 2rem;
   font-size: inherit;
   text-align: left;
   margin-bottom: 0.5rem;
+  background-image: url("../assets/reference-arrow-white.svg");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 5px) 50%;
+  background-size: 2rem;
 }
 
 .reference-button:hover {
   color: #292F32;
   background-color: white;
+  background-image: url("../assets/reference-arrow-black.svg");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 5px) 50%;
+  background-size: 2rem;
 }
 
 .properties-container > div {

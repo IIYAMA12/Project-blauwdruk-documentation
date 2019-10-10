@@ -33,6 +33,8 @@ Maakt het mogelijk om documenten te sorteren op tijd.
 
 De document-referenties zijn voorzien van een [details + summary](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details) element, om de details te verbergen van het document.
 
+[Design pattern: Accordion Menu](http://ui-patterns.com/patterns/AccordionMenu)
+
 __Technische specificatie:__
 
 * details element: Informatie verbergen wanneer het 'details element' gesloten is.
