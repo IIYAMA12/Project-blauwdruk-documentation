@@ -210,9 +210,21 @@ function renderConnectionGraph () {
     const hoverEffect = function (d) {
       unFocus();
       lastEventListHoveredElements = [];
+      const timelineSourceElement = d.sourceData.getData("timeline-element");
+      if (timelineSourceElement != undefined) {
+        timelineSourceElement.getElementsByClassName("inner")[0].classList.add("hover");
+        lastEventListHoveredElements[lastEventListHoveredElements.length] = timelineSourceElement.getElementsByClassName("inner")[0];
+      }
+
+      const timelineTargetElement = d.targetData.getData("timeline-element");
+      if (timelineTargetElement != undefined) {
+        timelineTargetElement.getElementsByClassName("inner")[0].classList.add("hover");
+        lastEventListHoveredElements[lastEventListHoveredElements.length] = timelineTargetElement.getElementsByClassName("inner")[0];
+      }
+
       d.line.classList.add("hover");
       d.labelBackground.classList.add("hover");
-      console.log(d.lineBox.classList.contains("hover"));
+      
       lastEventListHoveredElements[lastEventListHoveredElements.length] = d.line;
       lastEventListHoveredElements[lastEventListHoveredElements.length] = d.labelBackground;
     };
@@ -238,11 +250,13 @@ function renderConnectionGraph () {
 
 
     labelBackground.on("click", function (d) {
-      log("click");
+      changeTab("tab-panel-main-content", 1);
+      showConnectionDetails (d, d.linkContainer);
     });
 
     lineBox.on("click", function (d) {
-      log("click");
+      changeTab("tab-panel-main-content", 1);
+      showConnectionDetails (d, d.linkContainer);
     });
     
     const prepareParameters = function (d) {
@@ -252,8 +266,8 @@ function renderConnectionGraph () {
       const timelineTargetElement = d.targetData.getData("timeline-element");
       const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
 
-      const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
-      const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
+      const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top + timelineSourceElement.parentElement.scrollTop;//(window.scrollY || window.pageYOffset);
+      const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top + timelineTargetElement.parentElement.scrollTop; //(window.scrollY || window.pageYOffset);
 
       const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
 
@@ -300,11 +314,6 @@ function renderConnectionGraph () {
           let labelWidth = 0;
           let previousLabelWidth = containerWidth;
           
-          // if (Math.random() > 0.8) {
-          //   textParts = ["aaaaa"];
-          //   labelText = "aaaaa";
-          //   d3.select(this).text("aaaaa");
-          // }
 
           for (let i = 1; i < textParts.length; i++) {
             const textPart = textParts[i];
@@ -343,7 +352,7 @@ function renderConnectionGraph () {
 
     updateTimelineConnections(true);
     setTimeout(updateTimelineConnections, 1000, true);
-    setInterval(updateTimelineConnections, 500);
+    setInterval(updateTimelineConnections, 500, true);
 
       // for (let i = 0; i < data.links.length; i++) {
       //   const d = data.links[i];
@@ -446,6 +455,10 @@ function renderConnectionGraph () {
     .append("path")
     .attr("class", "bounding-box-line")
   ;
+
+  link.each(function (d) {
+    d.linkContainer = this;
+  });
       // const getDataFromLine = function (e) {
       //   console.log(e.target);
       // };
@@ -541,6 +554,56 @@ function renderConnectionGraph () {
   const distanceFromNode = 25;
   const distanceFromNodeArrow = 35;
 
+  function showConnectionDetails (d, element) {
+    if (d != undefined) {
+      const activeElements = svgRoot.node().getElementsByClassName("active-element");
+      for (let i = 0; i < activeElements.length; i++) {
+        const activeElement = activeElements[i];
+        activeElement.classList.remove("active-element");
+      }
+        
+      
+
+      if (element != undefined) {
+        element.classList.add("active-element");
+      }
+
+      const connectionDetails = document.getElementsByClassName("connection-details")[0];
+      if (connectionDetails != undefined) {
+        connectionDetails.classList.remove("hidden");
+        if (connectionDetails.getElementsByClassName("connection-details__header")[0] != undefined) {
+          connectionDetails.getElementsByClassName("connection-details__header")[0].textContent = d.name;
+        }
+        if (connectionDetails.getElementsByClassName("connection-details__description")[0] != undefined) {
+          connectionDetails.getElementsByClassName("connection-details__description")[0].textContent = d.description;
+        }
+        const toInfoContainer = connectionDetails.getElementsByClassName("connection-details__to-info-container")[0];
+        if (toInfoContainer != undefined) {
+          toInfoContainer.classList.add("hidden");
+        }
+
+        const connectedContent = connectionDetails.getElementsByClassName("connected-content")[0];
+        if (connectedContent != undefined) {
+          connectedContent.innerHTML = "";
+          const item = d.item;
+          templateEngine.render(
+            [
+
+                {
+                  content: templatingConnectedButtons,
+                  type: "function",
+                  data: item
+                }
+              
+              ], connectedContent);
+        }
+        connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
+      }
+    } else {
+      connectionDetails.classList.add("hidden");
+    }
+  }
+
   // This function is run at each iteration of the force algorithm, updating the nodes position.
   function ticked() {
     connectionGraphContainer.classList.remove("loading");
@@ -562,52 +625,13 @@ function renderConnectionGraph () {
         const posY2 = extendLine2D(x1, y1, x2, y2, distance - distanceFromNodeArrow)[1];
         return "M" + posX1 + "," + posY1 + " " + posX2 + "," + posY2; // M100,200 C100,100 400,100 400,200
       })
-        .on("click", function (d, i) {
-          // use d
-          if (d != undefined) {
-
-            const activeElement = svgRoot.node().getElementsByClassName("active-element")[0];
-            if (activeElement != undefined) {
-              activeElement.classList.remove("active-element");
-            }
-            this.classList.add("active-element");
-
-            const connectionDetails = document.getElementsByClassName("connection-details")[0];
-            if (connectionDetails != undefined) {
-              connectionDetails.classList.remove("hidden");
-              if (connectionDetails.getElementsByClassName("connection-details__header")[0] != undefined) {
-                connectionDetails.getElementsByClassName("connection-details__header")[0].textContent = d.name;
-              }
-              if (connectionDetails.getElementsByClassName("connection-details__description")[0] != undefined) {
-                connectionDetails.getElementsByClassName("connection-details__description")[0].textContent = d.description;
-              }
-              const toInfoContainer = connectionDetails.getElementsByClassName("connection-details__to-info-container")[0];
-              if (toInfoContainer != undefined) {
-                toInfoContainer.classList.add("hidden");
-              }
-
-              const connectedContent = connectionDetails.getElementsByClassName("connected-content")[0];
-              if (connectedContent != undefined) {
-                connectedContent.innerHTML = "";
-                const item = d.item;
-                templateEngine.render(
-                  [
-
-                      {
-                        content: templatingConnectedButtons,
-                        type: "function",
-                        data: item
-                      }
-                    
-                    ], connectedContent);
-              }
-
-              connectionDetails.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
-            }
-          } else {
-            connectionDetails.classList.add("hidden");
-          }
-        })
+      .on("click", function (d, i) {
+        // use d
+        if (d != undefined) {
+          showConnectionDetails (d, this);
+        }
+          
+      })
       ;
 
     const domLinks = link.nodes();

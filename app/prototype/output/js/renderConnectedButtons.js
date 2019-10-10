@@ -2,7 +2,6 @@
 
 function templatingConnectedButtons (item) {
   const elements = [];
-  console.log("item", item);
   const connections = dataManager.getItemConnections(item);
   const connectionsFoundRegister = {};
   for (let i = 0; i < connections.length; i++) {
@@ -81,6 +80,5 @@ function templatingConnectedButtons (item) {
       }
     }
   }
-  console.log("elements", elements);
   return elements;
 }
