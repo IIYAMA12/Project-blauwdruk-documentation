@@ -1,6 +1,6 @@
 
-# Blauwdruk 
-Dit is in dit project een type content dat als hulpmiddel gebruikt kan worden om iets binnen een bepaalde structuur op te bouwen. 
+# blauwdruk 
+Een Blauwdruk is in dit project een type content
 
 
 Eigenschappen:
@@ -12,3 +12,4 @@ Soort gelijke types:
 * Draaiboek
 
 # Receptenboek
+
