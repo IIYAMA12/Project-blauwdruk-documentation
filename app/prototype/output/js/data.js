@@ -427,3 +427,4 @@ const dataBaseRaw = [
   }
 ];
 
+const log = console.log;

@@ -91,6 +91,8 @@
   height: 0.666rem;
   background-color: white;
   transition: background-color 0.3s;
+  position: relative;
+  z-index: 2;
 }
 
 .time-line-item-list {
@@ -120,4 +122,54 @@
 
 .time-line-item__article.scroll-to-element-highlight .inner {
   background-color: #DD3230;
+}
+
+#event-list-connections .label-background {
+  fill: black;
+  rx: 5px;
+  ry: 5px;
+  cursor: pointer;
+}
+
+#event-list-connections .label-background.hover {
+  fill: #DD3230;
+}
+
+#event-list-connections .label {
+  fill: white;
+  font-size: 0.875rem;
+  text-anchor: end;
+  pointer-events: none;
+}
+
+#event-list-connections .line {
+  stroke-width: 1px;
+  stroke: #000;
+  stroke-dasharray: 5;
+  fill: none;
+}
+
+#event-list-connections .line.hover {
+  stroke: #DD3230;
+  stroke-dashoffset: 0;
+  animation: move-line-effect 240s infinite;
+  animation-direction: reverse;
+  animation-timing-function: linear;
+}
+
+#event-list-connections .line-box {
+  fill: none;
+  stroke-width: 10;
+  stroke: black;
+  opacity: 0;
+  cursor: pointer;
+}
+
+#event-list-connections {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 15rem;
+  z-index: 1;
 }

@@ -369,6 +369,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
 
         
         dataManager.attachElement(template[0].elements[0], item);
+        item.setData("timeline-element", template[0].elements[0])
         /*
          <li class="time-line-item">
                 <p class="time-line-item__date-year">2018</p>

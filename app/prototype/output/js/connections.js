@@ -153,7 +153,7 @@ function renderConnectionGraph () {
   if (typeof(relations) == "object") {
     for (let i = 0; i < relations.length; i++) {
       const relation = relations[i];
-      console.log(relation);
+      
       
       const item1 = connectionIdToItem[relation.a];
       const item2 = connectionIdToItem[relation.b];
@@ -163,10 +163,279 @@ function renderConnectionGraph () {
           description: relation.description,
           source: item1.id,
           target: item2.id,
+          sourceData: item1,
+          targetData: item2,
           item: relation,
         };
       }
     }
+  }
+
+  const eventListConnections = document.getElementById("event-list-connections");
+  if (eventListConnections != undefined) {
+    const eventListConnections_d3 = d3.select(eventListConnections);
+
+
+
+    const line = eventListConnections_d3.selectAll(".line").data(data.links).enter().append("path").attr("class", "line");
+
+    line.each(function (d) {
+      d.line = this;
+    });
+    
+    const lineBox = eventListConnections_d3.selectAll(".line-box").data(data.links).enter().append("path").attr("class", "line-box");
+
+    lineBox.each(function (d) {
+      d.lineBox = this;
+    });
+
+    const labelBackground = eventListConnections_d3.selectAll(".label-background").data(data.links).enter().append("rect").attr("class", "label-background").attr("x", 10).attr("y", 0).attr("width", 0).attr("height", 0);
+
+    labelBackground.each(function (d) {
+      d.labelBackground = this;
+    });
+
+    const label = eventListConnections_d3.selectAll(".label").data(data.links).enter().append("text").attr("class", "label").text(function(d) {
+      return d.item.name;
+    }).attr("x", 20).attr("y", 0);
+
+    let lastEventListHoveredElements = [];
+
+    const unFocus = function () {
+      for (let i = 0; i < lastEventListHoveredElements.length; i++) {
+        lastEventListHoveredElements[i].classList.remove("hover")
+      }
+    };
+
+    const hoverEffect = function (d) {
+      unFocus();
+      lastEventListHoveredElements = [];
+      d.line.classList.add("hover");
+      d.labelBackground.classList.add("hover");
+      console.log(d.lineBox.classList.contains("hover"));
+      lastEventListHoveredElements[lastEventListHoveredElements.length] = d.line;
+      lastEventListHoveredElements[lastEventListHoveredElements.length] = d.labelBackground;
+    };
+
+
+
+    labelBackground.on("mouseover", function (d) {
+      hoverEffect(d);
+    });
+
+    labelBackground.on("mouseout", function (d) {
+      unFocus();
+    });
+
+
+    lineBox.on("mouseover", function (d) {
+      hoverEffect(d);
+    });
+
+    lineBox.on("mouseout", function (d) {
+      unFocus();
+    });
+
+
+    labelBackground.on("click", function (d) {
+      log("click");
+    });
+
+    lineBox.on("click", function (d) {
+      log("click");
+    });
+    
+    const prepareParameters = function (d) {
+      const timelineSourceElement = d.sourceData.getData("timeline-element");
+      const boundingBoxSourceElement = timelineSourceElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+
+      const timelineTargetElement = d.targetData.getData("timeline-element");
+      const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+
+      const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
+      const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
+
+      const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
+
+      return {
+        timelineSourceElement: timelineSourceElement,
+        boundingBoxSourceElement: boundingBoxSourceElement,
+        topOffsetSourceElement: topOffsetSourceElement,
+        topOffsetTargetElement: topOffsetTargetElement,
+        offsetSide: offsetSide,
+        containerWidth: eventListConnections.getBoundingClientRect().width
+      };
+    };
+
+    let lastEventListOrientation = {
+
+    };
+    const updateTimelineConnections = function (forceUpdate) {
+
+      const eventListConnectionsBox = eventListConnections.getBoundingClientRect();
+      if (eventListConnectionsBox != undefined && (eventListConnectionsBox.width !== lastEventListOrientation.width || eventListConnectionsBox.height !== lastEventListOrientation.height || forceUpdate)) {
+        lastEventListOrientation.width = eventListConnectionsBox.width;
+        lastEventListOrientation.height = eventListConnectionsBox.height;
+
+        line.each(function (d) {
+          const parameters = prepareParameters(d);
+          d3.select(this).transition()
+            .attr("d", "M0," + parameters.topOffsetSourceElement + " C"+ parameters.offsetSide +"," + parameters.topOffsetSourceElement + " " + parameters.offsetSide + "," +  parameters.topOffsetTargetElement + " 0," + parameters.topOffsetTargetElement );
+          d.exactLineBoxWidth = this.getBBox().width;
+        });
+    
+        lineBox.each(function (d) {
+          const parameters = prepareParameters(d);
+          d3.select(this).transition()
+          .attr("d", "M0," + parameters.topOffsetSourceElement + " C"+ parameters.offsetSide +"," + parameters.topOffsetSourceElement + " " + parameters.offsetSide + "," +  parameters.topOffsetTargetElement + " 0," + parameters.topOffsetTargetElement );
+        });
+    
+    
+        label.each(function (d) {
+          const parameters = prepareParameters(d);
+          const containerWidth = parameters.containerWidth - 20;
+          let textParts = d.name.split(" ");
+          let labelText = textParts[0];
+          let previousLabelText = labelText;
+          let labelWidth = 0;
+          let previousLabelWidth = containerWidth;
+          
+          // if (Math.random() > 0.8) {
+          //   textParts = ["aaaaa"];
+          //   labelText = "aaaaa";
+          //   d3.select(this).text("aaaaa");
+          // }
+
+          for (let i = 1; i < textParts.length; i++) {
+            const textPart = textParts[i];
+            
+            labelText +=  " " + textPart;
+
+            d3.select(this).text(labelText);
+            labelWidth = this.getBoundingClientRect().width;
+            if (labelWidth > containerWidth) {
+              d3.select(this).text(previousLabelText + " ...");
+              labelWidth = Math.max(previousLabelWidth, this.getBoundingClientRect().width);
+            } else {
+              previousLabelText = labelText;
+              previousLabelWidth = labelWidth;
+            }
+          }
+          labelWidth = this.getBoundingClientRect().width;
+
+          d3.select(this).attr("x", Math.min(d.exactLineBoxWidth + labelWidth - 20, parameters.containerWidth -  10))
+
+          d3.select(this).attr("y", parameters.topOffsetSourceElement + (parameters.topOffsetTargetElement - parameters.topOffsetSourceElement) / 2);
+          
+          d.textLabelWidth =  labelWidth;
+        });
+
+        labelBackground.each(function (d) {
+          const parameters = prepareParameters(d);
+          d3.select(this).attr("y", parameters.topOffsetSourceElement + (parameters.topOffsetTargetElement - parameters.topOffsetSourceElement) / 2 - 22)
+          d3.select(this).attr("height", 32);
+          d3.select(this).attr("width", d.textLabelWidth + 30);
+
+          d3.select(this).attr("x", Math.min((d.exactLineBoxWidth - 30), (parameters.containerWidth - d.textLabelWidth - 20)));
+        });
+      }
+    };
+
+    updateTimelineConnections(true);
+    setTimeout(updateTimelineConnections, 1000, true);
+    setInterval(updateTimelineConnections, 500);
+
+      // for (let i = 0; i < data.links.length; i++) {
+      //   const d = data.links[i];
+
+      //   const timelineSourceElement = d.sourceData.getData("timeline-element");
+      //   const boundingBoxSourceElement = timelineSourceElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+
+      //   const timelineTargetElement = d.targetData.getData("timeline-element");
+      //   const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+
+      //   const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
+      //   const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
+
+      //   const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
+
+      //   label.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2);
+
+        
+
+      //   const textParts = d.name.split(" ");
+      //   let labelText = textParts[0];
+
+      //   for (let i = 1; i < textParts.length; i++) {
+      //     const textPart = textParts[i];
+      //     labelText +=  " " + textPart;
+      //     label.text(labelText);
+      //   }
+
+        
+
+      //   labelBackground.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2 - 22)
+      //   labelBackground.attr("height", 32);
+      //   labelBackground.attr("width", 1000);
+
+        
+      //   line.transition()
+      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
+      //   // M100,200 C100,100 400,100 400,200
+      //   lineBox
+      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
+
+      // }
+
+      // eventConnectionGroups
+      // .each(function (d) {
+      //   const timelineSourceElement = d.sourceData.getData("timeline-element");
+      //   const boundingBoxSourceElement = timelineSourceElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+
+      //   const timelineTargetElement = d.targetData.getData("timeline-element");
+      //   const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
+        
+
+      //   const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
+      //   const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
+        
+      //   // const line = d3.select(this).select(".line");
+      //   // const lineBox = d3.select(this).select(".line-box");
+      //   // const label = d3.select(this).select(".label");
+      //   // const labelBackground = d3.select(this).select(".label-background");
+
+      //   const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
+        
+      //   label.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2);
+
+        
+
+      //   const textParts = d.name.split(" ");
+      //   let labelText = textParts[0];
+
+      //   for (let i = 1; i < textParts.length; i++) {
+      //     const textPart = textParts[i];
+      //     labelText +=  " " + textPart;
+      //     label.text(labelText);
+      //   }
+
+        
+
+      //   labelBackground.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2 - 22)
+      //   labelBackground.attr("height", 32);
+      //   labelBackground.attr("width", 1000);
+
+        
+      //   line.transition()
+      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
+      //   // M100,200 C100,100 400,100 400,200
+      //   lineBox
+      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
+      // })
+
+
+
+   
   }
 
   // Initialize the links
