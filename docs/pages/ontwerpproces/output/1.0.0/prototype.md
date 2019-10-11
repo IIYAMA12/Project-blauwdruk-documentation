@@ -2,7 +2,7 @@
 
 ## Gebruikerstest 1
 
-Prototype test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal)
+Gebruikerstest test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal) \(Onderzoeksjournalist\)
 
 ### Feedback
 
@@ -59,6 +59,81 @@ De referentie knoppen binnen de tijdlijn worden nog niet gebruikt. Na de reden a
 ![Netwerkdiagram](content/klikken-op-diagram.png)
 
 De gebruiker verwachte niet dat je (muis) interactie kan hebben met het netwerkdiagram.
+
+
+## Gebruikerstest 2
+
+Gebruikerstest test met [Peter Hendriks](https://www.ftm.nl/auteur/peter-hendriks) \(Onderzoeksjournalist\)
+
+### Observatie
+
+#### Verbanden
+
+![Netwerkdiagram](content/klikken-op-diagram.png)
+
+Bij de netwerkdiagram is het niet duidelijk dat je er interactie mee kan hebben. Is misschien een zero-state noodzakelijk?
+
+
+## Gebruikerstest 3
+
+Gebruikerstest test met [Luuk van der Sterren](https://www.ftm.nl/auteur/luuk-van-der-sterren) \(Eindredacteur\)
+
+### Feedback
+
+![Document informatie](content/documenten-details.png)
+
+> Ik zou graag de documenten ingesloten willen hebben.
+
+Luuk zou graag willen dat de documenten zijn ingesloten in het product. Dit is niet het geval, in dit product wordt alleen naar documenten gerefereerd.
+
+Hij heeft er baat bij dat documenten in het product opgenomen kunnen worden vanuit een redactie perspectief.
+
+
+## Gebruikerstest 4
+
+Gebruikerstest test met [Ties Joosten](https://www.ftm.nl/auteur/ties-joosten) \(Onderzoeksjournalist\)
+
+### Feedback
+
+
+
+> De informatie telefoonnummer te gevoelig, deze staat in principe al op je telefoon. Deze hoeft niet in het product.
+
+(Dit is een keuze van de onderzoeksjournalist. Het ligt er maar net aan wie het product moet bekijken)
+
+
+## Gebruikerstest 5
+
+Gebruikerstest test met [Jan-willem Sanders](https://www.ftm.nl/medewerkers/) \(Uitgever en opdrachtgever\)
+
+### Feedback
+
+#### Onderzoeksvragen
+
+> Hoofdvraag? Waar wordt die uitgelicht?
+
+> Conclusie knop, hoe werkt dat?
+
+> Subvraag / deelvraag, met wat voor vraag heb ik te maken?
+
+> Voor inspiratie kijk naar een 'Antwoorden boom'
+
+> Verwachte volgorde 
+> 1. Aanleiding 
+> 2. Vraag
+> 3. Doel
+> 4. Antwoord / Inzichten
+
+
+## Gebruikerstest 6
+
+Gebruikerstest test met [Frank Meijer](https://www.ftm.nl/medewerkers/) \(Onderzoeksjournalist\)
+
+### Feedback
+
+#### Bronnen
+
+> Welke bronnen heb ik al gesproken? (wederhoor)
 
 
 
