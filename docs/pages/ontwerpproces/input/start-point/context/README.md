@@ -1,6 +1,6 @@
 # Context onderzoeksjournalist
 
-* Waar werkt de FTM onderzoeksjournalist?
+* Waar werkt de onderzoeksjournalist?
   * Thuis (vanuit huis werken)
   * Op de redactie (kantoor)
   * Onderweg (in de trein of bus)
@@ -15,7 +15,7 @@
   * Rocketchat
   * Email
   * Signal
-* Met welke offline bestanden werken FTM onderzoeksjournalisten
+* Met welke offline bestanden werken onderzoeksjournalisten
   * Tekst opmaak bestanden
     * Word docx
     * Pages 

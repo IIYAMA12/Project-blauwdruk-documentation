@@ -16,12 +16,6 @@
 
 
 
-{% hint style='working' %}
-Onderbouwing toevoegen
-{% endhint %}
-
-
-
 ## Gebruiker
 De hoofdgebruiker is de [onderzoeksjournalist](https://jorik.gitbook.io/project-blauwdruk/stakeholders/onderzoeksjournalist).
 

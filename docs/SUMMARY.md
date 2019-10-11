@@ -60,7 +60,6 @@
 		* [Deskresearch](pages/research_methods/deskresearch/README.md)
 			* [Boek: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 	* [Ontwerpproces](pages/ontwerpproces/README.md)
-		<!-- * [Context ontwerp](pages/ontwerpproces/context/README.md) -->
 		* [Startpunt](pages/ontwerpproces/start-point.md)
 		* [Invoeren van onderzoeksdata v1_0_0 t/m v1_1_0](pages/ontwerpproces/input/README.md)
 			* [Startpunt v1_0_0](pages/ontwerpproces/input/start-point/README.md)
@@ -128,6 +127,7 @@
 			* [Verbanden](pages/data-lijst/connections/README.md)
 			* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
 			* [Gebeurtenissen](pages/data-lijst/events/README.md)
+		* [Context ontwerpen](pages/ontwerpproces/context/README.md)
 		* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
