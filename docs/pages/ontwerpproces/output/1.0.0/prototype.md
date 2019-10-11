@@ -90,6 +90,7 @@ De pijlen (->) bij de verbanden missen momenteel nog, deze zitten wel in het ont
 
 #### Onderzoeksvragen
 
-Vanuit de feedback van Arne was de meerwaarde van het onderdeel onderzoeksvragen niet helemaal duidelijk. Ik heb daarom dit voorgelegt.
+Vanuit de feedback van Arne was de meerwaarde van het onderdeel onderzoeksvragen niet helemaal duidelijk. Ik heb daarom dit voorgelegd.
 
+Tip van Charl: Verplaats de aanleiding naar boven.
 

@@ -190,6 +190,7 @@ select {
   display: block;
   color: #666666;
   font-weight: lighter;
+  border: 1px solid #E3E6E8;
 }
 
 figcaption {

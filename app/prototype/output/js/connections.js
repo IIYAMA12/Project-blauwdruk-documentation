@@ -187,12 +187,14 @@ function renderConnectionGraph () {
 
     lineBox.each(function (d) {
       d.lineBox = this;
+      d3.select(this).append("title").text(d.name);
     });
 
     const labelBackground = eventListConnections_d3.selectAll(".label-background").data(data.links).enter().append("rect").attr("class", "label-background").attr("x", 10).attr("y", 0).attr("width", 0).attr("height", 0);
 
     labelBackground.each(function (d) {
       d.labelBackground = this;
+      d3.select(this).append("title").text(d.name);
     });
 
     const label = eventListConnections_d3.selectAll(".label").data(data.links).enter().append("text").attr("class", "label").text(function(d) {
@@ -269,7 +271,10 @@ function renderConnectionGraph () {
       const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top + timelineSourceElement.parentElement.scrollTop;//(window.scrollY || window.pageYOffset);
       const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top + timelineTargetElement.parentElement.scrollTop; //(window.scrollY || window.pageYOffset);
 
-      const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
+      let offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
+      if (offsetSide < 0) {
+        offsetSide = -offsetSide;
+      }
 
       return {
         timelineSourceElement: timelineSourceElement,
@@ -649,6 +654,10 @@ function renderConnectionGraph () {
       data[0].copyOfdomLink = copyOfdomLink;
     }
 
+    link.append("title").text(function (d) {
+      return d.name;
+    });
+
     let connectionDetailsButton;
     (function() {
       const button =  document.getElementsByClassName("connection-details")[0].getElementsByClassName("connection-details__to-info")[0];
@@ -809,6 +818,7 @@ function renderConnectionGraph () {
 
     const scaleTime = d3.scaleLinear()
       .domain([d3.min(dates), d3.max(dates)]);
+    
       
       
 
@@ -913,7 +923,7 @@ function renderConnectionGraph () {
 
     const axisScale = scaleTime.range([0, spacing * (nodeCount-1)]);       
     
-    axis.call(d3.axisBottom(axisScale).tickFormat(d3.timeFormat("%d-%m-%Y"))); //d3.timeFormat("%Y-%m-%d")
+    axis.call(d3.axisBottom(axisScale).tickPadding(10).tickSize(10, 0).tickFormat(d3.timeFormat("%d-%m-%Y"))); //d3.timeFormat("%Y-%m-%d")
 
     axis.attr("transform", "translate(" + (spacing / 2) + ", " + (posY + 150) + ")")
 
