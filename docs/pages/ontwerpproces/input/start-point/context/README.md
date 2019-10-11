@@ -27,4 +27,4 @@
 * Offline delen en ontvangen
   * Papier / brief / pakket
 
-Afkomstig uit onderzoek in het [projectvoorstel](https://jorik.gitbook.io/project-blauwdruk/bijlage/projectvoorstel)
+Deze informatie is afkomstig uit het[projectvoorstel onderzoek](https://jorik.gitbook.io/project-blauwdruk/bijlage/projectvoorstel), hoofdstuk `Probleemsituatie`. Methode: 5W2H.
