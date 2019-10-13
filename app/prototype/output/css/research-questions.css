@@ -143,6 +143,10 @@
   row-gap: 1rem;
 }
 
+.research-question-item .connected-content:empty {
+  display: none;
+}
+
 .research-question-item .question-list {
   display: grid;
 }
@@ -171,6 +175,10 @@
 
 .research-question-item details {
   margin-bottom: 1rem;
+}
+
+.research-question-item details:not(:first-of-type) {
+  margin-top: 1rem;
 }
 
 

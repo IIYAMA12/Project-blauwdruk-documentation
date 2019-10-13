@@ -157,12 +157,17 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                       attributes: [
                         {
                           key: "src",
-                          value: "assets/document.svg"
+                          value:  item.getData("screenshots") != undefined ? "assets/documents/" + item.getData("screenshots")[0] : "assets/document.svg"
                         },
                         {
                           key: "alt",
                           value: item.getData("name")
+                        },
+                        {
+                          key: "class",
+                          value: item.getData("screenshots") != undefined ? "screenshot" : ""
                         }
+
                       ]
                     }
                   },

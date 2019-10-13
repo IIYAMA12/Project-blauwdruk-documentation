@@ -26,6 +26,14 @@
 .document-list img {
   background-color: white;
   display: block;
+  max-width: 100%;
+}
+
+.document-list img.screenshot {
+  border-top: 1px solid #E3E6E8;
+  border-left: 1px solid #E3E6E8;
+  border-right: 1px solid #E3E6E8;
+  max-width: calc(100% - 2px);
 }
 
 .document-list .format {
