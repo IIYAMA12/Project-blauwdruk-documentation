@@ -10,3 +10,4 @@ __Naast het boomstructuur voor het invoeren van bronnen, zijn er nu ook concepte
 * __Verbanden__ (Inspiratie uit [bevindingen uit gebruikerstest - prototype v1_0_0](https://jorik.gitbook.io/project-blauwdruk/ontwerpproces/input/prototype/resultaten#bevindingen))
 
 
+![Onderdelen](content/onderdelen-uitleg.png)
