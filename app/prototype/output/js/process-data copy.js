@@ -413,45 +413,10 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         type: "tag",
                         children: [
                           {
-                            content: "details",
-                            type: "tag",
-                            children: [
-                              {
-                                content: "summary",
-                                type: "tag",
-                                child: {
-                                  content: "Aanleiding",
-                                  type: "text"
-                                }
-                              },
-                              {
-                                content: "p",
-                                type: "tag",
-                                child: {
-                                  content: item.getData("motive"),
-                                  type: "text"
-                                }
-                              },
-                              {
-                                content: "div",
-                                type: "tag",
-                                children: [], // to-do
-                                data: {
-                                  attributes: [
-                                    {
-                                      value: "connected-content",
-                                      key: "class"
-                                    }
-                                  ]
-                                }
-                              }
-                            ]
-                          },
-                          {
                             content: "h3",
                             type: "tag",
                             child: {
-                              content: "Onderzoeksvraag",
+                              content: "Vraag",
                               type: "text"
                             }
                           },
@@ -475,45 +440,9 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                                 }
                               ]
                             }
-                          },
-                          {
-                            content: "details",
-                            type: "tag",
-                            children: [
-                              {
-                                content: "summary",
-                                type: "tag",
-                                child: {
-                                  content: "Doel",
-                                  type: "text"
-                                }
-                              },
-                              {
-                                content: "p",
-                                type: "tag",
-                                child: {
-                                  content: item.getData("goal"),
-                                  type: "text"
-                                }
-                              },
-                              {
-                                content: "div",
-                                type: "tag",
-                                children: [], // to-do
-                                data: {
-                                  attributes: [
-                                    {
-                                      value: "connected-content",
-                                      key: "class"
-                                    }
-                                  ]
-                                }
-                              }
-                            ]
                           }
                         ]
                       },
-                      
                       {
                         content: "article",
                         type: "tag",
@@ -522,7 +451,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                             content: "h3",
                             type: "tag",
                             child: {
-                              content: "Beantwoording",
+                              content: "Antwoorden",
                               type: "text"
                             }
                           },
@@ -605,8 +534,76 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                       ]
                     },
                     children: [
-                      
-                      
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Aanleiding",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("motive"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        content: "article",
+                        type: "tag",
+                        children: [
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Doel",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("goal"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
                     ]
                   }
                 ]

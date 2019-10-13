@@ -346,7 +346,7 @@ function renderConnectionGraph () {
 
         labelBackground.each(function (d) {
           const parameters = prepareParameters(d);
-          d3.select(this).attr("y", parameters.topOffsetSourceElement + (parameters.topOffsetTargetElement - parameters.topOffsetSourceElement) / 2 - 22)
+          d3.select(this).attr("y", parameters.topOffsetSourceElement + (parameters.topOffsetTargetElement - parameters.topOffsetSourceElement) / 2 - 21)
           d3.select(this).attr("height", 32);
           d3.select(this).attr("width", d.textLabelWidth + 30);
 
@@ -356,100 +356,8 @@ function renderConnectionGraph () {
     };
 
     updateTimelineConnections(true);
-    setTimeout(updateTimelineConnections, 1000, true);
+    // setTimeout(updateTimelineConnections, 1000, true);
     setInterval(updateTimelineConnections, 500, true);
-
-      // for (let i = 0; i < data.links.length; i++) {
-      //   const d = data.links[i];
-
-      //   const timelineSourceElement = d.sourceData.getData("timeline-element");
-      //   const boundingBoxSourceElement = timelineSourceElement.getElementsByClassName("inner")[0].getBoundingClientRect();
-
-      //   const timelineTargetElement = d.targetData.getData("timeline-element");
-      //   const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
-
-      //   const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
-      //   const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
-
-      //   const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
-
-      //   label.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2);
-
-        
-
-      //   const textParts = d.name.split(" ");
-      //   let labelText = textParts[0];
-
-      //   for (let i = 1; i < textParts.length; i++) {
-      //     const textPart = textParts[i];
-      //     labelText +=  " " + textPart;
-      //     label.text(labelText);
-      //   }
-
-        
-
-      //   labelBackground.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2 - 22)
-      //   labelBackground.attr("height", 32);
-      //   labelBackground.attr("width", 1000);
-
-        
-      //   line.transition()
-      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
-      //   // M100,200 C100,100 400,100 400,200
-      //   lineBox
-      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
-
-      // }
-
-      // eventConnectionGroups
-      // .each(function (d) {
-      //   const timelineSourceElement = d.sourceData.getData("timeline-element");
-      //   const boundingBoxSourceElement = timelineSourceElement.getElementsByClassName("inner")[0].getBoundingClientRect();
-
-      //   const timelineTargetElement = d.targetData.getData("timeline-element");
-      //   const boundingBoxtimelineTargetElement = timelineTargetElement.getElementsByClassName("inner")[0].getBoundingClientRect();
-        
-
-      //   const topOffsetSourceElement = boundingBoxSourceElement.height / 2 + boundingBoxSourceElement.top - timelineSourceElement.parentElement.getBoundingClientRect().top;//(window.scrollY || window.pageYOffset);
-      //   const topOffsetTargetElement = boundingBoxtimelineTargetElement.height / 2 + boundingBoxtimelineTargetElement.top - timelineTargetElement.parentElement.getBoundingClientRect().top; //(window.scrollY || window.pageYOffset);
-        
-      //   // const line = d3.select(this).select(".line");
-      //   // const lineBox = d3.select(this).select(".line-box");
-      //   // const label = d3.select(this).select(".label");
-      //   // const labelBackground = d3.select(this).select(".label-background");
-
-      //   const offsetSide = (eventListConnections.getBoundingClientRect().width - 10) * (topOffsetTargetElement - topOffsetSourceElement) / 600;
-        
-      //   label.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2);
-
-        
-
-      //   const textParts = d.name.split(" ");
-      //   let labelText = textParts[0];
-
-      //   for (let i = 1; i < textParts.length; i++) {
-      //     const textPart = textParts[i];
-      //     labelText +=  " " + textPart;
-      //     label.text(labelText);
-      //   }
-
-        
-
-      //   labelBackground.attr("y", topOffsetSourceElement + (topOffsetTargetElement - topOffsetSourceElement) / 2 - 22)
-      //   labelBackground.attr("height", 32);
-      //   labelBackground.attr("width", 1000);
-
-        
-      //   line.transition()
-      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
-      //   // M100,200 C100,100 400,100 400,200
-      //   lineBox
-      //   .attr("d", "M0," + topOffsetSourceElement + " C"+ offsetSide +"," + topOffsetSourceElement + " " + offsetSide + "," +  topOffsetTargetElement + " 0," + topOffsetTargetElement );
-      // })
-
-
-
-   
   }
 
   // Initialize the links

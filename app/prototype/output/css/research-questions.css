@@ -168,3 +168,12 @@
   padding-bottom: 0;
   border-bottom: 0;
 }
+
+.research-question-item details {
+  margin-bottom: 1rem;
+}
+
+
+.research-question-item details[open] summary {
+  margin-bottom: 0.5rem;
+}

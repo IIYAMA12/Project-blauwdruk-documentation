@@ -293,3 +293,6 @@ button {
 .overflow-hidden {
   overflow: hidden;
 }
+summary {
+  cursor: pointer;
+}

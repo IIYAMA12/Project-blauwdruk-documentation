@@ -7,7 +7,7 @@ Het vooronderzoek is voltooid en een groot deel van de werkwijze van de onderzoe
 Een computer kan niet bepalen wat elk onderdeel van je onderzoek inhoud zonder daar voldoende meta-informatie bij te krijgen. Dus inleiding, conclusie, samenvatting, gebeurtenis, bron en document referenties zijn allemaal verschillende soorten type informatie die een computer niet voor je kan onderscheiden zonder meta-informatie. Dit probleem is in iedergeval op 2 manieren op te lossen:
 
 1. De informatie bevat meta-informatie. (Bijvoorbeeld met 'tekst patronen' die een computer kan uitlezen: [XML-tags](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction))
-```JS
+```XML
 <meta><data></data></meta>
 ```
 2. Met een gebruikersinterface die voor elke type informatie de juiste invulvelden bied. (Een voorbeeld van een invulveld: [input form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input))
