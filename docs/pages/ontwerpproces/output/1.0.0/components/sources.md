@@ -1,3 +1,12 @@
+## Vanuit: Invoeren van onderzoeksdata
+
+![Invoeren van bronnen](content/input-general-information.png)
+
+## Data
+
+
+## Naar: Visuele weergave
+
 ![Bronnen](content/sources.png)
 
 

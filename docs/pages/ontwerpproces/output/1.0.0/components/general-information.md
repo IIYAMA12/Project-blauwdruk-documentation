@@ -1,15 +1,15 @@
 ## Vanuit: Invoeren van onderzoeksdata
 
-![Algemene informatie](content/input-general-information.png)
+![Invoeren van algemene informatie](content/input-general-information.png)
 
 
 ## Data
--[x] Naam
--[x] Hypothese
--[x] Eigenaar
--[x] Verhaalvormen
--[x] Korte omschrijving onderzoek
--[x] Relevantie onderzoek
+- [x] Naam
+- [x] Hypothese
+- [x] Eigenaar
+- [x] Verhaalvormen
+- [x] Korte omschrijving onderzoek
+- [x] Relevantie onderzoek
 
 
 

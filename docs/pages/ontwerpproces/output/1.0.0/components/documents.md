@@ -1,3 +1,15 @@
+
+## Vanuit: Invoeren van onderzoeksdata
+
+![Invoeren van documenten](content/input-documents.png)
+
+
+
+## Data
+
+
+## Naar: Visuele weergave
+
 ![Documenten](content/documents.png)
 
 
