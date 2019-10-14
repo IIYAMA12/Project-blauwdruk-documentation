@@ -38,11 +38,12 @@
 				* [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md)
 					* [6_1 Transparantie](pages/onderzoeksvragen/deelvragen/benodigd_bewijs/README.md)
 			* [7 Stakeholders](pages/onderzoeksvragen/deelvragen/stakeholders/README.md)
-			* [Andere onderzoeksvragen]()
-				* [Onderzoeksjournalistiek](pages/onderzoeksvragen/deelvragen/onderzoeksjournalistiek/README.md)
-				* [Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
-				* [Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
-				* [Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
+			* [0 Andere onderzoeksvragen]()
+				* [0_1 Voordelen en nadelen blauwdruk](pages/onderzoeksvragen/deelvragen/voordelen_nadelen/README.md)
+				* [0_2 Definitie blauwdruk](pages/onderzoeksvragen/deelvragen/definitie_blauwdruk/README.md)
+				* [0_3 Algemeen gebruik blauwdruk](pages/onderzoeksvragen/deelvragen/algemeen_gebruik_blauwdruk/README.md)
+	
+
 	* [Vooronderzoek]()
 		* [Deskresearch: Transparantie](pages/onderzoeksvragen/deelvragen/transparantie/README.md)
 		* [Interview werkwijze Journalist](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)

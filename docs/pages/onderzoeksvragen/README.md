@@ -53,10 +53,8 @@ Hoe zit een journalistieke onderzoek in elkaar?
 0\.2: Is de definitie van een blauwdruk bij iedereen hetzelfde?   
 `DEFINITIE BLAUWDRUK`
 
-0\.3: Werkt de auteur wellicht al met een blauwdruk of iets dat daarop lijkt?   
-`INSPIRATIE DICHT BIJ HUIS`
 
-0\.4: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
+0\.3: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
 `ALGEMEEN: GEBRUIK BLAUWDRUK`
 
 
