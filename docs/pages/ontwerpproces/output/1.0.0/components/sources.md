@@ -2,6 +2,14 @@
 
 ![Invoeren van bronnen](content/input-sources.png)
 
+## Naar: Visuele weergave
+
+![Bronnen](content/sources.png)
+
+![Overlay bron](content/designs2.png)
+
+Deze overlay krijg je te zien wanneer je op een bron klikt.
+
 ## Data
 
 ### Succesvol vertaald
@@ -13,12 +21,6 @@
 - Vader-kind hiërarchie en wellicht overerven van eigenschappen
 __Geschrapt uit: Invoeren van onderzoeksdata__
 
-
-
-## Naar: Visuele weergave
-
-![Bronnen](content/sources.png)
-
-![Overlay bron](content/designs2.png)
-
-Deze overlay krijg je te zien wanneer je op een bron klikt.
+### Mist nog
+- Een indicatie dat je per organisatie kan groeperen. De gebruiker weet niet dat als hij de label met de tekst 'organisatie' voorziet, dat in de visuele weergave je daarop kan groeperen.
+__Mist in: Invoeren van onderzoeksdata__
