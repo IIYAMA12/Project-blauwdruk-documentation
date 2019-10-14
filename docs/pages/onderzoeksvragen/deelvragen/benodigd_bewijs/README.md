@@ -1,4 +1,9 @@
-# Wat is er benodigd om iets te bewijzen?
+# Transparantie
+
+Hoe kan een blauwdruk transparanter worden gepresenteerd en wat heb je daar bij nodig?
+
+`TRANSPARANTIE`
+
 
 ## Aannames
 
@@ -9,7 +14,8 @@
 > * Datasets
 > * Referenties
 
-## Wanneer is iets bewijswaardig?
+<!-- ## Wanneer is iets bewijswaardig?
 
-\(D.J, 2016, p.1\)
+\(D.J, 2016, p.1\) -->
+
 

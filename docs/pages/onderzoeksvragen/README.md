@@ -44,19 +44,19 @@ Hoe zit een journalistieke onderzoek in elkaar?
 5\.2: Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?   
 `INFORMATIE & GEBRUIK`
 
-6\.1: Hoe kan een blauwdruk transparanter worden gepresenteerd?   
+6\.1: Hoe kan een blauwdruk transparanter worden gepresenteerd en wat heb je daar bij nodig?
 `TRANSPARANTIE`
 
--\.1: Welke voordelen en nadelen heeft de auteur van het gebruik van een blauwdruk?   
+0\.1: Welke voordelen en nadelen heeft de auteur van het gebruik van een blauwdruk?   
 `VOORDELEN` `NADELEN`
 
--\.2: Is de definitie van een blauwdruk bij iedereen hetzelfde?   
+0\.2: Is de definitie van een blauwdruk bij iedereen hetzelfde?   
 `DEFINITIE BLAUWDRUK`
 
--\.3: Werkt de auteur wellicht al met een blauwdruk of iets dat daarop lijkt?   
+0\.3: Werkt de auteur wellicht al met een blauwdruk of iets dat daarop lijkt?   
 `INSPIRATIE DICHT BIJ HUIS`
 
--\.4: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
+0\.4: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
 `ALGEMEEN: GEBRUIK BLAUWDRUK`
 
 
