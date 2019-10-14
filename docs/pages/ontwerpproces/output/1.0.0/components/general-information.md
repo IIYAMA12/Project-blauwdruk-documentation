@@ -4,12 +4,12 @@
 
 
 ## Data
-* Naam
-* Hypothese
-* Eigenaar
-* Verhaalvormen
-* Korte omschrijving onderzoek
-* Relevantie onderzoek
+-[x] Naam
+-[x] Hypothese
+-[x] Eigenaar
+-[x] Verhaalvormen
+-[x] Korte omschrijving onderzoek
+-[x] Relevantie onderzoek
 
 
 
