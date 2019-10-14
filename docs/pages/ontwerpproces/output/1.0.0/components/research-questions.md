@@ -14,3 +14,18 @@
 
 
 ### Succesvol vertaald
+- [ ] Vragenlijst naam
+- [ ] Vragenlijst beschrijving
+- [x] Onderzoeksvragen
+- [x] Antwoord op onderzoeksvraag
+- [ ] Referenties/koppelingen met bronnen, documenten.
+* Mist nog: Gebeurtenissen en conclusies
+- [x] Aanleiding van onderzoeksvraag
+- [x] Doel van onderzoeksvraag 
+
+
+### Mist nog
+- Definitie antwoord (conclusie)
+__Mist in: Invoeren van onderzoeksdata__
+- Ondersteuning voor meerdere aanleidingen
+__Mist in: Visuele weergave__

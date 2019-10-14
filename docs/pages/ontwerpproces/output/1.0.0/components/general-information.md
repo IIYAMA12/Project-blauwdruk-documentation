@@ -3,6 +3,12 @@
 ![Invoeren van algemene informatie](content/input-general-information.png)
 
 
+
+## Naar: Visuele weergave
+
+![Voorblad](content/voorblad.png)
+
+
 ## Data
 
 ### Succesvol vertaald
@@ -12,9 +18,3 @@
 - [x] Verhaalvormen
 - [x] Korte omschrijving onderzoek
 - [x] Relevantie onderzoek
-
-
-
-## Naar: Visuele weergave
-
-![Voorblad](content/voorblad.png)
