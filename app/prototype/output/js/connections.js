@@ -173,7 +173,7 @@ function renderConnectionGraph () {
   const eventListConnections = document.getElementById("event-list-connections");
   if (eventListConnections != undefined) {
     const eventListConnections_d3 = d3.select(eventListConnections);
-
+    
 
 
     const line = eventListConnections_d3.selectAll(".line").data(data.links).enter().append("path").attr("class", "line");
@@ -288,8 +288,9 @@ function renderConnectionGraph () {
     let lastEventListOrientation = {
 
     };
-    const updateTimelineConnections = function (forceUpdate) {
-
+    const updateTimelineConnections = function () {
+      const forceUpdate = true;
+      
       const eventListConnectionsBox = eventListConnections.getBoundingClientRect();
       if (eventListConnectionsBox != undefined && (eventListConnectionsBox.width !== lastEventListOrientation.width || eventListConnectionsBox.height !== lastEventListOrientation.height || forceUpdate)) {
         lastEventListOrientation.width = eventListConnectionsBox.width;
@@ -355,8 +356,7 @@ function renderConnectionGraph () {
     };
 
     updateTimelineConnections(true);
-    // setTimeout(updateTimelineConnections, 1000, true);
-    setInterval(updateTimelineConnections, 500, true);
+    setInterval(window.requestAnimationFrame, 500, updateTimelineConnections);
   }
 
   // Initialize the links
