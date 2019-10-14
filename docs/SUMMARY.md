@@ -108,7 +108,6 @@
 				* [Applicatie structuur]()
 			* [Prototype v1_1_0](pages/ontwerpproces/input/1.1.0/prototype.md)
 			* [Focusgroep](pages/research_methods/focusgroep/README.md)
-			* [Context ontwerp](pages/ontwerpproces/input/context-1.0.0/README.md)
 		* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 		* [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 		* [Visuele weergave v1_0_0 t/m v1_1_0](pages/ontwerpproces/output/README.md)
