@@ -8,7 +8,7 @@ Gebruikerstest test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-de
 
 #### Voorblad
 
-![Voorblad](content/voorblad.png)
+![Voorblad](components/content/voorblad.png)
 
 > Deze gegevens missen nog op het voorblad:
 > * Publicatie datum
@@ -20,7 +20,7 @@ Gebruikerstest test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-de
 
 #### Bronnen en documenten
 
-![Bronnen en documenten](content/bronnen-documenten.png)
+![Bronnen en documenten](components/content/bronnen-documenten.png)
 
 > Wat als je meer dan 100 bronnen en documenten hebt op dit scherm?
 
@@ -30,7 +30,7 @@ Gebruikerstest test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-de
 
 Wanneer je in het netwerk-diagram een gebeurtenis aanklikt komt deze knop te voorschijn:
 
-![Ga naar gebeurtenis](content/ga-naar-gebeurtenis.png)
+![Ga naar gebeurtenis](components/content/ga-naar-gebeurtenis.png)
 
 __Na het klikken op de knop Ga naar gebeurtenis:__
 
@@ -49,14 +49,14 @@ De tekst in de knop is niet duidelijk. De tekst had eigenlijk moeten zijn: __"Ga
 #### Tijdlijn
 
 
-![Referentie knoppen](content/knoppen-tijdlijn.png)
+![Referentie knoppen](components/content/knoppen-tijdlijn.png)
 
 De referentie knoppen binnen de tijdlijn worden nog niet gebruikt. Na de reden achter deze verschijnsel gevraagd te hebben, bleek de verwachte gebruikersinterface-feedback na het klikken op de knop onduidelijk. Het was overigens wel duidelijk dat deze te maken hadden met bronnen en documenten.
 
 
 #### Verbanden
 
-![Netwerkdiagram](content/klikken-op-diagram.png)
+![Netwerkdiagram](components/content/klikken-op-diagram.png)
 
 De gebruiker verwachte niet dat je (muis) interactie kan hebben met het netwerkdiagram.
 
@@ -69,7 +69,7 @@ Gebruikerstest test met [Peter Hendriks](https://www.ftm.nl/auteur/peter-hendrik
 
 #### Verbanden
 
-![Netwerkdiagram](content/klikken-op-diagram.png)
+![Netwerkdiagram](components/content/klikken-op-diagram.png)
 
 Bij de netwerkdiagram is het niet duidelijk dat je er interactie mee kan hebben. Is misschien een zero-state noodzakelijk?
 
@@ -80,7 +80,7 @@ Gebruikerstest test met [Luuk van der Sterren](https://www.ftm.nl/auteur/luuk-va
 
 ### Feedback
 
-![Document informatie](content/documenten-details.png)
+![Document informatie](components/content/documenten-details.png)
 
 > Ik zou graag de documenten ingesloten willen hebben.
 
@@ -152,7 +152,7 @@ Met Charl en Sadjad
 
 #### Verbanden
 
-![Netwerkdiagram](content/klikken-op-diagram.png)
+![Netwerkdiagram](components/content/klikken-op-diagram.png)
 
 > De logica hoe verbanden in elkaar zitten is momenteel nog niet duidelijk en dat heeft er mee te maken dat de positie van de 'gebeurtenissen' binnen het netwerkdiagram nog geen meerwaarde hebben.
 
