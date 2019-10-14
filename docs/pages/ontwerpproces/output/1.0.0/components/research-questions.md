@@ -32,4 +32,4 @@ __Mist in: Visuele weergave__
 
 ## Aanpassingen
 
-Een re-design is nodig voor 'onderzoeksvragen - Invoeren van onderzoeksdata'.
+Een re-design is nodig voor 'onderzoeksvragen - Invoeren van onderzoeksdata', de data loopt te ver uit een.
