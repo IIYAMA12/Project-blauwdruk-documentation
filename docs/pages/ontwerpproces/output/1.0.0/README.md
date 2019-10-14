@@ -27,11 +27,7 @@ De __Verdachte-paragraaf__ heb ik ingedeeld met __Bronnen en documenten__. Bronn
 Als laatste de is de __Zaaks-paragraaf__ gebruikt om het onderzoek te beschrijven via de indeling __Tijdlijn__, __Verbanden__ en __Onderzoeksvragen__. Voornamelijk de tijdlijn in combinatie met verbanden zou het verhaal beter doorzoekbaar kunnen maken.
 
 
-## Designs
-
-
-
-
+![Indeling](content/indeling.png)
 
 
 
