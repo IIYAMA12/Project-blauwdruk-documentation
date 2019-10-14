@@ -191,7 +191,7 @@ const dataBaseRaw = [
         {key:"description", value: ""},
         {key:"reference", value: "(geen)"},
         {key:"date-of-issue", value: "27-06-2019"},
-        {key:"file-extension", value: "doc"},
+        {key:"file-extension", value: "DOC"},
         {key:"link", value: "<a target='_bank' href='https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing'>https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing</a>"},
         {key:"connections-with", value: 
           [

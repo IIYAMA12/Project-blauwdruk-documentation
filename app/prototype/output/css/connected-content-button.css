@@ -16,7 +16,7 @@
 .connected-content-button:after {
   content: "";
   position: absolute;
-  bottom: 0;
+  bottom: -0.1px;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
@@ -24,6 +24,7 @@
   background: rgba(0,0,0,0) url("../assets/show-list-gray.svg") no-repeat;
   background-size: 2.5rem;
   background-position: 50% 100%;
+  z-index: 11;
 }
 
 .connected-content-button.source {
@@ -39,7 +40,7 @@
   color: white;
 }
 
-.connected-content-button-wrapper:not(.close) .connected-content-button.source:after, .connected-content-button.source:hover:after, .connected-content-button.doc:hover:after  {
+.connected-content-button-wrapper:not(.close) .connected-content-button.source:after, .connected-content-button-wrapper:not(.close) .connected-content-button.doc:after, .connected-content-button.source:hover:after, .connected-content-button.doc:hover:after  {
   background: rgba(0,0,0,0) url("../assets/show-list-white.svg") no-repeat;
   background-size: 2.5rem;
   background-position: 50% 100%;
