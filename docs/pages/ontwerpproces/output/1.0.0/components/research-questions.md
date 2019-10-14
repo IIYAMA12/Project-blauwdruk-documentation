@@ -2,15 +2,15 @@
 
 ![Invoeren van onderzoeksvragen](content/input-research-questions.png)
 
-## Data
-
-
-### Succesvol vertaald
-
-
 
 
 
 ## Naar: Visuele weergave
 
 ![Onderzoeksvragen](content/designs6.png)
+
+
+## Data
+
+
+### Succesvol vertaald
