@@ -321,3 +321,6 @@ Een tijdlijn kan bijdragen aan het vertellen van het verhaal in een chronologsch
 Het blauwdruk kan uitleggen hoe er indicaties vanuit een tijdlijn tot nieuwe bevindingen hebben geleid.
 
 (Sengers & Hunter, 2017, p. 32)
+
+
+[Beantwoording: 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen/maken/werkwijze-onderzoeksjournalist#wat-is-de-werkwijze-van-een-onderzoekjournalist)
