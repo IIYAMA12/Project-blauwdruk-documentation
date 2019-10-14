@@ -18,8 +18,7 @@
 - [x] Naam verbandenweb
 - [x] Beschrijving verbandenweb
 - [ ] Entiteit waartussen verbanden worden getrokken
-
-De entiteit waartussen verbanden getrokken kunnen worden zijn aanwezig, maar de type entiteit is niet hetzelfde.
+* De entiteit waartussen verbanden getrokken kunnen worden zijn aanwezig, maar de type entiteit is niet hetzelfde.
 - Invoeren van onderzoeksdata: Entiteittype is 'bron'.
 - Visuele weergave: Entiteittype is 'gebeurtenis'.
 
