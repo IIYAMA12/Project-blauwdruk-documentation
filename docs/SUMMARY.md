@@ -119,7 +119,7 @@
 				* [Tijdlijn](pages/ontwerpproces/output/1.0.0/components/timeline.md)
 				* [Verbanden](pages/ontwerpproces/output/1.0.0/components/connections.md)
 				* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
-				* [Totaal]()
+				* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
 			* [Prototype v1_0_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 		* [Invoeren van onderzoeksdata v2_0_0](pages/ontwerpproces/input/README.md)
 			* [Ontwerp v2_0_0](pages/ontwerpproces/input/2.0.0/README.md)
