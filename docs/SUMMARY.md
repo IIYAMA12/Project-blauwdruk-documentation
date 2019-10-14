@@ -20,18 +20,14 @@
 	* [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 		* [hoofdvragen](pages/onderzoeksvragen/hoofdvragen/README.md)
 			* [1 Maken](pages/onderzoeksvragen/hoofdvragen/maken/README.md)
-				<!-- * [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md) -->
 					* [1_1 Invulbaar](pages/onderzoeksvragen/deelvragen/invulbaar/README.md)
 					* [1_2 Werkwijze & structuur](pages/onderzoeksvragen/deelvragen/werkwijze-onderzoeksjournalist/README.md)
 			* [2 Bijhouden & aanvullen](pages/onderzoeksvragen/hoofdvragen/bijhouden_aanvullen/README.md)
-				<!-- * [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md) -->
 					* [2_1 Rechten](pages/onderzoeksvragen/deelvragen/rechten/README.md)
 			* [3 Vergelijken](pages/onderzoeksvragen/hoofdvragen/vergelijken/README.md)
 			* [4 Doorgronden](pages/onderzoeksvragen/hoofdvragen/doorgronden/README.md)
-				<!-- * [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md) -->
 					* [4_1 Content type](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 			* [5 Gebruiken](pages/onderzoeksvragen/hoofdvragen/gebruiken/README.md)
-				<!-- * [Deelvragen](pages/onderzoeksvragen/deelvragen/README.md) -->
 					* [5_1 Dynamisch](pages/onderzoeksvragen/deelvragen/dynamisch/README.md)
 					* [5_2 Informatie en gebruik](pages/onderzoeksvragen/deelvragen/informatie_en_gebruik/README.md)
 			* [6 Bewijzen](pages/onderzoeksvragen/hoofdvragen/bewijzen/README.md)
