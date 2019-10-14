@@ -2,27 +2,27 @@
 
 ## Hoofdvragen
 
-Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk maken?   
+1\.0: Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk maken?   
 `MAKEN`
 
-Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?   
+2\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?   
 `BIJHOUDEN` `AANVULLEN`
 
-Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?   
+3\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?   
 `VERGELIJKEN`
 
-Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?   
+4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?   
 `DOORGRONDEN`
 
-Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie wordt er nodig\)   
+5\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie wordt er nodig\)   
 `GEBRUIKEN`
 
-Hoe kan de onderzoeksjournalist zijn of haar onderzoeksresultaten bewijzen met een blauwdruk?   
+6\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoeksresultaten bewijzen met een blauwdruk?   
 `BEWIJZEN`
 
 ## Deelvragen
 
-Hoe kan een blauwdrukproces invulbaar worden opgezet?   
+1\.1: Hoe kan een blauwdrukproces invulbaar worden opgezet?   
 `INVULBAAR`
 
 Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?   

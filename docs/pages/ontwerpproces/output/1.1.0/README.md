@@ -10,7 +10,9 @@
 
 ### Gekoppelde onderdelen
 
-![Voor](content/connection-button.png) ![Na](content/connection-button-new.png)
+![Voor](content/connection-button.png) 
+
+![Na](content/connection-button-new.png)
 
 De nieuwe weergave van de gekoppelde onderdelen. Uit de gebruikerstest leek het er op dat de werking van de knoppen niet duidelijk was. Nu zit er een pijl op die laat zien dat er onder de knop iets te voorschijn komt.
 [Vanuit Feedback](https://jorik.gitbook.io/project-blauwdruk/ontwerpproces/output/prototype#voorblad)
