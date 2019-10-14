@@ -4,6 +4,8 @@
 
 
 ## Data
+
+### Succesvol vertaald
 - [x] Naam
 - [x] Hypothese
 - [x] Eigenaar

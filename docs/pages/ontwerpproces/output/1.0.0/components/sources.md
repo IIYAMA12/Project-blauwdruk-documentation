@@ -1,9 +1,10 @@
 ## Vanuit: Invoeren van onderzoeksdata
 
-![Invoeren van bronnen](content/input-general-information.png)
+![Invoeren van bronnen](content/input-sources.png)
 
 ## Data
 
+### Mist in 
 
 ## Naar: Visuele weergave
 
