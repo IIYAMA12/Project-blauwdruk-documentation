@@ -14,50 +14,54 @@
 4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?   
 `DOORGRONDEN`
 
-5\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie wordt er nodig\)   
+5\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie is er nodig\)   
 `GEBRUIKEN`
 
 6\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoeksresultaten bewijzen met een blauwdruk?   
 `BEWIJZEN`
+
+7\.0: Wie heeft er baat bij het gebruik van een blauwdruk? / Wie zijn de stakeholders? / Wie zijn NIET de stakeholders?   
+`STAKEHOLDERS`
 
 ## Deelvragen
 
 1\.1: Hoe kan een blauwdrukproces invulbaar worden opgezet?   
 `INVULBAAR`
 
-Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?   
-`RECHTEN`
-
-Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)   
-`CONTENT TYPE`
-
-Hoe dynamisch \(flexibel voor content\) kan een blauwdruk worden opgezet?   
-`DYNAMISCH`
-
-Welke voordelen en nadelen heeft de auteur van het gebruik van een blauwdruk?   
-`VOORDELEN` `NADELEN`
-
-Is de definitie van een blauwdruk bij iedereen hetzelfde?   
-`DEFINITIE BLAUWDRUK`
-
-Wie heeft er baat bij het gebruik van een blauwdruk? / Wie zijn de stakeholders? / Wie zijn NIET de stakeholders?   
-`STAKEHOLDERS`
-
-Werkt de auteur wellicht al met een blauwdruk of iets dat daarop lijkt?   
-`INSPIRATIE DICHT BIJ HUIS`
-
-Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
-`ALGEMEEN: GEBRUIK BLAUWDRUK`
-
-Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?   
-`INFORMATIE & GEBRUIK`
-
-Wat is de werkwijze van een onderzoekjournalist?   
+1\.2: Wat is de werkwijze van een onderzoekjournalist?   
 Hoe zit een journalistieke onderzoek in elkaar?   
 `WERKWIJZE` `STRUCTUUR`
 
-Hoe kan een blauwdruk transparanter worden gepresenteerd?   
+2\.1: Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?   
+`RECHTEN`
+
+4\.1: Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)   
+`CONTENT TYPE`
+
+5\.1: Hoe dynamisch \(flexibel voor content\) kan een blauwdruk worden opgezet?   
+`DYNAMISCH`
+
+5\.2: Welke informatie moet een blauwdruk bevatten om gebruikt te kunnen worden?   
+`INFORMATIE & GEBRUIK`
+
+6\.1: Hoe kan een blauwdruk transparanter worden gepresenteerd?   
 `TRANSPARANTIE`
+
+-\.1: Welke voordelen en nadelen heeft de auteur van het gebruik van een blauwdruk?   
+`VOORDELEN` `NADELEN`
+
+-\.2: Is de definitie van een blauwdruk bij iedereen hetzelfde?   
+`DEFINITIE BLAUWDRUK`
+
+-\.3: Werkt de auteur wellicht al met een blauwdruk of iets dat daarop lijkt?   
+`INSPIRATIE DICHT BIJ HUIS`
+
+-\.4: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
+`ALGEMEEN: GEBRUIK BLAUWDRUK`
+
+
+
+
 
 ## Onderzoeksvragen flow
 
