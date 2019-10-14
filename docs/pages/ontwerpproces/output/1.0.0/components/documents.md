@@ -28,10 +28,11 @@ Deze overlay krijg je te zien wanneer je op een document klikt. Dit zou bijvoorb
 - [x] Bestandstype
 - [x] Referentie (APA)
 - [ ] Bron / contact persoon
+- De datum voor bron / contact persoon is wel bij beide aanwezig maar niet koppelbaar.
+  - Invoeren van onderzoeksdata: Invulveld met suggestielijst
+  - Visuele weergave: Entiteit koppeling met de bron.
 
-De datum voor bron / contact persoon is wel bij beide aanwezig maar niet koppelbaar.
-- Invoeren van onderzoeksdata: Invulveld met suggestielijst
-- Visuele weergave: Entiteit koppeling met de bron.
+<br>
 
 - [x] Document status
 - [x] Validatie status
