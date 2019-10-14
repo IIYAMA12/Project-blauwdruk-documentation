@@ -28,4 +28,4 @@ __Mist in: Invoeren van onderzoeksdata__
 
 ## Aanpassingen
 
-Een re-design is nodig voor 'Invoeren van onderzoeksdata' en concept 'Boom hiërarchie' vervalt.
+Een re-design is nodig voor 'Invoeren van onderzoeksdata' en concept 'Boom hiërarchie' vervalt voor nu. Bedrijfstructuur heeft wellicht zijn eigen werkgebied nodig. Ik hoop deze terug te gaan zien in de productvisie.
