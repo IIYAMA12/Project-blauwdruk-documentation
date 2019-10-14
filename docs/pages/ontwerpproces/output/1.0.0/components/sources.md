@@ -24,3 +24,8 @@ __Geschrapt uit: Invoeren van onderzoeksdata__
 ### Mist nog
 - Een indicatie dat je per organisatie kan groeperen. De gebruiker weet niet dat als hij de label met de tekst 'organisatie' voorziet, dat in de visuele weergave je daarop kan groeperen.
 __Mist in: Invoeren van onderzoeksdata__
+
+
+## Aanpassingen
+
+Een re-design is nodig voor 'Invoeren van onderzoeksdata' en concept 'Boom hiërarchie' vervalt.
