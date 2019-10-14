@@ -20,7 +20,7 @@
 De hoofdgebruiker is de [onderzoeksjournalist](https://jorik.gitbook.io/project-blauwdruk/stakeholders/onderzoeksjournalist).
 
 ### Aantal gebruikers/apparaten
-* __Ontwerp 1__ 'Invoeren van onderzoeksdata' per unieke dataset is geschikt voor maar 1 laptop. Samenwerken is niet mogelijk.
+* __Ontwerp 1__ 'Invoeren van onderzoeksdata' per unieke dataset is geschikt voor maar 1 laptop. Samenwerken met 1 dataset is niet mogelijk.
 * __Ontwerp 2__ 'Visuele weergave' is kopieerbaar en dus wel beschikbaar voor meerdere laptops.
 
 
