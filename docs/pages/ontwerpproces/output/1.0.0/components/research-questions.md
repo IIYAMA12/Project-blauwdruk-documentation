@@ -29,3 +29,7 @@
 __Mist in: Invoeren van onderzoeksdata__
 - Ondersteuning voor meerdere aanleidingen
 __Mist in: Visuele weergave__
+
+## Aanpassingen
+
+Een re-design is nodig voor 'onderzoeksvragen - Invoeren van onderzoeksdata'.
