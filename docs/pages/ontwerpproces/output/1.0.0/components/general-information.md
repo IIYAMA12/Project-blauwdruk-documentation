@@ -1,2 +1,2 @@
 
-![Voorblad(content/voorblad.png)
+![Voorblad](content/voorblad.png)

@@ -1,4 +1,4 @@
-![Documenten(content/documents.png)
+![Documenten](content/documents.png)
 
 
 ![Overlay document](content/designs3.png)
