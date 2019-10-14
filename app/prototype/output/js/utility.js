@@ -30,3 +30,13 @@ function extendLine2D ( x, y, x2, y2, length ) {
 
   return [(x + vx),(y + vy)]
 }
+
+function scrollToElementHighlight (element, className) {
+  const highlightElement = className != undefined ? element.getElementsByClassName(className)[0] : element;
+  if (highlightElement != undefined) {
+    highlightElement.classList.add("scroll-to-element-highlight");
+    setTimeout(function () {
+      highlightElement.classList.remove("scroll-to-element-highlight");
+    }, 1300);
+  }
+};

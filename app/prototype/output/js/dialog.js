@@ -124,7 +124,8 @@ let closeDialog;
                   for (let k = 0; k < connectedItems.length; k++) {
                     const connectedItem = connectedItems[k];
                     console.log(connectedItem.parent.getData("group"));
-                    if (connectedItem.parent.getData("group") && connectedItem.parent.getData("name") == referenceList[i]) {
+                    const groupName = connectedItem.parent.getData("name");
+                    if (connectedItem.parent.getData("group") && groupName == referenceList[i]) {
                       referenceTemplate[referenceTemplate.length] = {
                         content: "li",
                         type: "tag",
@@ -133,7 +134,11 @@ let closeDialog;
                             const button = document.createElement("button");
                             button.setAttribute("type", "button");
                             button.classList.add("reference-button");
-                            button.textContent = connectedItem.getData("name");
+                            if (groupName == "research-questions") {
+                              button.textContent = connectedItem.getData("question");
+                            } else {
+                              button.textContent = connectedItem.getData("name");
+                            }
                             connectedItem.attachElement(button);
                             return button;
                           },
@@ -152,8 +157,11 @@ let closeDialog;
               const referenceButtons = list.getElementsByClassName("reference-button");
               for (let j = 0; j < referenceButtons.length; j++) {
                 const referenceButton = referenceButtons[j];
-                if (referenceList[i] == "events") {
+                const referenceGroupName = referenceList[i];
+                if (referenceGroupName == "events") {
                   referenceButton.addEventListener("click", scrollToTimelineElement, false);
+                } else if (referenceGroupName == "research-questions") {
+                  referenceButton.addEventListener("click", scrollToResearchQuestionElement, false);
                 }
                 
               }
@@ -242,6 +250,7 @@ let closeDialog;
         const screenshotContainer = screenshotSection.getElementsByTagName("ul")[0];
         const screenshots = item.getData("screenshots");
         const screenshotTemplate = [];
+        console.log("???", item)
 
         screenshotContainer.innerHTML = "";
         if (screenshots != undefined && screenshots.length > 0) {
@@ -270,7 +279,7 @@ let closeDialog;
 
         const itemConnections = item.getConnections();
         if (itemConnections.length > 0) {
-          
+          references.classList.remove("hidden");
           for (let i = 0; i < referenceList.length; i++) {
             const referenceTemplate = [];
             const container = references.getElementsByClassName(referenceList[i].name)[0];
@@ -279,20 +288,20 @@ let closeDialog;
             list.innerHTML = "";
             
 
-
+            
 
             if (true) {
               
               for (let j = 0; j < itemConnections.length; j++) {
                 const itemConnection = itemConnections[j];
                 if (dataManager.getConnectionGroup(itemConnection) == referenceList[i].name) {
-                  console.log(dataManager.getConnectionGroup(itemConnection), referenceList[i].name)
                   const connectedItems = dataManager.getConnectionItemsWithoutItem(itemConnection, item);
-                  console.log(referenceList[i].type);
+
                   for (let k = 0; k < connectedItems.length; k++) {
                     const connectedItem = connectedItems[k];
                     // console.log(connectedItem.parent.getData("group"));
-                    if (connectedItem.parent.getData("group") && connectedItem.parent.getData("name") == referenceList[i].name) {
+                    const groupName = connectedItem.parent.getData("name");
+                    if (connectedItem.parent.getData("group") && groupName == referenceList[i].name) {
                       if (referenceList[i].type == "button") {
                         referenceTemplate[referenceTemplate.length] = {
                           content: "li",
@@ -302,7 +311,13 @@ let closeDialog;
                               const button = document.createElement("button");
                               button.setAttribute("type", "button");
                               button.classList.add("reference-button");
-                              button.textContent = connectedItem.getData("name");
+                              console.log(groupName, groupName == "research-questions", connectedItem.getData("question"))
+                              if (groupName == "research-questions") {
+                                button.textContent = connectedItem.getData("question");
+                              } else {
+                                button.textContent = connectedItem.getData("name");
+                              }
+                              
                               connectedItem.attachElement(button);
                               return button;
                             },
@@ -324,8 +339,11 @@ let closeDialog;
               const referenceButtons = list.getElementsByClassName("reference-button");
               for (let j = 0; j < referenceButtons.length; j++) {
                 const referenceButton = referenceButtons[j];
-                if (referenceList[i].name == "events") {
+                const referenceGroupName = referenceList[i].name;
+                if (referenceGroupName == "events") {
                   referenceButton.addEventListener("click", scrollToTimelineElement, false);
+                } else if (referenceGroupName == "research-questions") {
+                  referenceButton.addEventListener("click", scrollToResearchQuestionElement, false);
                 }
                 
               }
@@ -334,6 +352,14 @@ let closeDialog;
             } else {
               container.classList.add("hidden");
             }
+          }
+        } else {
+          references.classList.add("hidden");
+          for (let i = 0; i < referenceList.length; i++) {
+            const container = references.getElementsByClassName(referenceList[i].name)[0];
+            const list = container.getElementsByTagName("ul")[0];
+            list.innerHTML = "";
+            container.classList.add("hidden");
           }
         }
       }

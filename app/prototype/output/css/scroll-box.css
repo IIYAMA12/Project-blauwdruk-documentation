@@ -3,8 +3,8 @@
   https://stackoverflow.com/questions/9333379/check-if-an-elements-content-is-overflowing
 */
 
-.scroll-box-white {
 
+.research-question-item:not(.scroll-to-element-highlight) .scroll-box-white {
   background:
     linear-gradient(white 30%, rgba(255,255,255,0)),
     linear-gradient(rgba(255,255,255,0), white 70%) 0 100%,

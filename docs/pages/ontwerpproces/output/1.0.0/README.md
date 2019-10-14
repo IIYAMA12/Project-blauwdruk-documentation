@@ -32,20 +32,14 @@ Als laatste de is de __Zaaks-paragraaf__ gebruikt om het onderzoek te beschrijve
 
 
 
-![Voorblad, Bronnen en documenten](content/designs.png)
 
 
 
-![Tijdlijn / gebeurtenissen](content/designs4.png)
 
-![Verbanden](content/designs5.png)
 
-![Onderzoeksvragen](content/designs6.png)
 
-![Overlay bron](content/designs2.png)
 
-Deze overlay krijg je te zien wanneer je op een bron klikt.
 
-![Overlay document](content/designs3.png)
 
-Deze overlay krijg je te zien wanneer je op een document klikt. Dit zou bijvoorbeeld een jaarverslag kunnen zijn.
+
+

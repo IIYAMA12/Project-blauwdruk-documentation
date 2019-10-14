@@ -112,7 +112,6 @@ function renderConnectionGraph () {
       
     } else {
       connectionChildren[connectionChildren.length] = item;
-      console.log(item);
     }
   }
 
@@ -187,14 +186,14 @@ function renderConnectionGraph () {
 
     lineBox.each(function (d) {
       d.lineBox = this;
-      d3.select(this).append("title").text(d.name);
+      d3.select(this).append("title").text("Ga naar verband: " + (d.name || ""));
     });
 
     const labelBackground = eventListConnections_d3.selectAll(".label-background").data(data.links).enter().append("rect").attr("class", "label-background").attr("x", 10).attr("y", 0).attr("width", 0).attr("height", 0);
 
     labelBackground.each(function (d) {
       d.labelBackground = this;
-      d3.select(this).append("title").text(d.name);
+      d3.select(this).append("title").text("Ga naar verband: " + (d.name || ""));
     });
 
     const label = eventListConnections_d3.selectAll(".label").data(data.links).enter().append("text").attr("class", "label").text(function(d) {
@@ -505,7 +504,7 @@ function renderConnectionGraph () {
                 {
                   content: templatingConnectedButtons,
                   type: "function",
-                  data: item
+                  data: {data: item, excluded:{events:true}}
                 }
               
               ], connectedContent);
@@ -609,7 +608,6 @@ function renderConnectionGraph () {
               const toInfoContainer = connectionDetails.getElementsByClassName("connection-details__to-info-container")[0];
               if (toInfoContainer != undefined) {
                 const parentName = item.parent.getData("name");
-                console.log(parentName);
                 if (parentName == "events") {
                   toInfoContainer.classList.remove("hidden");
                   const button = toInfoContainer.getElementsByClassName("connection-details__to-info")[0];
@@ -636,7 +634,7 @@ function renderConnectionGraph () {
                       {
                         content: templatingConnectedButtons,
                         type: "function",
-                        data: item
+                        data: {data: item, excluded:{events:true}}
                       }
                     
                     ], connectedContent);

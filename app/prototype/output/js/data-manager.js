@@ -277,7 +277,6 @@ const dataManager = {
 		const id = item.id
 		const parentChildren = parent.children;
 		for (let i = 0; i < parentChildren.length; i++) {
-			console.log(parentChildren[i]);
 			if (parentChildren[i].id === id) {
 				return i;
 			}

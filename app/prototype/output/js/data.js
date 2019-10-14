@@ -10,6 +10,10 @@ const dataBaseRaw = [
             {
               group: "events",
               name: "event-345643"
+            },
+            {
+              group: "research-questions",
+              name: "connection-34yfhgfsdu802tfwd",
             }
           ]
         },
@@ -21,7 +25,6 @@ const dataBaseRaw = [
         {key:"bedrijf", value: "Brabant Inc."},
         {key:"phonenumber", value: "06 201 244 264"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jan-van-doen"},
-
       ],
       [
         {key:"connections-with", value: 
@@ -182,6 +185,22 @@ const dataBaseRaw = [
             }
           ]
         }
+      ],
+      [
+        {key:"name", value: "Interview met Jan van Doen"},
+        {key:"description", value: ""},
+        {key:"reference", value: "(geen)"},
+        {key:"date-of-issue", value: "27-06-2019"},
+        {key:"file-extension", value: "doc"},
+        {key:"link", value: "<a target='_bank' href='https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing'>https://docs.google.com/document/d/1gFe5pAAbB3_YWJLqlF321AnWuOF4dwa6WO1TLMu-ELk/edit?usp=sharing</a>"},
+        {key:"connections-with", value: 
+          [
+            {
+              group: "research-questions",
+              name: "connection-34yfhgfsdu802tfwd",
+            }
+          ]
+        } 
       ]
     ]
   },
@@ -365,9 +384,9 @@ const dataBaseRaw = [
           key:"answers", value: 
           [
             {
-              value: "Hieruit is te concluderen dat de wet artikel 461 overtreden is door het management van 'Zorggeld-eters'.",
+              value: 'Volgens Jan van Doen: "We werken veel efficiënter dan andere zorgleveranciers en besparen voornamelijk op bedrijfsuitjes. Onze omzet van 40% is echt niet overdreven."',
               tags: [
-                "conclusie"
+                "interview"
               ]
             }
           ]

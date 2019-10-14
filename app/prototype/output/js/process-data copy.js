@@ -331,7 +331,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         child: {
                           content: templatingConnectedButtons,
                           type: "function",
-                          data: item
+                          data: {data: item, excluded:{}}
                         }
                       }
                     ]

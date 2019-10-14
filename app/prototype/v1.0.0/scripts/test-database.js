@@ -47,7 +47,6 @@ function startBuildingTemplate () {
     const children = [];
     for (let i = 0; i < parent.children.length; i++) {
       const child = parent.children[i];
-      console.log(child);
 
       const section = {
         content: "section",

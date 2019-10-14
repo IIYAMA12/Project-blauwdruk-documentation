@@ -99,7 +99,6 @@ dataManager.getConnectionGroup = function (connection) {
       const connections = dataManager.connections;
       for (let i = 0; i < connections.length; i++) {
         if (connections[i].children.includes(this)) {
-          console.log(connections, "<" , this);
           connectionsList[connectionsList.length] = connections[i];
         }
       }

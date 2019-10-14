@@ -1,6 +1,9 @@
 
 
-function templatingConnectedButtons (item) {
+function templatingConnectedButtons (configuration) {
+  console.log(configuration)
+  const item = configuration.data;
+  const excluded = configuration.excluded || {};
   const elements = [];
   const connections = dataManager.getItemConnections(item);
   const connectionsFoundRegister = {};
@@ -10,7 +13,7 @@ function templatingConnectedButtons (item) {
     
     const connectionGroup = dataManager.getConnectionGroup(connection);
     
-    if (connectionGroup == "events") {
+    if (connectionGroup == configuration.baseGroup) { // connectionGroup == "events"
 
       const connectedItems = dataManager.getConnectionItems(connection);
       for (let j = 0; j < connectedItems.length; j++) {
@@ -18,7 +21,7 @@ function templatingConnectedButtons (item) {
 
         if (connectedItem !== item) {
           const typeOfData = connectedItem.parent.getData("name");
-          if (typeOfData == "sources" || typeOfData == "documents") {
+          if (!excluded[typeOfData] && typeOfData !== "connections") { // typeOfData == "sources" || typeOfData == "documents" && 
             if (connectionsFoundRegister[typeOfData] == undefined) {
               connectionsFoundRegister[typeOfData] = {
                 count: 0,

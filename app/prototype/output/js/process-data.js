@@ -336,7 +336,7 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         child: {
                           content: templatingConnectedButtons,
                           type: "function",
-                          data: item
+                          data: {data: item, baseGroup:"events", excluded:{events:true}}
                         }
                       }
                     ]
@@ -417,6 +417,36 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                         content: "article",
                         type: "tag",
                         children: [
+                          
+                          {
+                            content: "h3",
+                            type: "tag",
+                            child: {
+                              content: "Onderzoeksvraag",
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "p",
+                            type: "tag",
+                            child: {
+                              content: item.getData("question"),
+                              type: "text"
+                            }
+                          },
+                          {
+                            content: "div",
+                            type: "tag",
+                            children: [], // to-do
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ]
+                            }
+                          },
                           {
                             content: "details",
                             type: "tag",
@@ -451,35 +481,6 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                                 }
                               }
                             ]
-                          },
-                          {
-                            content: "h3",
-                            type: "tag",
-                            child: {
-                              content: "Onderzoeksvraag",
-                              type: "text"
-                            }
-                          },
-                          {
-                            content: "p",
-                            type: "tag",
-                            child: {
-                              content: item.getData("question"),
-                              type: "text"
-                            }
-                          },
-                          {
-                            content: "div",
-                            type: "tag",
-                            children: [], // to-do
-                            data: {
-                              attributes: [
-                                {
-                                  value: "connected-content",
-                                  key: "class"
-                                }
-                              ]
-                            }
                           },
                           {
                             content: "details",
@@ -542,58 +543,85 @@ for (let i=0; i < dataBaseRaw.length; i++) {
                                 }
                               ]
                             },
-                            child: {
-                              content: "ul",
-                              type: "tag",
-                              data: {
-                                attributes: [
+                            children: [
+                              {
+                                content: "ul",
+                                type: "tag",
+                                data: {
+                                  attributes: [
+                                    {
+                                      value: "question-list",
+                                      key: "class"
+                                    }
+                                  ]
+                                },
+                                children: [
                                   {
-                                    value: "question-list",
-                                    key: "class"
+                                    content: function () {
+                                      const listItems = [];
+                                      const answers = item.getData("answers");
+                                      if (answers != undefined) {
+                                        for (let i = 0; i < answers.length; i++) {
+                                          const answer = answers[i];
+                                          const listItemElement = document.createElement("li");
+                                          const paragraph = document.createElement("p");
+                                          listItemElement.appendChild(paragraph);
+                                          listItemElement.classList.add("question-list-item")
+                                          paragraph.textContent = answer.value;
+
+                                          
+
+                                          const tags = answer.tags;
+                                          if (tags != undefined) {
+                                            const tagList = document.createElement("ul");
+                                            
+                                            for (let j = 0; j < tags.length; j++) {
+                                              const tag = tags[j];
+                                              const tagListItemElement = document.createElement("li");
+                                              const tagElement = document.createElement("div");
+                                              // tagElement.setAttribute("type", "button");
+                                              tagElement.classList.add("tag");
+                                              tagListItemElement.appendChild(tagElement);
+                                              tagElement.textContent = tag;
+                                              tagList.appendChild(tagListItemElement);
+                                            }
+                                            
+
+                                            listItemElement.appendChild(tagList);
+                                          }
+                                          
+                                          listItems[listItems.length] = listItemElement;
+                                        }
+                                      }
+
+                                    return listItems;
+                                    },
+                                    type: "function"
                                   }
+                                  
                                 ]
                               },
-                              child: {
-                                content: function () {
-                                  const listItems = [];
-                                  const answers = item.getData("answers");
-                                  if (answers != undefined) {
-                                    for (let i = 0; i < answers.length; i++) {
-                                      const answer = answers[i];
-                                      const listItemElement = document.createElement("li");
-                                      const paragraph = document.createElement("p");
-                                      listItemElement.appendChild(paragraph);
-                                      listItemElement.classList.add("question-list-item")
-                                      paragraph.textContent = answer.value;
-                                      const tags = answer.tags;
-                                      if (tags != undefined) {
-                                        const tagList = document.createElement("ul");
-                                        
-                                        for (let j = 0; j < tags.length; j++) {
-                                          const tag = tags[j];
-                                          const tagListItemElement = document.createElement("li");
-                                          const tagElement = document.createElement("button");
-                                          tagElement.setAttribute("type", "button");
-                                          tagElement.classList.add("tag");
-                                          tagListItemElement.appendChild(tagElement);
-                                          tagElement.textContent = tag;
-                                          tagList.appendChild(tagListItemElement);
-                                        }
-                                        
-
-                                        listItemElement.appendChild(tagList);
-                                      }
-                                      
-                                      listItems[listItems.length] = listItemElement;
-                                    }
-                                  }
-                                  return listItems;
-                                },
-                                type: "function"
-                              }
+                              
+                            ]
+                          },
+                          {
+                            content: "section",
+                            type: "tag",
+                            data: {
+                              attributes: [
+                                {
+                                  value: "connected-content",
+                                  key: "class"
+                                }
+                              ],
                             },
+                            child: {
+                            content: templatingConnectedButtons,
+                            type: "function",
+                              data: {data: item, baseGroup:"research-questions"} // , excluded:{events:true}
+                            }
+                            
                           }
-
                         ]
                       }
                     ]
@@ -698,7 +726,17 @@ for (let i=0; i < dataBaseRaw.length; i++) {
 
         templateEngine.render(template, parent);
 
-        
+        const researchQuestionItems = parent.getElementsByClassName("research-question-item");
+
+        if (researchQuestionItems.length > 0) {
+          Array.from(researchQuestionItems).forEach(function (researchQuestionItem) {
+            log(researchQuestionItem.getElementsByClassName("question-list-item").length)
+            if (researchQuestionItem.getElementsByClassName("question-list-item").length < 3 ) {
+              log(researchQuestionItem.getElementsByClassName("research-question-question-show-more")[0])
+              researchQuestionItem.getElementsByClassName("research-question-question-show-more")[0].classList.add("hidden");
+            }
+          });
+        }
         dataManager.attachElement(template[0].elements[0], item);
       }
     }
@@ -712,4 +750,4 @@ window.addEventListener("load", function () {
   sortListOnKey(document.getElementById("document-container"), "name", true)
   sortTimeline (true);
   renderConnectionGraph ();
-}, false)
+}, false);

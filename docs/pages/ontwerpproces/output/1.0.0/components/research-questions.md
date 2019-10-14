@@ -1,0 +1,1 @@
+![Onderzoeksvragen](content/designs6.png)

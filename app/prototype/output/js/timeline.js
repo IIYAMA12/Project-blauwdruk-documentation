@@ -46,19 +46,10 @@ function scrollToTimelineElementByItem (item) {
       changeTab("tab-panel-main-content", 0);
       eventElement.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
       closeDialog();
-      scrollToTimelineElementHighlight(eventElement);
+      scrollToElementHighlight(eventElement,"time-line-item__article");
       break;
     }
   }
 }
 
 
-function scrollToTimelineElementHighlight (element) {
-  const highlightElement = element.getElementsByClassName("time-line-item__article")[0];
-  if (highlightElement != undefined) {
-    highlightElement.classList.add("scroll-to-element-highlight");
-    setTimeout(function () {
-      highlightElement.classList.remove("scroll-to-element-highlight");
-    }, 1300);
-  }
-};
