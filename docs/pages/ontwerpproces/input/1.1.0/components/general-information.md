@@ -6,7 +6,7 @@ __Indeling:__
 <br>
 * __Korte omschrijving van het onderzoek__
 <br>
-* __Relevantie onderzoek__ (Komt naar voren in [deskresearch boek verborgen-scenario](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#beschrijf-relevantie-van-het-hypothese-voor-betrokkenen))
+* __Relevantie onderzoek__ (Komt naar voren in [deskresearch boek verborgen-scenario](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#beschrijf-relevantie-van-het-hypothese-voor-betrokkenen))
 Waarom is dit onderzoek gedaan?
 <br>
 * __Eigenaars__
@@ -20,7 +20,7 @@ De verhaalvorm die een onderzoeksjournalist gebruikt binnen zijn publicatie is a
   * Analyse
 
 <br>
-* __Hypothese__ (Komt naar voren in [deskresearch boek verborgen-scenario](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#bevindingen-hoofdstuk-3))
+* __Hypothese__ (Komt naar voren in [deskresearch boek verborgen-scenario](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#bevindingen-hoofdstuk-3))
 Wat wil je gaan toetsen of heb je getoetst? 
 <br>
 

@@ -45,7 +45,7 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 	- [x] toegevoegd
 * **Het product moet de totstandkoming van een hypothese kunnen beschrijven.**
 `Could`
-[Het Verborgen Scenario #hypothese toetsing](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#hypothese-toetsing)
+[Het Verborgen Scenario #hypothese toetsing](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#hypothese-toetsing)
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [x] toegevoegd
 * **Het product moet ruimte geven om een aanleiding op te nemen.**
@@ -65,7 +65,7 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 	- [ ] toegevoegd
 * **Het product moet de ruimte geven om betrokkenen/bronnen op te nemen.**
 `Could`
-[Het Verborgen Scenario #lijst betrokkenen](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen)
+[Het Verborgen Scenario #lijst betrokkenen](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#lijst-betrokkenen)
 	- [x] toegevoegd
 * **Het product moet instructies en toelichting kunnen geven hoe data\(van een referentie\) gelezen moet worden.**
 `Should`
@@ -73,23 +73,23 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 	- [ ] toegevoegd
 * **Het product moet inzicht geven hoe onderzoeksresultaten boven water zijn gekomen.**
 `Could`
-[Het Verborgen Scenario #verborgen informatie](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#verborgen-informatie)
+[Het Verborgen Scenario #verborgen informatie](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#verborgen-informatie)
 	- [x] toegevoegd
 * **Het product moet de ruimte geven om suggesties gegeven, die de onderzoeksjournalist moet helpen om het meest relevant verhaaltype te kiezen voor het gekozen blauwdruk.**
 `Could`
-[Het Verborgen Scenario #misverstanden helpen op te lossen](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#misverstanden-te-helpen-oplossen)
+[Het Verborgen Scenario #misverstanden helpen op te lossen](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#misverstanden-te-helpen-oplossen)
 	- [ ] toegevoegd
 * **Het product moet de ruimte geven om te noteren hoe een bepaald onderzoek begonnen is.**
 `Could`
-[Het Verborgen Scenario #wat heeft je verbaasd?](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#wat-heeft-je-verbaasd)
+[Het Verborgen Scenario #wat heeft je verbaasd?](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#wat-heeft-je-verbaasd)
 	- [ ] toegevoegd
 * **Het product moet het onderdeel `leed` van de slachtoffers kunnen omvangen.**
 `Could`
-[Het Verborgen Scenario #leed](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#leed)
+[Het Verborgen Scenario #leed](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#leed)
 	- [ ] toegevoegd
 * **Het product moet de onderzoeksjournalist helpen om het verhaal op een chronologische manier te vertellen en alle relevante gebeurtenissen te inventariseren.**
 `Should`
-[Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
+[Het Verborgen Scenario #alle relevante gebeurtenissen inventariseren door middel van een tijdlijn](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#alle-relevante-gebeurtenissen-inventariseren-door-middel-van-een-tijdlijn)
 	- [x] toegevoegd
 * **Het product moet helpen om uniformiteit binnen een serie artikelen te behouden. (eenheid)**
 `Could`
@@ -144,7 +144,7 @@ Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is e
 * **Het product moet ruimte geven om een conclusies en samenvattingen op te nemen.**
    Note: Deze informatie kan gevoelig zijn.
 * **Het product moet ondersteuning bieden voor een indeling van in iedergeval deze punten: `oorzaken`, `gevolgen`, `oplossingen`**
-[Het Verborgen Scenario #compleet maken van het verhaal door middel van een tijdlijn](https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#compleet-maken-van-het-verhaal-door-middel-van-een-tijdlijn)
+[Het Verborgen Scenario #compleet maken van het verhaal door middel van een tijdlijn](https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#compleet-maken-van-het-verhaal-door-middel-van-een-tijdlijn)
 
 
 * **Het product moet de FTM lezer toegang verlenen tot een blauwdruk.**
@@ -152,7 +152,7 @@ Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is e
 
 
 * **Het product moet signale/events (van partijen) in zich kunnen opnemen, die tot een volgende stap hebben geleid in het onderzoek.**
-[https://jorik.gitbook.io/project-blauwdruk/research_methods/deskresearch/verborgen-scenario#lijst-betrokkenen](Het Verborgen Scenario)
+[https://jorik.gitbook.io/project-blauwdruk/research_methods/verborgen-scenario#lijst-betrokkenen](Het Verborgen Scenario)
 
 
 
