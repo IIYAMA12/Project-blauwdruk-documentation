@@ -107,6 +107,7 @@
 				* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
 				* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
 			* [Prototype v1_0_0](pages/ontwerpproces/output/1.0.0/prototype.md)
+		* [Product benaming](pages/product-benaming/README.md)
 		* [Invoeren van onderzoeksdata v2_0_0](pages/ontwerpproces/input/README.md)
 			* [Ontwerp v2_0_0](pages/ontwerpproces/input/2.0.0/README.md)
 			* [Prototype v2_0_0](pages/ontwerpproces/input/2.0.0/prototype.md)
@@ -124,6 +125,7 @@
 		* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 		* [Beantwoording resterende onderzoeksvragen](onderzoeksvragen/beantwoording-resterende-onderzoeksvragen/README.md)
 	* [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
+	* [Aanbevelingen](pages/aanbevelingen/README.md)
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
 	* [Ethiek](pages/ethiek/README.md)
 	* [Stijlgids](pages/stijlgids/README.md)
