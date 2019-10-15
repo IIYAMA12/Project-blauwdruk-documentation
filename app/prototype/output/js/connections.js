@@ -288,6 +288,10 @@ function renderConnectionGraph () {
     let lastEventListOrientation = {
 
     };
+
+
+    let requestID;
+
     const updateTimelineConnections = function () {
       const forceUpdate = true;
       
@@ -353,10 +357,17 @@ function renderConnectionGraph () {
           d3.select(this).attr("x", Math.min((d.exactLineBoxWidth - 30), (parameters.containerWidth - d.textLabelWidth - 20)));
         });
       }
+      requestID = undefined;
     };
 
-    updateTimelineConnections(true);
-    setInterval(window.requestAnimationFrame, 500, updateTimelineConnections);
+
+    setInterval(
+      function () {
+        if (requestID != undefined) {
+          window.cancelAnimationFrame(requestID);
+        }
+        requestID = window.requestAnimationFrame(updateTimelineConnections);
+      }, 500);
   }
 
   // Initialize the links
