@@ -13,6 +13,9 @@ Soort gelijke types:
 * Recept
 * Draaiboek
 
+# Contentblok
+Een tekstkader die zich onderscheid van de broodtekst. Deze wordt vaak gebruikt om achtergrondinformatie weer te geven.
+
 # Doorzoekbaar document
 
 Een document dat je op bepaalde manieren kan doorzoeken.
