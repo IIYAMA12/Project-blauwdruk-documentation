@@ -8,10 +8,10 @@
 2\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?   
 `BIJHOUDEN` `AANVULLEN`
 
-3\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een blauwdruk?   
+3\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een vorig onderzoek?   
 `VERGELIJKEN`
 
-4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?   
+4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?
 `DOORGRONDEN`
 
 5\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie is er nodig\)   
@@ -67,3 +67,4 @@ Hoe zit een journalistieke onderzoek in elkaar?
 
 ![Onderzoeksvragen flow: Versie 1.0.0](content/Blauwdruk-proces-diagram-Hoofd en deelvragen_v1.png)
 
+[Bekijk afbeelding groot](https://iiyama12.github.io/Project-blauwdruk_html-content/download-content/Blauwdruk-proces-diagram-Hoofd%20en%20deelvragen_v1.png)

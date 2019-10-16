@@ -4,7 +4,5 @@ Een bron is een entiteit die de onderzoeksjournalist van informatie voorziet. Ik
 Voor de duidelijkheid, wanneer ik over een bron praat, heb ik het over een persoon of een groep personen of een organisatie(die uit mensen bestaan).
 
 __De bron heeft in iedergeval deze twee belangen:__
-* Anoniem te blijven. (direct en indirect)
-  * Direct: De naam van de bron staat vermeld.
-  * Indirect: De boosdoender die in het onderzoek naar voren komt, kan achterhalen met bepaalde informatie wie de bron is.
+* Anoniem te blijven voor andere stakeholders, die niet willen dat bepaalde informatie naar buitenkomt.
 * In bepaalde gevallen een belang bij het privé houden van gelekte informatie. Zeker in het geval dat de informatie niet eigendom is van de bron zelf. Dit kan bijvoorbeeld tot een rechtzaak leiden.
