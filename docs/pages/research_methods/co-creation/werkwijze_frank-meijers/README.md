@@ -59,5 +59,5 @@ Als er genoeg informatie beschikbaar is en de problemen die bij de aanleiding sp
 Vanaf het pitchen/laten zien van het concept, wordt er wederhoor gepleegd met alle stakeholders die betrokken zijn in dit artikel.
 
 
-[Beantwoording: 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen/maken/werkwijze-onderzoeksjournalist#wat-is-de-werkwijze-van-een-onderzoekjournalist)
+[Beantwoording: Hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)
 

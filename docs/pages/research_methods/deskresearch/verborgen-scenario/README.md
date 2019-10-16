@@ -323,4 +323,4 @@ Het blauwdruk kan uitleggen hoe er indicaties vanuit een tijdlijn tot nieuwe bev
 (Sengers & Hunter, 2017, p. 32)
 
 
-[Beantwoording: 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen/maken/werkwijze-onderzoeksjournalist#wat-is-de-werkwijze-van-een-onderzoekjournalist)
+[Beantwoording: Hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)

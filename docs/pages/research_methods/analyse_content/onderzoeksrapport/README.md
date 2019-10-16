@@ -34,4 +34,4 @@ Dit zijn mijn bevindingen uit dit rapport:
 * Kwaliteit en onafhankdelijkheid onderzoek?
 
 
-[Beantwoording: 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen/maken/werkwijze-onderzoeksjournalist#wat-is-de-werkwijze-van-een-onderzoekjournalist)
+[Beantwoording: hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)

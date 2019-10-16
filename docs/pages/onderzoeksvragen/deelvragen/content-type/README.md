@@ -1,7 +1,5 @@
-# Content type
 
-Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)  
-
+[Om deelvraag 4.1 te beantwoorden](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen) heb ik deze lijst verzameld.
 `CONTENT TYPE`
 
 
