@@ -24,6 +24,9 @@
   background: rgba(0,0,0,0) url("../assets/show-list-gray.svg") no-repeat;
   background-size: 2.5rem;
   background-position: 50% 100%;
+}
+
+.connected-content-button-wrapper:not(.close) .connected-content-button:after {
   z-index: 11;
 }
 
