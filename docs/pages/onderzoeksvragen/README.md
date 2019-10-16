@@ -11,7 +11,7 @@
 3\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoek vergelijken met een vorig onderzoek?   
 `VERGELIJKEN`
 
-4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden?
+4\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden? (Het doorzoeken van de onderzoeksdata en daaruit het achterliggende journalisieke verhaal begrijpen.)
 `DOORGRONDEN`
 
 5\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdruk gebruiken voor onderzoek? \(+ welke informatie is er nodig\)   
@@ -54,7 +54,7 @@ Hoe zit een journalistieke onderzoek in elkaar?
 `DEFINITIE BLAUWDRUK`
 
 
-0\.3: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?   
+0\.3: Wanneer wordt een blauwdruk gebruikt? Is het iets wat je altijd moet doen, of alleen als je het na wil laten aan jezelf of iemand anders?
 `ALGEMEEN: GEBRUIK BLAUWDRUK`
 
 
