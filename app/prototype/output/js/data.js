@@ -84,6 +84,10 @@ const dataBaseRaw = [
           {
             group: "events",
             name: "event-343443"
+          },
+          {
+            group: "research-questions",
+            name: "connection-64DG%^@*&YDHDH",
           }
         ]
       },
@@ -414,32 +418,40 @@ const dataBaseRaw = [
           key:"answers", value: 
           [
             {
-              value: "Ik heb nooit gezegd dat wij subsidie krijgen",
+              value: "Jaap van Dijk: \"Ik heb nooit gezegd dat wij subsidie krijgen\"",
               tags: [
                 "interview",
                 "ontkenning"
               ]
             },
-            {
-              value: "Ik geef toe dat er subsidie verdwenen is, maar het vermogen bijhouden valt buiten mijn bevoegdheid.",
-              tags: [
-                "interview",
-                "bekentenis"
-              ]
-            },
-            {
-              value: "Ik veronderstel dat de bronnen die ik heb gesproken meer weten over de subsidie, maar verder geen informatie willen verschaffen. Hier is iets niet in de haak.",
-              tags: [
-                "aannamen"
-              ]
-            }
+            // {
+            //   value: "Ik geef toe dat er subsidie verdwenen is, maar het vermogen bijhouden valt buiten mijn bevoegdheid.",
+            //   tags: [
+            //     "interview",
+            //     "bekentenis"
+            //   ]
+            // },
+            // {
+            //   value: "Ik veronderstel dat de bronnen die ik heb gesproken meer weten over de subsidie, maar verder geen informatie willen verschaffen. Hier is iets niet in de haak.",
+            //   tags: [
+            //     "aannamen"
+            //   ]
+            // }
           ]
         },
+        {key:"connections-with", value: 
+            [
+              {
+                group: "research-questions",
+                name: "connection-64DG%^@*&YDHDH"
+              }
+            ]
+          },
         {
-          key:"motive", value: "Subsidie kom is niet opgenomen in de jaarrekeningen"
+          key:"motive", value: "Subsidie is niet opgenomen in de jaarrekeningen"
         },
         {
-          key:"goal", value: "Geldspoor subsidie achterhalen"
+          key:"goal", value: "Het geldspoor subsidie achterhalen"
         },
       ]
     ]
