@@ -43,7 +43,7 @@ Deze manier van hiërarchie moet het eenvoudiger maken dit soort informatie in t
 
 ## Eigenschappen en vergelijking met contentvorm `tabel`
 
-Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het probleem dat eigenschappen
+Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het voordeel en nadeel dat elk eigenschap altijd een eigen kolom heeft. De informatie is altijd gesorteerd over de kolomen dat is een voordeel. Maar het nadeel is dat voor elke unieke eigenschap een extra kolom aangemaakt wordt. Hierdoor kan de tabel breder dan je scherm worden en dit heeft als gevolg dat de data onoverzichtelijk wordt.
 
 [Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
 

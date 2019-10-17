@@ -13,6 +13,9 @@ Soort gelijke types:
 * Recept
 * Draaiboek
 
+# Concept zin
+Een zin die het bijbehorende concept in een paar tekstregels beschrijft en een richting geeft.
+
 # Contentblok
 Een tekstkader die zich onderscheid van de broodtekst. Deze wordt vaak gebruikt om achtergrondinformatie weer te geven.
 

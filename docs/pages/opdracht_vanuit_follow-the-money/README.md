@@ -8,11 +8,11 @@
 
 [@ Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders/?originalSubdomain=nl)
 
-`* Geïnteresseerden, onder andere:` onderzoeksjournalisten, [redacteuren](https://jorik.gitbook.io/project-blauwdruk/stakeholders/redacteur) en wellicht ook de [FTM lezers](https://jorik.gitbook.io/project-blauwdruk/stakeholders/follow_the_money_lezer).
+`* Geïnteresseerden, onder andere:` onderzoeksjournalisten, [redacteuren](https://jorik.gitbook.io/project-blauwdruk/stakeholders/redacteur) en wellicht ook de [lezers van FTM](https://jorik.gitbook.io/project-blauwdruk/stakeholders/follow_the_money_lezer).
 
 
 
-## Achtergrond verhaal
+## Achtergrond
 
 > Achtergrond   
 > Follow the Money \(FTM\) is een radicaal onafhankelijk, online journalistiek platform met als doel ‘waarheidsvinding in dienst van de samenleving’. We doen onderzoek naar mensen, systemen, bedrijven en organisaties die zich misdragen. Onze publicaties zijn online te lezen, te beluisteren of te bekijken. Een groot voordeel van digitale media is dat er meer interactie met het publiek mogelijk is. Op die manier kunnen onze journalistieke producties zich onderscheiden van producties via tv, radio of krant.
@@ -32,10 +32,11 @@
 > * Panels
 > * Vragenlijsten 
 >
-> Comments \(na publicatie, groot publiek\) Lezers van een artikel met een geldig abonnement kunnen reacties plaatsen onderaan een artikel. Dit gebeurt nadat een artikel is gepubliceerd. Ook gaan de lezers met elkaar in discussie. Een auteur kan zich mengen in dergelijke discussies. Voor de lezers is de reactie van een auteur direct herkenbaar, omdat zijn/haar avatar op een andere plek bij de reactie staat dan de avatars van het publiek.
+> Comments \(na publicatie, groot publiek\) 
+> Lezers van een artikel met een geldig abonnement kunnen reacties plaatsen onderaan een artikel. Dit gebeurt nadat een artikel is gepubliceerd. Ook gaan de lezers met elkaar in discussie. Een auteur kan zich mengen in dergelijke discussies. Voor de lezers is de reactie van een auteur direct herkenbaar, omdat zijn/haar avatar op een andere plek bij de reactie staat dan de avatars van het publiek.
 >
 > Pitch \(voor publicatie, klein publiek\)   
-> Auteurs kunnen ook voordat ze beginnen met een onderzoek de hulp inschakelen van het publiek. Hierbij is Pitch een van de mogelijkheden. Met Pitch kunnen lezers voorstellen inbrengen voor een nieuw te openen onderzoek. We gebruiken Pitch met name om input te krijgen voor lokale onderzoeken. In het voorjaar van 2019 kunnen bijvoorbeeld inwoners van de provincies Friesland, Groningen, Drenthe en Overijssel hun onderzoeksvoorstellen insturen. Na een aantal stemrondes \(waarbij het publiek mag stemmen\) wordt een onderzoeksvoorstel geselecteerd dat we daadwerkelijk zullen uitvoeren.
+> Auteurs kunnen ook voordat ze beginnen met een onderzoek de hulp inschakelen van het publiek. Hierbij is Pitch een van de mogelijkheden. Met Pitch kunnen lezers voorstellen inbrengen voor een nieuw te openen onderzoek. Pitch wordt gebruikt met name om input te krijgen voor lokale onderzoeken. In het voorjaar van 2019 kunnen bijvoorbeeld inwoners van de provincies Friesland, Groningen, Drenthe en Overijssel hun onderzoeksvoorstellen insturen. Na een aantal stemrondes \(waarbij het publiek mag stemmen\) wordt een onderzoeksvoorstel geselecteerd dat we daadwerkelijk zullen uitvoeren.
 >
 > Panels   
 > Auteurs kunnen een panel opbouwen. Een goed voorbeeld hiervan is ons panel dat bestaat uit zorgprofessionals. Met deze tool heeft de auteur makkelijk toegang tot een \(grote\) groep mensen met kennis op een specifiek gebied. Deze groep kan worden bevraagd door de auteur, waardoor een publicatie sneller en met meer expertise van buitenaf kan worden gemaakt.

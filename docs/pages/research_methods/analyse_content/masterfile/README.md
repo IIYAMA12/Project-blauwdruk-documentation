@@ -4,6 +4,10 @@
 In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers](https://www.luuksengers.nl). Deze masterfile is bedoeld voor onderzoeksjournalisten om het werkproces voort de zetten in een soort database. Niet schrikken van de naam "database", het is namelijk een database in Excel. Dat wil natuurlijk dat niet zeggen dat deze niet ingewikkeld is. Het voordeel van een database is in de meeste gevallen dat je informatie op een ander of hoger niveau doorzoekbaar is. Maar ook dat je verschillende soorten data beter aan elkaar kan koppelen.
 
 
+## Waarom dit onderzoek
+De masterfile gebruikt dezelfde informatie als dat mijn product gaat gebruiken. Door dit te onderzoeken kan ik mijn informatielijst aanvullen en ook achterhalen welke informatie belangrijk is.
+
+
 ## Onderdelen indeling:
 | Story | Documents | People | Sourcemap | Questions |
 | --- | --- | --- | --- | --- |
@@ -63,4 +67,4 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 * Sengers, L. (2010). Masterfile-OZJ. Tabel. Geraadpleegd op 6 juni 2019 in masterfile. Excel.
 * Sengers, L. (2010). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
 
-> Master file in handen gekregen via een onderzoeksjournalist. TODO
+> Master file in handen gekregen via Arjan van der Linden.

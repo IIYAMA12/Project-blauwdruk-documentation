@@ -10,7 +10,7 @@ Van de onderzoeksjournalist heb ik 2 persona's gemaakt. Elk gebaseerd op twee ve
 
 __Het bijhouden van een onderzoek kan je doen door informatie:__
 * te onthouden.
-* op te schrijven (medium?)
+* op te schrijven
 
 {% hint style="tip" %}
 Het type medium voor opschrijven van informatie mag je er zelf bijbedenken. 
@@ -24,10 +24,10 @@ Kortom, deze onderscheidbare werkwijze heeft te maken met informatie:
 
 ---
 
-De werkwijze onthouden is altijd aanwezig, je begint met je onderzoek en onthoud de belangrijkste informatie.
-De werkwijze opschrijven doe je om de cognitievelading te verminderen, zodat je weer nieuwe informatie kan opnemen.
+De werkwijze onthouden is altijd aanwezig, je begint met je onderzoek en onthoudt de belangrijkste informatie.
+De werkwijze opschrijven doe je om de cognitieve lading te verminderen, zodat je weer nieuwe informatie kan opnemen.
 
-Het is niet als of je moet kiezen welke werkwijze er nodig is om een onderzoek uit te voeren. Je kan bijvoorbeeld 30% onthouden en 70% opschrijven proberen.
+Het is niet alsof je moet kiezen welke werkwijze er nodig is om een onderzoek uit te voeren. Je kan bijvoorbeeld 30% onthouden en 70% opschrijven proberen.
 
 __Deze verhouding gebruiken:__
 * per onderdeel dat je onderzoekt.
@@ -35,7 +35,7 @@ __Deze verhouding gebruiken:__
 
 
 
-Onderzoekers en onderzoeksjournalist hebben vaak te maken met veel onderzoeksinformatie. De hoeveelheid onderzoeksinformatie die je wegschrijft en juist probeert te onthouden heeft grotendeels met jouw voorkeur te maken. (Wat werkt goed voor jouw?) Alles proberen te onthouden betekend ook meer risico dat je iets daarvan vergeet en meer opschrijven __kan__ betekenen dat het langer duurt voordat je het teruggevonden hebt. Er komen nog andere scenario's bij kijken, zoals "je weet de informatie wel, maar je kan het op dat moment niet meer herrineren." of "je raakt je notities kwijt". Kenbaar?
+Onderzoekers en onderzoeksjournalist hebben vaak te maken met veel onderzoeksinformatie. De hoeveelheid onderzoeksinformatie die je wegschrijft en juist probeert te onthouden heeft grotendeels met jouw voorkeur te maken. (Wat werkt goed voor jou?) Alles proberen te onthouden betekent ook meer risico dat je iets daarvan vergeet en meer opschrijven __kan__ betekenen dat het langer duurt voordat je het teruggevonden hebt. Er komen nog andere scenario's bij kijken, zoals "je weet de informatie wel, maar je kan het op dat moment niet meer herrineren." of "je raakt je notities kwijt". Kenbaar?
 
 De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroep `onderzoeksjournalist` tijd en energie steken in het invoeren van de informatie die nodig is om het product te laten werken waar het voor bedoeld is?
 
@@ -49,12 +49,12 @@ De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroe
 
 De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer opschrijven`.
 
-### Aannamen:
+### Aannames:
 De onderzoeksjournalist die meer opschrijft binnen een digitaal medium, zal pas iets met het product gaan doen als deze fijn kan samenwerken met de tools die al gebruikt worden.
 
-__Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
-* todo: https://jorik.gitbook.io/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software
-* todo: https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport
+__Gebaseerd op de wensen en problemen van de onderzoeksjournalist.__
+* [Tijdlijn-software](https://jorik.gitbook.io/project-blauwdruk/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result#tijdlijn-software)
+* [Onderzoeksrapport](https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 
 
 ## Persona 2
@@ -63,10 +63,10 @@ __Deze aannamen is gebaseerd op de wensen en problemen van de onderzoeksjournali
 
 De eigenschappen `gedrag` zijn ingevuld in de richting van: `meer onthouden`.
 
-### Aannamen:
+### Aannames:
 De onderzoeksjournalist die minder opschrijft binnen een digitaal medium, zal waarschijnlijk zijn gewoontes niet veranderen, **mits** de meerwaarden van het product zoveel hoger ligt dan de energie die er in gestoken wordt. 
 
-__Deze aannamen is gebaseerd op deze wens:__
+__Gebaseerd op deze wens:__
 
 > Ik kan nu een heel complex onderzoek helder uitleggen aan mijn collega of mijn lezers.
 

@@ -4,7 +4,7 @@
 
 Beste lezer,
 
-Je kijk nu naar het productbiografie van het `Blauwdruk project 2019`.
+Je kijk naar de productbiografie van het `Blauwdruk project 2019`.
 Mijn naam is [Jorik van Essen](https://www.linkedin.com/in/jorikvanessen/) en ik nodig je hierbij van harte uit om dit project te ontdekken.
 
 

@@ -8,12 +8,12 @@ Op 21 mei 2019, heb ik toegang gekregen tot een onderzoeksrapport dat verschille
 
 Bedankt voor het delen Arne!
 
+## Waarom dit onderzoek
+Om de indeling van het product te bepalen is het relevant om via een ander onderzoeksformat de indeling te bestuderen.
 
 
-Dit zijn mijn bevindingen uit dit rapport:
 
-
-### Indeling – Onderzoeksvoorstel
+## Indeling – Onderzoeksvoorstel
 
 * Doel van dit document
 * Inhoudsopgave
