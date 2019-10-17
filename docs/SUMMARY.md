@@ -99,6 +99,7 @@
 		* [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 		* [Visuele weergave output_v1_0_0](pages/ontwerpproces/output/README.md)
 			* [Startpunt output_v1_0_0](pages/ontwerpproces/output/start-point/README.md)
+			* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
 			* [Ontwerp output_v1_0_0](pages/ontwerpproces/output/1.0.0/README.md)
 				* [Voorblad](pages/ontwerpproces/output/1.0.0/components/general-information.md)
 				* [Bronnen](pages/ontwerpproces/output/1.0.0/components/sources.md)
@@ -165,7 +166,7 @@
 			* [Versie v1_0_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/README.md)
 				* [Resultaten v1_0_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/result.md)
 		<!-- * [Analyse content](pages/research_methods/analyse_content/README.md) -->
-		* [Analyse Proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
+		* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
 		* [Analyse Masterfile](pages/research_methods/analyse_content/masterfile/README.md)
 		* [Analyse onderzoeksrapport](pages/research_methods/analyse_content/onderzoeksrapport/README.md)
 		* [Persona](pages/research_methods/persona/README.md)
