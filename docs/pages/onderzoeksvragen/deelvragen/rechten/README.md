@@ -1,5 +1,5 @@
 # Rechten
 
-Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?   
+Wie of wat bepaalt of er wijzigingen worden doorgevoerd in een blauwdruk?   
 `RECHTEN`
 

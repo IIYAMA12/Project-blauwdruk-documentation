@@ -35,7 +35,7 @@ __Deze verhouding gebruiken:__
 
 
 
-Onderzoekers en onderzoeksjournalist hebben vaak te maken met veel onderzoeksinformatie. De hoeveelheid onderzoeksinformatie die je wegschrijft en juist probeert te onthouden heeft grotendeels met jouw voorkeur te maken. (Wat werkt goed voor jou?) Alles proberen te onthouden betekent ook meer risico dat je iets daarvan vergeet en meer opschrijven __kan__ betekenen dat het langer duurt voordat je het teruggevonden hebt. Er komen nog andere scenario's bij kijken, zoals "je weet de informatie wel, maar je kan het op dat moment niet meer herrineren." of "je raakt je notities kwijt". Kenbaar?
+Onderzoekers en onderzoeksjournalist hebben vaak te maken met veel onderzoeksinformatie. De hoeveelheid onderzoeksinformatie die je wegschrijft en juist probeert te onthouden heeft grotendeels met jouw voorkeur te maken. Alles proberen te onthouden betekent ook meer risico dat je iets daarvan vergeet en meer opschrijven __kan__ betekenen dat het langer duurt voordat je het teruggevonden hebt. Er komen nog andere scenario's bij kijken, zoals "je weet de informatie wel, maar je kan het op dat moment niet meer herrineren." of "je raakt je notities kwijt". Kenbaar?
 
 De belangrijkste informatie die voor mij belangrijk is: Wanneer gaat de doelgroep `onderzoeksjournalist` tijd en energie steken in het invoeren van de informatie die nodig is om het product te laten werken waar het voor bedoeld is?
 

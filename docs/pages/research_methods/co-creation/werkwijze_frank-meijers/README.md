@@ -1,4 +1,4 @@
-# Werkwijze van Frank Meijers
+# Werkwijze van Frank Meijer
 
 Het volgende onderzoek onderdeel `co-creation` heb ik gebruikt om informatie te verzamelen over de werkwijze van een onderzoeksjournalist. Deze informatie speelt een rol bij het beoordelen welke informatie er wel en niet in het blauwdruk moet en mag komen. De vraag voor het co-creation proces: "Welke onderzoeksstappen neem jij in je proces mee, tot aan de publicatie?
 

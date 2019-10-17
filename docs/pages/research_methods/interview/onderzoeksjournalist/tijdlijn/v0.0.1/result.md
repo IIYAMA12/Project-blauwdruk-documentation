@@ -82,7 +82,7 @@ Onderzoeksjournalist Arjan heeft baat bij heel veel structuur en is opzoek naar 
 
 ## Resultaten interview 2
 
-Afgenomen bij [Frank Meijers](https://www.ftm.nl/auteur/frank-meijer)
+Afgenomen bij [Frank Meijer](https://www.ftm.nl/auteur/frank-meijer)
 
 
 

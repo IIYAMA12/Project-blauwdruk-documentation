@@ -25,6 +25,11 @@
 
 ## Deelvragen
 
+__Legenda:__
+* `hoofdvraag`__\.__`deelvraag` 
+* __0\.__`deelvraag` (geen hoofdvraag)
+
+
 1\.1: Hoe kan een blauwdrukproces invulbaar worden opgezet?   
 `INVULBAAR`
 
@@ -32,7 +37,7 @@
 Hoe zit een journalistieke onderzoek in elkaar?   
 `WERKWIJZE` `STRUCTUUR`
 
-2\.1: Wie of wat bepaald of er wijzigingen worden doorgevoerd in een blauwdruk?   
+2\.1: Wie of wat bepaalt of er wijzigingen worden doorgevoerd in een blauwdruk?   
 `RECHTEN`
 
 4\.1: Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)   

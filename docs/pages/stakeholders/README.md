@@ -25,8 +25,6 @@
 
 {% page-ref page="follow_the_money_lezer/README.md" %}
 
-{% page-ref page="follow_the_money_leden/README.md" %}
-
 ### Groot belang bij realisatie eindproduct
 
 {% page-ref page="frontwise/README.md" %}
@@ -36,10 +34,12 @@
 * Designers
 
 ## Andere stakeholders:
+* Follow the Money Leden
 * Data-analist 
 * Expert 
 * Community-manager 
 * Redacteur sociale media
+
 
 
 ## Belangrijkste
