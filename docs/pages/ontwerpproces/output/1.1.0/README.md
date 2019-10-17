@@ -28,6 +28,11 @@ Deze informatie was nog niet toegevoegd in versie 1.0.0.
 In deze weergave staan de verbanden + gebeurtenissen op een eigen tijdslijn. 
 [Vanuit feedback](https://jorik.gitbook.io/project-blauwdruk/ontwerpproces/output/prototype#verbanden-3)
 
+![Gebeurtenissen met een zelfde datum](content/same-dates.png)
+
+Wanneer gebeurtenissen op dezelfde datum voorkomen, kan dat voor weergave problemen zorgen. Om dit op te lossen worden de gebeurtenissen naar rechts geschoven, maar de pijl blijft wel op de juiste datum staan.
+
+
 ![Wisselen van weergave](content/secondary-view.png)
 
 Je kan altijd nog terug naar de vorige weergave.

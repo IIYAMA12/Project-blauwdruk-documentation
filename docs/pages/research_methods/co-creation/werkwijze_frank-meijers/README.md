@@ -20,7 +20,7 @@ In het vooronderzoek met in iedergeval deskresearch word het probleem tot dusdan
 
 Frank werkt vaak het verhaal\(product\) met proces uit in 1 document. Het `Werkdocument`. Dit document wordt in de eerste instantie opgebouwd door middel van een `PvA`\(Plan van Aanpak\) en een `artikel opzet`.
 
-#### Bij de PvA worden de volgende vragen gesteld:
+#### Bij het PvA worden de volgende vragen gesteld:
 
 * Wat behandel ik?
 * Wie wil ik spreken?
