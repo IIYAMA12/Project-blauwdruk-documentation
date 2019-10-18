@@ -13,7 +13,7 @@ Om de verschillende werkwijze/onderzoeksdata in te organiseren, is er een manier
 
 ## Concept zin
 
-De onderzoeksjournalist kan wisselen tussen de verschillende content types, door het bijbehorende werkgebied te selecteren.
+De onderzoeksjournalist kan wisselen tussen de verschillende contenttypes, door het bijbehorende werkgebied te selecteren.
 
 {% hint style='info' %}
 Een concept zin is invulbaar.

@@ -11,11 +11,11 @@
 
 <br>Samen met een onderzoeksjournalist zijn of haar werkwijze bespreken en optekenen op papier is een hele goede manier om een duidelijk beeld te krijgen van hoe iemand werkt. Het geeft ook een goed beeld met welke informatie een onderzoeksjournalist werkt.
 <br>__Belangrijke punten:__
-  * Content type: `bronnen`
-  * Content type: `hypothese`
+  * Contenttype: `bronnen`
+  * Contenttype: `hypothese`
   * De [eindredacteur](https://jorik.gitbook.io/project-blauwdruk/stakeholders/redacteur) leest het onderzoek door op meerdere momenten binnen het journalistiek onderzoek en moet ook beoordelen of het onderzoek duidelijk genoeg is.
 <br><br>
-* [Focusgroep: Werkwijze vaststellen in groepsverband](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep)
+<!-- * [Focusgroep: Werkwijze vaststellen in groepsverband](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep)
 <br>De focusgroep is uitermaten handig om je aannames mee te testen en cruciale informatie te achterhalen die je in de eerste instantie over het hoofd ziet met interviews.
 <br>__Belangrijke punten:__
   * Documenten
@@ -30,12 +30,12 @@
   * Eenheid van de data is belangrijk.
   * Relevantie onderzoek.
   * Actoren/betrokkenen: bronnen
-  * Delen van data.
+  * Delen van data. -->
 * [Interview: Hoe gaat een onderzoeksjournalist te werk?](https://jorik.gitbook.io/project-blauwdruk/vooronderzoek/werkwijze_thomas-bollen)
 <br>Een heranalyse van een onderzoek naar de werkwijze van de Thomas Bollen
 <br>__Belangrijke punten:__
   * Verhaaltypes
-  * Content type: `bronnen`
+  * Contenttype: `bronnen`
   * Documenten/referenties
     * Rapport
     * Kamervragen

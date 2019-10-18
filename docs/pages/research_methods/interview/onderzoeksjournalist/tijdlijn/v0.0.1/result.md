@@ -43,12 +43,12 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 ### Zou een aanvulling kunnen zijn op de tijdlijn
 * Labels (Voor sorteren en filteren)
 
-### Content types opnemen in de tijdlijn
+### Contenttypes opnemen in de tijdlijn
 * Datums
 * Gebeurtenissen
 * Personen
 
-### Content types relevant voor opnemen (per onderzoek verschilled)
+### Contenttypes relevant voor opnemen (per onderzoek verschilled)
 * Contactgegevens
 * Planning (Afsprakene)
 

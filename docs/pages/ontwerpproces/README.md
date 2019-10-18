@@ -4,10 +4,4 @@ In dit hoofdstuk word uitgelegd hoe het ontwerp tot stand is gekomen. Het kan je
 
 In het vorige hoofdstuk [vooronderzoek](https://jorik.gitbook.io/project-blauwdruk/vooronderzoek) worden al een groot aantal werkwijze uitgelegd. Gebaseerd op de werkwijze en onderzoeksdata worden concepten toegelicht die het mogelijk maken om te werken met de onderzoeksdata van de onderzoeksjournalist.
 
-A: Werkwijze of onderzoeksdata > sub-concept > sub-ontwerp
-<br>B: Werkwijze of onderzoeksdata > sub-concept > sub-ontwerp
-<br>C: Werkwijze of onderzoeksdata > sub-concept > sub-ontwerp
-
-A + B + C = ontwerp
-
 

@@ -20,8 +20,6 @@
 6\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoeksresultaten bewijzen met een blauwdruk?   
 `BEWIJZEN`
 
-7\.0: Wie heeft er baat bij het gebruik van een blauwdruk? / Wie zijn de stakeholders? / Wie zijn NIET de stakeholders?   
-`STAKEHOLDERS`
 
 ## Deelvragen
 
