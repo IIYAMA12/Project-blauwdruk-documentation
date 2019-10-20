@@ -28,11 +28,11 @@ Vanuit [co-creation: Frank meijers](https://jorik.gitbook.io/project-blauwdruk/r
 	- [x] toegevoegd
 * __Beschrijving van hoe de aanleiding is gevonden__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 18-19)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Lijst met betrokkenen__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 19)
 Vanuit [Focusgroep #opdracht-3](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Bronnenlijst__
 	- [x] toegevoegd
 * __Referenties__
@@ -48,9 +48,9 @@ Vanuit [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/resea
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 23)
 Vanuit [Focusgroep #opdracht-3](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
 	- [x] toegevoegd
-* __Gevolgen voor betrokkenen__
+* __Gevolgen voor betrokkenen__ \(in de vorm van gebeurtenissen\)
 Vanuit [analyse onderzoeksrapport](https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Onderzoeksreden__
 Vanuit [analyse onderzoeksrapport](https://jorik.gitbook.io/project-blauwdruk/research_methods/analyse_content/onderzoeksrapport)
 	- [x] toegevoegd
@@ -78,7 +78,7 @@ Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 25)
 Als je hypothese geen relevantie heeft voor de betrokkenen, dan kan het de lezer niet met je mee leven.
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, pp. 27-28)
 Vanuit [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * __Beschrijving van hoe de hypothese getoetst is__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 29)
 	- [ ] toegevoegd
