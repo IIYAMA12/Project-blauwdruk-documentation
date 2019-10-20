@@ -1,6 +1,6 @@
 # Design challenge
 
-Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een product: `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` maken. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
+Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een digitaalproduct: `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` maken. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
 
 
 **Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.**

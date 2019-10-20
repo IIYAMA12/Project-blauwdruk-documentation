@@ -9,9 +9,6 @@ Eigenschappen:
 * Invulbaarheid
 * Richtinggevend
 
-Soort gelijke types:
-* Recept
-* Draaiboek
 
 # Concept zin
 Een zin die het bijbehorende concept in een paar tekstregels beschrijft en een richting geeft.
@@ -27,12 +24,16 @@ Een document dat je op bepaalde manieren kan doorzoeken.
 # FTM
 Afkorting van **F**ollow **t**he **M**oney.
 
-
 # Receptenboek
+
 
 Het receptenboek in de onderzoeksjournalist is een verzameling van onderzoeksdata en gebruiksinstructies. Als onderzoeksjournalist kan je deze onderdelen gebruiken om je eigen onderzoeken mee te schrijven.
 
 ![Concreet voorbeeld](https://www.thebureauinvestigates.com/projects/refuges/open-resources)
+
+Termen met een soort gelijke betekenis:
+* Artikelrecept
+* Recept
 
 
 
