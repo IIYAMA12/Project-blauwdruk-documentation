@@ -21,16 +21,16 @@ Om overlapping te voorkomen en het overzicht te bewaren worden de plaknotities u
 
 
 ## Concept zin
-Hoe kan de onderzoeksjournalist zijn bronnen organiseren op een grid. Daarnaast ook nog de bedrijfstructuur (zie vorige hoofdstuk) bepalen door middel van positie en tussenruimte van de bronnen.
+Hoe kan de onderzoeksjournalist zijn bronnen organiseren op een grid. Daarnaast ook nog de bedrijfsstructuur (zie vorige hoofdstuk) bepalen door middel van positie en tussenruimte van de bronnen.
 
 ![Visualisatie concept](content/schetsen27.png)
 
 
-### Bedrijfstructuur implementatie door middel van positie en tussenruimte
+### Bedrijfsstructuur implementatie door middel van positie en tussenruimte
 
 __Regels:__
 
-* Horizontale regel staat voor een bedrijfstructuur niveau:
+* Horizontale regel staat voor een bedrijfsstructuur niveau:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -38,7 +38,7 @@ __Regels:__
 |  2   |      |      |      |      |      |
 |  3   |      |      |      |      |      |
 
-* Elk bedrijfstructuur niveau begint op het moment dat er een bron ingevuld is:
+* Elk bedrijfsstructuur niveau begint op het moment dat er een bron ingevuld is:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -72,7 +72,7 @@ __Regels:__
 |  2   | bron |      |      |      |      |
 
 
-* Bedrijfstructuur verdeling:
+* Bedrijfsstructuur verdeling:
 
 | niveau |      |      |      |      |
 |------|------|------|------|------|

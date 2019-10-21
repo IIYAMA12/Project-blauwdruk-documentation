@@ -28,4 +28,4 @@ __Mist in: Invoeren van onderzoeksdata__
 
 ## Aanpassingen
 
-Een re-design is nodig voor 'bronnen - Invoeren van onderzoeksdata' en concept 'Boom hiërarchie' vervalt voor nu. Vanuit het concept 'Boom hiërarchie' is de bedrijfstructuurweergave niet nuttig in deze visualisatie. Wellicht heeft een 'bedrijfstructuur' zijn eigen werkgebied en waargave nodig. Ik hoop deze terug te gaan zien in de productvisie.
+Een re-design is nodig voor 'bronnen - Invoeren van onderzoeksdata' en concept 'Boom hiërarchie' vervalt voor nu. Vanuit het concept 'Boom hiërarchie' is de bedrijfsstructuurweergave niet nuttig in deze visualisatie. Wellicht heeft een 'bedrijfsstructuur' zijn eigen werkgebied en weergave nodig. Ik hoop deze terug te gaan zien in de productvisie.

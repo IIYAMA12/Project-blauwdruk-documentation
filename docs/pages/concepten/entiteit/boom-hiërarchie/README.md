@@ -16,14 +16,14 @@ __Inclusief:__
 
 ## Concept zin
 
-De gebruiker kan bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfstructuur aangeeft.
+De gebruiker kan bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfsstructuur aangeeft.
 
 {% hint style='info' %}
 Een concept zin is invulbaar.
 {% endhint %}
 
 
-## Bedrijfstructuur
+## Bedrijfsstructuur
 
 De gebruiker kan via een boom hiërarchie indeling, bronnen op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
