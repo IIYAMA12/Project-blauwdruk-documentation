@@ -48,6 +48,7 @@ Mochten alle hypotheses getoetst zijn dan zal je uitkomen op een concept. Dit co
 
 [Foto's van het proces](https://github.com/IIYAMA12/Project-blauwdruk-documentation/tree/2e01555fac70211d0e73d168b8063d796d4de3b5/docs/pages/research_methods/co-creation/frank-meijers/fotos.md)
 
+
 ## Samenvatting
 
 Het onderzoeksproces van een onderzoeksjournalist begint met een duidelijke aanleiding. Zonder aanleiding is er te veel risico dat er niet genoeg naar boven komt om tot resultaat te komen. \(Dat heeft betrekking op het verdienmodel van de onderzoeksjournalist\) Mocht hier aan voldaan zijn dan zal de onderzoeksjournalist zijn of haar idee pitchen bij de eindredactie. Als deze niet goed gekeurd is dan moet de onderzoeksrichting of pitch worden bijgesteld tot dat deze goedgekeurd is door de eindredactie.
@@ -60,4 +61,8 @@ Vanaf het pitchen/laten zien van het concept, wordt er wederhoor gepleegd met al
 
 
 [Beantwoording: Hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)
+
+## Omgaan met cognitieve lading onderzoek
+
+Tijdens de co-creation bekeken we ook het artikel dat Frank aan het schrijven was ter inspiratie. Wat mij opviel was dat Frank relatief veel details op schrijft in vergelijking met ander onderzoeksjournlisten. Dit heb ik daarom ook nagevraagt (aan onderzoeksjournalisten [Thomas Bollen](https://www.ftm.nl/auteur/thomas-bollen) en [Peter Hendriks](https://www.ftm.nl/auteur/peter-hendriks)) en ieder lijkt zelf een keuze te maken hoeveel informatie er wordt opgeschreven en hoeveel er juist uit het hoofd wordt gedaan.
 
