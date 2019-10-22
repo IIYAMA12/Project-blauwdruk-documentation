@@ -88,14 +88,23 @@ etc.
 #### Bijlage met checklist
 
 ![Bijlage checklist](content/bijlage-checklist.png)
-(Buro Jansen & Janssen, 2004)
 
-In dit proces-verbaal wordt een checklist gebruikt voor de bijlage. Hiermee kan een componentenlijst worden weergegeven en verteld ook welke informatie wel en niet aanwezig is.
+(Buro Jansen & Janssen, 2004)
 
 [Ga naar pagina in pdf](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
 
+In dit proces-verbaal wordt een checklist gebruikt voor de bijlage. Hiermee kan een componentenlijst worden weergegeven en verteld ook welke informatie wel en niet aanwezig is.
+
+
+
 
 #### Verdeling dossier
+
+![Inhoudsopgave](content/inhoudsopgave.png)
+
+(Buro Jansen & Janssen, 2004)
+
+[Ga naar pagina in pdf](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=91)
 
 De verdeling van het dossier is gestructureerd in de volgende punten:
 * Algemene-Paragraaf
