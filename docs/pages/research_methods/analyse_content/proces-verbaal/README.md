@@ -11,6 +11,8 @@ Vanuit deze bron [Bureau Jansen & Janssen](https://www.burojansen.nl/) heb ik in
 Dit is de lijst die ik tegengekomen ben:
 [Enkele proces-verbalen uit Denhaag](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf)
 
+(Buro Jansen & Janssen, 2004)
+
 
 ## Analyse indeling
 
@@ -69,6 +71,8 @@ Wat mij opvalt uit deze lijst is dat de informatie op een hoog niveau verijkt is
 
 ![Voorblad dossier](content/voorblad-dossier.png)
 
+(Buro Jansen & Janssen, 2004)
+
 Op voorblad van dit dossier worden belangrijke punten opgesomd die veel zeggen over wat voor dossier/zaak het is. Niet elk punt is overigens ingevuld.
 * Soort Zaak
 * Dossiervorm
@@ -79,15 +83,16 @@ etc.
 
 
 
-[Bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
+[Ga naar pagina in pdf](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=97&zoom=auto,-74,755)
 
 #### Bijlage met checklist
 
 ![Bijlage checklist](content/bijlage-checklist.png)
+(Buro Jansen & Janssen, 2004)
 
 In dit proces-verbaal wordt een checklist gebruikt voor de bijlage. Hiermee kan een componentenlijst worden weergegeven en verteld ook welke informatie wel en niet aanwezig is.
 
-[Bron](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
+[Ga naar pagina in pdf](https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf#page=30&zoom=auto,-209,725)
 
 
 #### Verdeling dossier

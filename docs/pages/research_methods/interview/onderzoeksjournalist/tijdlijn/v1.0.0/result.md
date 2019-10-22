@@ -33,12 +33,12 @@ Zie tijdreis concept, hieronder:
 > Doel: Om mogelijke gemiste gebeurtenissen te controleren.
 > 
 > 2. De tijdlijn geeft aan hoe lang een gebeurtenis duurt.
-> Doel: Gebeurtenissen varieren in tijdsduur, deze informatie zou relevant kunnen zijn.
+> Doel: Gebeurtenissen variëren in tijdsduur, deze informatie zou relevant kunnen zijn.
 > 
 > 3. De tijdlijn kan per gebeurtennis aangeven of er iets in de toekomst moet gaan gebeuren. Bijvoorbeeld: Wanneer moet een [WOB verzoek](https://www.om.nl/organisatie/wet-openbaarheid/) verwerkt zijn?
 > Doel: Sommige gebeurtenissen hebben de eigenschap of doel op iets in de toekomst te laten gebeuren. Bijvoorbeeld: Door een voicemail in te spreken kan ervoor zorgen dat iemand gaat terugbellen.
 > 
-> 4. De tijdlijn kan een op een volging van gebeurtenissen aan elkaar knopen.
+> 4. De tijdlijn kan een opeenvolging van gebeurtenissen aan elkaar knopen.
 > Doel: Om oorzaken en gevolgen in kaart brengen.
 
 ## Samenvatting
