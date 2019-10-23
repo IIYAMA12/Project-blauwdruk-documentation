@@ -25,13 +25,13 @@ Een concept zin is invulbaar.
 
 ## Bedrijfsstructuur
 
-De gebruiker kan via een boomhiërarchie indeling, bronnen op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+De gebruiker kan via een boomhiërarchie-indeling bronnen indelen volgens een __ouders/kinderen-relatie__.  Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
 
 
 __Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan de boomhiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
 
-De onderzoeksjournalist heeft hier behoefte aan, dit blijkt uit het journalistiekonderzoek: ['Verblind door een cybercharlatan'](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) (__FTM account nodig om te bekijken__), waarin de volgende afbeelding is gebruikt:
+Dat de onderzoeksjournalist hier behoefte aan heeft, blijkt bijvoorbeeld uit het journalistieke onderzoek ['Verblind door een cybercharlatan'](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) (__FTM account nodig om te bekijken__), waarin de volgende afbeelding is gebruikt:
 
 ![bedrijfsstructuur](content/bedrijfsstructuur.png)
 
@@ -66,13 +66,15 @@ Voorbeeld van een boomhiërarchie layout:
 
 
 De meerwaardes: `Boomhiërarchie`
-* Onderdelen kunnen onder elkaar worden geschoven. Bijvoorbeeld een persoon kan onder een organisatie worden geschoven. Dit kan ook andersom gedaan worden.
+* Onderdelen kunnen onder elkaar worden geschoven. Een persoon kan bijvoorbeeld onder een organisatie worden geschoven. Dit kan ook andersom gedaan worden.
 * Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zit niet zoals bij een grid vast aan kolommen.
 
 De meerwaardes: `Tabel`
 * Met een tabel zit je vast aan een grid. Het voordeel van een tabel is dat je alle zelfde soort gegevens onder elkaar kan zetten door te soorteren via kolommen.
 * Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Kijk maar hoe Firefox dit oplost: 
+
 ![Firefox tabel layout](content/firefox-tabel-layout.png)
+
 [Dit is een screenshot van de Firefox Netwerk tab dat beschikbaar is via het inspector menu.](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 
 
