@@ -29,7 +29,7 @@ De gebruiker kan via een boomhiërarchie indeling, bronnen op een __ouders en ki
 
 
 
-__Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boomhiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
+__Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan de boomhiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
 
 De onderzoeksjournalist heeft hier behoefte aan, dit blijkt uit het journalistiekonderzoek: ['Verblind door een cybercharlatan'](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) (__FTM account nodig om te bekijken__), waarin de volgende afbeelding is gebruikt:
 
