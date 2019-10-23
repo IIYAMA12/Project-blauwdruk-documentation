@@ -16,7 +16,7 @@ Doel: Om mogelijke gemiste gebeurtenissen te controleren.
 Doel: Gebeurtenissen varieren in tijdsduur, deze informatie zou relevant kunnen zijn.
 
 3. (C) De tijdlijn kan per gebeurtennis aangeven of er iets in de toekomst moet gaan gebeuren. Bijvoorbeeld: Wanneer moet een [WOB verzoek](https://www.om.nl/organisatie/wet-openbaarheid/) verwerkt zijn?
-Doel: Sommige gebeurtenissen hebben de eigenschap of doel op iets in de toekomst te laten gebeuren. Bijvoorbeeld: Door een voicemail in te spreken kan ervoor zorgen dat iemand gaat terugbellen.
+Doel: Sommige gebeurtenissen hebben de eigenschap of doel op iets in de toekomst te laten gebeuren. Bijvoorbeeld: Door een voicemail in te spreken, kun je ervoor zorgen dat iemand gaat terugbellen. 
 
 4. (D) De tijdlijn kan een op een volging van gebeurtenissen aan elkaar knopen.
 Doel: Om oorzaken en gevolgen in kaart brengen.

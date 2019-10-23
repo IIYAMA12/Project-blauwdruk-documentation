@@ -50,7 +50,7 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 
 ### Contenttypes relevant voor opnemen (per onderzoek verschilled)
 * Contactgegevens
-* Planning (Afsprakene)
+* Planning (Afspraken)
 
 ### Mogelijke statussen voor content
 * Verwerkt / klaar
@@ -62,7 +62,7 @@ Afgenomen bij [Arjan van der Linden](https://www.ftm.nl/auteur/arjan-van-der-lin
 #### Wet Openbaarheid van Bestuur (WOB)
 | Toevoegingsvolgorde | Van | Naar | Wat? | Functie in het onderzoek | Pagina | Datum |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ID | Wie verstuurd documenten (brief/mail) | Wie ontvangt documenten (brief/mail) | Wat is er aan de hand? Hiërarchie: Kop en broodtekst | Op welke manier is deze informatie relevant voor het onderzoek? | Pagina nummer in het WOB verzoek | Verzenddatum |
+| ID | Wie verstuurt documenten (brief/mail) | Wie ontvangt documenten (brief/mail) | Wat is er aan de hand? Hiërarchie: Kop en broodtekst | Op welke manier is deze informatie relevant voor het onderzoek? | Pagina nummer in het WOB verzoek | Verzenddatum |
 
 [Wet Openbaarheid van Bestuur (WOB)](https://www.rijksoverheid.nl/onderwerpen/wet-openbaarheid-van-bestuur-wob/openbaarheid-van-overheidsinformatie)
 
