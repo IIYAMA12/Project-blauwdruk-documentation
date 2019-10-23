@@ -1,4 +1,4 @@
-# Boom hiërarchie
+# Boomhiërarchie
 
 
 ## Prototype 1.0.0

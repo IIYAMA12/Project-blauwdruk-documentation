@@ -35,9 +35,9 @@ Het werd tijd om te binnen met een eisenlijst.
 
 
 
-## Concept Boom hiërarchie 
+## Concept Boomhiërarchie 
 
-## Prototype input concept Boom hiërarchie 1.0.0 (input, paper-prototype)
+## Prototype input concept Boomhiërarchie 1.0.0 (input, paper-prototype)
 `Prototype` `Papier` `Bronnen`
 
 ## Prototype input bronnen 2.0.0 (input)
