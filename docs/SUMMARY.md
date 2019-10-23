@@ -55,7 +55,7 @@
 			* [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 			* [Concept v1_0_0](pages/ontwerpproces/input/1.0.0/concept.md)
 				* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
-				* [Grid hiërarchie](pages/concepten/entiteit/grid/README.md)
+				* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
 				* [Keuze concept](pages/ontwerpproces/input/1.0.0/concept-keuze.md)
 			* [Task-analyse](pages/research_methods/task-analyse/README.md)
 			* [Ontwerp v1_0_0](pages/ontwerpproces/input/1.0.0/README.md)
