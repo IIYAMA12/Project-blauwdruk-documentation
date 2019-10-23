@@ -1,17 +1,18 @@
 
 
-__Dank aan:__
 
-* Merel van Essen (Nakijken)
+## Familie
+* Merel van Essen
+* Pernelle van Essen
 
 
 ## Follow the Money
-* Luuk van Der Sterren (Nakijken)
+* Luuk van Der Sterren
+* Arne van der Wal
 * Eelke van Ark
 * Eric Smit
 * Arjan van der Linden
 * Dennis Mijnheer
-* Arne van der Wal
 * Jan-Willem Sanders
 * Karin Spaink
 * Jan-Hein Strop
@@ -26,9 +27,9 @@ __Dank aan:__
 
 ## Opleiding
 * Charl Smit
-* Sadjad
-* Karen
+* Jan-Jaap Rypkema
 * Sarah Ben Messaoud
 * Kevin Wang
-* Jan-Jaap Rypkema
+* Sadjad
+* Karen
 
