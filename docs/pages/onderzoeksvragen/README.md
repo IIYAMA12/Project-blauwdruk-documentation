@@ -2,7 +2,7 @@
 
 ## Hoofdvragen
 
-1\.0: Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk maken?   
+1\.0: Hoe kan de onderzoeksjournalist zijn of haar onderzoeksproces in de vorm van een blauwdruk maken? 
 `MAKEN`
 
 2\.0: Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces bijhouden en aanvullen?   

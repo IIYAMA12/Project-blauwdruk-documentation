@@ -17,5 +17,5 @@ __Onderzoeksvragen__
 * Hoe kan de onderzoeksjournalist zijn of haar blauwdrukproces doorgronden? `DOORGRONDEN`
   * Welke vorm/content is het duidelijkste voor journalisten te doorscannen? (Zijn het korte stukjes tekst, of misschien wel een flowchart?)
 
-* Hoe kan de onderzoeksjournalist zijn of haar proces in de vorm van een blauwdruk maken? `MAKEN`
+* Hoe kan de onderzoeksjournalist zijn of haar onderzoeksproces in de vorm van een blauwdruk maken? `MAKEN`
   * Wat is de werkwijze van een onderzoekjournalist?

@@ -58,6 +58,9 @@ Buro Jansen & Janssen. (2004, 23 november). enkeleprocessenverbalendenhaag [Docu
 ## Inspiratie D3 voorbeelden
 Vilenski, E. (z.d.). Most basic network chart in d3.js. Geraadpleegd op 8 september 2019, van https://www.d3-graph-gallery.com/graph/network_basic.html
 
+## JavaScript library
+
+Bostock, M. (2019, 10 april). Data-Driven Documents [JavaScript library]. Geraadpleegd op 23 oktober 2019, van https://github.com/d3/d3
 
 ## Web ondersteuning
 Caniuse. (z.d.). Method of storing data client-side, allows indexed database queries. [screenshot]. Geraadpleegd op 22 september 2019, van https://caniuse.com/#search=IndexedDB
