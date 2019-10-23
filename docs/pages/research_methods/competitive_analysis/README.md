@@ -1,8 +1,14 @@
 # Competitive analysis
 
+Het volgende project "Bureau Local Open Resources" was een inspiratie bron van Follow the Money om tot de volgende vraag te komen:
+[De vraag van het project](https://jorik.gitbook.io/project-blauwdruk/opdracht_vanuit_follow-the-money#de-vraag)
+
+Om te begrijpen wat Follow the Money graag als eindproduct wil is deze analyse noodzakelijk.
+
+
 [CMD: Competitive Analysis](http://www.cmdmethods.nl/cards/library/competitive-analysis)
 
-## Recept
+## Recept – analyse
 
 Dit project gaat over hoe `The Bureau of Investigative Journalism` een recept creëert vanuit eigen onderzoek en dit vervolgens openstelt voor andere de lokale \(onderzoeks\)journalisten en het publiek. In dit project kan men dit proces aanvullen om zo tot meer data te komen.
 
