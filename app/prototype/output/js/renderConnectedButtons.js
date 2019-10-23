@@ -7,6 +7,8 @@ function templatingConnectedButtons (configuration) {
   const elements = [];
   const connections = dataManager.getItemConnections(item);
   const connectionsFoundRegister = {};
+
+
   for (let i = 0; i < connections.length; i++) {
     const connection = connections[i];
     
@@ -34,8 +36,8 @@ function templatingConnectedButtons (configuration) {
 
         }
       }
-
-      for (var typeOfData in connectionsFoundRegister) {
+      
+      for (let typeOfData in connectionsFoundRegister) {
         if (connectionsFoundRegister.hasOwnProperty(typeOfData)) {
           const connectedItems = connectionsFoundRegister[typeOfData].list;
           const count = connectionsFoundRegister[typeOfData].count;
