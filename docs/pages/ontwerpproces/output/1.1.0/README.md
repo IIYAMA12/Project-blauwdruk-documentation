@@ -6,7 +6,7 @@
 
 ### Algemene informatie
 
-![Verbergen en tonen van de algemene information](content/show-more-general-information.png)
+![Verbergen en tonen van de algemene informatie](content/show-more-general-information.png)
 
 ### Gekoppelde onderdelen
 

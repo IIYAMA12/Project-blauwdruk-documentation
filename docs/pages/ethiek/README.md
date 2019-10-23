@@ -37,16 +37,16 @@ __Deze keuze heb ik gemaakt voor de volgende redenen: (Niet alle punten zijn van
   * Deskresearch gebeurt in de webbrowser.
   * De Google apps (Docs, Sheets) draaien in de webbrowser.
 * Mocht een uitwerking van een journalistiekonderzoek worden gemaakt voor de doelgroep: Follow the Money lezer. Dan moet dat weer apart ontwikkeld worden voor op de website.
-* De applicatie is eenvoudig deelbaar met collega's, sinds op een centraalpunt kan wordt gehost.
+* De applicatie is eenvoudig deelbaar met collega's, sinds op een centraal punt kan wordt gehost.
 * De applicatie heeft geen toegang tot andere data dat op de onderzoeksjournalist zijn computer draait.
-* Follow the Money is nog klein en het produceren van een native applicatie voor zowel Mac OS en Windows valt ver buiten het budget. Dat houd ook in dat de applicatie beschikbaar  gemaakt kan worden voor elk apparaat dat maar een browser ondersteund, klaar voor de toekomst!
+* Follow the Money is nog klein en het produceren van een native applicatie voor zowel Mac OS en Windows valt ver buiten het budget. Dat houd ook in dat de applicatie beschikbaar  gemaakt kan worden voor elk apparaat dat maar een browser ondersteunt, klaar voor de toekomst!
 * De applicatie kan geüpdate worden zonder complexe update tools.
 * Ik kan zelf als ontwikkelaar beoordelen of er fouten in de code staan.
 
 
 __Nadelen voor deze keuze ten opzichte van een native applicatie:__
 * Native apps kunnen hogere prestaties behalen, omdat er programmeertalen gebruikt kunnen worden die dichter bij de processor en het geheugen staan.
-* Data kan perongelijk gewist worden via browserinstellingen.
+* Data kan per ongeluk gewist worden via browserinstellingen.
 * Mocht de browser geïnfecteerd worden dan kan de veiligheid van de data in het geding zijn.
 
 
@@ -84,7 +84,7 @@ De data is alleen beschikbaar via een unieke webadres. Dit betekend dat andere w
 
 ### Offline WEB-APP
 * De webapplicatie draait op een geinstalleerde service worker en dat zorgt er voor dat de website ook offline beschikbaar is.
-Het gebruik van een `service worker` heeft geen directe invloeden op de veiligheid van de data, maar verminderd de aanvragen van bestanden via het internet. Dit verminderd de kans op het downloaden van bestanden uit een overgenomen/gekaapte website binnen een specifiek website-domein. Je hebt dus meer controle over welke bestanden wel of niet gedownload worden.
+Het gebruik van een `service worker` heeft geen directe invloeden op de veiligheid van de data, maar vermindert de aanvragen van bestanden via het internet. Dit vermindert de kans op het downloaden van bestanden uit een overgenomen/gekaapte website binnen een specifiek website-domein. Je hebt dus meer controle over welke bestanden wel of niet gedownload worden.
 [Service worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
 Kortom kan je offline werken als er geen of onbeveiligde wifi is.

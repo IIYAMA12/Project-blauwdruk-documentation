@@ -12,5 +12,5 @@ Controleer of er patterns zijn voor de referentie knoppen binnen het modal (docu
 
 ### Tab panel
 
-Controlleer content met tekst dat alleen uit kapitalen bestaat. (Is er een reden waarom het allemaal kapitalen zijn?)
+Controleer content met tekst die alleen uit kapitalen bestaat. (Is er een reden waarom het allemaal kapitalen zijn?)
 

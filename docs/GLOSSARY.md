@@ -29,7 +29,7 @@ Afkorting van **F**ollow **t**he **M**oney.
 
 Het receptenboek in de onderzoeksjournalist is een verzameling van onderzoeksdata en gebruiksinstructies. Als onderzoeksjournalist kan je deze onderdelen gebruiken om je eigen onderzoeken mee te schrijven.
 
-![Concreet voorbeeld](https://www.thebureauinvestigates.com/projects/refuges/open-resources)
+[Concreet voorbeeld](https://www.thebureauinvestigates.com/projects/refuges/open-resources)
 
 Termen met een soort gelijke betekenis:
 * Artikelrecept

@@ -125,7 +125,7 @@ Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is e
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [ ] toegevoegd
 
-## Aannamens
+## Aannames
 
 * **Het product moet kunnen worden afgeschermd voor personen of groepen.**
 * **Het product moet je blauwdrukken kunnen delen met medecollega.**
