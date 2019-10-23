@@ -35,7 +35,7 @@ __Legenda:__
 Hoe zit een journalistieke onderzoek in elkaar?   
 `WERKWIJZE` `STRUCTUUR`
 
-2\.1: Wie of wat bepaalt of er wijzigingen worden doorgevoerd in een blauwdruk?   
+2\.1: Wie heeft er rechten om te wijzigen. Hoe stellen we rechten vast? 
 `RECHTEN`
 
 4\.1: Welke vorm/content is het duidelijkste voor journalisten te doorscannen? \(Zijn het korte stukjes tekst, of misschien wel een flowchart?\)   

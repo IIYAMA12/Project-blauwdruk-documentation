@@ -4,3 +4,7 @@ De eindredacteur, onderdeel van de eindredactie, heeft als doel om het artikel t
 
 
 Een eindredacteur delegeert ook. Hij of zij stuurt collega's aan om de juiste content te leveren, zoals inleiding, hoofdstukken, koppen, quotes, beeld, en bewijsmateriaal, tot er een eindproduct is.  Ook een beetje vormgeven op contentniveau is niet te missen. (Waar komt welke kop? Klopt de content hiërarchie?)
+
+
+## Belangen
+* Het volledig begrijpen van het onderzoek om  zorgvuldig zijn of haar functie te kunnen uitvoeren.

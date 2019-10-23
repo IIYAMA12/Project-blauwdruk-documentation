@@ -2,7 +2,13 @@
 
 Het volgende onderzoek onderdeel `co-creation` heb ik gebruikt om informatie te verzamelen over de werkwijze van een onderzoeksjournalist. Deze informatie speelt een rol bij het beoordelen welke informatie er wel en niet in het blauwdruk moet en mag komen. De vraag voor het co-creation proces: "Welke onderzoeksstappen zet jij in je proces, tot aan de artikelpublicatie?"
 
-Tot dit resultaat zijn we gekomen:
+Dit onderzoek is uitgevoerd in samenwerking met Frank Meijer.
+
+![Tot dit zijn we gekomen.](content/20190501_163150.jpg)
+
+
+
+Het resultaat verwerkt, tot:
 
 ![Werkwijze Frank](content/diagrams/onderzoeksanalyse-journalist-Frank zijn werkwijze.png)
 
