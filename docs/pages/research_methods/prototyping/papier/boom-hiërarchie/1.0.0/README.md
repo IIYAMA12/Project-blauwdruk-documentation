@@ -9,7 +9,7 @@ __Dit prototype heeft deze doelen:__
 * Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
 
 
-Concept van dit prototype [boom hiërarchie](https://jorik.gitbook.io/project-blauwdruk/concepten/boom-hierarchie)
+Concept van dit prototype [boomhiërarchie](https://jorik.gitbook.io/project-blauwdruk/concepten/boom-hierarchie)
 
 ## Plan van aanpak
 

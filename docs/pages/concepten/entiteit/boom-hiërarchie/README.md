@@ -1,4 +1,4 @@
-# Concept boom hiërarchie
+# Concept boomhiërarchie
 
 > Hoe kan de onderzoeksjournalist zijn bronnen opnemen in het product?
 
@@ -25,11 +25,11 @@ Een concept zin is invulbaar.
 
 ## Bedrijfsstructuur
 
-De gebruiker kan via een boom hiërarchie indeling, bronnen op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+De gebruiker kan via een boomhiërarchie indeling, bronnen op een __ouders en kinderen__ relatie indelen. Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
 
 
-__Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boom hiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
+__Bijvoorbeeld:__ Een 'bedrijf' staat bovenaan boomhiërarchie. Onder het moederbedrijf kan je de sub-bedrijven hangen. 
 
 De onderzoeksjournalist heeft hier behoefte aan, dit blijkt uit het journalistiekonderzoek: ['Verblind door een cybercharlatan'](https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton) (__FTM account nodig om te bekijken__), waarin de volgende afbeelding is gebruikt:
 
@@ -56,16 +56,16 @@ Voorbeeld tabel layout
 
 
 
-Voorbeeld van een boom hiërarchie layout:
+Voorbeeld van een boomhiërarchie layout:
 
 ![Hierarchy Task Analysis](content/hta.png)
 
 
 
-[Meer voorbeelden van een `boom hiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=CPIIXZb-GYaRmwXg6ZXwCQ&q=boom+hi%C3%ABrarchie+data&oq=boom+hi%C3%ABrarchie+data&gs_l=img.3...6287.6287..6648...0.0..0.42.42.1......0....2j1..gws-wiz-img.Iv0y6k-_MpY)
+[Meer voorbeelden van een `boomhiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=CPIIXZb-GYaRmwXg6ZXwCQ&q=boom+hi%C3%ABrarchie+data&oq=boom+hi%C3%ABrarchie+data&gs_l=img.3...6287.6287..6648...0.0..0.42.42.1......0....2j1..gws-wiz-img.Iv0y6k-_MpY)
 
 
-De meerwaardes: `Boom hiërarchie`
+De meerwaardes: `Boomhiërarchie`
 * Onderdelen kunnen onder elkaar worden geschoven. Bijvoorbeeld een persoon kan onder een organisatie worden geschoven. Dit kan ook andersom gedaan worden.
 * Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zit niet zoals bij een grid vast aan kolommen.
 

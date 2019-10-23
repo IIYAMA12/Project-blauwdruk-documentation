@@ -5,7 +5,7 @@
   * Op de redactie (kantoor)
   * Onderweg (in de trein of bus)
   * Op een flex-werkplek
-* Waar bevind de onderzoeksjournalist zijn data online? 
+* Waar bevindt de data van de onderzoeksjournalist zich? 
   * CMS (www.ftm.nl)
   * Cloud service
     * Google docs

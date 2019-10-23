@@ -193,7 +193,7 @@ Hoofdstuknaam: Hypothese
 
 > Een probleem is een gebeurtenis die om verandering (verbetering) schreeuwt.
 
-Mooie definitie!
+@Jorik: Een mooie definitie!
 
 (Sengers & Hunter, 2017, p. 23)
 

@@ -10,7 +10,7 @@ __Met behulp van (die hier onder aanbod komen):__
 
 ## Informatiestructuur
 
-De informatiestructuur van het bijbehorende concept: boom hiërarchie
+De informatiestructuur van het bijbehorende concept: boomhiërarchie
 
 * Boom / root
   * Bron 1
