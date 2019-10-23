@@ -24,7 +24,7 @@ Gebruikerstest test met [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-de
 
 > Wat als je meer dan 100 bronnen en documenten hebt op dit scherm?
 
-> Is de volgorde van de bronnen en documenten op alphabetische volgorde?
+> Is de volgorde van de bronnen en documenten op alfabetische volgorde?
 
 #### Verbanden
 
@@ -41,7 +41,7 @@ De tekst in de knop is niet duidelijk. De tekst had eigenlijk moeten zijn: __"Ga
 
 #### Onderzoeksvragen
 
-> Ik zie hier nog niet het meerwaarde van in.
+> Ik zie hier nog niet de meerwaarde van in.
 
 
 ### Observatie

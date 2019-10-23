@@ -3,7 +3,10 @@
 
 Onderzoeksvragen spelen een belangrijke rol in het onderzoeksproces van de onderzoeksjournalist. Deze vragen hebben als functie om op zoek te gaan naar verborgen informatie en er achter  komen wat er nu eigenlijk echt aan de hand is.
 
-Bij sommige betrokkenen in het journalistieke onderzoek kunnen dezelfde vragen gesteld worden. Vaak zijn deze betrokkenen gekoppeld aan een organisatie of delen ze dezelfde belangen. Kom je betrokkenen tegen die dezelfde belangen hebben, een zelfde soort functie heeft of bij een zelfde soort organisatie werkt, dan kan je de onderzoeksvragen opnieuw stellen.
+Bij sommige betrokkenen in het journalistieke onderzoek kunnen dezelfde vragen gesteld worden. Vaak zijn deze betrokkenen gekoppeld aan een organisatie of delen ze dezelfde belangen. Kom je betrokkenen tegen die dezelfde belangen hebben, een zelfde soort functie hebben of bij eenzelfde soort organisatie werken, dan kan je de onderzoeksvragen opnieuw stellen.
+
+
+
 
 ## Doelen
 * Automatisch antwoorden samenvoegen, om beter samen te vatten en conclusies te trekken

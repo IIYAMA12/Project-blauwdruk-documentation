@@ -4,7 +4,7 @@ Tijdens het ontwerpen van deze gebruikersinterface om verbanden vast te leggen, 
 
 > Mag de gebruiker naast verbanden trekken tussen gebeurtenissen, ook verbanden trekken tussen bronnen of documenten?
 
-Om deze te beantwoorden ben ik gaan kijken of dit nuttig is en of het misschien te veel vrijheid bied.
+Om deze te beantwoorden ben ik gaan kijken of dit nuttig is en of het misschien te veel vrijheid biedt.
 
 Voor nu houd ik er rekening mee met het idee dat niet alleen gebeurtenissen kunnen zijn, maar het zou ook een verband kunnen zijn tussen een bron en een gebeurtenis. Dit zorgt even voor wat meer vrijheid binnen het iteratieproces.
 

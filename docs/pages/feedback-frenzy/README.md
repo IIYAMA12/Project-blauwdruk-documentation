@@ -1,6 +1,6 @@
 # Feedback Frenzy
 
-De Feedback Frenzy is een presentatiemoment waar je het concept en je eerste ontwerp presenteert. Het publiek bestaat uit afstudeerders die in hetzelf traject zitten en de afstudeerbegeleiders. Dit moment is bedoelt om feedback te vergaren voor en door studenten, om zo van elkaar te leren en elkaar verder te helpen.
+De Feedback Frenzy is een presentatiemoment waar je het concept en je eerste ontwerp presenteert. Het publiek bestaat uit afstudeerders die in hetzelfde traject zitten en de afstudeerbegeleiders. Dit moment is bedoeld om feedback te vergaren voor en door studenten, om zo van elkaar te leren en elkaar verder te helpen.
 
 
 

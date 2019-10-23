@@ -21,7 +21,7 @@ Google. (z.d.-c). Facepalm. Geraadpleegd op 8 oktober 2019, van https://www.goog
 
 
 ## Is een tweede ontwerp nodig?
-Het bouwen van een product die alle behoeftes van alle gebruikers vervuld is een lastige opgave. Dit wordt nog lastiger wanneer het product twee verschillende soorten rollen gaat spelen. Namelijk het invoeren van informatie, de informatie weergeven en daarbovenop moet het ook nog eens de informatie doorzoekbaar maken.
+Het bouwen van een product die alle behoeftes van alle gebruikers vervult is een lastige opgave. Dit wordt nog lastiger wanneer het product twee verschillende soorten rollen gaat spelen. Namelijk het invoeren van informatie, de informatie weergeven en daarbovenop moet het ook nog eens de informatie doorzoekbaar maken.
 
 Wanneer je deze rollen vanaf het begin van de productontwikkeling gaat bundelen in 1 product wordt het een rommeltje. Te veel interactie-elementen op hetzelfde scherm, moeilijke keuzes maken welke elementen moeten blijven en het is lastig om de beste gebruikersflow te vinden.
 
@@ -41,11 +41,11 @@ __Vanuit de design challenge gaat het ontwerp `invoeren van onderzoeksdata` zorg
 
 * `Aanvulbaarheid`
 
-Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar en ook om het project af te kaderen. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekend natuurlijk niet dat je er niet gezamenlijk met 1 computer aan kan werken.
+Dit product is voor veiligheidsoverwegingen alleen offline beschikbaar en ook om het project af te kaderen. Samenwerken met meerdere computers valt momenteel nog buiten het kader van het project. Dit betekent natuurlijk niet dat je er niet gezamenlijk met 1 computer aan kan werken.
 
 
 ## Het tweede ontwerp: visuele weergave
-Het tweede ontwerp gaat over de visuele weergave van de ingevoerd informatie. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
+Het tweede ontwerp gaat over de visuele weergave van de ingevoerde informatie. Het ontwerp dat de onderzoeksjournalist de mogelijkheid bied om de informatie te bekijken, te doorzoeken en ook om te delen met collega's.
 
 ### Probleem en oplossing
 Via het eerste ontwerp is de ingevoerde informatie nu gestructureerd, maar nog steeds niet doorzoekbaar. Het tweede ontwerp is bedoeld om de gestructureerde informatie op een logische manier weer te geven en doorzoekbaar te maken.
@@ -56,12 +56,12 @@ __Vanuit de design challenge zorgt dit ontwerp voor:__
 
 * `Transparantie`
 * `Toegankelijkheid`
-* Kan helpen met `reproceerbaarheid`, maar de onderzoeksjournalist moet dit nog steeds zelf doen.
+* Kan helpen met `reproduceerbaarheid`, maar de onderzoeksjournalist moet dit nog steeds zelf doen.
 
 
 
 ## Focus op het tweede ontwerp: Visuele weergave
-Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij van belang dat ik keuzes maak welke ontwerp ik het verste uitwerk. De keuze die ik gemaakt heb, is het ontwerp de `visuele weergave van de onderzoeksdata` geworden. De belangrijkste reden achter deze keuze, aannamen: Je kan de frictie / drempel van het `invoergedeelte` zo laag mogelijk maken door slimmen oplossingen te verzinnen, maar als de __meerwaarde__ van de `Visuele weergave` niet een veelvoud van het `invoergedeelte` is, dan is de drempel nogsteeds te hoog om het daadwerkelijk te gaan gebruiken.
+Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij van belang dat ik keuzes maak welke ontwerp ik het verste uitwerk. De keuze die ik gemaakt heb, is het ontwerp de `visuele weergave van de onderzoeksdata` geworden. De belangrijkste reden achter deze keuze, aannamen: Je kan de frictie / drempel van het `invoergedeelte` zo laag mogelijk maken door slimme oplossingen te verzinnen, maar als de __meerwaarde__ van de `Visuele weergave` niet een veelvoud van het `invoergedeelte` is, dan is de drempel nog steeds te hoog om het daadwerkelijk te gaan gebruiken.
 
 
 ## Startdatums ontwerpen

@@ -87,8 +87,8 @@ Note: In de presentatie is de navigatie verstopt aan de ***linkerkant*** van het
 
 Uitgevoerd door de: groep
 * Als een onderzoeksjournalist zijn onderzoek op een hoog structuur niveau wil uitvoeren via de Google apps is de kans groot dat hij of zij te veel browser tabs open zal hebben. 
-* Structuur aanbrengen kost tijd en deze tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grootte van het onderzoek. De drempel verschild wel per onderzoeksjournalist, er is geen standaard voor.
-* De tijdslijn werkt goed als methode om structuur te geven aan een onderzoek. Maar niet elke onderzoek leent zich daarvoor.
+* Structuur aanbrengen kost tijd en deze tijd zal zich alleen terugwinnen wanneer je de informatie op een later moment weer gaat ophalen. De onderzoeksjournalist maakt de keuze hoe gestructureerd hij of zij dit wil gaan doen aan de hand van het grootte van het onderzoek. De drempel verschilt wel per onderzoeksjournalist, er is geen standaard voor.
+* De tijdslijn werkt goed als methode om structuur te geven aan een onderzoek. Maar niet elk onderzoek leent zich daarvoor.
 * Koppelingen naar (onderzoeks)rapporten zijn relevant.
 * Het uitschrijven van alle onderzoeksvragen geeft structuur. Deze zijn van belang wanneer er wederhoor plaats moet vinden.
 * Het markeren van tekst is een manier voor onderzoeksjournalisten om hiërarchie te creëren.
@@ -96,7 +96,7 @@ Uitgevoerd door de: groep
 * Screenshot van rapport/document wordt als relevant beschouwd.
 * De tools Evernote en Onenote worden door sommige voor documentatie gebruikt
 * Als je een blauwdruk gaat bekijken vanuit een onderzoeksjournalist
-  1. Moet je eerst het opbouw begrijpen
+  1. Moet je eerst de opbouw begrijpen
   2. Daarna pas kan je de data gaan bekijken en begrijpen
 * Volgens de onderzoeksjournalist zal een blauwdruk alleen zijn functie kunnen vervullen wanneer deze op een adviserende manier informatie probeert over te brengen. 
 * Verbanden tussen bijvoorbeeld organisaties en personen kunnen relevant zijn.
@@ -142,10 +142,9 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 >   * Zo dichtbij mogelijk
 >   * Informeel
 >   * Off the record
-> * = in beeld krijgen
 > 2. Googlen (zoeken) op rapporten/onderzoeken + screenen
->   * Wie uitgegeven voor samenvatting
->   * = quotes
+>   * De mensen/organisaties die een rapport hebben uitgegeven (samengevat)
+>   * In de vorm van quotes.
 > 3. In een word bestand zet ik de links
 >   * De namen
 >   * De samenvattingen

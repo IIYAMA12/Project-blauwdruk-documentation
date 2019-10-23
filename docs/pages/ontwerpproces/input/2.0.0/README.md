@@ -57,7 +57,7 @@ De tijd van een tijdlijn omdraaien is een belangrijke functionaliteit. Als je de
 
 
 #### + GEBEURTENIS
-Voeg een nieuwe gebeurtenis toe aan de tijdlijn. Deze word toegevoegd op de plek waar je momenteel staat in de tijdlijn, ook al heb je nog geen tijd ingesteld. De gebeurtenis krijgt een tijd toegekent die precies tussen de gebeurtenissen op het scherm in valt.
+Voeg een nieuwe gebeurtenis toe aan de tijdlijn. Deze word toegevoegd op de plek waar je momenteel staat in de tijdlijn, ook al heb je nog geen tijd ingesteld. De gebeurtenis krijgt een tijd toegekend die precies tussen de gebeurtenissen op het scherm in valt.
 
 __Gebeurtenissen zichtbaar op het scherm:__
 * Datum 12-9-2019
@@ -72,11 +72,11 @@ Deze gegenereerde datum wordt alleen als placeholder gebruikt voor gebruiksvrien
 
 #### Nieuw verbanden web
 
-Aan de rechterkant van de gebruikersinterface zijn rode circles zichtbaar met een plusteken erbij. Een label met de tekst 'Nieuw verbanden web' staat er naast. Deze functie kan je gebruiken om snel een verbanden web te maken vanaf deze gebeurtenis. Wanneer je daarop klikt zal je naar de pagina verbanden gaan, een nieuw 'verbanden web' wordt aangemaakt en het eerst volgende verband zal beginnen met de gebeurtenis waar de voegtoe knop (rode circle) aanvast zat.
+Aan de rechterkant van de gebruikersinterface zijn rode cirkels zichtbaar met een plusteken erbij. Een label met de tekst 'Nieuw verbanden web' staat er naast. Deze functie kan je gebruiken om snel een verbanden web te maken vanaf deze gebeurtenis. Wanneer je daarop klikt zal je naar de pagina verbanden gaan, een nieuw 'verbanden web' wordt aangemaakt en het eerst volgende verband zal beginnen met de gebeurtenis waar de voegtoe knop (rode cirkel) aanvast zat.
 
-De verbanden die toegevoegd zijn worden automaties zichtbaar in de tijdlijn.
+De verbanden die toegevoegd zijn worden automatisch zichtbaar in de tijdlijn.
 
-Nog onduidelijk wat een verband inhouden? Lees verder bij het hoofdstuk verbanden iets verder hieronder.
+Nog onduidelijk wat een verband inhoudt? Lees verder bij het hoofdstuk verbanden iets verder hieronder.
 
 
 #### Koppelingen
