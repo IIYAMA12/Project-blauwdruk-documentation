@@ -128,6 +128,9 @@
 		* [Invoeren van onderzoeksdata input_v2_1_0](pages/ontwerpproces/input/README.md)
 			* [Ontwerp input_v2_1_0]()
 			* [Prototype input_v2_1_0](pages/ontwerpproces/input/2.0.0/prototype.md)
+		* [Visuele weergave output_v1_2_0]()
+			* [Ontwerp output_v1_2_0](pages/ontwerpproces/output/1.2.0/README.md)
+			* [Prototype output_v1_2_0](pages/ontwerpproces/output/1.2.0/prototype.md)
 		<!-- * [Beantwoording resterende onderzoeksvragen](onderzoeksvragen/beantwoording-resterende-onderzoeksvragen/README.md) -->
 	* [Aanbevelingen](pages/aanbevelingen/README.md)
 		<!-- * [Andere data](pages/data-lijst/other/README.md) -->
