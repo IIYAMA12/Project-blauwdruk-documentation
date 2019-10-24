@@ -1,14 +1,16 @@
 
 
 
-## Aanpassingen ten opzichte van 1.1.0
+## Aanpassingen ten opzichte van output_1.1.0
 
 
 ## Tijdlijn met verbanden
 
-![Tijdlijn + verbanden | v1.1.0](content/timeline-connections-before.png)
+![Tijdlijn + verbanden | output_v1.1.0](content/timeline-connections-before.png)
 
-![Tijdlijn + verbanden | v1.2.0](content/timeline-connections-after.png)
+In de versie output_1.1.0 mist nog de verbanden weergave naast de tijdlijn. Deze heb ik in output_1.2.0 toegevoegd.
+
+![Tijdlijn + verbanden | output_v1.2.0](content/timeline-connections-after.png)
 
 Dit geeft de onderzoeksjournalist direct inzicht in de verbanden tussen de gebeurtenissen. Dit is ook af te lezen in de verbanden sectie, maar daar is elk verbanden-web apart zichtbaar. Juist op de tijdlijn kan je deze parallel tonen.
 
