@@ -12,7 +12,7 @@ In de versie output_1.1.0 mist nog de verbanden weergave naast de tijdlijn. Deze
 
 ![Tijdlijn + verbanden | output_v1.2.0](content/timeline-connections-after.png)
 
-Dit geeft de onderzoeksjournalist direct inzicht in de verbanden tussen de gebeurtenissen. Dit is ook af te lezen in de verbanden sectie, maar daar is elk verbanden-web apart zichtbaar. Juist op de tijdlijn kan je deze parallel tonen.
+Dit geeft de onderzoeksjournalist direct inzicht in de verbanden tussen de gebeurtenissen. Dit is ook af te lezen in de verbanden sectie, maar daar is elk verbanden-web apart zichtbaar. Juist in de tijdlijn sectie kan je deze parallel tonen.
 
 Verbanden-web: Verbanden die bij elkaar horen.
 
