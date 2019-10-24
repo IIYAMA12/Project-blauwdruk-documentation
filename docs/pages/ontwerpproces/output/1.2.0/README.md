@@ -4,7 +4,7 @@
 ## Aanpassingen ten opzichte van output_1.1.0
 
 
-## Tijdlijn met verbanden
+### Tijdlijn met verbanden
 
 ![Tijdlijn + verbanden | output_v1.1.0](content/timeline-connections-before.png)
 
@@ -17,7 +17,7 @@ Dit geeft de onderzoeksjournalist direct inzicht in de verbanden tussen de gebeu
 Verbanden-web: Verbanden die bij elkaar horen.
 
 
-## Onderzoeksvraag
+### Onderzoeksvraag
 
 ![Onderzoeksvraag | v1.1.0](content/research-questions-before.png)
 
