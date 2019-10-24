@@ -1,6 +1,6 @@
 # Aanleiding
 
-De aanleiding vanuit het bedrijf Follow the Money heeft geresulteerd in een uitdagende stageopdracht. Dit is ook het bedrijf waarbij ik het afgelopen halfjaar stage heb gelopen. Tijdens de stage heb ik samen met Follow the Money gekeken naar mogelijke projecten die ik als afstudeerproject zou kunnen uitvoeren. Hiervan vind ik het zogenoemde `blauwdruk-project` de meest interessante opdracht. Over de oorsprong van het project en de naam daarvan kan je hieronder lezen.
+De aanleiding vanuit het bedrijf Follow the Money heeft geresulteerd in een uitdagende stageopdracht. Follow the Money is ook het bedrijf waarbij ik het afgelopen halfjaar stage heb gelopen. Tijdens de stage heb ik samen met Follow the Money gekeken naar mogelijke projecten die ik als afstudeerproject zou kunnen uitvoeren. Hiervan vind ik het zogenoemde `blauwdruk-project` de meest interessante opdracht. Over de oorsprong van het project en de naam daarvan kan je hieronder lezen.
 
 
 
@@ -18,7 +18,7 @@ Dit project heeft als hoofddoel om de onderzoeksjournalist te helpen met het rep
 
 
 
-__Bijvoorbeeld: (context | onderwerp zorg)__
+__Bijvoorbeeld: (onderwerp zorg)__
 
 1. Een zorgbedrijf heeft fraude gepleegd met zorggeld via een bepaalde constructie. De onderzoeksjournalist heeft hier onderzoek naar gedaan en heeft ontdekt hoe dit in zijn werk gaat.
 2. Een tweede zorgbedrijf komt in beeld omdat er een te grote winst is behaald. Onduidelijk is hoe deze winst is behaald.
@@ -30,9 +30,9 @@ Momenteel zijn een aantal onderzoeksjournalisten bezig met een case waarbij repr
 
 
 
-__Bijvoorbeeld: (context | locatie)__
+__Bijvoorbeeld: (locatie)__
 
-Een onderzoek naar bodemvervuiling in Groningen kan via het product van dit project ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek. Je weet welke verschillende betrokkenen en belanghebbenden er in voorkomen.
+Een onderzoek naar bodemvervuiling in Groningen kan via het product van dit project ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek. Je weet welke verschillende betrokkenen en belanghebbenden erin voorkomen.
 
 Ook is bekend welke betrokkenen er benadeeld zijn door de 'boosdoenders'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden. De ‘boosdoender’ kan het grondbedrijf zijn die vervuilde grond levert.
 
@@ -42,7 +42,7 @@ Ook is bekend welke betrokkenen er benadeeld zijn door de 'boosdoenders'.  ‘Bo
 * Benadeelde: Bewoners
 
 
-Het product van dit project kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naar boven komen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terug kijken welke belangen hier speelden en deze valideren met de betrokkenen. 
+Het product van dit project kan helpen om de belangen van het betrokkenen te noteren die uit het onderzoek van Groningen naar boven komen. Bij het onderzoek in Amsterdam kan de onderzoeksjournalist terugkijken welke belangen hier speelden en deze valideren met de betrokkenen. 
 
 
 __Termen:__
