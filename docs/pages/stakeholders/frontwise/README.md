@@ -7,6 +7,6 @@ Frontwise is een designbureau dat zich bezighoudt met elk aspect van het ontwikk
   * Geheugenlek (Geen geheugen meer over)
   * Applicatie crash
   * Toegang verschaffen tot informatie van andere applicaties
-  * Netwerk overflow (Geen network bandwidth meer over)
+  * Netwerk overflow (Geen network bandbreedte meer over)
 
 [www.frontwise.com](https://www.frontwise.com/)
