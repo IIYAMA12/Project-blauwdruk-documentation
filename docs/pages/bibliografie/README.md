@@ -12,7 +12,7 @@ Finne, A. \(2005\). Blueprint for general quality attribute model. InProceedings
 
 Saffer, D. \(2013\). Microinteractions \[Boek\]. Geraadpleegd op 29 maart 2019. 
 
-* Aan te schaffen via: [https://www.bol.com/nl/f/microinteractions/9200000013570420/](https://www.bol.com/nl/f/microinteractions/9200000013570420/)
+Google. (z.d.-d). Chips. Geraadpleegd op 10 oktober 2019, van https://material.io/components/chips/#input-chips
 
 
 ## Eco systemen voor versies controle
@@ -23,7 +23,6 @@ Van der Maas, J. C. \(2016, 17 februari\). Evolution of Collaboration in Open So
 
 Wong, D. \(2013\). The Wall Street Journal Guide to Information Graphics \[Boek\]. Geraadpleegd op 20 maart 2019.
 
-* Aan te schaffen via: [https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/](https://www.bol.com/nl/p/the-wall-street-journal-guide-to-information-graphics/9200000011351891/)
 
 ## Onderzoek bewijzen
 
@@ -49,8 +48,6 @@ Chen, Gina Masullo, Curry, Alex, & Whipple, Kelsey.\(2019, February\). Building 
 
 
 Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd op 23 mei 2019.
-
-* Metagegevens van het boek: [https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630](https://literatuurplein.nl/detail/boek/het-verborgen-scenario/1391630)
 
 Buro Jansen & Janssen. (2004, 23 november). enkeleprocessenverbalendenhaag [Document]. Geraadpleegd op 10 oktober 2019, van https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf
 

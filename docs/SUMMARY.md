@@ -99,7 +99,7 @@
 			* [Prototype output_v1_1_0](pages/ontwerpproces/output/1.1.0/prototype.md)
 		* [Persona](pages/research_methods/persona/README.md)
 		* [Datalijsten van de producten](pages/data-lijst/README.md)
-			* [Algemene data](pages/data-lijst/general-information/README.md)
+			* [Algemene informatie](pages/data-lijst/general-information/README.md)
 			* [Bronnen](pages/data-lijst/sources/README.md)
 			* [Documenten](pages/data-lijst/documents/README.md)
 			* [Verbanden](pages/data-lijst/connections/README.md)
