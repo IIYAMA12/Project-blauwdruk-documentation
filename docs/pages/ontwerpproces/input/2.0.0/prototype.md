@@ -24,7 +24,7 @@ Bevindingen verzamelen voor een visie van het ontwerp.
 
 ### Bevindingen en aanbeveling
 
-__Bevinding:__ Verbeteren van de definitie van het werkgebied: Bronnen
+__Bevinding:__ Verbeteren van de beschrijving van het werkgebied: Bronnen
 
 __Aanbeveling:__ Definiëren van het soort bron, dat bij bronnen ingevuld moeten worden. (In de beschrijving van het werkgebied)
 
@@ -62,7 +62,7 @@ __Aanbeveling:__ De informatietype 'bevindingen' in de plaats van conclusies zou
 
 __Bevinding:__ Omvangstatus, deze toont met bijvoorbeeld een visualisatie in hoeverre de informatie is ingevuld.
 
-__Aanbeveling:__ Dit kan nuttig zijn wanneer wanneer je lege onderdelen toevoegt in het product, maar vergeet om deze in te vullen.
+__Aanbeveling:__ Dit kan nuttig zijn wanneer wanneer je lege onderdelen toevoegt in het product.
 
 
 ---
@@ -81,7 +81,7 @@ __Aanbeveling:__ Dit kan nuttig zijn, maar eerste moet het gebruik van deze expe
 <br>
 ---
 
-__Bevinding:__ De onderzoeksvragen zijn niet inklapbaar.
+__Bevinding:__ De onderzoeksvragen zijn niet inklapbaar. (Meer en minder details te tonen)
 
 __Aanbeveling:__ Om consistent te zijn zouden deze ook inklapbaar moeten zijn, net als de bronnen en documenten.
 
