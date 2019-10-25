@@ -94,6 +94,7 @@
 		* [Product benaming](pages/product-benaming/README.md)
 		* [Invoeren van onderzoeksdata input_v2_0_0](pages/ontwerpproces/input/README.md)
 			* [Ontwerp input_v2_0_0](pages/ontwerpproces/input/2.0.0/README.md)
+			* [Prototype input_v2_0_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 		* [Visuele weergave output_v1_1_0]()
 			* [Ontwerp output_v1_1_0](pages/ontwerpproces/output/1.1.0/README.md)
 			* [Prototype output_v1_1_0](pages/ontwerpproces/output/1.1.0/prototype.md)
