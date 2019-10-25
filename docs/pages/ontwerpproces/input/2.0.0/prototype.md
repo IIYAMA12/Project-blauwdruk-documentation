@@ -29,6 +29,10 @@ __Bevinding:__ Verbeteren van de definitie van het werkgebied: Bronnen
 __Aanbeveling:__ Definiëren van het soort bron, dat bij bronnen ingevuld moeten worden. (In de beschrijving van het werkgebied)
 
 
+
+---
+<br>
+<br>
 ---
 
 
@@ -38,6 +42,9 @@ __Aanbeveling:__ Voeg een extra beschrijving toe wat deze stijlen inhouden.
 
 
 ---
+<br>
+<br>
+---
 
 
 __Bevinding:__ Nieuw informatietype.
@@ -46,6 +53,9 @@ __Aanbeveling:__ De informatietype 'bevindingen' in de plaats van conclusies zou
 
 
 ---
+<br>
+<br>
+---
 
 __Bevinding:__ Omvangstatus, deze toont met bijvoorbeeld een visualisatie in hoeverre de informatie is ingevuld.
 
@@ -53,11 +63,17 @@ __Aanbeveling:__ Dit kan nuttig zijn wanneer wanneer je lege onderdelen toevoegt
 
 
 ---
+<br>
+<br>
+---
 
 __Bevinding:__ Verbanden sorteren op type relatiesoort.
 
 __Aanbeveling:__ Dit kan nuttig zijn, maar eerste moet het gebruik van deze experimentele feature onderzocht worden.
 
+---
+<br>
+<br>
 ---
 
 __Bevinding:__ De onderzoeksvragen zijn niet inklapbaar.
