@@ -111,7 +111,6 @@
 		* [Visuele weergave output_v1_2_0]()
 			* [Ontwerp output_v1_2_0](pages/ontwerpproces/output/1.2.0/README.md)
 			* [Prototype output_v1_2_0](pages/ontwerpproces/output/1.2.0/prototype.md)
-	* [Aanbevelingen](pages/aanbevelingen/README.md)
 	* [Ethiek](pages/ethiek/README.md)
 	* [Stijlgids](pages/stijlgids/README.md)
 	* [Bibliografie](pages/bibliografie/README.md)
