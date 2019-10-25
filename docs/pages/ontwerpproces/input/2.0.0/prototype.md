@@ -1,4 +1,4 @@
-![Overzicht](content/onderzicht.jpg)
+![Overzicht](content/overzicht.jpg)
 
 
 ## Gebruikerstest
@@ -11,7 +11,7 @@ __Uitgevoerd met:__
 
 
 ### Doel
-Bevindingen verzamelen voor een toekomstige visie van het ontwerp.
+Bevindingen verzamelen voor een visie van het ontwerp.
 
 ### Paper prototype
 
@@ -44,6 +44,7 @@ __Aanbeveling:__ Voeg een extra beschrijving toe wat deze stijlen inhouden.
 
 ---
 <br>
+<p>-</p>
 <br>
 ---
 
@@ -55,6 +56,7 @@ __Aanbeveling:__ De informatietype 'bevindingen' in de plaats van conclusies zou
 
 ---
 <br>
+<p>-</p>
 <br>
 ---
 
@@ -65,6 +67,7 @@ __Aanbeveling:__ Dit kan nuttig zijn wanneer wanneer je lege onderdelen toevoegt
 
 ---
 <br>
+<p>-</p>
 <br>
 ---
 
@@ -74,6 +77,7 @@ __Aanbeveling:__ Dit kan nuttig zijn, maar eerste moet het gebruik van deze expe
 
 ---
 <br>
+<p>-</p>
 <br>
 ---
 
