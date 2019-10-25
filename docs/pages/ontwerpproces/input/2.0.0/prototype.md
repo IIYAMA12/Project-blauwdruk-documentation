@@ -1,4 +1,4 @@
-![Overzicht](content/20191015_115018(0).jpg)
+![Overzicht](content/onderzicht.jpg)
 
 
 ## Gebruikerstest
@@ -32,7 +32,7 @@ __Aanbeveling:__ Definiëren van het soort bron, dat bij bronnen ingevuld moeten
 
 ---
 <br>
-<p></p>
+<p>-</p>
 <br>
 ---
 
