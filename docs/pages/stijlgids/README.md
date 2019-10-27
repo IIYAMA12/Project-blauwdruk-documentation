@@ -4,8 +4,8 @@ Inbegrepen
 - [x] Kleurgebruik
 - [x] Logo en beeldmerk
 - [x] Lettertype
-- [ ] Fontgebruik (70%)
-- [ ] Interactie elementen (10%)
+- [x] Fontgebruik
+- [x] Interactie elementen
 
 
 ![Kleurgebruik](content/stijlgids.png)
@@ -16,4 +16,11 @@ Inbegrepen
 
 ![Fontgebruik](content/stijlgids4.png)
 
-![Interactie elementen](content/stijlgids5.png)
+![Call to action en select item](content/stijlgids5.png)
+
+![Gekoppelde onderdelen](content/stijlgids6.png)
+
+![Grid onderdelen en Toon meer of minder knop](content/stijlgids8.png)
+
+
+![Ga naar content](content/stijlgids9.png)
