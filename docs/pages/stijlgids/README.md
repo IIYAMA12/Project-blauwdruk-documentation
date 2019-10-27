@@ -8,7 +8,7 @@ Inbegrepen
 - [x] Interactie elementen
 
 
-![Kleurgebruik](content/stijlgids.png)
+![Kleurgebruik](content/stijlgids1.png)
 
 ![Beeldmerk + logo](content/stijlgids2.png)
 
