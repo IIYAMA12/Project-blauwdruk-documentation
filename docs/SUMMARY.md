@@ -4,12 +4,12 @@
 ### Inleiding
 
 * [Overzichtspagina](README.md)
+* [Begrippenlijst](GLOSSARY.md)
 
 ### Wens en context
 
 * [Aanleiding](pages/aanleiding/README.md)
 * [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
-* [Begrippenlijst](GLOSSARY.md)
 * [Stakeholders](pages/stakeholders/README.md)
 	* [Follow the Money](pages/stakeholders/follow_the_money/README.md)
 	* [Follow the Money lezer](pages/stakeholders/follow_the_money_lezer/README.md)
@@ -128,6 +128,11 @@
 	* [Verbanden](pages/data-lijst/connections/README.md)
 	* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
 	* [Gebeurtenissen](pages/data-lijst/events/README.md)
+
+### Afronden
+* [Aanbevelingen](/pages/aanbevelingen/README.md)
+* [Conclusie](/pages/conclusie/README.md)
+* [Reflectie](/pages/reflectie/README.md)
 
 ### Overige
 * [Bibliografie](pages/bibliografie/README.md)
