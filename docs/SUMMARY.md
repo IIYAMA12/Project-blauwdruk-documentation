@@ -1,10 +1,11 @@
 # Table of contents
 
 
-### Heading 1
+### Inleiding
+
 * [Overzichtspagina](README.md)
 
-### Heading 2
+### Onderzoek
 
 * [Aanleiding](pages/aanleiding/README.md)
 * [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
@@ -19,9 +20,6 @@
 	* [Bronnen](pages/stakeholders/bronnen/README.md)
 	* [Redacteur](pages/stakeholders/redacteur/README.md)
 	* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
-
-### Heading 3
-
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
@@ -35,6 +33,9 @@
 	* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
 	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
+
+### Concept en ontwerp
+
 * [Ontwerpproces](pages/ontwerpproces/README.md)
 	* [Startpunt](pages/ontwerpproces/start-point.md)
 	* [Invoeren van onderzoeksdata v1_0_0 t/m v1_1_0](pages/ontwerpproces/input/README.md)
@@ -123,6 +124,9 @@
 * [Ethiek](pages/ethiek/README.md)
 * [Stijlgids](pages/stijlgids/README.md)
 * [Bibliografie](pages/bibliografie/README.md)
+
+### Overige
+
 * [Alle concepten](pages/concepten/README.md)
 	* [Vragenlijst entiteit](pages/concepten/vragenlijst-duplicatie/README.md)
 	* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
