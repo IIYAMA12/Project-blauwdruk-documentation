@@ -37,6 +37,8 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 ### Validatie
 * De gebruiker is bewust waar elke informatietype voor staat. Bij een aantal onderdelen is het wel noodzakelijk dat de beschrijving wordt gelezen.
 * De gebruiker vind de feature automatisch opslaan een toegevoegde waarde voor het invullen van de gegevens.
+* De gebruiker slaagde er in om bij elke informatietype informatie neer te schrijven. 
+* De gebruiker geeft aan dit product wel te willen gebruiken als tool om het onderzoek in te documenteren.
 
 ### Bevindingen en aanbeveling
 
