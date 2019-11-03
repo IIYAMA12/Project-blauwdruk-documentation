@@ -20,7 +20,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 2. Laat ook het prototype "Visuele weergave" zien, om het idee te geven wat de uitkomst is van zijn input.
 3. Vraag aan de participant om het onderzoek waarmee hij of zij nu bezig is te gebruiken in de gebruikerstest. (Het onderzoek hoeft er niet fysiek bij gepakt te worden)
 
-##### Tijdens de test
+#### Tijdens de test
 * Geef de participant de instructie om zijn of haar onderzoek in te vullen in de applicatie.
 
 
