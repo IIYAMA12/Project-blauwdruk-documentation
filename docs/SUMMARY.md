@@ -5,7 +5,7 @@
 
 * [Overzichtspagina](README.md)
 
-### Onderzoek
+### Probleem en context
 
 * [Aanleiding](pages/aanleiding/README.md)
 * [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
@@ -22,6 +22,9 @@
 	* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
+
+### Onderzoek
+
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 * [Vooronderzoek]()
 	* [Interview werkwijze Journalist](pages/research_methods/interview/onderzoeksjournalist/werkwijze_thomas-bollen/README.md)
