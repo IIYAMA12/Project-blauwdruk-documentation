@@ -36,6 +36,7 @@
   transition: color 0.3s, background-color 0.3s;
   color: black;
   position: relative;
+  border-radius: 0px 2px 2px 2px;
 }
 
 .time-line-item__article .padding-box {

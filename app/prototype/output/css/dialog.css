@@ -79,6 +79,7 @@
 
 .dialog-container a {
   color: black;
+  color: #DD3230;
 }
 
 .dialog-container .main-content > *:last-child {
