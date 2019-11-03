@@ -21,7 +21,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 ### Testplan
 
 #### Voorbereiding
-1. Zet het prototype "Visuele weergave output_v1_2_0" klaar
+1. Zet het prototype "Visuele weergave output_v1_2" klaar
 
 #### Tijdens de test
 * Vraag de participant om door het prototype / voorbeeld onderzoek heen te bladeren.
