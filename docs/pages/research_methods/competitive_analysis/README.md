@@ -1,5 +1,7 @@
 # Competitive analysis
 
+__Datum: 6 mei__
+
 Het volgende project "Bureau Local Open Resources" was een inspiratie bron van Follow the Money om tot de volgende vraag te komen:
 [De vraag van het project](https://jorik.gitbook.io/project-blauwdruk/opdracht_vanuit_follow-the-money#de-vraag)
 

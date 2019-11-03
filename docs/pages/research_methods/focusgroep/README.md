@@ -1,5 +1,8 @@
 # Focusgroep
 
+
+__Datum: 4 jun 2019__
+
 De grootste uitdaging van dit project is om een tool te bieden die helpt om blauwdrukken te maken, maar waarbij de werkwijze van de gebruiker nog onbekend is omdat deze nog niet eerder gemaakt is door deze gebruiker. Daarom is het belangrijk om de gebruiker alvast een blauwdruk te laten maken, zodat ik kan de mogelijke werkwijze kan vastleggen en daarop in kan spelen.
 
 

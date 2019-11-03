@@ -1,5 +1,7 @@
 # Analyse tijdlijn van mira
 
+__Datum: 16 mei 2019__
+
 Een tijdlijn is een contenttype dat af en toe gebruikt wordt door onderzoeksjournalisten. Iets wat de doelgroep al kent en gebruikt zegt vaak wat over de behoefte ervan. Een belangrijke functie van een tijdlijn is dat je de opeenvolging van gebeurtenissen inzichtelijk kan maken. Daaruit kan je ook opmaken of je nog gebeurtenissen mist op basis van gaten in de tijdlijn.
 
 

@@ -1,5 +1,7 @@
 # Het Verborgen Scenario
 
+__Datum: 23 mei__
+
 Dit is een analyse van het boek `Het Verborgen Scenario`. Het lezen van dit boek werd mij aangeraden door [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal).
 
 Ik heb dit boek geanalyseerd omdat het heel helder en op een chronologische manier de onderzoeksstappen met bijbehorende onderdelen beschrijft.
@@ -165,7 +167,6 @@ In het blauwdruk zouden de belangrijke veranderingen genoteerd kunnen worden, di
 
 
 (Sengers & Hunter, 2017, p. 20)
-
 
 
 

@@ -1,5 +1,7 @@
 # SWOT analyse
 
+__Datum: 22 mei__
+
 ## S W O T
 
 * Strengths

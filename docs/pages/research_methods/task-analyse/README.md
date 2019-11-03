@@ -1,5 +1,8 @@
 # Task analyse
 
+
+__Datum: 31 mei 2019__
+
 Voor het concept wordt uitgewerkt tot een ontwerp, helpt het voor mij om eerst een taken analyse te maken, om goed de gebruikersflow the begrijpen. Je ziet dan al vrij snel dat informatie invoeren niet de bovenste laag van je ontwerp is. De bovenste laag is namelijk: 'Waarin word de ingevoerde informatie opgeslagen?'.
 
 
