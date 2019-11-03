@@ -3,7 +3,9 @@
 
 ### Heading 1
 * [Overzichtspagina](README.md)
+
 ### Heading 2
+
 * [Aanleiding](pages/aanleiding/README.md)
 * [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
 * [Begrippenlijst](GLOSSARY.md)
@@ -17,6 +19,9 @@
 	* [Bronnen](pages/stakeholders/bronnen/README.md)
 	* [Redacteur](pages/stakeholders/redacteur/README.md)
 	* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
+
+### Heading 3
+
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
