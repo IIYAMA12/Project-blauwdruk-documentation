@@ -4,7 +4,7 @@ Het volgende onderzoek onderdeel `co-creation` heb ik gebruikt om informatie te 
 
 Dit onderzoek is uitgevoerd in samenwerking met Frank Meijer.
 
-![Tot dit zijn we gekomen.](content/20190501_163150.jpg)
+![Tot dit zijn we gekomen.](content/fotos/onderzoeksanalyse-journalist-Frank zijn werkwijze.jpg)
 
 
 
