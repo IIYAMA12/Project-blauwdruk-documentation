@@ -95,21 +95,21 @@ Vanuit eigen ervaring en irritatie vanuit de eindredactie wanneer hierdoor er ei
 `Could`
 [SWOT analyse](https://jorik.gitbook.io/project-blauwdruk/research_methods/swot-analyse)
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd
 * **Het product moet helpen om reproduceerbaarheid te verbeteren**
 `Should`
 [SWOT analyse](https://jorik.gitbook.io/project-blauwdruk/research_methods/swot-analyse)
 	- [ ] toegevoegd
 * **Het product moet ervoor zorgen dat de gebruiker zich in het blauwdruk kan verdiepen op het moment dat er te veel browser tabs open staan**
 `Could`
-(case: Mocht je heel gestructureerd werken met Google web apps, dan komt het voor dat je per browser-tab een deel van het onderzoek open hebt staan)
+(case: Mocht je heel gestructureerd werken met Google webapps, dan komt het voor dat je per browser-tab een deel van het onderzoek open hebt staan)
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd (Het product kan referenteren naar Google webapps via de URL)
 * **Het product moet informatie structureren op een niveau die de gebruiker zelf aangeeft.**
 `Must`
 Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is een lager niveau van structuur meer toepassenlijk.
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd (De gebruiker hoeft niet alle informatie in te vullen)
 * **Het product moet de hiërarchie van onderdelen kunnen highlighten**
 `Could`
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
@@ -123,7 +123,8 @@ Omdat: Het kost tijd om informatie te structureren, voor kleine onderzoeken is e
    * Wel: Deze stap zou je kunnen doen.
 `Must`
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
-	- [ ] toegevoegd
+	- [x] toegevoegd (Door middel van optionele invulvelden)
+
 
 ## Aannames
 
