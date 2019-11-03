@@ -40,7 +40,7 @@ Het werd tijd om te binnen met een eisenlijst.
 ## Prototype input concept Boomhiërarchie 1.0.0 (input, paper-prototype)
 `Prototype` `Papier` `Bronnen`
 
-## Prototype input bronnen 2.0.0 (input)
+## Prototype input bronnen 2.0 (input)
 `Prototype` `Digitaal` `Bronnen`
 
 ## Focusgroep
@@ -55,5 +55,5 @@ Het werd tijd om te binnen met een eisenlijst.
 ## Feedback-frenzy
 
 
-## Prototype output 1.0.0 t/m 2.0.0
+## Prototype output 1.0.0 t/m 2.0
 `Prototype` `Digitaal`
