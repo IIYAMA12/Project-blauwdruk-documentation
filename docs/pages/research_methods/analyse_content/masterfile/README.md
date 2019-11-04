@@ -69,7 +69,7 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 
 > Master file in handen gekregen via Arjan van der Linden.
 
-## Dit neem ik mee voor het product
+## Dit neem ik mee voor het ontwerp
 * Informatietype: Gebeurtenissen 
 * Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. 
 * Datum indicatie

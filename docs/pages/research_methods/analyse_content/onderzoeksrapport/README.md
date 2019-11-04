@@ -35,3 +35,7 @@ Om de indeling van het product te bepalen is het relevant om via een ander onder
 
 
 [Beantwoording: hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)
+
+## Dit neem ik mee voor het ontwerp
+* Relevantie onderzoek
+* Onderzoekspunten
