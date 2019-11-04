@@ -38,6 +38,22 @@
 * [Vervolgonderzoek]()
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
+### Idee generatie – traject 1
+
+* [Startpunt 1.0]()
+
+### Conceptualisatie - traject 1
+
+* [Startpunt 2.0]()
+
+### Idee generatie - traject 2
+
+* [Startpunt 1.0]()
+
+### Conceptualisatie - traject 2
+
+* [Startpunt 1.1]()
+
 ### Productontwikkeling
 
 * [Startpunt](pages/ontwerpproces/start-point.md)

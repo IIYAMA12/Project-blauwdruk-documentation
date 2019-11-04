@@ -4,7 +4,14 @@ __Datum: 23 mei__
 
 Dit is een analyse van het boek `Het Verborgen Scenario`. Het lezen van dit boek werd mij aangeraden door [Arne van der Wal](https://www.ftm.nl/auteur/Arne-van-der-Wal).
 
-Ik heb dit boek geanalyseerd omdat het heel helder en op een chronologische manier de onderzoeksstappen met bijbehorende onderdelen beschrijft.
+
+Ik heb dit boek geanalyseerd om er achter te komen wat voor soort informatie belangrijk is voor de onderzoeksjournalist. In dit boek wordt heel helder beschreven wat de onderzoeksjournalist doet en hoe deze dat opschrijft.
+
+__Hier wil ik achterkomen:__
+* Informatietypes
+* Gebruik van informatie
+* Inspiratie voor concepten
+
 
 Boek: [Het Verborgen Scenario](https://drive.google.com/file/d/1bu9R-qaC-K-xpIh_r56bug9Gsl0nUdLY/view)
 
@@ -322,6 +329,38 @@ Een tijdlijn kan bijdragen aan het vertellen van het verhaal in een chronologsch
 Het blauwdruk kan uitleggen hoe er indicaties vanuit een tijdlijn tot nieuwe bevindingen hebben geleid.
 
 (Sengers & Hunter, 2017, p. 32)
+
+
+
+## Meenemen voor ontwerp
+
+__Informatietypes:__
+* Bronnen
+* Gebeurtenissen
+* Hypothese en relevantie onderzoek (eigenschap onderzoek)
+* Onderzoeksvragen
+
+### Bronnen
+Bronnen als in betrokkenen, om aan te tonen welke mensen of organisaties je onderzoek voeden van informatie.
+
+### Gebeurtenissen
+Om het verhaal op een chronologische wijze te vertellen.
+
+### Hypothese en relevantie onderzoek
+Dit zijn directe eigenschappen van het onderzoek.
+
+### Onderzoeksvragen
+Onderzoeksvragen kunnen helpen om een beter beeld te krijgen van het onderzoek wanneer deze beantw
+
+
+
+## Nog niet meenemen tot er vraag naar is
+
+__Informatietypes:__
+* Betrokkenen (inclusief bronnen)
+  * Verantwoordelijkheid
+  * Gedrag
+* Informatie die mogelijk mist
 
 
 [Beantwoording: Hoofdvraag 1.2 Wat is de werkwijze van een onderzoekjournalist? & Hoe zit een journalistieke onderzoek in elkaar?](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)

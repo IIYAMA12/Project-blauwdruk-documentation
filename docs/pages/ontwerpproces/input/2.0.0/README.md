@@ -46,12 +46,12 @@ De bronnen van de onderzoeksjournalist zijn op deze pagina te beheren. Aan elke 
 
 __Belangrijke interactie elementen op deze pagina:__
 
-* Oudeste > nieuwste
+* Oudste > nieuwste
 * + GEBEURTENIS
 * Nieuw verbandenweb
 * Koppelingen
 
-#### Oudeste > nieuwste
+#### Oudste > nieuwste
 
 De tijd van een tijdlijn omdraaien is een belangrijke functionaliteit. Als je de tijdlijn wil gebruiken om aan te vullen is het logischer om de nieuwste onderdelen boven aan te hebben. Maar wanneer je de opeenvolging van gebeurtenissen als verhaal wil beschouwen is het veel logischer om te beginnen met de oudste onderdelen.
 
