@@ -13,6 +13,12 @@ Dit is de lijst die ik tegengekomen ben:
 
 (Buro Jansen & Janssen, 2004)
 
+## Waarom deze analyse?
+Een proces-verbaal is een document om een incident te rapporteren met daarbij alle betrokkenen. Dit doet een onderzoeksjournalist in principe ook in de vorm van een journalistiek onderzoeksverhaal. Alleen het grote verschil is dat een proces-verbaal niet perse wordt geschreven worden door iemand die onderzoek doet en veel moet schrijven. Dit betekend dat een proces-verbaal veel bondiger is en gebruik maakt van bijvoorbeeld controlelijsten om dit zo efficiënt mogelijk in te vullen is. Beknopte en overdraagbare versie van een onderzoek is waar ik opzoek naar ben.
+
+
+
+
 
 ## Analyse indeling
 
@@ -122,11 +128,8 @@ Deze onderwerpen komen ook terug in een onderzoek van een onderzoeksjournalist.
 
 
 
-
-
-
-### Belangrijke punten om op te nemen
-* Het gebruik van een dossier in de informatie hiërarchie.
+## Belangrijke punten om op te nemen
+* Het gebruik van een dossier in de informatiehiërarchie.
 * Het gebruik van een voorblad om de basis informatie aan te bieden.
 * Een checklist met informatie dat voor bepaalde gebruikers niet aanwezig is, maar wel technisch gezien opgevraagd zou kunnen worden.
 * Indeling verdeling dossier.

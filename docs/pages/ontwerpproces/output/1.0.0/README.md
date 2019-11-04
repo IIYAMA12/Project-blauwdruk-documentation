@@ -19,6 +19,17 @@ __Indeling van een Proces-verbaal:__
 * Verdachte-paragraaf
 * Zaaks-paragraaf
 
+
+### Waarom deze indeling?
+Het onderzoek begint met een voorblad en algemene informatie. Dit is relevant voor het inleiden van het onderzoek voor een nieuwe lezer of voor jezelf wanneer je op een later moment terugkijkt op het onderzoek. 
+
+Het verdachte-paragraaf gaat over de betrokkenen. Deze voorzien het onderzoek betrokkenen en informatie bij het afleggen van een verklaring. Bij een journalistiek onderzoek zijn er ook bronnen betrokken, deze spelen ook een rol in het verhaal en voorzien het onderzoek van informatie. Door de bronnen eerder in te leiden dan het rest van het verhaal, weet de lezer waar de informatie van afkomstig is en hiermee bewijst hij of zij ook dat het onderzoek ergens op gebaseerd is. Een stukje transparantie nog voor je leest hoe het onderzoek in elkaar zit. Sommige bronnen geef ook al een stukje context mee waardoor je sneller begrijpt over wat voor onderwerp het gaat. Mocht er bijvoorbeeld een naam van een bank worden genoemd en dat in combinatie van de algemene informatie, dan kan je een beter beeld scheppen over de context van het verhaal.
+
+Het laatste onderdeel, de zaaks-paragraaf gaat voornamelijk over de context en hoe alle onderdelen samenkomen. Dit onderdeel vergelijkbaar met het onderzoeksverhaal waarin chronologisch alle gebeurtenissen worden aangestipt en de verbanden worden toegelicht.
+
+
+### Samenvoegen
+
 De __Voorblad__ en __Algemene Paragraaf__ heb ik samengevoegd in het ontwerp. Voorbladen voor webpagina's zijn naar mijn mening overbodig, tenzij je helemaal geen idee hebt waar je naar kijkt.
 
 
