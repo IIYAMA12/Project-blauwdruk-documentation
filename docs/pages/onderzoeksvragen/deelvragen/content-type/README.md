@@ -1,6 +1,6 @@
 
-[Om deelvraag 4.1 te beantwoorden](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen) heb ik deze lijst verzameld.
-`CONTENT TYPE`
+
+Deze lijst heb ik verzameld als checklist voor onderdelen die in het journalistieke onderzoek voorkomen. Dit maakt het eenvoudiger om uit te breiden naar een volgende iteratie wanneer er vraag is naar een bepaald onderdeel.
 
 
 ## Verzameling
@@ -113,3 +113,6 @@ Vanuit [analyse onderzoeksrapport](https://jorik.gitbook.io/project-blauwdruk/re
 Vanuit [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 Vanuit [Focusgroep #opdracht-2](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-2)
 	- [x] toegevoegd
+
+
+[Beantwoord deelvraag 4.1](https://jorik.gitbook.io/project-blauwdruk/onderzoeksvragen)
