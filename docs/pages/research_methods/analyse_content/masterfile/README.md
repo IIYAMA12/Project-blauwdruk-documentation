@@ -68,3 +68,12 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 * Sengers, L. (2010). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
 
 > Master file in handen gekregen via Arjan van der Linden.
+
+## Dit neem ik mee voor het product
+* Informatietype: Gebeurtenissen 
+* Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. 
+* Datum indicatie
+* Informatietype: Mensen (bronnen) die eigenschappen hebben
+* Informatietype: Documenten
+* Maak het niet zo ingewikkeld als deze Excel database.
+* Informatietype: Onderzoeksvragen
