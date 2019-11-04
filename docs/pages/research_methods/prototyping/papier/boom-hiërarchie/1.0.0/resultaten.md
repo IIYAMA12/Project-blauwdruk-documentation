@@ -1,4 +1,9 @@
-# Resultaten
+
+## Plan van Aanpak
+* Print prototype
+* Knip
+
+
 
 ## Gebruikerstest 1
 
