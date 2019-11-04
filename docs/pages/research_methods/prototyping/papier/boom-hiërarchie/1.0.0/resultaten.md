@@ -61,14 +61,16 @@ De informatie van deze afbeelding is onherkenbaar gemaakt vanuit een ethisch sta
 
 ## Resultaat doelen
 
-### Doel 1
+__Doel 1__
+
 > Bevestigen of deze informatiestructuur geschikt is voor broninformatie.
 
 Dit formaat is geschikt voor bronnen, de bronnen kunnen ingevuld worden. Maar er moet nog wel gekeken worden naar een aantal aspecten:
 * Informatiedichtheid. (Als er te veel bronnen zijn)
 * De ruimte aan de rechterkant van het prototype wordt niet altijd even efficiënt benut.
 
-### Doel 2
+__Doel 2__
+
 > Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
 
 De onderzoeksjournalisten hebben de informatie ingevuld. Wel met wat moeite, ze moesten namelijk wennen aan de gebruikersinterface.
