@@ -1,8 +1,4 @@
 
-## Plan van Aanpak
-* Print prototype
-* Knip
-
 
 
 ## Gebruikerstest 1
@@ -41,3 +37,9 @@ Gebruiker: [Dennis Mijnheer](https://www.ftm.nl/auteur/Dennis-Mijnheer)
 {% hint style="danger" %}
 De informatie van deze afbeelding is onherkenbaar gemaakt vanuit een ethisch standpunt omdat er geen fictieve content is ingevuld.
 {% endhint %}
+
+
+## Meenemen in een verder ontwerp
+* De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreidt.
+* URL's als eigenschappen kunnen extra ondersteuning krijgen.
+* Houdt rekening met in iedergeval 8 kernmerken per bron.
