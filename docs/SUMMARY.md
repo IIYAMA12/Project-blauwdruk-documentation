@@ -40,19 +40,19 @@
 
 ### Idee generatie – traject 1
 
-* [Startpunt 1.0]()
+* [Startpunt v1.0]()
 
 ### Conceptualisatie - traject 1
 
-* [Startpunt 2.0]()
+* [Startpunt v2.0]()
 
 ### Idee generatie - traject 2
 
-* [Startpunt 1.0]()
+* [Startpunt v1.0]()
 
 ### Conceptualisatie - traject 2
 
-* [Startpunt 1.1]()
+* [Startpunt v1.1]()
 
 ### Productontwikkeling
 
