@@ -23,7 +23,7 @@
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 
-### Onderzoek
+### Verkennen
 
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 * [Vooronderzoek]()
@@ -35,7 +35,12 @@
 	* [Deskresearch: Transparantie](pages/onderzoeksvragen/deelvragen/transparantie/README.md)
 	* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
 	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
-* [Vervolgonderzoek]()
+
+
+
+### Definiëren
+* [Persona](pages/research_methods/persona/README.md)
+* [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
 ### Idee generatie – traject 1
@@ -63,7 +68,6 @@
 		* [Wensen van Follow the Money](pages/ontwerpproces/input/start-point/wish-client/README.md)
 		* [Onderzoeksproces onderzoeksjournalist](pages/ontwerpproces/input/start-point/research-process/README.md)
 		* [Onderzoeksvragen](pages/ontwerpproces/input/start-point/research-questions/README.md)
-	* [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 	* [Concept v1_0](pages/ontwerpproces/input/1.0.0/concept.md)
 		* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
@@ -108,7 +112,6 @@
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 * [Productbenaming](pages/product-benaming/README.md)
-* [Persona](pages/research_methods/persona/README.md)
 * [Context van ontwerpen](pages/ontwerpproces/context/README.md)
 
 * [Iteraties – Invoeren van onderzoeksdata]()
