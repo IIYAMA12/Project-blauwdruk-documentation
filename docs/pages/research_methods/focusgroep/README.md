@@ -5,6 +5,12 @@ __Datum: 4 jun 2019__
 
 De grootste uitdaging van dit project is om een tool te bieden die helpt om blauwdrukken te maken, maar waarbij de werkwijze van de gebruiker nog onbekend is omdat deze nog niet eerder gemaakt is door deze gebruiker. Daarom is het belangrijk om de gebruiker alvast een blauwdruk te laten maken, zodat ik kan de mogelijke werkwijze kan vastleggen en daarop in kan spelen.
 
+## Doelen
+* Een discussie starten tussen onderzoeksjournalisten, om zo meer informatie te verkrijgen in vergelijking met een 1-op-1 gesprek.
+* Onderzoeken welke werkwijze werkt om er voor te zorgen dat de onderzoeksjournalist zijn onderzoek in een format gaat invoeren.
+* Extra validatie materiaal verzamelen.
+* Zoeken naar onderdelen of sub-concepten die toegevoegde waarde hebben voor het product.
+
 
 ## De focus van de focusgroep
 De Focusgroep bestaat uit 3 onderdelen.
@@ -148,7 +154,7 @@ Deze case staat in de stijgers en is niet voor het publiek inzichtelijk.
 > 2. Googlen (zoeken) op rapporten/onderzoeken + screenen
 >   * De mensen/organisaties die een rapport hebben uitgegeven (samengevat)
 >   * In de vorm van quotes.
-> 3. In een word bestand zet ik de links
+> 3. In een Word bestand zet ik de links
 >   * De namen
 >   * De samenvattingen
 >   * Highlights quotes + zinnen uit rapporten
@@ -175,3 +181,12 @@ __Vertaling naar diagram__
 
 ![Uitwerking van de uitvoering van opdracht 3](content/Aanleiding ander onderzoek en tip.png)
 
+
+## Dit neem ik mee voor het ontwerp
+* Hyperlinks naar externe (Word) bestanden
+* Relevantie onderzoek
+* Actoren (relevante instanties)
+* Onderzoeksvragen
+* Data delen + uitleg
+* Tijdsschema (maar in mindere maten, bijvoorbeeld: startdatum en publicatiedatum)
+* Tijdlijn
