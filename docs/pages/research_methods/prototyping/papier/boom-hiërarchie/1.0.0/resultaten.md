@@ -1,8 +1,7 @@
 ## Doelen
 
-__Zie doelen op vorige pagina:__
+Voor de doelen, zie vorige pagina (Doel prototype).
 
-{% page-ref page="README.md" %}
 
 ## Plan van Aanpak
 
