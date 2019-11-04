@@ -1,4 +1,8 @@
+## Doelen
 
+__Zie doelen op vorige pagina:__
+
+{% page-ref page="README.md" %}
 
 ## Plan van Aanpak
 
@@ -11,7 +15,8 @@
 ### Tijdens de gebruikerstest
 * Leg uit aan de participant wat het prototype doet. (Bron informatie structuren en uit eindelijk opslaan)
 * Geef ook aan dat voor elke actie die hij of zij doet, het prototype handig geüpdatet moet worden en dat er geduld vereist is.
-* Vraag de participant om bronnen in te vullen in het prototype. 
+* Vraag de participant om bronnen in te vullen in het prototype. Het is belangrijk dat dit echte bronnen zijn om er voor de zorgen dat de resultaten valide zijn.
+* Geef ook aan dat de informatie niet herkenbaar wordt getoond in de documentatie, om de onderzoeksjournalist gerust te stellen dat zijn ingevoerde informatie niet naar de buitenwereld lekt.
 * Leg de participant ook uit dat het mogelijk is om een bedrijfsstructuur weer te geven.
 
 
@@ -54,7 +59,11 @@ De informatie van deze afbeelding is onherkenbaar gemaakt vanuit een ethisch sta
 {% endhint %}
 
 
+## Resultaat doelen
+
+
 ## Meenemen in een verder ontwerp
 * De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreidt.
-* URL's als eigenschappen kunnen extra ondersteuning krijgen.
+* Ingevulde URL's als bronkenmerk kunnen worden herkend en wellicht als een klikbaar element worden weergegeven.
 * Houdt rekening met in iedergeval 8 kernmerken per bron.
+* Het boomhiërarchie structuur geeft ruimte voor een eenvoudige bedrijfstructuur, maar uit mijn observatie blijkt ook dat complexere structuren niet mogelijk zijn.

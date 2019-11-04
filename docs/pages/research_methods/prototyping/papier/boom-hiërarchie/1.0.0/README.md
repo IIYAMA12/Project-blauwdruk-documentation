@@ -5,12 +5,14 @@
 
 __Dit prototype heeft deze doelen:__
 
-* Bevestigen of de vorm geschikt voor broninformatie.
-* Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
+1. Bevestigen of deze informatiestructuur geschikt is voor broninformatie.
+2. Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
 
+### Doel 1
+Een goede manier om te controleren of deze informatiestructuur geschikt is voor een bepaald soort informatie, is door te testen met echte informatie. Tijdens een gebruikerstest is het dus belangrijk dat er echte informatie ingevoerd wordt.
 
-Concept van dit prototype [boomhiërarchie](https://jorik.gitbook.io/project-blauwdruk/concepten/boom-hierarchie)
-
+### Doel 2
+Wanneer de onderzoeksjournalist zijn informatie kan invullen en dit ook doet, dan is een deel van dit doel behaald.
 
 
 ## Onderdelen
