@@ -36,9 +36,8 @@
 	* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
 	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 
-
-
 ### Definiëren
+
 * [Persona](pages/research_methods/persona/README.md)
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
@@ -46,10 +45,54 @@
 ### Idee generatie – traject 1
 
 * [Startpunt v1_0]()
+	* [Concept]()
+		* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
+		* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
+		* [Keuze concept](pages/ontwerpproces/input/1.0.0/concept-keuze.md)
+	* [Ontwerp v1_0](pages/ontwerpproces/input/1.0.0/README.md)
+	* [Prototype v1_0](pages/ontwerpproces/input/1.0.0/prototype.md)
+		* [Boomhiërarchie v1_0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/README.md)
+			* [Printen van het prototype](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
+		* [Resultaten](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/resultaten.md)
+	* [Task-analyse](pages/research_methods/task-analyse/README.md)
+	* [Inspiratiemateriaal voor gebruik onderzoekstypes]()
+		* [Analyse Masterfile](pages/research_methods/analyse_content/masterfile/README.md)
+		* [Analyse onderzoeksrapport](pages/research_methods/analyse_content/onderzoeksrapport/README.md)
+	* [Concept/ontwerp v1_1](pages/ontwerpproces/input/1.1.0/README.md)
+		* [Algemene informatie]()
+			* [Concept - Algemene informatie](pages/ontwerpproces/input/1.1.0/components/general-information-concept.md)
+			* [Ontwerp - Algemene informatie](pages/ontwerpproces/input/1.1.0/components/general-information.md)
+		* [Documenten]()
+			* [Concept - documenten](pages/ontwerpproces/input/1.1.0/components/documents-concept.md)
+			* [Ontwerp - documenten](pages/ontwerpproces/input/1.1.0/components/documents.md)
+		* [Gebeurtenissen]()
+			* [Interview journalist tijdlijn](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/README.md)
+				* [Interview v1_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/README.md)
+					* [Resultaten v1_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v0.0.1/result.md)
+				* [Interview v2_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/README.md)
+					* [Resultaten v2_0](pages/research_methods/interview/onderzoeksjournalist/tijdlijn/v1.0.0/result.md)
+			* [Concept - gebeurtenissen](pages/ontwerpproces/input/1.1.0/components/events-concept.md)
+			* [Inspiratie - vormgeving](pages/ontwerpproces/input/1.1.0/components/events-inspiration.md)
+			* [Ontwerp - gebeurtenissen](pages/ontwerpproces/input/1.1.0/components/events.md)
+		* [Verbanden]()
+			* [Concept - verbanden](pages/ontwerpproces/input/1.1.0/components/connections-concept.md)
+			* [Ontwerp - verbanden](pages/ontwerpproces/input/1.1.0/components/connections.md)
+		* [Onderzoeksvragen]()
+			* [Concept - onderzoeksvragen](pages/ontwerpproces/input/1.1.0/components/research-questions-concept.md)
+			* [Ontwerp - onderzoeksvragen](pages/ontwerpproces/input/1.1.0/components/research-questions.md)
+		* [Werkgebieden]()
+			* [Concept - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections-concept.md)
+			* [Ontwerp - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections.md)
+	* [Focusgroep](pages/research_methods/focusgroep/README.md)
+	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
+* [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 
 ### Conceptualisatie - traject 1
 
 * [Startpunt v2_0]()
+	* [Ontwerp input_v2_0](pages/ontwerpproces/input/2.0.0/README.md)
+	* [Prototype input_v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
+	* [Gebruikerstest]()
 
 ### Idee generatie - traject 2
 
