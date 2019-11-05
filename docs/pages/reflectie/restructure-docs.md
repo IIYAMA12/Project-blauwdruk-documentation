@@ -26,7 +26,7 @@ __Problemen:__
 2. De documentatie heeft te veel verdiepingslagen in de vorm van secties, sub-secties en sub-sub-secties.
   <br/>__Mogelijke oorsprong:__
   * Ik denk vaak vanuit een hiërarchische structuur dat vaak complexe is. Dit is een handige eigenschap om complexe systemen te begrijpen, maar ook vooral een nadelige eigenschap om informatie over te brengen dat nu het geval is.
-3. De structuur van de biografie is net even anders dan die van de Design rationale.
+3. De structuur van de biografie is net even anders dan die van de design rationale.
 
 
 
