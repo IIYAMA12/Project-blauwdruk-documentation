@@ -123,20 +123,21 @@
 * [Reflectie](/pages/reflectie/README.md)
 	* [Herstructureren biografie](/pages/reflectie/restructure-docs.md)
 
-### Opleveringen CMD
-* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
-* [Project pitch]()
-* [Design brief](pages/design-brief/README.md)
-* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
-* [Feedback Frenzy](pages/feedback-frenzy/README.md)
-* [Design rationale]()
-* [Video]()
-* [Eindpresentatie]()
-* [Eindprototype]()
+
 
 ### Overige
 
 * [Bibliografie](pages/bibliografie/README.md)
+* [Opleveringen CMD]()
+	* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
+	* [Project pitch]()
+	* [Design brief](pages/design-brief/README.md)
+	* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
+	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
+	<!-- * [Design rationale]()
+	* [Video]()
+	* [Eindpresentatie]()
+	* [Eindprototype]() -->
 * [Printbare prototypes]()
 	* [Boomhiërarchie](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
 * [Alle concepten](pages/concepten/README.md)
