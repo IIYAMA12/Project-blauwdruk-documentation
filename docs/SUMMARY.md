@@ -43,7 +43,7 @@
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
-### Idee generatie – traject 1
+### Idee -en conceptfase – traject 1
 
 * [Startpunt v1_0]()
 	* [Concept]()
@@ -78,21 +78,37 @@
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 
-### Conceptualisatie - traject 1
+### Productfase - traject 1
 
 * [Startpunt v2_0]()
 	* [Ontwerp input_v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype input_v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest]()
 
-### Idee generatie - traject 2
+### Idee -en conceptfase - traject 2
 
-* [Startpunt v1_0]()
+* [Startpunt v1_0](pages/ontwerpproces/output/start-point/README.md)
+	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
+	* [Ontwerp v1_0](pages/ontwerpproces/output/1.0.0/README.md)
+		* [Voorblad](pages/ontwerpproces/output/1.0.0/components/general-information.md)
+		* [Bronnen](pages/ontwerpproces/output/1.0.0/components/sources.md)
+		* [Documents](pages/ontwerpproces/output/1.0.0/components/documents.md)
+		* [Tijdlijn](pages/ontwerpproces/output/1.0.0/components/timeline.md)
+		* [Verbanden](pages/ontwerpproces/output/1.0.0/components/connections.md)
+		* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
+		* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
+	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 
 
-### Conceptualisatie - traject 2
+### Productfase - traject 2
 
 * [Startpunt v1_1]()
+	* [Visuele weergave v1_1]()
+		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
+		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
+	* [Visuele weergave v1_2]()
+		* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
+		* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
 
 ### Productontwikkeling
 

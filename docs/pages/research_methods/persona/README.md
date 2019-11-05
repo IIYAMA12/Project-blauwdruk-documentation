@@ -22,7 +22,7 @@ Kortom, deze onderscheidbare werkwijze heeft te maken met informatie:
 * Onthouden (met je hersenen)
 * Opschrijven (in een medium)
 
-Deze verschillende werkwijzen worden extra bevestigd in [Co-creation](https://jorik.gitbook.io/project-blauwdruk/vooronderzoek/werkwijze_frank-meijers#omgaan-met-cognitieve-lading-onderzoek).
+Het bestaan van deze verschillende werkwijzen wordt extra bevestigd in [Co-creation](https://jorik.gitbook.io/project-blauwdruk/vooronderzoek/werkwijze_frank-meijers#omgaan-met-cognitieve-lading-onderzoek).
 
 ---
 
