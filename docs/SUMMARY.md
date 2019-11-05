@@ -81,7 +81,7 @@
 * [Productfase]()
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
-	* [Gebruikerstest v2_0]()
+	* [Gebruikerstest v2_0](pages/ontwerpproces/input/2.0.0/gebruikerstest.md)
 
 ### Traject 2
 
@@ -100,7 +100,7 @@
 * [Productfase]()
 	* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 	* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
-	* [Gebruikerstest v1_1]()
+	* [Feedbackronde v1_1](pages/ontwerpproces/output/1.1.0/feedbackronde.md)
 	* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 	* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
 	* [Gebruikerstest v1_2]()
