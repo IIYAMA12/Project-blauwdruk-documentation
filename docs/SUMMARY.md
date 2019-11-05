@@ -119,9 +119,11 @@
 	* [Gebeurtenissen](pages/data-lijst/events/README.md)
 
 ### Afronden
-* [Aanbevelingen](/pages/aanbevelingen/README.md)
+* [Eindproduct]()
 * [Conclusie](/pages/conclusie/README.md)
+* [Aanbevelingen](/pages/aanbevelingen/README.md)
 * [Reflectie](/pages/reflectie/README.md)
+	* [Herstructureren biografie](/pages/reflectie/restructure-docs.md)
 
 ### Opleveringen CMD
 * [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)

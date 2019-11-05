@@ -1,6 +1,6 @@
 # Context onderzoeksjournalist
 
-![De redactie](content/20191105_115957.jpg)
+![De redactie op een drukke dinsdag](content/20191105_115957.jpg)
 
 * Waar werkt de onderzoeksjournalist?
   * Thuis (vanuit huis werken)
