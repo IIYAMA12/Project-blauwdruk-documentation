@@ -350,7 +350,7 @@ Om het verhaal op een chronologische wijze te vertellen.
 Dit zijn directe eigenschappen van het onderzoek.
 
 ### Onderzoeksvragen
-Onderzoeksvragen kunnen helpen om een beter beeld te krijgen van het onderzoek wanneer deze beantw
+Onderzoeksvragen kunnen helpen om een beter beeld te krijgen van het onderzoek wanneer deze beantwoord worden.
 
 
 
