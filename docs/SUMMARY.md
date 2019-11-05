@@ -78,7 +78,7 @@
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 
-### Productfase | traject 1
+### Productfase | traject1
 
 * [Startpunt]()
 	* [Ontwerp input_v2_0](pages/ontwerpproces/input/2.0.0/README.md)
@@ -101,7 +101,7 @@
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 
 
-### Productfase | traject 2
+### Productfase | traject2
 
 * [Startpunt]()
 	* [Visuele weergave v1_1]()
