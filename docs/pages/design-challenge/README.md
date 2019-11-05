@@ -2,15 +2,33 @@
 
 Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een digitaal product: `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` maken. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
 
+__1 - Toegankelijk__
+
+Het product moet het onderzoek gangbaar kunnen overdragen en doorzoekbaar maken.
+
+__2 - Transparant__
+
+Het product moet er voor zorgen dat de juiste informatie bij elkaar komt te staan en dat de informatie compleet wordt.
+
+__3 - Reproduceerbaar__
+
+Het product moet kunnen helpen om opnieuw een onderzoek te doen naar een zelfde soort casus.
+
+__4 - Aanvulbaar__
+
+Onderzoek moet kunnen aangevuld worden met (nieuwe) onderzoeksdata.
+
+
+
 
 **Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.**
 
 
-## Vanuit de opdracht, het concept 'receptenboek' is te statisch
-In de opdracht van Follow the Money word geschreven over een onderzoeksproces omzetten in een receptenboek. Bij een receptenboek moet je je aan het recept houden, anders kan je niet tot het 'verwachte' recept resultaat komen. Het is mogelijk om van een recept af te stappen, maar dit is niet altijd wenselijk tenzij je kan inschatten welke consequenties dit met zich meebrengt.
+## Vanuit de opdracht, het concept 'receptenboek' is statisch
+In de opdracht van Follow the Money wordt geschreven over een onderzoeksproces omzetten in een receptenboek. Bij een receptenboek moet je je aan het recept houden, anders kan je niet tot het 'verwachte' resultaat komen. Het is mogelijk om van een recept af te stappen, maar dit is niet altijd wenselijk tenzij je kan inschatten welke consequenties dit met zich meebrengt.
 
 ## Term 'Blauwdruk'
-In deze biografie zal je de term 'Blauwdruk' meerdere malen terugvinden. De term is bedacht aan het begin van dit onderzoek en werd gezien als een flexibele versie van een receptenboek. Ik kan begrijpen dat je als lezer de term 'Blauwdruk' verwarrend vind, maar het is in principe gewoon een bouwtekening van iets. Het bevat net zo als bij een recept ingrediënten/bouwstenen maar het is minder strikt hoe iets gedaan moet worden. Je kan beginnen waar je wil beginnen als de fundering maar staat.
+In deze biografie zal je de term 'Blauwdruk' meerdere malen terugvinden. De term is bedacht aan het begin van dit onderzoek en werd gezien als een flexibele versie van een receptenboek. Ik kan begrijpen dat je als lezer de term 'Blauwdruk' verwarrend vind, maar het is in principe gewoon een bouwtekening van iets. Het bevat net zo als bij een recept ingrediënten/bouwstenen, maar het is minder strikt hoe iets gedaan moet worden. Je kan beginnen waar je wilt beginnen als de fundering maar staat.
 
 
 
