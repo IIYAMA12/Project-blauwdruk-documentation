@@ -81,7 +81,7 @@
 * [Productfase]()
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
-	* [Gebruikerstest]()
+	* [Gebruikerstest v2_0]()
 
 ### Traject 2
 
@@ -96,13 +96,16 @@
 		* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
 		* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
+	* [Gebruikerstest v1_0]()
 * [Productfase]()
 	* [Visuele weergave v1_1]()
 		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
+		* [Gebruikerstest v1_1]()
 	* [Visuele weergave v1_2]()
 		* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 		* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
+		* [Gebruikerstest v1_2]()
 
 
 ### Productspecificaties
