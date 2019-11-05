@@ -9,4 +9,4 @@ Mijn naam is [Jorik van Essen](https://www.linkedin.com/in/jorikvanessen/) en ik
 
 
 
-__Tip voor het lezen van deze biografie, begin met lezen vanaf de aanleiding.__
+__Voor het lezen van deze biografie is het aan te raden om bij de aanleiding van het project te beginnen.__
