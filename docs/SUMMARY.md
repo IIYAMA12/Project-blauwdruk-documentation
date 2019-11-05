@@ -35,6 +35,7 @@
 	* [Deskresearch: Transparantie](pages/onderzoeksvragen/deelvragen/transparantie/README.md)
 	* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
 	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
+	* [Jobstories](pages/research_methods/jobstories/README.md)
 
 ### Definiëren
 
