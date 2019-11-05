@@ -46,3 +46,7 @@ __Task analyse v1.0.0:__
   * `5.4` Doe: Voeg toe 
 
 De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste ontwerp.
+
+## Meenemen naar ontwerp
+* Een bovenste informatie laag toevoegen die alle informatietypes kan bevatten.
+* Zorg voor een verrijking door middel van eigenschappen en meta-data.

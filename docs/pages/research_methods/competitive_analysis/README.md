@@ -59,3 +59,8 @@ Deze is ingedeeld in twee bestanden.
 
 Dit project dat door de `The Bureau of Investigative Journalism` is gedaan, werkt ongeveer met dezelfde doelgroep en heeft zich gefocust op een documentatie + format met daarbij een duidelijke doel om een samenwerking te beginnen met het publiek van buiten af. Het blauwdruk project zal zich niet gaan focussen op dit soort samenwerkingen omdat de behoefte tot een blauwdruk in de eerste instantie vanaf Follow the Money komt. Het is een blauwdruk van en voor onderzoeksjournalisten en nog niet voor het publiek van buiten af. Als ik de lezer\(publiek\) nu al bij het project ga betrekken, is er een grote kans dat het project te breed wordt.
 
+## Meenemen voor ontwerp
+* Zorg voor ruimte om instructies op te nemen, om de data of onderwerp beter te begrijpen.
+* Ondersteuning van online bestanden. *Dit geeft de mogelijkheid om een project te delen en om informatie uit te sluiten door middel van bestandsrechten buiten de APP*
+
+
