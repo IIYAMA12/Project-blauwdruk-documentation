@@ -40,33 +40,47 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 \* De traject verdeling is bedoeld om de lezer niet te verwarren met het feit dat er twee ontwerpen zijn. Elk ontwerp heeft nu zijn eigen traject.
 
 
+
+
+### Lucht!
+Na het toevoegen van de secties merk ik dat er nu meer lucht in mijn documentatie zit op een goede manier. Ik wist voor de feedback op de documentatie nog niet hoe ik secties kan toevoegen in Gitbook (markdown syntax), vandaar dat ik deze niet eerder heb toegevoegd.
+
+
+### Pagina indeling
 ![Verkennen en definiëren](content/restructure/V1/20191104_171337.jpg)
 
 __Verkennen:__
 
-Welke onderdelen zorgen er voor dat je het design probleem kan verkennen?
+Deze sectie bevat een verzameling van pagina's die gerelateerd zijn aan het verkennen van de wensen en problemen door middel van onderzoeksmethodes.
+
 
 
 __Definiëren:__
 
-Welke onderdelen zijn (onderzoek) samenvattend en definiëren de context van je ideeën, concepten en ontwerpen
+Deze sectie bevat een verzameling van pagina's die de belangrijke aspecten van het onderzoek samenvatten en benodigd zijn bij het ontwikkelen van ideeën, concepten en ontwerpen.
 
 
 ![Idee generatie | traject 1](content/restructure/V1/20191104_171351.jpg)
 
 __Idee generatie | traject 1:__
 
+Dit is het eerste traject dat doorlopen is om de onderzoeksjournalist de mogelijkheid geeft om zijn journalistieke onderzoek in te voeren. De focus ligt bij de fase idee generatie.
+
+Onderaan(rechts) is de Feedback Frenzy opgenomen. Dit is het moment dat traject 2 begint en parallel gaat lopen met traject 1.
 
 
 ![Conceptualisatie | traject 1](content/restructure/V1/20191104_171357.jpg)
 
 __Conceptualisatie | traject 1:__
 
+Het zelfde traject als hierboven, alleen dan met de focus op het ontwikkelen van het eindconcept.
+
 
 ![Idee generatie | traject 2](content/restructure/V1/20191104_171357_2.jpg)
 
 __Idee generatie | traject 2:__
 
+Het tweede traject gaat over de output van de ingevoerde data van traject 2. De 'visuele weergave' van de data.
 
 ![Conceptualisatie | traject 2, Productspecificaties en afronden](content/restructure/V1/20191104_171403.jpg)
 
@@ -93,12 +107,18 @@ __Afronden:__
 * Analyse
 * Onderzoekskader
 
+### Pagina indeling
+
 ![](content/restructure/V2/20191105_113714.jpg)
 ![](content/restructure/V2/20191105_114448.jpg)
 ![](content/restructure/V2/20191105_114530.jpg)
 
 
 ## Versie 3
+
+### Globale indeling
+
+### Pagina indeling
 
 ![](content/restructure/V3/20191105_135016.jpg)
 ![](content/restructure/V3/20191105_145703.jpg)
