@@ -13,7 +13,7 @@ __Datum: 22 mei__
 
 Om de opdracht van Follow the Money beter te begrijpen, ben ik begonnen met het analyseren van de stakeholders, werkwijze en bijbehorende data. De context van het vak onderzoeksjournalistiek is essentieel voor de basis van het gevraagde product. 
 
-Globale aanpak
+__Globale aanpak:__
 
 * Beter begrijpen wat de onderzoeksjournalist doet en voornamelijk hoe deze dat doet.
 * Wat is de waarde van het product voor Follow the Money en de onderzoeksjournalist?
