@@ -13,19 +13,19 @@ Deze pagina gaat over het herindelen van de biografie en welke iteraties daar aa
 
 ## Probleemherkenning
 
-Na met Charl de feedback te hebben doorgesproken, kwam ik uit op de volgende problemen en oorsprongen.
+Na met Charl de feedback te hebben doorgesproken, kwam ik uit op de volgende problemen en oorsprong.
 
 __Problemen:__
 
 1. In de documentatie wordt de lezer matig geïnformeerd over welke pagina's bij welke fase horen. 
-  <br/>__Mogelijke oorsprongen:__
+  <br/>__Mogelijke oorsprong:__
   * Verslaglegging is niet mijn beste eigenschap.
   * Chronologie in combinatie met twee eindontwerpprocessen, maakt het structuur aanbrengen aan de documentatie lastig.
   * Ik was onbekend met de sectie feature van Gitbook vanuit markdown-formaat. Daarom heb ik deze niet eerder toevoegt.
   
 2. De documentatie heeft te veel verdiepingslagen in de vorm van secties, sub-secties en sub-sub-secties.
-  <br/>__Mogelijke oorsprongen:__
-  * Ik denk vaak van uit een hiërarchisch structuur die aan de complexe kant staat. Dit is een handige eigenschap om complexe systemen te begrijpen, maar ook vooral een nadelige eigenschap om informatie over te brengen dat nu het geval is.
+  <br/>__Mogelijke oorsprong:__
+  * Ik denk vaak vanuit een hiërarchische structuur dat vaak complexe is. Dit is een handige eigenschap om complexe systemen te begrijpen, maar ook vooral een nadelige eigenschap om informatie over te brengen dat nu het geval is.
 3. De structuur van de biografie is net even anders dan die van de Design rationale.
 
 
@@ -40,8 +40,8 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 * Minder verdieping van secties, sub-secties en sub-sub-secties.
 * Documentatie verdelen in heldere fases.
 * Pagina's verschuiven tot dat ze op een logische plek staan. 
-* Zorg voor post-its om snel te itereren.
-* Test in de biografie.
+* Pagina indelen met post-its om snel te itereren.
+* Testen met de biografie.
 
 ## Versie 1
 
@@ -63,7 +63,7 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 
 
 ### Lucht!
-Na het toevoegen van de secties merk ik dat er nu meer lucht in mijn documentatie zit op een goede manier. Ik wist voor de feedback op de documentatie nog niet hoe ik secties kan toevoegen in Gitbook (markdown syntax), vandaar dat ik deze niet eerder heb toegevoegd.
+Na het toevoegen van de secties merk ik dat er nu meer lucht in mijn documentatie zit op een goede manier.
 
 
 ### Pagina indeling
@@ -88,7 +88,7 @@ __Idee generatie | traject 1:__
 
 Dit is het eerste traject dat doorlopen is om de onderzoeksjournalist de mogelijkheid geeft om zijn journalistieke onderzoek in te voeren. De focus ligt bij de fase idee generatie.
 
-Onderaan(rechts) is de Feedback Frenzy opgenomen. Dit is het moment dat traject 2 begint en parallel gaat lopen met traject 1.
+Onderaan(rechts) is de Feedback Frenzy opgenomen. Dit is het moment dat traject 2 begint en parallel gaat lopen aan traject 1.
 
 \-          -          -          -          -          -
 
@@ -152,7 +152,7 @@ De onderzoeksmethode jobstories komt voor in het vooronderzoek, maar deze was ik
 
 ![Idee- en conceptfase, productfase](content/restructure/V2/20191105_114448.jpg)
 
-Bij nader inzien heb ik __idee generatie__ en __conceptualisatie__ samengevoegd tot __Idee- en conceptfase__. Waar eerst __conceptualisatie__ stond, staat nu productfase. De reden hierachter zit hem in de inhoud, bij mij staat idee generatie en conceptualisatie vrij dichtbij elkaar omdat er in het onderzoeksproces veel ideeën + concepten parallel zijn ontwikkeld per journalistieke informatietypes. <!--<<TODO>>--> 
+Bij nader inzien heb ik __idee generatie__ en __conceptualisatie__ samengevoegd tot __Idee- en conceptfase__. Waar eerst __conceptualisatie__ stond, staat nu productfase. De reden hierachter zit hem in de inhoud, bij mij staat idee generatie en conceptualisatie vrij dicht bij elkaar omdat er in het onderzoeksproces bijna alle ideeën + concepten parallel zijn ontwikkeld per journalistieke informatietypes. <!--<<TODO>>--> 
 
 \-          -          -          -          -          -
 
