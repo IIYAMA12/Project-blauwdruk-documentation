@@ -43,7 +43,7 @@
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
-### Idee en conceptfase | traject 1
+### Idee en conceptfase | traject1
 
 * [Startpunt]()
 	* [Concept]()
@@ -85,7 +85,7 @@
 	* [Prototype input_v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest]()
 
-### Idee en conceptfase | traject 2
+### Idee en conceptfase | traject2
 
 
 * [Startpunt](pages/ontwerpproces/output/start-point/README.md)
