@@ -1,5 +1,28 @@
 
 
+
+Deze pagina gaat over het herindelen van de biografie en welke iteraties daar aan te pas zijn gekomen. De aanleiding hiervan was de feedback over de documentatie door de derde lezer.
+
+## Feedback
+
+> De (structuur van je) documentatie is voor verbetering vatbaar
+
+* Charl Smit (Eerste lezer)
+* Marije ter Beke (Derde lezer)
+
+
+
+## Aanpak
+
+Om de biografie (en ook de design rationale) structureel te verbeteren.
+
+* Meer inspiratie opdoen vanuit CMD goed gekeurde documentaties.
+* Minder verdieping van secties, sub-secties en sub-sub-secties.
+* Documentatie verdelen in heldere fases.
+* Pagina's verschuiven tot dat ze op een logische plek staan. 
+* Zorg voor post-its om snel te itereren.
+* Test in de biografie.
+
 ## Versie 1
 
 ### Globale indeling
@@ -18,6 +41,15 @@
 
 
 ![](content/restructure/V1/20191104_171337.jpg)
+
+__Verkennen__
+
+
+
+* Definiëren
+
+
+
 ![](content/restructure/V1/20191104_171351.jpg)
 ![](content/restructure/V1/20191104_171357.jpg)
 ![](content/restructure/V1/20191104_171403.jpg)
