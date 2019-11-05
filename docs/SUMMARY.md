@@ -44,7 +44,7 @@
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
-### Traject1
+### Traject 1
 
 * [Idee en conceptfase]()
 	* [Concept]()
