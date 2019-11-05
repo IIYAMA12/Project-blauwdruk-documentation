@@ -1,5 +1,7 @@
 # Context onderzoeksjournalist
 
+![De redactie](content/20191105_115957.jpg)
+
 * Waar werkt de onderzoeksjournalist?
   * Thuis (vanuit huis werken)
   * Op de redactie (kantoor)
