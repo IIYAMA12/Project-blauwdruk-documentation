@@ -8,7 +8,7 @@
     * Back-end: Node.js (Alleen het serveren van front-end bestanden in deze versie van het ontwerp)
     * Front-end: HTML/CSS/JS
   * Ontwerp 2
-    * Front-end: HTML (CSS, JS en de rest van het content gebundeld in het HTML bestand)
+    * Front-end: HTML (CSS, JS en de rest van de content gebundeld in het HTML bestand)
 * Browsers:
   * Chrome
   * Safari

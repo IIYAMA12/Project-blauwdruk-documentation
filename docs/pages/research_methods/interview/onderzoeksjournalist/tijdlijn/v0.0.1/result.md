@@ -98,7 +98,7 @@ Afgenomen bij [Frank Meijer](https://www.ftm.nl/auteur/frank-meijer)
 
 
 ### Behoefte
-* Er is een behoefte aan een manier om verbanden* te maken boven op het chronologische ordening van het content. Wanneer de ordening veranderd aan de hand van de verbanden, kan de chronologische ordening worden verstoord.
+* Er is een behoefte aan een manier om verbanden* te maken boven op het chronologische ordening van de content. Wanneer de ordening veranderd aan de hand van de verbanden, kan de chronologische ordening worden verstoord.
 
 \* Verbanden: __Gebeurtenis A__ in de tijdlijn zorgt voor __gebeurtenis B__.
 

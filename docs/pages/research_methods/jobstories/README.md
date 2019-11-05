@@ -2,10 +2,11 @@
 
 
 {% hint style='danger' %}
-Het content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk niet meer gelijk met het huidige product.
+De content op deze pagina is in een eerder stadium uitgevoerd en loopt mogelijk niet meer gelijk met het huidige product.
 {% endhint %}
 
-## Profiel motivaties
+## Aanleiding
+Om een globaal beeld te scheppen wat de onderzoeksjournalist allemaal moet doen voor hij het product zou kunnen gebruiken, heb ik de volgende lijst opgesteld. Deze lijst heeft overigens niet tot belangrijke keuzes geleid.
 
 ## Hoofdvragen
 

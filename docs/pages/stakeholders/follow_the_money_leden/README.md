@@ -17,6 +17,6 @@ De (kwaliteits)eisen van de lezer verschillen vrij veel van elkaar. Sommige leze
 
 
 ## Niet-lezers (donateurs?)
-Naast de lezers heb je ook mensen die lid zijn meer in de vorm als donateur. Het hoeft niet zo te zijn dat ze geld doneren in de vorm van donaties, maar gebruiken het lidmaatschap als een vorm van donatie. Deze groep leest vrij weinig tot geen het content op de website. Een deel is lid omdat ze het belangrijk vinden dat corruptie aan het licht wordt gebracht door middel van onderzoeksjournalistiek. Een ander deel is vergeten dat ze een abonnement hebben.
+Naast de lezers heb je ook mensen die lid zijn meer in de vorm als donateur. Het hoeft niet zo te zijn dat ze geld doneren in de vorm van donaties, maar gebruiken het lidmaatschap als een vorm van donatie. Deze groep leest vrij weinig tot geen de content op de website. Een deel is lid omdat ze het belangrijk vinden dat corruptie aan het licht wordt gebracht door middel van onderzoeksjournalistiek. Een ander deel is vergeten dat ze een abonnement hebben.
 
 Deze groep komt naar voren vanuit de statistiek van niet lezende leden.

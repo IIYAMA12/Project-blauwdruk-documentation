@@ -22,7 +22,7 @@ __Datum: 31 mei 2019__
 [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [x] toegevoegd
 
-* **Het product moet ondersteuning bieden voor het contenttype: tekst**
+* **Het product moet ondersteuning bieden voor de contenttype: tekst**
 `Must`
 	- [x] toegevoegd
 
