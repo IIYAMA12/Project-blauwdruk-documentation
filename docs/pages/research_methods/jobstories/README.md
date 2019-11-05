@@ -1,6 +1,5 @@
 # Jobstories
 
-De uitvoering van deze onderzoeksmethode heeft plaats gevonden aan het begin van het onderzoeksproces.
 
 ## Aanleiding
 Om een globaal beeld te scheppen wat de onderzoeksjournalist allemaal moet doen voor hij het product zou kunnen gebruiken, heb ik de volgende lijst opgesteld. __Deze lijst heeft overigens niet direct tot belangrijke keuzes geleid.__
