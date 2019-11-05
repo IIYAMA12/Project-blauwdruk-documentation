@@ -98,14 +98,12 @@
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 	* [Gebruikerstest v1_0]()
 * [Productfase]()
-	* [Visuele weergave v1_1]()
-		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
-		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
-		* [Gebruikerstest v1_1]()
-	* [Visuele weergave v1_2]()
-		* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
-		* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
-		* [Gebruikerstest v1_2]()
+	* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
+	* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
+	* [Gebruikerstest v1_1]()
+	* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
+	* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
+	* [Gebruikerstest v1_2]()
 
 
 ### Productspecificaties
