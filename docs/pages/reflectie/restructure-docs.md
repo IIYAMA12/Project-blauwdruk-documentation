@@ -40,7 +40,7 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 \* De traject verdeling is bedoeld om de lezer niet te verwarren met het feit dat er twee ontwerpen zijn. Elk ontwerp heeft nu zijn eigen traject.
 
 
-![](content/restructure/V1/20191104_171337.jpg)
+![Verkennen en definiëren](content/restructure/V1/20191104_171337.jpg)
 
 __Verkennen:__
 
@@ -52,11 +52,33 @@ __Definiëren:__
 Welke onderdelen zijn (onderzoek) samenvattend en definiëren de context van je ideeën, concepten en ontwerpen
 
 
-![](content/restructure/V1/20191104_171351.jpg)
+![Idee generatie | traject 1](content/restructure/V1/20191104_171351.jpg)
+
+__Idee generatie | traject 1:__
 
 
-![](content/restructure/V1/20191104_171357.jpg)
-![](content/restructure/V1/20191104_171403.jpg)
+
+![Conceptualisatie | traject 1](content/restructure/V1/20191104_171357.jpg)
+
+__Conceptualisatie | traject 1:__
+
+
+![Idee generatie | traject 2](content/restructure/V1/20191104_171357_2.jpg)
+
+__Idee generatie | traject 2:__
+
+
+![Conceptualisatie | traject 2, Productspecificaties en afronden](content/restructure/V1/20191104_171403.jpg)
+
+__Conceptualisatie | traject 2:__
+
+
+__Productspecificaties:__
+
+
+__Afronden:__
+
+
 ![Overzicht](content/restructure/V1/20191104_171411.jpg)
 
 
