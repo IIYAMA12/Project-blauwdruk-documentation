@@ -1,9 +1,7 @@
 # Table of contents
 
+* [Introductie](README.md)
 
-### Inleiding
-
-* [Overzichtspagina](README.md)
 * [Begrippenlijst](GLOSSARY.md)
 
 ### Wens en context
