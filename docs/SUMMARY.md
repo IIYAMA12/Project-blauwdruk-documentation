@@ -85,8 +85,8 @@
 	* [Prototype input_v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest]()
 
-### Idee -en conceptfase - traject 2
-#### Test
+## Idee -en conceptfase - traject 2
+
 
 * [Startpunt v1_0](pages/ontwerpproces/output/start-point/README.md)
 	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
