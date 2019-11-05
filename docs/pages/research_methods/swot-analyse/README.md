@@ -11,16 +11,22 @@ __Datum: 22 mei__
 
 ## Waarom?
 
-Deze methode geeft inzicht in waarin het bedrijf Follow the Money goed en minder goed in is maar ook de gevaren waarop gelet moet worden en waar kansen liggen. Deze SWOT is afgesteld op het gebruik van een blauwdruk binnen Follow the Money. Het doel is om inzichten te vergaren over de positie en onderzoeksrichtingen van het blauwdruk project.
+Om de opdracht van Follow the Money beter te begrijpen, ben ik begonnen met het analyseren van de stakeholders, werkwijze en bijbehorende data. De context van het vak onderzoeksjournalistiek is essentieel voor de basis van het gevraagde product. 
+
+Globale aanpak
+
+* Beter begrijpen wat de onderzoeksjournalist doet en voornamelijk hoe deze dat doet.
+* Wat is de waarde van het product voor Follow the Money en de onderzoeksjournalist?
+* Kom tot een concept of concepten die iets met de onderzoeksdata kunnen. 
+
+Om een beter beeld te krijgen van het product binnen Follow the Money, heb ik de SWOT-analyse uitgevoerd. Een sterk punt van Follow the Money is dat er voldoende tijd beschikbaar is voor grote projecten. Dit betekend ook meer tijd voor innovatie van bijvoorbeeld een nieuw product.
 
 ## Uitvoering
 
 SWOT analyse van het bedrijf Follow the Money.
 
-![SWOT analyse in uitvoering](content/swot.png)
+![SWOT analyse in uitvoering](content/swot2.png)
 
-  
-[Afbeelding](content/swot.png)
 
 
 Deze SWOT-analyse heb ik in elkaar gezet met behulp van de input door [Jan-Willem Sanders](https://www.linkedin.com/in/janwillemsanders). Zijn functie binnen Follow the Money is uitgever, marketeer en productmanagement. Zijn input heeft geholpen om de SWOT meer in de richting van het blauwdruk project te sturen. 
