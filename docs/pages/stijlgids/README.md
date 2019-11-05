@@ -10,15 +10,32 @@ Inbegrepen
 
 ![Kleurgebruik](content/stijlgids1.png)
 
-Dit zijn de kleuren van Follow the Money.
+Dit zijn de kleuren die in de huisstijl van Follow the Money worden gebruikt. Op de website worden veel grijs tinten gebruikt in combinatie van redactioneel beeld. De felle kleuren zoals rood worden in op de redactionele pagina's subtiel gebruikt voor call to action onderdelen of om belangrijke onderdelen uit te lichten. Rode onderdelen zijn in de meeste gevallen klikbaar.
+
+<!--Op de website wordt veel redactioneel beeld gebruikt, deze brengen de content tot leven. -->
 
 ![Beeldmerk + logo](content/stijlgids2.png)
 
+Het logo en beeldmerk worden vaak samengebruikt als herkenningspunt voor het merk. Het logo kan als een diapositief versie gebruikt worden voor donkere achtergronden.
+
+Voor het product heb ik gekozen om alleen het logo te gebruiken omdat naar mijn mening het beeldmerk minder tot zijn recht komt in de bovenbalk. Het oogt vervuilend.
 
 
 ![Lettertype / Fontgebruik](content/stijlgids3.png)
 
+Dit lettertype is onderdeel van de Follow the Money huisstijl. 
+
+Het font word zowel voor de koppen als een deel van de broodtekst gebruikt op de FTM website. In het product wordt het font overal doorgevoerd om voor eenheid te zorgen
+
+ 
 ![Fontgebruik](content/stijlgids4.png)
+
+Voor de grote lappen broodtekst in de verhalen wordt het font PT-Serif gebruikt. Dit font heb ik niet opgenomen in het product, omdat deze qua visuele stijl niet heel mooi tot zijn recht komt. Het is ook een schreefletter en de schreef (streepjes aan de onderkant van de letter) verbeterd de leesbaarheid niet zodanig voor kort en bondige stukken tekst. Dit heeft alleen een toegevoegde waarde voor grote stukken tekst.
+
+![PT-serif](content/pt-serif.png)
+
+
+
 
 ![Call to action en select item](content/stijlgids5.png)
 
@@ -28,3 +45,4 @@ Dit zijn de kleuren van Follow the Money.
 
 
 ![Ga naar content](content/stijlgids9.png)
+
