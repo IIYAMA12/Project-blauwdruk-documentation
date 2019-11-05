@@ -46,7 +46,7 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 ### Globale indeling
 * Introductie __pagina__
 * Begrippenlijst __pagina__
-* Wensen en context
+* Wensen en context 
 * Verkennen (Onderzoek doen)
 * Definiëren (Welke onderdelen vanuit het onderzoek zijn belangrijk voor het concept en ontwerp?)
 * Idee generatie | traject 1 __*__
@@ -127,8 +127,13 @@ Alle onderdelen die het project afsluiten, met conclusies, aanbevelingen en deze
 * Introductie (pagina)
 * Begrippenlijst (pagina)
 * Wensen en context
-* Analyse
-* Onderzoekskader
+* Verkennen (Onderzoek doen)
+* Definiëren (Welke onderdelen vanuit het onderzoek zijn belangrijk voor het concept en ontwerp?)
+* Idee generatie | traject 1 __*__
+* Conceptualisatie | traject 1
+* Idee generatie | traject 2 
+* Conceptualisatie | traject 2
+* Productspecificaties (Eigenschappen van beide ontwerpen)
 
 ### Pagina indeling
 
@@ -148,9 +153,33 @@ Bij nader inzien heb ik __idee generatie__ en __conceptualisatie__ samengevoegd 
 ## Versie 3
 
 ### Globale indeling
+* Introductie __pagina__
+* Begrippenlijst __pagina__
+* Wensen en context
+* Analyse
+* Onderzoekskader
 
 ### Pagina indeling
 
-![](content/restructure/V3/20191105_135016.jpg)
-![](content/restructure/V3/20191105_145703.jpg)
-![](content/restructure/V3/20191105_151350.jpg)
+![Wensen context, analyse, onderzoekskader](content/restructure/V3/20191105_151350.jpg)
+
+__Wensen en context:__
+
+Een aantal onderdelen van __Verkennen__ worden verplaatst naar __Wensen en context__. Waaronder de stakeholders en design challenge, omdat deze al eerder vast gelegd zijn.
+
+__Analyse:__
+
+Het hoofdstuk __Verkennen__ heb ik hernoemd naar __Analyse__, omdat de term 'Verkennen' niet voor iedereen duidelijk is. Het hernoemen naar 'Onderzoek' zou ook nog een optie kunnen zijn.
+
+__Onderzoekskader:__
+
+Het hoofdstuk __Definiëren__ heb ik hernoemd naar __Onderzoekskader__, om het eenvoudiger te houden. Of deze term geschikt is als alternatief, ben ik nog aan het aftasten.
+
+
+![Traject 1](content/restructure/V3/20191105_135016.jpg)
+
+__Idee- en conceptfase__ en __Productfase__ heb ik nu beide onder 1 traject verplaatst. Dit geeft nu een beter inzicht in welke fases bij elkaar horen.
+
+![Traject 2](content/restructure/V3/20191105_145703.jpg)
+
+Hetzelfde is gedaan met traject 2.
