@@ -42,15 +42,19 @@ Om de biografie (en ook de design rationale) structureel te verbeteren.
 
 ![](content/restructure/V1/20191104_171337.jpg)
 
-__Verkennen__
+__Verkennen:__
+
+Welke onderdelen zorgen er voor dat je het design probleem kan verkennen?
 
 
+__Definiëren:__
 
-* Definiëren
-
+Welke onderdelen zijn (onderzoek) samenvattend en definiëren de context van je ideeën, concepten en ontwerpen
 
 
 ![](content/restructure/V1/20191104_171351.jpg)
+
+
 ![](content/restructure/V1/20191104_171357.jpg)
 ![](content/restructure/V1/20191104_171403.jpg)
 ![Overzicht](content/restructure/V1/20191104_171411.jpg)
