@@ -115,7 +115,7 @@
 	* [Bronnen](pages/data-lijst/sources/README.md)
 	* [Documenten](pages/data-lijst/documents/README.md)
 	* [Verbanden](pages/data-lijst/connections/README.md)
-	* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)
+	<!--* [Onderzoeksvragen](pages/data-lijst/research-questions/README.md)-->
 	* [Gebeurtenissen](pages/data-lijst/events/README.md)
 
 ### Afronden
