@@ -86,6 +86,7 @@
 	* [Gebruikerstest]()
 
 ### Idee -en conceptfase - traject 2
+#### Test
 
 * [Startpunt v1_0](pages/ontwerpproces/output/start-point/README.md)
 	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
@@ -106,6 +107,9 @@
 	* [Visuele weergave v1_1]()
 		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
+
+	#### Test
+
 	* [Visuele weergave v1_2]()
 		* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 		* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
