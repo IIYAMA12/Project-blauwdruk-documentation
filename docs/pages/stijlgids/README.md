@@ -10,7 +10,11 @@ Inbegrepen
 
 ![Kleurgebruik](content/stijlgids1.png)
 
+Dit zijn de kleuren van Follow the Money.
+
 ![Beeldmerk + logo](content/stijlgids2.png)
+
+
 
 ![Lettertype / Fontgebruik](content/stijlgids3.png)
 

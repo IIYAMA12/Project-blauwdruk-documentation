@@ -28,3 +28,8 @@
   * Papier / brief / pakket
 
 Deze informatie is afkomstig uit het [projectvoorstel onderzoek](https://jorik.gitbook.io/project-blauwdruk/bijlage/projectvoorstel), hoofdstuk `Probleemsituatie`. Methode: 5W2H.
+
+## Belangrijke bevindingen
+* De onderzoeksjournalist werkt veel met tekst bewerkingsprogramma's.
+* De werkplek varieert.
+* Gebruikt presentatie materiaal voor presentaties.
