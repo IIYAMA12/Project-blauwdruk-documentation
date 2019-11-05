@@ -48,7 +48,7 @@ Of dit de beste methode is, dat weet ik persoonlijk niet. Het is wel duidelijk d
 
 ### 3. Werken vanuit het werkdocument
 
-Vanuit het werkdocument houd je je bezig met twee belangrijke onderzoeksprocessen. Het onderzoeken op zichzelf en het spreken met bronnen. Veel van wat je onderzoek of onderzocht hebt leg je voor aan je bronnen. Deze kunnen helpen om te valideren van de onderzoeksresultaten. Dit is de belangrijkste iteratie proces van een onderzoeksjournalist. Alle resultaten en hypotheses worden geupdate in het werkdocument.
+Vanuit het werkdocument houd je je bezig met twee belangrijke onderzoeksprocessen. Het onderzoeken op zichzelf en het spreken met bronnen. Veel van wat je onderzoek of onderzocht hebt leg je voor aan je bronnen. Deze kunnen helpen om te valideren van de onderzoeksresultaten. Dit is de belangrijkste iteratie proces van een onderzoeksjournalist. Alle resultaten en hypotheses worden geüpdatet in het werkdocument.
 
 ### 4. Concept & eindredactie
 
