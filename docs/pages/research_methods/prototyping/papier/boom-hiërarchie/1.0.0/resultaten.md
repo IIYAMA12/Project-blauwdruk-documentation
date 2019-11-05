@@ -6,7 +6,7 @@ Voor de doelen, zie vorige pagina (Doel prototype).
 ## Plan van Aanpak
 
 ### Voorbereiding
-1. Print het prototype uit. De printjes zijn hier te vinden: <!--<<Todo>> voeg link toe-->
+1. Print het prototype uit. De printjes zijn hier te vinden: <!--<<TODO>> voeg link toe-->
 1. Gebruik een stanleymes om deze uit te snijden. 
 2. Knip post-its in reepjes uit. Deze dienen als invulvelden van het prototype.
 

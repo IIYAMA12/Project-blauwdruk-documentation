@@ -11,8 +11,26 @@ Deze pagina gaat over het herindelen van de biografie en welke iteraties daar aa
 * Marije ter Beke (Derde lezer)
 
 
+## Probleemherkenning
 
-## Aanpak
+Na met Charl de feedback te hebben doorgesproken, kwam ik uit op de volgende problemen en oorsprongen.
+
+__Problemen:__
+1. In de documentatie wordt de lezer matig geïnformeerd over welke pagina's bij welke fase horen. 
+  __Mogelijke oorsprongen:__
+  * Verslaglegging is niet mijn beste eigenschap.
+  * Chronologie in combinatie met twee eindontwerpprocessen, maakt het structuur aanbrengen aan de documentatie lastig.
+  * Ik was onbekend met de sectie feature van Gitbook vanuit markdown-formaat. Daarom heb ik deze niet eerder toevoegt.
+  
+2. De documentatie heeft te veel verdiepingslagen in de vorm van secties, sub-secties en sub-sub-secties.
+  __Mogelijke oorsprongen:__
+  * Ik denk vaak van uit een hiërarchisch structuur die aan de complexe kant staat. Dit is een handige eigenschap om complexe systemen te begrijpen, maar ook vooral een nadelige eigenschap om informatie over te brengen dat nu het geval is.
+
+
+
+
+
+## Aanpak verbetering
 
 Om de biografie (en ook de design rationale) structureel te verbeteren.
 
@@ -47,6 +65,7 @@ Na het toevoegen van de secties merk ik dat er nu meer lucht in mijn documentati
 
 
 ### Pagina indeling
+
 ![Verkennen en definiëren](content/restructure/V1/20191104_171337.jpg)
 
 __Verkennen:__
@@ -86,11 +105,15 @@ Het tweede traject gaat over de output van de ingevoerde data van traject 2. De 
 
 __Conceptualisatie | traject 2:__
 
+Het zelfde traject als hierboven, alleen dan met de focus op het ontwikkelen van het eindconcept.
 
 __Productspecificaties:__
 
+Deze sectie gaat pagina's bevatten die over de eigenschappen van beide ontwerpen gaan. Zoals welke data komt overeen tussen beide eindontwerpen of welke stijl is er gebruikt.
 
 __Afronden:__
+
+Alle onderdelen die het project afsluiten, met conclusies, aanbevelingen en deze reflectie.
 
 
 ![Overzicht](content/restructure/V1/20191104_171411.jpg)
@@ -109,8 +132,16 @@ __Afronden:__
 
 ### Pagina indeling
 
-![](content/restructure/V2/20191105_113714.jpg)
-![](content/restructure/V2/20191105_114448.jpg)
+![Verkennen en definiëren](content/restructure/V2/20191105_113714.jpg)
+
+De onderzoeksmethode jobstories komt voor in het vooronderzoek, maar deze was ik vergeten toe te voegen.
+
+![Idee- en conceptfase, productfase](content/restructure/V2/20191105_114448.jpg)
+
+Bij nader inzien heb ik __idee generatie__ en __conceptualisatie__ samengevoegd tot __Idee- en conceptfase__. Waar eerst __conceptualisatie__ stond, staat nu productfase. De reden hierachter zit hem in de inhoud, bij mij staat idee generatie en conceptualisatie vrij dichtbij elkaar omdat er in het onderzoeksproces veel ideeën + concepten parallel zijn ontwikkeld per journalistieke informatietypes. <!--<<TODO>>--> 
+
+
+
 ![](content/restructure/V2/20191105_114530.jpg)
 
 
