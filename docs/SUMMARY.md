@@ -43,7 +43,7 @@
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
-### Idee -en conceptfase – traject 1
+### Idee -en conceptfase | traject 1
 
 * [Startpunt v1_0]()
 	* [Concept]()
@@ -78,14 +78,14 @@
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 
-### Productfase - traject 1
+### Productfase | traject 1
 
 * [Startpunt v2_0]()
 	* [Ontwerp input_v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype input_v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest]()
 
-## Idee -en conceptfase - traject 2
+### Idee -en conceptfase | traject 2
 
 
 * [Startpunt v1_0](pages/ontwerpproces/output/start-point/README.md)
@@ -101,15 +101,12 @@
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
 
 
-### Productfase - traject 2
+### Productfase | traject 2
 
 * [Startpunt v1_1]()
 	* [Visuele weergave v1_1]()
 		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
-
-	#### Test
-
 	* [Visuele weergave v1_2]()
 		* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 		* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
