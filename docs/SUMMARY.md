@@ -23,7 +23,7 @@
 * [Design challenge](pages/design-challenge/README.md)
 * [Planning](pages/planning/README.md)
 
-### Verkennen
+### Analyse
 
 * [Onderzoeksvragen](pages/onderzoeksvragen/README.md)
 * [Vooronderzoek]()
@@ -37,7 +37,7 @@
 	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
 
-### Definiëren
+### Onderzoekskader
 
 * [Persona](pages/research_methods/persona/README.md)
 * [Context onderzoeksjournalist](pages/ontwerpproces/input/start-point/context/README.md)
