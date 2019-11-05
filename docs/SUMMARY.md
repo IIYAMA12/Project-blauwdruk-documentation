@@ -96,7 +96,7 @@
 		* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
 		* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
-	* [Gebruikerstest v1_0]()
+	* [Gebruikerstest en feedbackronde v1_0](pages/ontwerpproces/output/1.0.0/gebruikerstest-feedbackronde.md)
 * [Productfase]()
 	* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 	* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
