@@ -44,9 +44,9 @@
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
 
-### Idee en conceptfase | traject1
+### Traject1
 
-* [Startpunt]()
+* [Idee en conceptfase]()
 	* [Concept]()
 		* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
@@ -78,17 +78,14 @@
 	* [Focusgroep](pages/research_methods/focusgroep/README.md)
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
-
-### Productfase | traject1
-
-* [Startpunt]()
+* [Productfase]()
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest]()
 
-### Idee en conceptfase | traject2
+### Traject 2
 
-* [Startpunt](pages/ontwerpproces/output/start-point/README.md)
+* [Idee en conceptfase](pages/ontwerpproces/output/start-point/README.md)
 	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
 	* [Ontwerp v1_0](pages/ontwerpproces/output/1.0.0/README.md)
 		* [Voorblad](pages/ontwerpproces/output/1.0.0/components/general-information.md)
@@ -99,11 +96,7 @@
 		* [Onderzoeksvragen](pages/ontwerpproces/output/1.0.0/components/research-questions.md)
 		* [Alle onderdelen](pages/ontwerpproces/output/1.0.0/all-components.md)
 	* [Prototype v1_0](pages/ontwerpproces/output/1.0.0/prototype.md)
-
-
-### Productfase | traject2
-
-* [Startpunt]()
+* [Productfase]()
 	* [Visuele weergave v1_1]()
 		* [Ontwerp v1_1](pages/ontwerpproces/output/1.1.0/README.md)
 		* [Prototype v1_1](pages/ontwerpproces/output/1.1.0/prototype.md)
