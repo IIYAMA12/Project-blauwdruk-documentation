@@ -57,7 +57,7 @@
 	* [Gebruikerstest v1_0](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/resultaten.md)
 	* [Task-analyse](pages/research_methods/task-analyse/README.md)
 	* [Inspiratiemateriaal voor gebruik informatietypes]()
-		* [Analyse Masterfile](pages/research_methods/analyse_content/masterfile/README.md)
+		* [Analyse masterfile](pages/research_methods/analyse_content/masterfile/README.md)
 		* [Analyse onderzoeksrapport](pages/research_methods/analyse_content/onderzoeksrapport/README.md)
 	* [Idee en concept v1_1](pages/ontwerpproces/input/1.1.0/README.md)
 		* [Idee - Algemene informatie](pages/ontwerpproces/input/1.1.0/components/general-information-concept.md)
