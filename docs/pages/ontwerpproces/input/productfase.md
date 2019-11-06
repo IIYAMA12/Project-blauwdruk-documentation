@@ -34,10 +34,12 @@ Deze wordt opgenomen in de aanbevelingen omdat er tijd van de onderzoeksjournali
 
 ### Invulvelden aanpassen
 
+De ingevoerde informatie is aangepast op basis van de gebruikerstest en feedback rondes in de __Visuele weergave__ traject 2. Dit betekend dat in dit ontwerp ook een aantal invulvelden aangepast moeten worden.
 
-
-## Datalijsten
-
-Zie ook de __Datalijsten van het product__ om te begrijpen welke data beide producten delen. Deze staan onder de sectie productspecificaties.
+Zie de __Datalijsten van het product__ om te begrijpen welke data beide producten delen. Deze staan onder de sectie productspecificaties.
 <!--<<TODO>>-->
+
+
+
+
 
