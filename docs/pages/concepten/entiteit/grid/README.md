@@ -31,7 +31,7 @@ De onderzoeksjournalist kan zijn bronnen organiseren op een grid en daarnaast ka
 
 __Regels:__
 
-* Horizontale regel staat voor een bedrijfsstructuur niveau:
+* Verticale richting staat voor een bedrijfsstructuur niveau:
 
 | niveau |      |      |      |      |      |
 |------|------|------|------|------|------|
@@ -78,8 +78,8 @@ __Regels:__
 | niveau |      |      |      |      |
 |------|------|------|------|------|
 |  1   | bron A | (leeg) | bron B |      |
-|  2   | bron (Valt onder A) | (leeg) | bron (Valt onder B) | bron (Valt onder B) |
+|  2   | bron (valt onder A) | (leeg) | bron (valt onder B) | bron (valt onder B) |
 
 
 ## Complexiteit
-Dit concept heeft vrij veel regels die eerst geleerd moeten worden voor dat dit concept gebruikt kan worden. Dat heeft mogelijk als effect dat het concept een vrij hoge leercurve heeft.
+Dit concept heeft vrij veel regels die eerst geleerd moeten worden voor dat dit concept gebruikt kan worden. Dat heeft mogelijk als effect dat het concept een vrij hoge leercurve heeft en dus meer tijdkost.
