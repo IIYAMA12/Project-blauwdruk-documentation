@@ -48,7 +48,7 @@
 ### Traject 1
 
 * [Idee- en conceptfase](pages/ontwerpproces/input/README.md)
-	* [Idee informatietype bronnen](pages/ontwerpproces/input/1.0.0/concept.md)
+	* [Idee ontwikkeling voor bronnen](pages/ontwerpproces/input/1.0.0/concept.md)
 		* [Boomhiërarchie - concept](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Gridhiërarchie - concept](pages/concepten/entiteit/grid/README.md)
 		* [Keuze concept](pages/ontwerpproces/input/1.0.0/concept-keuze.md)
