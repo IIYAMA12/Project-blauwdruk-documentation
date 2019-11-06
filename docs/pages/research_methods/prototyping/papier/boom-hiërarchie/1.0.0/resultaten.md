@@ -50,7 +50,8 @@ Gebruiker: [Dennis Mijnheer](https://www.ftm.nl/auteur/Dennis-Mijnheer)
 * Voor een bron schrijft hij vaak een URL naar een LinkedIn pagina op.
 * Werkt veel met Excel om informatie van bronnen te noteren.
 * Aannamen van Dennis: De hiërarchie van bronnen kan worden bepaald aan de hand van de informatiewaarde die zij afgeven.
-* Als dit systeem gebruikt kan worden voor het maken van bedrijfsstructuren, dan wil hij het zeker gebruiken.
+* Als dit systeem gebruikt kan worden voor het maken van bedrijfsstructuren, dan wil hij het zeker gebruiken. 
+* Nog niet alle bedrijfsstructuren worden ondersteund. Zoals: 2 ouders die 1 kind onderzich hebben. (Een boom vertakt zich niet meer naar binnen.)
 
 ![Foto van einde van sessie](content/testen-met-dennis.jpg)
 
@@ -81,5 +82,5 @@ De onderzoeksjournalisten hebben de informatie ingevuld. Wel met wat moeite, ze 
 * De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreidt.
 * Ingevulde URL's als bronkenmerk kunnen worden herkend en wellicht als een klikbaar element worden weergegeven.
 * Houdt rekening met in iedergeval 8 kernmerken per bron.
-* Het boomhiërarchie structuur geeft ruimte voor een eenvoudige bedrijfstructuur, maar uit mijn observatie blijkt ook dat complexere structuren niet mogelijk zijn.
-* Als de ruimte efficiënt en informatiedichtheid niet opgelost worden zal er moeten gekeken worden naar een ander concept.
+* Het boomhiërarchie structuur geeft ruimte voor een eenvoudige bedrijfstructuur, maar uit mijn observatie blijkt ook dat complexere bedrijfstructuren niet mogelijk zijn met dit concept.
+* De efficiënt en informatiedichtheid van dit concept is niet optimaal. Als dit niet verbetert, dan zal er moeten gekeken worden naar een ander concept.
