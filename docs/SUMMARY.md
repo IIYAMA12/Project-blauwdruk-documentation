@@ -80,6 +80,7 @@
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Feedback Frenzy](pages/feedback-frenzy/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
+* [Startmoment traject 2](pages/toelichting-trajecten/startmoment-traject2.md)
 * [Productfase](pages/ontwerpproces/input/productfase.md)
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)

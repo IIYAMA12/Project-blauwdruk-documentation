@@ -3,7 +3,7 @@
 <!-- In dit hoofdstuk wordt uitgelegd hoe de ontwerpen van dit product tot stand zijn gekomen. Er worden in totaal 2 hoofdontwerpen beschreven. Het eerste ontwerp `invoergedeelte` gaat over de invoer van onderzoeksdata in database. Het tweede ontwerp gaat over de `visuele weergave` van de onderzoeksdata.
  -->
 
-De Feedback op de 'Feedback Frenzy' presentatie gaf een duidelijk beeld over de status van het project. 
+De Feedback op de 'Feedback Frenzy' presentatie gaf een duidelijk beeld over de status van het project. In het doorgelopen proces tot aan dit moment was het van mijn kant handiger geweest als ik wat concreter was geweest met de keuzes die ik heb gemaakt. Aan het eind van de presentatie was het nog steeds een lastig verhaal.
 
 __Dit zijn de belangrijkste verbeterpunten:__
 * User journey inkaart brengen
@@ -15,7 +15,7 @@ __Dit zijn de belangrijkste verbeterpunten:__
 
 Bij de laatste verbeterpunt 'Alle informatie ingevuld en dan?', had ik het gevoel dat ik onhandig bezig ben geweest. Het is niet alsof ik er niet bij stilgestaan heb, maar om die vraag te beantwoorden is een heel andere versie van het ontwerp nodig.
 
-![Reflectie van mijzelf](content/facepalm.png)
+![Soortgelijke reactie van mijzelf](content/facepalm.png)
 
 Google. (z.d.-c). Facepalm. Geraadpleegd op 8 oktober 2019, van https://www.google.com/search?q=facepalm&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiomaPMv4zlAhVCEVAKHUvNDCwQ_AUIESgB&biw=2319&bih=1442
 
@@ -67,6 +67,9 @@ Binnen de tijd die er beschikbaar is voor dit afstudeerproject, is het voor mij 
 ## Startdatums ontwerpen
 
 ![Startdatums ontwerpen](content/startdatums.png)
+
+
+
 
 
 
