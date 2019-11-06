@@ -42,7 +42,7 @@ De informatiestructuur van het bijbehorende concept: boomhiërarchie
   * `3.2` Vul onderdeel naam in
   * `3.3` Vul onderdeel type in
   * `3.4` Vul onderdeel beschrijving in
-  * `3.5` Bevestig toevoegen (misschien)
+  * `3.5` Bevestig toevoegen
 * `4.0` Verwijder onderdeel (bron)
   * `4.1` Doe: verwijder onderdeel
   * `4.2` Bevestig verwijderen onderdeel
@@ -56,14 +56,14 @@ De informatiestructuur van het bijbehorende concept: boomhiërarchie
 ![Morfologische-kaart](content/morfologische kaart entiteit.png)
 
 
-Mijn eerste schetsen zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
+Mijn eerste schetsen zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en het meest belangrijke is of de hiërarchie correct is.
 
 
 ### Eerste indeling
 
 ![Eerste indeling](content/schetsen29.png)
 
-Voor de eerste indeling heb ik het scherm in 2e gedeeld. De linkerkant wordt gebruikt voor de boomstructuur hiërarchie en de rechtekant is waar je details van bronnen kan weergegeven wanneer je ergens extra informatie over wilt hebben. De rechterkant is overigens standaard verborgen, totdat je details wil weergeven.
+Voor de eerste indeling heb ik het scherm in tweeën gedeeld. De linkerkant wordt gebruikt voor de boomstructuur hiërarchie en de rechtekant is waar je details van bronnen kunt weergegeven wanneer je ergens extra informatie over wilt hebben. De rechterkant is overigens standaard verborgen, totdat je details wilt zien.
 
 
 ### Informatiestructuur vrijheid
@@ -71,29 +71,29 @@ Voor de eerste indeling heb ik het scherm in 2e gedeeld. De linkerkant wordt geb
 ![Interactie elementen indeling](content/schetsen33.png)
 
 __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarchie te bepalen. Er zitten nu controls bij:__
-* Bronnen naar boven en naar beneden te schuiven.
+* Bronnen naar boven en beneden schuiven.
 * Bronnen verwijderen.
-* Bronnen te verbergen.
+* Bronnen verbergen.
 * Details: eigenschap
   * Invulveld naam eigenschap.
   * Invulveld waarde eigenschap.
 
 
-### Pas informatie direct aan bij de bron(entiteit) zelf
+### Pas informatie direct aan bij de bron (entiteit) zelf
 
 ![Details](content/schetsen30.png)
 
 * Design pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor) > In dit pattern heb je de mogelijkheid om een waarde aan te passen op dezelfde plek als het wordt weergegeven. Dit heeft als voordeel dat de gebruiker niet naar een andere pagina wordt gestuurd om iets aan te passen.
-* Dupliceer eigenschap. > Experimenteel, moet getest worden.
-* Notitie veld toegevoegd. > Een plek voor je eigen aantekeningen.
-* Type eigenschap. > Meta-informatie toevoegen aan een eigenschap van een bron.
+* Dupliceer eigenschap > Experimenteel, moet getest worden.
+* Notitie veld toegevoegd > Een plek voor je eigen aantekeningen.
+* Type eigenschap > Meta-informatie toevoegen aan een eigenschap van een bron.
 
 ### Categorieën
 
 ![Bron categorieën](content/schetsen31.png)
 
 * Categorieën als dropdown of tekst invulveld met suggesties. Categoriseer de bron. Gaat het om een persoon, een organisatie of wellicht extra contactinformatie.
-* Tags in plaats van categorieën. Tags bieden meer vrijheid dan categorieën, omdat deze vorm meerdere antwoorden toelaat. Maar ook kan het zorgen tot verwarring en inconsistentie.
+* Tags in plaats van categorieën. Tags bieden meer vrijheid dan categorieën omdat deze vorm meerdere antwoorden toelaat. Ook kan het zorgen tot verwarring en inconsistentie.
 
 ### Alles laten samenkomen
 
