@@ -47,7 +47,7 @@
 
 ### Traject 1
 
-* [Idee- en conceptfase](pages/ontwerpproces/input/README.md))
+* [Idee- en conceptfase](pages/ontwerpproces/input/README.md)
 	* [Concept](pages/ontwerpproces/input/1.0.0/concept.md)
 		* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
