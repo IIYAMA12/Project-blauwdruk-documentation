@@ -72,8 +72,8 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 ## Dit neem ik mee voor het ontwerp
 * Informatietype: Gebeurtenissen *Relevant voor het chronologisch vertellen van het journalistieke verhaal.*
 * Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. *Documenten kunnen bewijzen dat bepaalde gebeurtenissen gebeurt zijn en welke actoren daar allemaal in voorkomen.*
-* Datumindicatie *De gebruiker de mogelijkheid geven om content te sorteren op tijd.*
-* Informatietype: Mensen (bronnen) die eigenschappen hebben. *Eigenschappen zorgen voor meer context.*
+* Datumindicatie *De gebruiker de mogelijkheid geven om content te sorteren op tijd. Chronologie komt voor in de leesrichting van een journalistieke verhaal.*
+* Informatietype: Mensen (bronnen) die eigenschappen hebben. *Eigenschappen zorgen voor meer context of een betere omschrijving.*
 * Informatietype: Documenten *Dient als bewijsmateriaal.*
-* Maak het niet zo ingewikkeld als deze Excel database. *Zelfs iemand die bekend is met een database concept heeft hier moeite mee.*
-* Informatietype: Onderzoeksvragen *De verkenning van de onderzoeksjournalist geeft transparantie over hoe het journalistieke onderzoek is ontstaan.*
+* Maak het niet zo ingewikkeld als deze Excel database. *Naar mijn mening: zelfs iemand die bekend is met een database concept heeft hier moeite mee.*
+* Informatietype: Onderzoeksvragen *De verkenning van de onderzoeksjournalist, deze informatie geeft transparantie over hoe het journalistieke onderzoek is ontstaan.*
