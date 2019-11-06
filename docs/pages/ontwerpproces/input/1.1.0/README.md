@@ -1,5 +1,5 @@
 
-Versie 1.1.0 is een uitgebreiding met invoermogelijkheden voor andere soort informatietypes.
+Versie 1.1.0 is een uitgebreiding met invoermogelijkheden voor andere informatietypes.
 
 __Naast het boomhiërarchie voor het invoeren van bronnen, zijn er nu ook ideeën en concepten voor:__
 * __Werkgebieden__  (Inspiratie uit Masterfile: [Onderdelen indeling](https://jorik.gitbook.io/project-blauwdruk/research_methods/masterfile#onderdelen-indeling))
