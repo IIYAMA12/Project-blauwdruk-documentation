@@ -11,12 +11,12 @@ __Type bronnen:__
 
 __Inclusief:__
 * Eigenschappen van de bron
-* Bedrijfsstructuur (Vanuit eigen ervaring)
+* Bedrijfsstructuur (vanuit eigen ervaring)
 
 
 ## Concept zin
 
-De gebruiker kan bronnen invoeren binnen een systeem en organiseren op een manier dat de positie van de bron het bedrijfsstructuur aangeeft.
+De gebruiker kan bronnen invoeren binnen een systeem en deze organiseren op een manier dat de positie van de bron de bedrijfsstructuur aangeeft.
 
 {% hint style='info' %}
 Een concept zin is invulbaar.

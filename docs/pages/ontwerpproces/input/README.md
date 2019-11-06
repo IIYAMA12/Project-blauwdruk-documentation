@@ -1,5 +1,6 @@
 
-Dit is het eerste traject van het onderzoeksproces. Deze begint bij de vastgestelde informatietypes die in het onderzoekskader zijn opgenomen. De reden waarom ik hiermee begin is omdat het voor dit product belangrijk is om deze eerst goed te begrijpen. De (Journalistieke) informatietypes zijn uniek van elkaar en komen op een bepaalde manier samen. Hoe deze samenkomen en op welke manier dat relevant is, komt voort uit het vervolgonderzoek en de gebruikerstesten in de aankomende hoofdstukken. 
+Dit is het eerste traject van het onderzoeksproces. Deze begint bij de vastgestelde informatietypes die in het onderzoekskader zijn opgenomen. De reden waarom ik hiermee begin is omdat het voor dit product belangrijk is om deze eerst goed te begrijpen. 
+De (journalistieke) informatietypes zijn elk uniek en hebben een bepaalde overlap. Hoe deze samenkomen en op welke manier dit relevant is, komt voort uit het vervolgonderzoek en de gebruikerstesten in de aankomende hoofdstukken. 
 
 __Nogmaals de informatietypes:__
 
@@ -12,11 +13,11 @@ __Nogmaals de informatietypes:__
 * Conclusies
 
 
-## Plan van Aanpak
-1. Begin bij een informatietype die dicht aan het begin van het journalistieke onderzoeksproces staat.
-2. Bedenk voor elk informatietype ideeën.
-3. Ontwikkel voor elk informatietype een concept.
-4. Herontwikkel de concepten op basis van trial en error.
+## Plan van aanpak (van mij)
+1. Begin bij een informatietype waarmee het journalistieke onderzoeksproces gestart is. *Om de chronologische volgorde van de  journalistieke werkwijze aan te houden*
+2. Bedenk voor elk informatietype ideeën en variaties.
+3. Ontwikkel voor elk informatietype een passend concept.
+4. Stel de concepten op basis van trial en error bij.
 
 
 
