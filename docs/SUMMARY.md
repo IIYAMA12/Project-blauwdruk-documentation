@@ -78,6 +78,7 @@
 		* [Concept - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections.md)
 	* [Focusgroep](pages/research_methods/focusgroep/README.md)
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
+* [Feedback Frenzy](pages/feedback-frenzy/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 * [Productfase]()
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
@@ -136,7 +137,8 @@
 	* [Project pitch]()
 	* [Design brief](pages/design-brief/README.md)
 	* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
-	* [Feedback Frenzy](pages/feedback-frenzy/README.md)
+	<!-- * [Feedback Frenzy]() --> 
+	<!-- <<TODO>> -->
 	<!-- * [Design rationale]()
 	* [Video]()
 	* [Eindpresentatie]()
