@@ -45,7 +45,11 @@ __Dit scherm bestaat uit:__
 
 Dit is het modal dat te voorschijn komt op het moment dat je op de knop `+ project` drukt. Als je een project wil toevoegen is een naam verplicht, de voeg knop is standaard uitgeschakeld tot dat er 1 of meer tekens worden ingevoerd.
 
-Micro-interactie
+![Project toevoegen - met naam](content/designs4.png)
+
+Na het invullen van de project kan je het project toevoegen
+
+#### Micro-interactie
 
 __Initiale status__
 
@@ -70,9 +74,7 @@ A: Schakel knop `Toevoegen` in.
 B: Schakel knop `Toevoegen` uit.
 
 
-![Project toevoegen - met naam](content/designs4.png)
 
-Na het invullen van de project kan je het project toevoegen
 
 ![Project verwijderen](content/designs5.png)
 
