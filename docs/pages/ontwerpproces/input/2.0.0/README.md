@@ -189,11 +189,3 @@ __...__
   - [x] en deze
 
 
-## Ontwikkeling van deze pagina's staan op pauze
-* Onderzoeksvragen
-
-Het ontwerp het weergeven van de onderzoeksvragen is nog niet helemaal duidelijk. Daarom staat het de ontwikkeling van deze pagina tijdelijk op pauze.
-
-* Conclusies
-
-Conclusies zijn handig, maar het is nog niet helemaal duidelijk of het een aparte pagina voor moet komen of het geïntegreerd moet worden in de onderzoeksvragen pagina.
