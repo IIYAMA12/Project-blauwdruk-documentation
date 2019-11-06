@@ -3,7 +3,7 @@ Dit is een tweede concept om deze vraag te beantwoorden:
 
 > Hoe kan de onderzoeksjournalist zijn bronnen opnemen in het product?
 
-De onderzoeksjournalist zou ook zijn bronnen binnen een gebied kunnen neerleggen om deze later te organiseren. __Lees verder:__
+De onderzoeksjournalist zou ook zijn bronnen binnen een bepaald gebied kunnen plaatsen om deze later te organiseren. __Lees verder:__
 
 Stel je voor. Er ligt een vel papier voor je waar je plaknotities op kan plakken. Elke notitie bevat een bron. Je hebt de vrijheid om plaknotities te verschuiven waar je maar wil.
 
