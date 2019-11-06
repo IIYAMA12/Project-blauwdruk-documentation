@@ -22,7 +22,7 @@ Om overlapping te voorkomen en het overzicht te bewaren worden de plaknotities u
 
 ## Concept zin
 
-De onderzoeksjournalist kan zijn bronnen organiseren op een grid en daarnaast nog de bedrijfsstructuur (zie vorige hoofdstuk) bepalen door middel van positie en tussenruimte van de bronnen.
+De onderzoeksjournalist kan zijn bronnen organiseren op een grid en daarnaast kan hij of zij de bedrijfsstructuur (zie vorige hoofdstuk) bepalen door middel van positie en tussenruimte van de bronnen.
 
 ![Visualisatie concept](content/schetsen27.png)
 
