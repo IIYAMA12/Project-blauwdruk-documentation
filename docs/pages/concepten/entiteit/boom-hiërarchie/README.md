@@ -19,13 +19,13 @@ __Inclusief:__
 De gebruiker kan bronnen invoeren binnen een systeem en deze organiseren op een manier dat de positie van de bron de bedrijfsstructuur aangeeft.
 
 {% hint style='info' %}
-Een concept zin is invulbaar.
+Een concept zin is later nog invulbaar.
 {% endhint %}
 
 
 ## Bedrijfsstructuur
 
-De gebruiker kan via een boomhiërarchie-indeling bronnen indelen volgens een __ouders/kinderen-relatie__.  Dit heeft als voordeel dat je hiërarchie tussen bronnen kan aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+De gebruiker kan via een boomhiërarchie de bronnen plaatsen volgens een __ouders/kinderen-relatie__.  Dit heeft als voordeel dat je hiërarchie in bronnen kunt aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
 
 
 
@@ -38,14 +38,14 @@ Dat de onderzoeksjournalist hier behoefte aan heeft, blijkt bijvoorbeeld uit het
 Smit, E., Van Essen, J., & FTM. (2019, 18 mei). Verblind door een cybercharlatan [Illustratie]. Geraadpleegd op 1 oktober 2019, van https://www.ftm.nl/artikelen/gerard-sanderink-rian-van-rijbroek?utm_medium=social&utm_campaign=sharebuttonleden&utm_source=linkbutton
 
 
-Deze manier van hiërarchie moet het eenvoudiger maken dit soort informatie in te vullen en te structureren.
+Deze manier van hiërarchie aanbrengen moet het eenvoudiger maken dit soort informatie in te vullen en te structureren.
 
 
-## Eigenschappen en vergelijking met contentvorm `tabel`
+## Eigenschappen en vergelijking met contentvorm tabel
 
-Elk entiteit heeft ook zijn eigen lijst met eigenschappen. Het wel bekende tabel layout heeft het voordeel en nadeel dat elk eigenschap altijd een eigen kolom heeft. De informatie is altijd gesorteerd over de kolomen dat is een voordeel. Maar het nadeel is dat voor elke unieke eigenschap een extra kolom aangemaakt wordt. Hierdoor kan de tabel breder dan je scherm worden en dit heeft als gevolg dat de data onoverzichtelijk wordt.
+Elke entiteit \([definitie](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)\) heeft zijn eigen lijst met eigenschappen. Het welbekende tabel layout heeft het voor- en nadeel dat elke eigenschap altijd een eigen kolom heeft. Het voordeel is dat de informatie altijd gesorteerd is over kolommen. Het nadelige gevolg hiervan is dat voor elke unieke eigenschap een extra kolom aangemaakt moet worden. Hierdoor kan de tabel breder worden dan je scherm en wat als gevolg heeft dat de data onoverzichtelijk wordt.
 
-[Definitie 'entiteit'](https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/entiteit)
+
 
 Voorbeeld tabel layout
 | Eigenschap: a | Eigenschap: B | Eigenschap: C |
@@ -64,14 +64,15 @@ Voorbeeld van een boomhiërarchie layout:
 
 [Meer voorbeelden van een `boomhiërarchie` weergave? (Google)](https://www.google.com/search?client=firefox-b-d&channel=trow&biw=2332&bih=1397&tbm=isch&sa=1&ei=CPIIXZb-GYaRmwXg6ZXwCQ&q=boom+hi%C3%ABrarchie+data&oq=boom+hi%C3%ABrarchie+data&gs_l=img.3...6287.6287..6648...0.0..0.42.42.1......0....2j1..gws-wiz-img.Iv0y6k-_MpY)
 
+## Vergelijking
 
 De meerwaardes: `Boomhiërarchie`
-* Onderdelen kunnen onder elkaar worden geschoven. Een persoon kan bijvoorbeeld onder een organisatie worden geschoven. Dit kan ook andersom gedaan worden.
-* Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zit niet zoals bij een grid vast aan kolommen.
+* Onderdelen kunnen onder elkaar worden geschoven onstaat er structuur.
+* Eigenschappen van een entiteit: Het aantal eigenschappen en de volgorde daarvan zit niet zoals bij een grid, vast aan kolommen.
 
 De meerwaardes: `Tabel`
-* Met een tabel zit je vast aan een grid. Het voordeel van een tabel is dat je alle zelfde soort gegevens onder elkaar kan zetten door te soorteren via kolommen.
-* Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Kijk maar hoe Firefox dit oplost: 
+* Met een tabel zit je vast aan een grid. Het voordeel van een tabel is dat je alle zelfde soort gegevens onder elkaar kan zetten door te sorteren via kolommen en dit geeft overzicht.
+* Het is mogelijk om bepaalde kolommen met minder relevante informatie niet te tonen. Je kan dus je zoekresultaten vernauwen waardoor je sneller tot het gezochte resultaat komt. Kijk maar hoe Firefox dit oplost: 
 
 ![Firefox tabel layout](content/firefox-tabel-layout.png)
 
