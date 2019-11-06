@@ -14,6 +14,7 @@ Saffer, D. \(2013\). Microinteractions \[Boek\]. Geraadpleegd op 29 maart 2019.
 
 Google. (z.d.-d). Chips. Geraadpleegd op 10 oktober 2019, van https://material.io/components/chips/#input-chips
 
+Ui-patterns. (z.d.). Inplace Editor Design Pattern. Geraadpleegd op 1 november 2019, van http://ui-patterns.com/patterns/InplaceEditor
 
 ## Eco systemen voor versies controle
 

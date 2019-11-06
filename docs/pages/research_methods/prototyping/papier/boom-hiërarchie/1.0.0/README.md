@@ -25,7 +25,12 @@ Wanneer de onderzoeksjournalist zijn informatie kan invullen en dit ook doet, da
 
 ## Prototype digitale versie
 
-De digitale versie van dit prototype komt later voor in het onderwerpproces, maar neem ik hier op wegens een aantal bepalende keuzes die verder in het proces staan. Dit prototype is een vereenvoudigede versie van het prototype hierboven en had als extra doel om de pattern [InplaceEditor](http://ui-patterns.com/patterns/InplaceEditor) te testen.
+De digitale versie van dit prototype komt later voor in het onderwerpproces, maar deze neem ik hier op wegens een aantal bepalende keuzes die verder in het proces staan. Dit prototype is een vereenvoudigede versie van het prototype hierboven en had als extra doel om de pattern [InplaceEditor](http://ui-patterns.com/patterns/InplaceEditor) te testen. 
+
+(Ui-patterns, z.d.)
+
+Deze design pattern wordt gebruikt om een waarde van een invulveld op dezelfde plek aan te passen. Het gebruik van een eenvoudig formaat komt beter uit met weinig elementen.
+
 
 [Digitaal prototype](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
 
