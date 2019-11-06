@@ -169,7 +169,7 @@ Gekoppelde onderdelen binnen gebeurtenissen of verbanden worden alleen toegevoeg
 
 __Bijvoorbeeld:__
 
-Binnen een gebeurtenis komt een bron voor. Deze bron is een klokkenluider en heeft deze gebeurtenis gemeld aan de onderzoeksjournalist en wil graag annoniem blijven. Als de bron niet toegevoegd is aan het doorzoekbaar document zal deze ook niet terugkomen in de gekoppelde gebeurtenissen. Je ziet dan dat deze doorgestreept is met een rode lijn.
+Binnen een gebeurtenis komt een bron voor. Deze bron is een klokkenluider en heeft deze gebeurtenis gemeld aan de onderzoeksjournalist en wil graag anoniem blijven. Als de bron niet toegevoegd is aan het doorzoekbaar document zal deze ook niet terugkomen in de gekoppelde gebeurtenissen. Je ziet dan dat deze doorgestreept is met een rode lijn.
 
 __Nog niet opgelost probleem in deze versie van het ontwerp:__
 
