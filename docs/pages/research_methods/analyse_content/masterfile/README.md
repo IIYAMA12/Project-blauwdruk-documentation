@@ -1,7 +1,7 @@
 # Masterfile
 
 
-In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers](https://www.luuksengers.nl). Deze masterfile is bedoeld voor onderzoeksjournalisten om het werkproces voort de zetten in een soort database. Niet schrikken van de naam "database", het is namelijk een database in Excel. Dat wil natuurlijk dat niet zeggen dat deze niet ingewikkeld is. Het voordeel van een database is in de meeste gevallen dat je informatie op een ander of hoger niveau doorzoekbaar is. Maar ook dat je verschillende soorten data beter aan elkaar kan koppelen.
+In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers](https://www.luuksengers.nl). Deze masterfile is bedoeld voor onderzoeksjournalisten om het werkproces voort te zetten in een soort database. Niet schrikken van de naam 'database', het is namelijk een database in Excel. Dit wil natuurlijk niet zeggen dat deze eenvoudig is. Het voordeel van een database is in de meeste gevallen dat je de informatie op een hoger niveau kan doorzoeken. Ook geeft het je de mogelijkheid om verschillende soorten data beter aan elkaar kan koppelen.
 
 
 ## Waarom dit onderzoek
