@@ -66,21 +66,21 @@ __Doel 1__
 
 > Bevestigen of deze informatiestructuur geschikt is voor broninformatie.
 
-Dit formaat is geschikt voor bronnen, de bronnen kunnen ingevuld worden. Maar er moet nog wel gekeken worden naar een aantal aspecten:
-* Informatiedichtheid. (Als er te veel bronnen zijn)
+Dit formaat is geschikt voor bronnen, de bronnen kunnen ingevuld worden, hiernaast moet er nog wel gekeken worden naar een aantal aspecten:
+* Informatiedichtheid (Als er te veel bronnen zijn).
 * De ruimte aan de rechterkant van het prototype wordt niet altijd even efficiënt benut.
 
 __Doel 2__
 
 > Controleren of de onderzoeksjournalist zit te wachten op een concept waar hij of zij informatie in moeten voeren.
 
-De onderzoeksjournalisten hebben de informatie ingevuld. Wel met wat moeite, ze moesten namelijk wennen aan de gebruikersinterface.
+De onderzoeksjournalisten hebben de informatie ingevuld. Dit met enige moeite omdat ze moesten wennen aan de gebruikersinterface.
 
 
 
 ## Meenemen in een verder concept
-* De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreidt.
+* De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreiden.
 * Ingevulde URL's als bronkenmerk kunnen worden herkend en wellicht als een klikbaar element worden weergegeven.
-* Houdt rekening met in iedergeval 8 kernmerken per bron.
+* Houdt rekening met in iedergeval acht kernmerken per bron.
 * Het boomhiërarchie structuur geeft ruimte voor een eenvoudige bedrijfstructuur, maar uit mijn observatie blijkt ook dat complexere bedrijfstructuren niet mogelijk zijn met dit concept.
-* De efficiënt en informatiedichtheid van dit concept is niet optimaal. Als dit niet verbetert, dan zal er moeten gekeken worden naar een ander concept.
+* De efficiëntie van de ruimte en informatiedichtheid van dit concept zijn niet optimaal. Als dit niet verbetert, dan zal er moeten worden gekeken naar een ander concept.
