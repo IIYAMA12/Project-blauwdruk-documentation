@@ -10,12 +10,11 @@ __Dit prototype heeft deze doelen:__
 
 __Doel 1__
 
-Een goede manier om te controleren of deze informatiestructuur geschikt is voor een bepaald soort informatie, is door te testen met echte informatie. Tijdens een gebruikerstest is het dus belangrijk dat er echte informatie ingevoerd wordt.
+Een goede manier om te controleren of deze informatiestructuur geschikt is voor een bepaald soort informatie, is door te testen met echte informatie. Tijdens een gebruikerstest is het belangrijk dat er echte informatie ingevoerd wordt om valide resultaten te behalen.
 
 __Doel 2__
 
-Wanneer de onderzoeksjournalist zijn informatie kan invullen en dit ook doet, dan is een deel van dit doel behaald.
-
+De onderzoeksjournalist de informatie laten invullen.
 
 ## Onderdelen
 
@@ -25,11 +24,10 @@ Wanneer de onderzoeksjournalist zijn informatie kan invullen en dit ook doet, da
 
 ## Prototype digitale versie
 
-De digitale versie van dit prototype komt later voor in het onderwerpproces, maar deze neem ik hier op wegens een aantal bepalende keuzes die verder in het proces staan. Dit prototype is een vereenvoudigede versie van het prototype hierboven en had als extra doel om de pattern [InplaceEditor](http://ui-patterns.com/patterns/InplaceEditor) te testen. 
+De digitale versie van dit prototype komt later voor in het onderwerpproces, maar deze neem ik hier op wegens een aantal bepalende keuzes die verder in het proces staan. Dit prototype is een vereenvoudigde versie van het prototype hierboven en had als extra doel om de pattern [Inplace Editor](http://ui-patterns.com/patterns/InplaceEditor) te testen. (UI-patterns, z.d.)
 
-(Ui-patterns, z.d.)
 
-Deze design pattern wordt gebruikt om een waarde van een invulveld op dezelfde plek aan te passen. Het gebruik van een eenvoudig formaat komt beter uit met weinig elementen.
+Deze design pattern wordt gebruikt om een waarde van een invulveld op dezelfde plek aan te passen. Het gebruik van een eenvoudig format komt beter uit met weinig elementen.
 
 
 [Digitaal prototype](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
