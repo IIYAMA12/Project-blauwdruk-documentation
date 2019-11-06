@@ -154,7 +154,7 @@ Deze modal komt tevoorschijn wanneer je op de knop VOEG ONDERDEEL TOE drukt van 
 
 ![Filter](content/designs15.png)
 
-Om rekening te houden met grote projecten waarbij veel onderdelen aanwezig zijn, kunnen filters handig zijn. Het filter systeem bestaat uit de zoekbalk, de eenvoudige filter waarbij je snel naar een onderdeel zoekt op naam en de geavanceerde filters. De geavanceerde filters kan je gebruiken door de checkbox met de label "Filter" aan te vinken. De logica van dit filtersysteem is gebasseerd op de filter gebruikersinterface die Follow the Money ook in het CMS gebruikt.
+Om rekening te houden met grote projecten waarbij veel onderdelen aanwezig zijn, kunnen filters handig zijn. Het filter systeem bestaat uit de zoekbalk, de eenvoudige filter waarbij je snel naar een onderdeel zoekt op naam en de geavanceerde filters. De geavanceerde filters kan je gebruiken door de checkbox met de label "Filter" aan te vinken. De logica van dit filtersysteem is gebaseerd op de filter gebruikersinterface die Follow the Money ook in het CMS gebruikt.
 
 ### Export
 
