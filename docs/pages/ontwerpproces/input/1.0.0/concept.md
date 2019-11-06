@@ -5,3 +5,9 @@ De aanleiding komt vaak van een bron, deze persoon / organisatie levert informat
 
 __Voor de volgende vraag moet een concept bedacht worden:__
 > Hoe kan de onderzoeksjournalist zijn bronnen opnemen in het product?
+
+<!--
+  <<TODO>> 
+
+  waarom ben je begonnen met de boom- en gridhiërarchie?
+-->
