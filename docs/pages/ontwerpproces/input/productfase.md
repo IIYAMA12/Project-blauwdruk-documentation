@@ -16,7 +16,7 @@ De huisstijl van Follow the Money is toegepast.
 
 ### Vervallen concepten
 
-Deze concepten zijn (voor nu) vervallen wegens keuzes in het ontwikkelingstraject van ontwerp __Visuele weergave__.
+Deze concepten zijn (voor deze eindoplevering) vervallen wegens keuzes in het ontwikkelingstraject van ontwerp __Visuele weergave__.
 
 #### Concept - Boomhiërarchie
 Het toevoegen van een bedrijfsstructuur in het weergave overzicht van de bronnen maakt de __Visuele weergave__ in traject 2 te complex. Dit concept vervalt en maakt plaats voor een herontwerp. Deze kan je hier vinden: TODO <!--<<TODO>> -->
