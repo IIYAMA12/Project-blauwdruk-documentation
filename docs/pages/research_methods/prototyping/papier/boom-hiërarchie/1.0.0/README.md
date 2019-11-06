@@ -6,7 +6,7 @@
 __Dit prototype heeft deze doelen:__
 
 1. Bevestigen of deze informatiestructuur geschikt is voor broninformatie.
-2. Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
+2. Controleren of de onderzoeksjournalist zit te wachten op een concept waar hij of zij informatie in moeten voeren.
 
 __Doel 1__
 
@@ -29,13 +29,13 @@ De digitale versie van dit prototype komt later voor in het onderwerpproces, maa
 
 [Digitaal prototype](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
 
-### Screenshots (voorvertoning)
+<!-- ### Screenshots (voorvertoning)
 
 ![Stap 1](content/bron-prototype-preview.png)
 
 ![Stap 2](content/bron-prototype-preview2.png)
 
-![Stap 3](content/bron-prototype-preview3.png)
+![Stap 3](content/bron-prototype-preview3.png) -->
 
 
 

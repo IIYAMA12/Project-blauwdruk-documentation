@@ -48,5 +48,5 @@ __Task analyse v1.0.0:__
 De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste ontwerp.
 
 ## Meenemen naar ontwerp
-* Een bovenste informatie laag toevoegen die alle informatietypes kan bevatten.
-* Zorg voor een verrijking door middel van eigenschappen en meta-data.
+* Een bovenste informatie laag toevoegen die alle informatietypes kan bevatten. *Zonder deze laag kan de informatie niet worden opgeslagen.*
+* Zorg voor een verrijking door middel van eigenschappen en meta-data. *Het is belangrijk dat informatie gestructureerd en doorzocht kan worden, meta-data speelt daarbij een belangrijke rol.*

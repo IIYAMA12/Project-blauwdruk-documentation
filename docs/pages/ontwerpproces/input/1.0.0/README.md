@@ -1,6 +1,6 @@
 
 
-Op deze pagina is de vertaalslag naar een eerste ontwerp te vinden. Dit ontwerp is specifiek gericht op het invoeren van broninformatie.
+Op deze pagina is de vertaalslag naar een eerste visualisatie van het concept te vinden. Dit concept is specifiek gericht op het invoeren van broninformatie.
 
 __Met behulp van (die hier onder aanbod komen):__
 
@@ -56,7 +56,7 @@ De informatiestructuur van het bijbehorende concept: boomhiërarchie
 ![Morfologische-kaart](content/morfologische kaart entiteit.png)
 
 
-Mijn eerste schetsen van een bepaald ontwerp zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
+Mijn eerste schetsen zijn vaak vormschetsen. De ruimte indeling bepaald hoeveel functionaliteiten je in je applicatie kwijt kan, of de applicatie kan door groeien en meest belangrijk of de hiërarchie correct is.
 
 
 ### Eerste indeling
@@ -99,9 +99,9 @@ __De volgende iteratie geeft de gebruiker nu de mogelijkheid om zelf de hiërarc
 
 ![Ruwe schets van een combinatie van alle punten hierboven](content/schetsen32.png)
 
-## Eerste design
+## De eerste HiFi visualisatie van het concept
 
-![Eerste HiFi design](content/design-1.0.0@4x.png)
+![Eerste HiFi visualisatie](content/design-1.0.0@4x.png)
 
 Klaar voor een prototype!
 

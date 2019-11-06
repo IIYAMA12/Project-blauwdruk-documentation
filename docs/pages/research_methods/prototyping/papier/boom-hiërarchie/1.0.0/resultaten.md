@@ -71,15 +71,15 @@ Dit formaat is geschikt voor bronnen, de bronnen kunnen ingevuld worden. Maar er
 
 __Doel 2__
 
-> Controleren of de onderzoeksjournalist zit te wachten op een ontwerp waar hij of zij informatie in moeten voeren.
+> Controleren of de onderzoeksjournalist zit te wachten op een concept waar hij of zij informatie in moeten voeren.
 
 De onderzoeksjournalisten hebben de informatie ingevuld. Wel met wat moeite, ze moesten namelijk wennen aan de gebruikersinterface.
 
 
 
-## Meenemen in een verder ontwerp
+## Meenemen in een verder concept
 * De lijnen binnen het prototype moeten goed worden weergegeven anders is het niet duidelijk of deze zich verticaal of horizontaal uitbreidt.
 * Ingevulde URL's als bronkenmerk kunnen worden herkend en wellicht als een klikbaar element worden weergegeven.
 * Houdt rekening met in iedergeval 8 kernmerken per bron.
 * Het boomhiërarchie structuur geeft ruimte voor een eenvoudige bedrijfstructuur, maar uit mijn observatie blijkt ook dat complexere structuren niet mogelijk zijn.
-* Als de ruimte efficiënt en informatiedichtheid niet opgelost worden zal er moeten gekeken worden naar een ander ontwerp.
+* Als de ruimte efficiënt en informatiedichtheid niet opgelost worden zal er moeten gekeken worden naar een ander concept.
