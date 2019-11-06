@@ -9,16 +9,16 @@ De Feedback Frenzy is een presentatiemoment waar je het concept en je eerste ont
 
 Voor de presentatie op de Feedback Frenzy heb ik de volgende 3 onderdelen voorbereid:
 
-* Poster met onderzoeksproces, doelgroep en concept
-* Poster met het ontwerp v1_1
-* Prototype v1_1
+* Poster met onderzoeksproces, doelgroep en concept. *Dit poster had als doel om de context van de onderzoeksjournalist beter uit te leggen en waar de oplossing zich op gaat richten.*
+* Poster met het concept/ontwerp v1.1 *De oplossingsrichting toelichten.*
+* Prototype v1.0 *Experimenteel*
 
 
 ![Poster onderzoeksproces, doelgroep en concept](content/poster-1.png)
 
-![Poster ontwerp v1_1](content/poster-2.png)
+![Poster concept/ontwerp v1.1](content/poster-2.png)
 
-[Link naar prototype v1_1](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
+[Link naar digitale prototype v1.0](https://oege.ie.hva.nl/~essenj004/FTM/blauwdruk/input/v1.1.0/)
 Op dit prototype is Feedback gegeven door Sadjad, dit is [hier](https://jorik.gitbook.io/project-blauwdruk/feedback-frenzy#prototype) terug te vinden.
 
 
