@@ -1,10 +1,10 @@
-# Table of contents
+# Inhoudsopgave
 
 * [Introductie](README.md)
 
 * [Begrippenlijst](GLOSSARY.md)
 
-### Wens en context
+### Wensen en context
 
 * [Aanleiding](pages/aanleiding/README.md)
 * [Opdracht vanuit Follow the Money](pages/opdracht_vanuit_follow-the-money/README.md)
