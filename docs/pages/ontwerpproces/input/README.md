@@ -1,5 +1,5 @@
 
-Vanuit het onderzoekskader zijn er verschillende informatietypes vastgesteld die een belangrijke rol spelen in het journalistieke onderzoek. Voor deze opdracht ben ik begonnen om vanuit de informatietypes te werken om deze eerst goed te begrijpen. De vorm van het omringende product stel ik daarna pas vast.
+Vanuit het onderzoekskader zijn er verschillende informatietypes vastgesteld die een belangrijke rol spelen in het journalistieke onderzoek. Voor deze opdracht ben ik begonnen om vanuit de informatietypes te werken om deze eerst goed te begrijpen en hoe deze in het product opgenomen moeten worden. De vorm van het omringende product stel ik daarna pas vast.
 
 
 <!--
