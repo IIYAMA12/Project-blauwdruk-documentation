@@ -79,7 +79,7 @@ De meerwaardes: `Tabel`
 [Dit is een screenshot van de Firefox Netwerk tab dat beschikbaar is via het inspector menu.](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
 
 
-De `Tabel` weergave is een hele goede manier om informatie van bronnen weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven dat een `Boomhiërarchie` wel kan.
+De `Tabel` weergave is een hele goede manier om informatie van bronnen weer te geven. Maar toch kan een tabel niet hiërarchie op meerdere lagen weergeven wat een `Boomhiërarchie` wel kan.
 
 **Voorbeeld van data waarbij een Boomhiërarchie een belangrijke rol kan spelen**
 * Organisatie A (entiteit)
