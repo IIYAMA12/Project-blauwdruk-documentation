@@ -11,7 +11,7 @@ Hieronder zijn de nieuwe schermen van dit deelproduct te vinden.
 De navigatie onderdelen zijn specifieker hernoemd en hebben nu 2 nieuwe functies.
 
 * New project *Het aanmaken van een nieuw project*
-* Projecten *De bovenste laag van de applicatie*
+* Projecten *De bovenste laag van de applicatie: elk project is een onderzoek*
 * Recent __Nieuwe functie__
 * Opslaan *Opslaan van een project*
 * Opslaan als... *Opslaan van een project (onder een andere naam)*
@@ -36,9 +36,39 @@ Dit navigatie onderdeel gaat opent de pagina exporteren. Een uitgebreide beschri
 
 Op deze pagina zijn alle projecten te zien. Elk project staat gelijk aan een journalistiek onderzoek dat binnen dit format is ingevuld.
 
+__Dit scherm bestaat uit:__
+* Voeg project toe
+* De lijst projecten
+* Sorteer en filter functies.
+
 ![Project toevoegen - zonder naam](content/designs3.png)
 
-Als je een project wil toevoegen is een naam verplicht.
+Dit is het modal dat te voorschijn komt op het moment dat je op de knop `+ project` drukt. Als je een project wil toevoegen is een naam verplicht, de voeg knop is standaard uitgeschakeld tot dat er 1 of meer tekens worden ingevoerd.
+
+Micro-interactie
+
+__Initiale status__
+
+De knop `Toevoegen` is uitgeschakeld.
+
+__Trigger__
+
+Tekens typen in het invoerveld.
+
+(JavaScript event: 'input')
+
+__Rules__
+
+1. Is er 1 of meer tekens ingevoerd, doe feedback A.
+2. Is er minder dan 1 teken ingevoerd, doe feedback B.
+
+(Spaties tellen niet als tekens.)
+
+__Feedback__
+
+A: Schakel knop `Toevoegen` in.
+B: Schakel knop `Toevoegen` uit.
+
 
 ![Project toevoegen - met naam](content/designs4.png)
 
