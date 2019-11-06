@@ -9,6 +9,7 @@
 ## Follow the Money
 * Luuk van Der Sterren
 * Arne van der Wal
+* Kees de Graaff
 * Eelke van Ark
 * Eric Smit
 * Arjan van der Linden
