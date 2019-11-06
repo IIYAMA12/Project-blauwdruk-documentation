@@ -5,7 +5,7 @@ In dit hoofdstuk analyseer ik de masterfile die ontwikkeld is door [Luuk Sengers
 
 
 ## Waarom dit onderzoek
-De masterfile gebruikt dezelfde informatie als dat mijn product gaat gebruiken. Door dit te onderzoeken kan ik mijn informatielijst aanvullen en ook achterhalen welke informatie belangrijk is.
+De masterfile gebruikt ongeveer dezelfde informatie als mijn product. Door dit te onderzoeken kan ik mijn informatielijst aanvullen en ook achterhalen welke informatie belangrijk is.
 
 
 ## Onderdelen indeling:
@@ -14,7 +14,7 @@ De masterfile gebruikt dezelfde informatie als dat mijn product gaat gebruiken. 
 | Verhaal | Documenten | Mensen | Bronnen | Onderzoeksvragen |
 
 ### Story
-Op de pagina story houd je het verhaal bij en vult deze kolommen in:
+Op de pagina 'story' houd je het verhaal bij en vult deze kolommen in:
 
 | Date | Event/fact | D (Document) | P (pagina) | C (Component) | S (Scenepart) | ? (check) | R (Ranking) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,13 +67,13 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 * Sengers, L. (2010). Masterfile-OZJ. Tabel. Geraadpleegd op 6 juni 2019 in masterfile. Excel.
 * Sengers, L. (2010). Masterfile-OZJ. Instructie. Geraadpleegd op 6 juni 2019 in masterfile. Word.
 
-> Master file in handen gekregen via Arjan van der Linden.
+> Masterfile in handen gekregen via Arjan van der Linden.
 
 ## Dit neem ik mee voor het ontwerp
-* Informatietype: Gebeurtenissen *Relevant voor het chronologisch vertellen van het journalistieke verhaal.*
-* Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. *Documenten kunnen bewijzen dat bepaalde gebeurtenissen gebeurt zijn en welke actoren daar allemaal in voorkomen.*
-* Datumindicatie *De gebruiker de mogelijkheid geven om content te sorteren op tijd. Chronologie komt voor in de leesrichting van een journalistieke verhaal.*
+* Informatietype: Gebeurtenissen. *Relevant voor het chronologisch vertellen van het journalistieke verhaal.*
+* Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. *Documenten kunnen bewijzen dat bepaalde gebeurtenissen zijn gebeurt en welke actoren daar allemaal in voorkomen.*
+* Datumindicatie. *De gebruiker de mogelijkheid geven om content te sorteren op tijd. Chronologie komt voor in de leesrichting van een journalistieke verhaal.*
 * Informatietype: Mensen (bronnen) die eigenschappen hebben. *Eigenschappen zorgen voor meer context of een betere omschrijving.*
-* Informatietype: Documenten *Dient als bewijsmateriaal.*
-* Maak het niet zo ingewikkeld als deze Excel database. *Naar mijn mening: zelfs iemand die bekend is met een database concept heeft hier moeite mee.*
-* Informatietype: Onderzoeksvragen *De verkenning van de onderzoeksjournalist, deze informatie geeft transparantie over hoe het journalistieke onderzoek is ontstaan.*
+* Informatietype: Documenten. *Dient als bewijsmateriaal.*
+* Maak het niet zo ingewikkeld als deze Excel database. *Naar mijn mening: zelfs iemand die bekend is met een database concept heeft hier moeite mee omdat er nog regels aanvast zitten*
+* Informatietype: Onderzoeksvragen. *De verkenning van de onderzoeksjournalist, deze informatie geeft transparantie over hoe het journalistieke onderzoek is ontstaan.*
