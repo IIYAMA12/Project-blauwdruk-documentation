@@ -80,3 +80,6 @@ __Regels:__
 |  1   | bron A | (leeg) | bron B |      |
 |  2   | bron (Valt onder A) | (leeg) | bron (Valt onder B) | bron (Valt onder B) |
 
+
+## Complexiteit
+Dit concept heeft vrij veel regels die eerst geleerd moeten worden voor dat dit concept gebruikt kan worden. Dat heeft mogelijk als effect dat het concept een vrij hoge leercurve heeft.
