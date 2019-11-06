@@ -47,7 +47,7 @@
 
 ### Traject 1
 
-* [Idee en conceptfase]()
+* [Idee- en conceptfase](pages/ontwerpproces/input/README.md))
 	* [Concept]()
 		* [Boomhiërarchie](pages/concepten/entiteit/boom-hiërarchie/README.md)
 		* [Gridhiërarchie](pages/concepten/entiteit/grid/README.md)
@@ -86,7 +86,7 @@
 
 ### Traject 2
 
-* [Idee en conceptfase](pages/ontwerpproces/output/start-point/README.md)
+* [Idee- en conceptfase](pages/ontwerpproces/output/start-point/README.md)
 	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
 	* [Ontwerp v1_0](pages/ontwerpproces/output/1.0.0/README.md)
 		* [Voorblad](pages/ontwerpproces/output/1.0.0/components/general-information.md)
