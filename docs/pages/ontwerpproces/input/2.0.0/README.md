@@ -1,10 +1,34 @@
 
-## Onderdelen
+## Herontwerp
 
-### Applicatie beheer
+Hieronder zijn de nieuwe schermen van dit deelproduct te vinden.
+
+
+### Hoofdmenu
 
 ![Navigatie + recente projecten](content/designs.png)
 
+De navigatie onderdelen zijn specifieker hernoemd en hebben nu 2 nieuwe functies.
+
+* New project *Het aanmaken van een nieuw project*
+* Projecten *De bovenste laag van de applicatie*
+* Recent __Nieuwe functie__
+* Opslaan *Opslaan van een project*
+* Opslaan als... *Opslaan van een project (onder een andere naam)*
+* Exporteren __Nieuwe functie__
+
+__Nieuwe functies:__
+* Recent *De recente projecten*
+* Exporteren *Exporteren naar het ontwerp dat in traject 2 ontwikkeld wordt*
+
+#### Recent
+Dit navigatie geeft de gebruiker de mogelijkheid om eenvoudig een recent bestand te openen. Deze functie moet worden gezien als experimenteel.
+
+#### Exporteren
+Dit navigatie onderdeel gaat opent de pagina exporteren. Een uitgebreide beschrijving is verder hieronder te vinden.
+
+
+<!--<<TODO>>-->
 
 ### Project
 
