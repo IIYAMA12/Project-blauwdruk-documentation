@@ -1,18 +1,18 @@
-# Task analyse
+# Taak-analyse
 
 
 __Datum: 31 mei 2019__
 
-Voor het concept wordt uitgewerkt tot een ontwerp, helpt het voor mij om eerst een taken analyse te maken, om goed de gebruikersflow the begrijpen. Je ziet dan al vrij snel dat informatie invoeren niet de bovenste laag van je ontwerp is. De bovenste laag is namelijk: 'Waarin word de ingevoerde informatie opgeslagen?'.
+Voor het concept wordt uitgewerkt tot een ontwerp helpt het mij, om eerst een take-analyse te maken, om goed de gebruikersflow te begrijpen. Je ziet dan al vrij snel dat informatie invoeren niet de bovenste laag van je ontwerp is. De bovenste laag bestaat uit het opslaan van de gegevens.
 
 
-![Task analyse v1.0.0](content/task-analyse.png)  
+![Taak-analyse v1.0.0](content/task-analyse.png)  
 
 
 
 
 
-__Task analyse v1.0.0:__
+__Taak-analyse v1.0.0:__
 
 * `1.0` Bestand openen
   * `1.1` Ga naar bestandenoverzicht 
@@ -45,8 +45,8 @@ __Task analyse v1.0.0:__
       * URL
   * `5.4` Doe: Voeg toe 
 
-De taken van v1.0.0 zijn vrij nog generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste ontwerp.
+De taken van v1.0.0 zijn vrij generiek, maar geven wel alvast een aantal basis aanknooppunten voor een eerste concept.
 
-## Meenemen naar ontwerp
+## Meenemen naar concept
 * Een bovenste informatie laag toevoegen die alle informatietypes kan bevatten. *Zonder deze laag kan de informatie niet worden opgeslagen.*
-* Zorg voor een verrijking door middel van eigenschappen en meta-data. *Het is belangrijk dat informatie gestructureerd en doorzocht kan worden, meta-data speelt daarbij een belangrijke rol.*
+* Zorg voor een verrijking door middel van eigenschappen en meta-data. *Het is belangrijk dat informatie gestructureerd en doorzocht kan worden. Meta-data speelt daarbij een belangrijke rol.*
