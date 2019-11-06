@@ -51,7 +51,7 @@ Gebruiker: [Dennis Mijnheer](https://www.ftm.nl/auteur/Dennis-Mijnheer)
 * Werkt veel met Excel om informatie van bronnen te noteren.
 * Aannamen van Dennis: De hiërarchie van bronnen kan worden bepaald aan de hand van de informatiewaarde die zij afgeven.
 * Als dit systeem gebruikt kan worden voor het maken van bedrijfsstructuren, dan wil hij het zeker gebruiken. 
-* Nog niet alle bedrijfsstructuren worden ondersteund. Zoals: 2 ouders die 1 kind onderzich hebben. (Een boom vertakt zich niet meer naar binnen.)
+* Nog niet alle bedrijfsstructuren worden ondersteund. Zoals: 2 ouders die 1 kind onder zich hebben. (Een boom vertakt zich niet meer naar binnen.)
 
 ![Foto van einde van sessie](content/testen-met-dennis.jpg)
 
