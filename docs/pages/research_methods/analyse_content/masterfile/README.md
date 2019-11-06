@@ -70,10 +70,10 @@ Op de pagina story houd je het verhaal bij en vult deze kolommen in:
 > Master file in handen gekregen via Arjan van der Linden.
 
 ## Dit neem ik mee voor het ontwerp
-* Informatietype: Gebeurtenissen 
-* Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. 
-* Datum indicatie
-* Informatietype: Mensen (bronnen) die eigenschappen hebben
-* Informatietype: Documenten
-* Maak het niet zo ingewikkeld als deze Excel database.
-* Informatietype: Onderzoeksvragen
+* Informatietype: Gebeurtenissen *Relevant voor het chronologisch vertellen van het journalistieke verhaal.*
+* Bij gebeurtenissen zitten referentie naar onderdelen zoals documenten. *Documenten kunnen bewijzen dat bepaalde gebeurtenissen gebeurt zijn en welke actoren daar allemaal in voorkomen.*
+* Datumindicatie *De gebruiker de mogelijkheid geven om content te sorteren op tijd.*
+* Informatietype: Mensen (bronnen) die eigenschappen hebben. *Eigenschappen zorgen voor meer context.*
+* Informatietype: Documenten *Dient als bewijsmateriaal.*
+* Maak het niet zo ingewikkeld als deze Excel database. *Zelfs iemand die bekend is met een database concept heeft hier moeite mee.*
+* Informatietype: Onderzoeksvragen *De verkenning van de onderzoeksjournalist geeft transparantie over hoe het journalistieke onderzoek is ontstaan.*
