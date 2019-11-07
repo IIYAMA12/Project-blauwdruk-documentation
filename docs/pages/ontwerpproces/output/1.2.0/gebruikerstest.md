@@ -14,11 +14,12 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Begrijpen > Begrijp je de context van het verhaal beter door de detailinformatie te bekijken?
 
 - Transparant
-  * Duidelijk welke informatie bij elkaar horen > Is het duidelijk welke informatie bij elkaar hoort?
+  * Duidelijk welke onderdelen van het journalistieke onderzoek bij elkaar horen > Is het duidelijk welke onderdelen bij elkaar horen?
   * Bestaansrecht > Is het duidelijk waarom bepaalde informatie en eigenschappen daarvan op deze pagina staan?
 
 - Reproduceerbaar
   * Onderzoeksvragen opnieuw stellen > Zou deze informatie jouw helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
+
 
 <!-- 
 - Aanvulbaar
