@@ -117,7 +117,7 @@ __Aanbeveling:__ Om consistent te zijn zouden deze ook inklapbaar moeten zijn, n
 
 - Aanvulbaar
   * Het project opnieuw openen > Je hebt een onderzoek gedaan en je komt nu terug. Hoe ga je deze weer terugvinden?
-  * Aanpassen > Je wil wat aanpassen.
+  * Aanpassen > Je wil iets aanpassen.
   * Toevoegen > Je wil een gebeurtenis toevoegen aan de lijst met gebeurtenissen.
 
 - Ethische kant van de informatie
