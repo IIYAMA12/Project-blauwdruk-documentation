@@ -11,14 +11,14 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 - Toegankelijk
   * Leren van het onderzoek > Wat heb je geleerd van dit onderzoek?
-  * Begrijpen > Begrijp je de context beter?
+  * Begrijpen > Begrijp je de context van het verhaal beter door de detailinformatie te bekijken?
 
 - Transparant
   * Duidelijk welke informatie bij elkaar horen > Is het duidelijk welke informatie bij elkaar hoort?
-  * Bestaansrecht > Is het duidelijk waarom deze informatie bestaat en toegevoegd is?
+  * Bestaansrecht > Is het duidelijk waarom bepaalde informatie en eigenschappen daarvan op deze pagina staan?
 
 - Reproduceerbaar
-  * Onderzoeksvragen opnieuw stellen > Helpt dit jouw om onderzoeksvragen opnieuw te stellen?
+  * Onderzoeksvragen opnieuw stellen > Zou deze informatie jouw helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
 
 <!-- 
 - Aanvulbaar
