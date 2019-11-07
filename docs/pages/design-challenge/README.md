@@ -28,7 +28,7 @@ __4 - Aanvulbaar__
 
 Onderzoek moet kunnen aangevuld worden met (nieuwe) onderzoeksdata.
 
-* Wanneer een journalist zijn verhaal publiceert hoeft dat nog niet te betekenen dat het onderzoek afgelopen is. Het is daarom belangrijk dat deze aangevuld kan worden op een later moment.
+* Wanneer een journalist zijn onderzoeksverhaal publiceert hoeft dat nog niet te betekenen dat het onderzoek afgelopen is. Het is daarom belangrijk dat deze aangevuld kan worden op een later moment.
 
 
 {% hint style='info' %}

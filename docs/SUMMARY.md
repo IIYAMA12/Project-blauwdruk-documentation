@@ -19,7 +19,7 @@
 	* [Redacteur](pages/stakeholders/redacteur/README.md)
 	* [Frontwise (ontwikkelaar van het FTM platform)](pages/stakeholders/frontwise/README.md)
 * [Design challenge](pages/design-challenge/README.md)
-* [Planning](pages/planning/README.md)
+
 
 ### Analyse
 
@@ -131,7 +131,7 @@
 
 
 ### Overige
-
+* [Planning](pages/planning/README.md)
 * [Bibliografie](pages/bibliografie/README.md)
 * [Opleveringen CMD]()
 	* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
