@@ -6,6 +6,10 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 #### Voorbereiding
 1. Zet het prototype "Visuele weergave output_v1_2" klaar
+2. Voeg dummy data toe, deze bestaat uit:
+  * data dat 'ergens' op gebaseerd is. (Dit moet de indruk geven dat het valide.)
+  * data dat op niets gebaseerd is. (Dit moet de indruk geven dat het niet valide.)
+
 
 #### Design challenge onderdelen
 
@@ -14,11 +18,11 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Begrijpen > Begrijp je de context van het verhaal beter door de detailinformatie te bekijken?
 
 - Transparant
-  * Duidelijk welke onderdelen van het journalistieke onderzoek bij elkaar horen > Is het duidelijk welke onderdelen bij elkaar horen?
+  * Werkwijze > Is het voor jouw duidelijk hoe de journalist te werk is gegaan?
   * Bestaansrecht > Is het duidelijk waarom bepaalde informatie en eigenschappen daarvan op deze pagina staan?
 
 - Reproduceerbaar
-  * Onderzoeksvragen opnieuw stellen > Zou deze informatie jouw helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
+  * Onderzoeksvragen opnieuw stellen in een vergelijkbare context > Zou deze informatie jouw helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
 
 
 <!-- 
@@ -33,10 +37,16 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 
 #### Tijdens de test
-* Laat de participant door het prototype / voorbeeld onderzoek heen te bladeren.
-* Vraag aan de participant wat hij of zij geleerd heeft van het onderzoek (en of de detailinformatie hierbij heeft geholpen).
-* 
-
+* Laat de participant door het prototype / voorbeeld onderzoek heen te bladeren. (En leg uit dat het onderzoek dummy data bevat)
+* Stel de volgende vragen:
+  * Wat heb je geleerd van dit onderzoek?
+  * Is het duidelijk wat de misstand in dit onderzoek is?
+  * Is het duidelijk met welke middelen Mara haar hypothese mee probeert te beantwoorden?
+  * Is het duidelijk waar de informatie op gebaseerd is?
+  * Is het voor jouw duidelijk hoe de journalist te werk is gegaan?
+  * Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
+  * Zou de informatie in dit onderzoek jouw kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+    * Bijvoorbeeld: De investeerders zijn niet geïnformeerd.
 
 
 
@@ -101,5 +111,3 @@ Prototype 2
     Het product moet er voor zorgen dat de juiste informatie bij elkaar komt te staan en dat de informatie compleet wordt.
 
  -->
-#### Na de test
-* Vraag de participant wat hij of zij nog mist.
