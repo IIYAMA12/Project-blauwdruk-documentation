@@ -9,27 +9,60 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 #### Tijdens de test
 * Vraag de participant om door het prototype / voorbeeld onderzoek heen te bladeren.
-* Wanneer de participant gewend is aan de gebruikersintface, stel de volgende vragen:
-  * "Hoe kan je de zien welke bronnen bij een gebeurtenis horen?"
-  * "Hoe kom je er achter waarom een onderzoeksvraag gesteld is en waar zou je deze informatie kunnen vinden?"
-  
+
+
+__Prototype 1__
+- Toegankelijk
+  * Leren van het onderzoek > Is dit leerzaam
+  * Begrijpen > Begrijp je de context beter?
+
+- Transparant
+  * Duidelijk welke informatie bij elkaar horen > Is het duidelijk welke informatie bij elkaar hoort?
+  * Bestaansrecht > Is het duidelijk waarom deze informatie bestaat en toegevoegd is?
+
+- Reproduceerbaar
+  * Onderzoeksvragen opnieuw stellen > Helpt dit jouw om onderzoeksvragen opnieuw te stellen?
+
+__Prototype 2__
+- Aanvulbaar
+  * Het project opnieuw openen > Je hebt een onderzoek gedaan en je komt nu terug. Hoe ga je deze weer terugvinden?
+  * Aanpassen > Je moet wat aanpassen.
+  * Toevoegen > Gebeurtenis toevoegen aan de lijst met gebeurtenissen.
+
+- Ethische kant van de informatie
+  * Exporteren definiëren > Je wil het onderzoek delen in een doorzoekbaar format, maar het is belangrijk dat je bepaalde bronnen niet meestuurt.
+
+
+
 
 <!--
   Bewijs:
 
+Prototype 1
   - Toegankelijk
-    * Leren van
-    * Begrijp je de context beter?
+    * Leren van het onderzoek > Is dit leerzaam
+    * Begrijpen > Begrijp je de context beter?
 
   - Transparant
-    * Duidellijk welke informatie bij elkaar horen
-    * Bestaansrecht
+    * Duidelijk welke informatie bij elkaar horen > Is het duidelijk welke informatie bij elkaar hoort?
+    * Bestaansrecht > Is het duidelijk waarom deze informatie bestaat en toegevoegd is?
 
   - Reproduceerbaar
-    * 
+    * Onderzoeksvragen opnieuw stellen > Helpt dit jouw om onderzoeksvragen opnieuw te stellen?
 
+Prototype 2
   - Aanvulbaar
-    * 
+    * Het project opnieuw openen > Je hebt een onderzoek gedaan en je komt nu terug. Hoe ga je deze weer terugvinden?
+    * Aanpassen > Je moet wat aanpassen.
+    * Toevoegen > Gebeurtenis toevoegen aan de lijst met gebeurtenissen.
+
+  - Ethische kant van de informatie
+    * Exporteren definiëren > Je wil het onderzoek delen in een doorzoekbaar format, maar het is belangrijk dat je bepaalde bronnen niet meestuurt.
+
+
+
+
+
 
 
   - Toegankelijk
