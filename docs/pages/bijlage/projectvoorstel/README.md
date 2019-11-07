@@ -4,6 +4,7 @@ Dit projectvoorstel is geschreven voor het begin van dit project. De informatie 
 
 Download als pdf voor een volledige weergave: [Projectvoorstel](content/projectvoorstel_optie.pdf)
 
+{% file src="content/projectvoorstel_optie.pdf" %}
 
 
 ![Cover](content/Tekengebied 1.png)
