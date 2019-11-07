@@ -136,7 +136,7 @@
 * [Opleveringen CMD]()
 	* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
 	* [Project pitch]()
-	* [Design brief](pages/design-brief/README.md)
+	* [Design brief](pages/bijlage/design-brief/README.md)
 	* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 	<!-- * [Feedback Frenzy]() --> 
 	<!-- <<TODO>> -->

@@ -2,7 +2,6 @@
 
 Dit projectvoorstel is geschreven voor het begin van dit project. De informatie binnen dit voorstel is niet up to date met het huidige gang van zaken, maar geeft overigens wel een indicatie waaruit het project is voortgekomen.
 
-Download als pdf voor een volledige weergave: [Projectvoorstel](content/projectvoorstel_optie.pdf)
 
 {% file src="content/projectvoorstel_optie.pdf" %}
 
