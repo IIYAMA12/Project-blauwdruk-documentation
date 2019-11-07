@@ -31,7 +31,8 @@ let closeDialog;
         */
         const propertiesContainer = baseDialog.getElementsByClassName("properties-container")[0];
         propertiesContainer.innerHTML = "";
-        const propertyList = [{
+        const propertyList = [
+          {
           key: "firstname",
           friendlyName: "Naam:"
         }, {
@@ -42,12 +43,20 @@ let closeDialog;
           friendlyName: "Telefoonnummer:"
         },
         {
+          key: "function",
+          friendlyName: "Functie:"
+        },
+        {
           key: "bedrijf",
           friendlyName: "Bedrijf:"
         },
         {
-          key: "functie",
-          friendlyName: "Functie:"
+          key: "werkgever",
+          friendlyName: "Werkgever"
+        },
+        {
+          key: "rol",
+          friendlyName: "Rol:"
         }
         ];
         const propertyTemplate = [];

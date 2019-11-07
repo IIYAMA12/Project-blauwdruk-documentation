@@ -32,8 +32,9 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 
 #### Tijdens de test
-* Vraag de participant om door het prototype / voorbeeld onderzoek heen te bladeren.
-
+* Laat de participant door het prototype / voorbeeld onderzoek heen te bladeren.
+* Vraag aan de participant wat hij of zij geleerd heeft van het onderzoek (en of de detailinformatie hierbij heeft geholpen).
+* 
 
 
 

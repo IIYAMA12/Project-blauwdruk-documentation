@@ -21,8 +21,8 @@ const dataBaseRaw = [
         {key:"name", value: "Jan van Doen"},
         {key:"firstname", value: "Jan"},
         {key:"email", value: "jan@gmail.com"},
-        {key:"functie", value: "Voorzitter van bestuur"},
-        {key:"bedrijf", value: "Brabant Inc."},
+        {key:"function", value: "Voorzitter van bestuur"},
+        {key:"bedrijf", value: "'Zorggeld-eters'"},
         {key:"phonenumber", value: "06 201 244 264"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jan-van-doen"},
       ],
@@ -39,7 +39,9 @@ const dataBaseRaw = [
         {key:"name", value: "Zachary Brinks"},
         {key:"firstname", value: "Zachary"},
         {key:"email", value: "ZacharyBrinks@jourrapide.com"},
+        {key:"werkgever", value: "'Zorggeld-eters'"},
         {key:"phonenumber", value: "06-23104639"},
+        {key:"function", value:"Schoonmaker"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/zachary-brinks"},
       ],
       [
@@ -56,8 +58,10 @@ const dataBaseRaw = [
         {key:"firstname", value: "Nard"},
         {key:"email", value: "NardBrabander@rhyta.com"},
         {key:"phonenumber", value: "06-25895271"},
-        {key: "ftm-netwerk-database", value: "www.ftm/tag/nard-brabander"},
+        {key:"function", value:"Toezichthouder van het bedrijf 'Zorggeld-eters'"},
+        {key:"ftm-netwerk-database", value: "www.ftm/tag/nard-brabander"},
       ],
+      
       [
         {key:"connections-with", value: 
           [
@@ -65,6 +69,24 @@ const dataBaseRaw = [
               group: "events",
               name: "event-325fsd345643"
             }
+          ]
+        },
+        {key: "id", value: "d=t8y44rd8sxurfvb"},
+        {key:"name", value: "Tom Waterland"},
+        {key:"firstname", value: "Tom"},
+        {key:"email", value: "tomwaterland.com"},
+        {key:"rol", value:"Investeerder"},
+        {key:"ftm-netwerk-database", value: "www.ftm/tag/nard-brabander"},
+      ],
+
+
+      [
+        {key:"connections-with", value: 
+          [
+            // {
+            //   group: "events",
+            //   name: "event-325fsd345643"
+            // }
           ]
         },
         {key: "id", value: "85sgdiryfh"},
@@ -96,6 +118,8 @@ const dataBaseRaw = [
         {key:"firstname", value: "Jaap"},
         {key:"email", value: "jaap@gmail.com"},
         {key:"phonenumber", value: "06 251 264 264"},
+        {key:"bedrijf", value: "'Zorggeld-eters'"},
+        {key:"functie", value:"Directeur"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jaap-van-dijk"},
       ]
     ],
@@ -223,7 +247,7 @@ const dataBaseRaw = [
         },
         {
           key:"description",
-          value: "Het faillissement aanvraag van BV 'Zorggeld-eters' is nu officieel ingediend."
+          value: "Het faillissement aanvraag van BV 'Zorggeld-eters' is nu officieel ingediend door Jan van Doen. Zachary Brinks (werknemer) is hier niet van op de hoogte gebracht."
         },
         {
           key: "date",
@@ -253,7 +277,7 @@ const dataBaseRaw = [
         },
         {
           key:"description",
-          value: "Dokter van de Laan heeft het geld teruggevonden in een pizza."
+          value: "Zachary Brinks heeft het geld teruggevonden in een pizza."
         },
         {
           key: "date",
@@ -313,7 +337,7 @@ const dataBaseRaw = [
         },
         {
           key:"description",
-          value: "De investeerders van 'Zorggeld-eters' zijn verbijsterd over de annulering van de product lancering. Het bedrijf 'Zorggeld-eters' heeft namelijk de investeerders nog niet geinformeerd over het faillissement."
+          value: "De investeerders van 'Zorggeld-eters' zijn verbijsterd over de annulering van de productlancering. Het bedrijf 'Zorggeld-eters' heeft namelijk de investeerders nog niet geinformeerd over het faillissement. Tom Waterland geeft aan dat zijn geïnvesteerde geld verdwenen is."
         },
         {
           key: "date",
@@ -365,7 +389,7 @@ const dataBaseRaw = [
                 },
                 {
                   name: "Eindbestemming geld waarschijnlijk terecht",
-                  description: "Het geld is waarschijnlijk besteed aan pizza, dat verteld Nard Brabander in een verklaring.",
+                  description: "Het geld is waarschijnlijk besteed aan pizza's, dat verteld Nard Brabander in een verklaring.",
                   a: "ghfhf485%fdhj#54ruS",
                   b: "hxlir7c64fdhigshid%S#54ruS"
                 }
