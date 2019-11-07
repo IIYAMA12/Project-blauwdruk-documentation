@@ -16,6 +16,22 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 <!--
   Bewijs:
+
+  - Toegankelijk
+    * Leren van
+    * Begrijp je de context beter?
+
+  - Transparant
+    * Duidellijk welke informatie bij elkaar horen
+    * Bestaansrecht
+
+  - Reproduceerbaar
+    * 
+
+  - Aanvulbaar
+    * 
+
+
   - Toegankelijk
   Het product moet het journalistieke onderzoek kunnen uitleggen en doorzoekbaar maken.
 

@@ -12,7 +12,7 @@ Het product moet het journalistieke onderzoek kunnen uitleggen en doorzoekbaar m
 * Zodat een onderzoeksjournalist\* van het onderzoek kan leren: (Vanuit de opdracht)
   * Om inspiratie op te doen en beter te worden in het uitvoeren van het journalistieke onderzoek.
   * Vanuit zelfreflectie.
-  * Vanuit eigen interesse
+  * Vanuit eigen interesse.
 * en doorzoekbaarheid speelt een rol bij het navigeren tussen verschillende soorten informatie:
   * Het verbeteren van de doorzoekbaarheid kan er voor zorgen dat een onderzoeksjournalist\* sneller bij detailinformatie kan komen. Detailinformatie kan helpen met het beter begrijpen van de context.
 
@@ -35,11 +35,11 @@ Onderzoek moet kunnen aangevuld worden met (nieuwe) onderzoeksdata.
 
 * Wanneer een onderzoeksjournalist zijn onderzoeksverhaal publiceert hoeft dat nog niet te betekenen dat het onderzoek afgelopen is. Het is daarom belangrijk dat deze aangevuld kan worden op een later moment.
 
-__5 - ethische kant van de informatie__
+__5 - Ethische kant van de informatie__
 
 Het product moet rekening houden met gevoelige onderzoeksdata.
 
-* Een onderzoeksjournalist werkt met gelekte informatie dat afkomstig is vanuit bronnen. Om de veiligheid van deze bronnen te garanderen is het belangrijk dat de informatie en/of de bronnen zelf op een bepaalde manier uitgesloten kunnen worden.
+* Een onderzoeksjournalist werkt met gelekte informatie dat afkomstig is vanuit bronnen. Het lekken van informatie is niet wenselijk voor bepaalde belanghebbende en dit kan tot vervelende situaties leiden wanneer dit naar buiten komt. Om de veiligheid van specifiek deze bronnen te garanderen is het belangrijk dat de informatie en/of de bronnen zelf op een bepaalde manier uitgesloten kunnen worden.
 
 
 \* __onderzoeksjournalist__
