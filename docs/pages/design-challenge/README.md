@@ -16,6 +16,8 @@ __2 - Transparant__
 
 Het product moet er voor zorgen dat de juiste informatie bij elkaar komt te staan en dat de informatie compleet wordt.
 
+* Als informatie georganiseerd en compleet is, kan dit bijdragen aan een helder overzicht. De onderzoeksjournalist kan zien welke informatie bij elkaar hoort en begrijpt beter het bestaansrecht er van.
+
 __3 - Reproduceerbaar__
 
 Het product moet kunnen helpen om opnieuw een onderzoek te doen naar een zelfde soort casus.
