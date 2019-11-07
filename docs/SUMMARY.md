@@ -140,10 +140,10 @@
 	* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 	<!-- * [Feedback Frenzy]() --> 
 	<!-- <<TODO>> -->
-	<!-- * [Design rationale]()
+	* [Design rationale]()
 	* [Video]()
 	* [Eindpresentatie]()
-	* [Eindprototype]() -->
+	* [Eindprototype]() 
 * [Printbare prototypes]()
 	* [Boomhiërarchie](pages/research_methods/prototyping/papier/boom-hiërarchie/1.0.0/printen.md)
 * [Alle concepten](pages/concepten/README.md)
