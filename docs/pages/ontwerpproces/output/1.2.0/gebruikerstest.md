@@ -13,7 +13,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 __Prototype 1__
 - Toegankelijk
-  * Leren van het onderzoek > Is dit leerzaam
+  * Leren van het onderzoek > Wat heb je geleerd van dit onderzoek?
   * Begrijpen > Begrijp je de context beter?
 
 - Transparant
