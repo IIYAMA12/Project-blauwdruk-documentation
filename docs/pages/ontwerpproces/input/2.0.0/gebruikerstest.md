@@ -1,5 +1,6 @@
 ![Overzicht](content/overzicht.jpg)
 
+## Gebruikerstest 1
 
 Met het ontwerp invoeren van onderzoeksdata input_v2_1_0
 
@@ -108,3 +109,16 @@ __Bevinding:__ De onderzoeksvragen zijn niet inklapbaar. (Meer en minder details
 
 __Aanbeveling:__ Om consistent te zijn zouden deze ook inklapbaar moeten zijn, net als de bronnen en documenten.
 
+
+## Gebruikerstest 2
+
+
+### Design challenge onderdelen
+
+- Aanvulbaar
+  * Het project opnieuw openen > Je hebt een onderzoek gedaan en je komt nu terug. Hoe ga je deze weer terugvinden?
+  * Aanpassen > Je wil wat aanpassen.
+  * Toevoegen > Je wil een gebeurtenis toevoegen aan de lijst met gebeurtenissen.
+
+- Ethische kant van de informatie
+  * Exporteren definiëren > Je wil het onderzoek delen in een doorzoekbaar format, maar het is belangrijk dat je bepaalde bronnen niet meestuurt.

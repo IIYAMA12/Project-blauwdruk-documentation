@@ -7,11 +7,8 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 #### Voorbereiding
 1. Zet het prototype "Visuele weergave output_v1_2" klaar
 
-#### Tijdens de test
-* Vraag de participant om door het prototype / voorbeeld onderzoek heen te bladeren.
+#### Design challenge onderdelen
 
-
-__Prototype 1__
 - Toegankelijk
   * Leren van het onderzoek > Wat heb je geleerd van dit onderzoek?
   * Begrijpen > Begrijp je de context beter?
@@ -23,14 +20,20 @@ __Prototype 1__
 - Reproduceerbaar
   * Onderzoeksvragen opnieuw stellen > Helpt dit jouw om onderzoeksvragen opnieuw te stellen?
 
-__Prototype 2__
+<!-- 
 - Aanvulbaar
   * Het project opnieuw openen > Je hebt een onderzoek gedaan en je komt nu terug. Hoe ga je deze weer terugvinden?
   * Aanpassen > Je moet wat aanpassen.
   * Toevoegen > Gebeurtenis toevoegen aan de lijst met gebeurtenissen.
 
 - Ethische kant van de informatie
-  * Exporteren definiëren > Je wil het onderzoek delen in een doorzoekbaar format, maar het is belangrijk dat je bepaalde bronnen niet meestuurt.
+  * Exporteren definiëren > Je wil het onderzoek delen in een doorzoekbaar format, maar het is belangrijk dat je bepaalde bronnen niet meestuurt. -->
+
+
+
+#### Tijdens de test
+* Vraag de participant om door het prototype / voorbeeld onderzoek heen te bladeren.
+
 
 
 
