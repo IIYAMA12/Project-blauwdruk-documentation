@@ -119,7 +119,7 @@ const dataBaseRaw = [
         {key:"email", value: "jaap@gmail.com"},
         {key:"phonenumber", value: "06 251 264 264"},
         {key:"bedrijf", value: "'Zorggeld-eters'"},
-        {key:"functie", value:"Directeur"},
+        {key:"function", value:"Bestuurslid"},
         {key: "ftm-netwerk-database", value: "www.ftm/tag/jaap-van-dijk"},
       ]
     ],

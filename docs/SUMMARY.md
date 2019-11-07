@@ -32,7 +32,7 @@
 	* [Analyse tijdlijn (Mira)](pages/research_methods/analyse_content/tijdlijn/README.md)
 	* [Deskresearch: Transparantie](pages/onderzoeksvragen/deelvragen/transparantie/README.md)
 	* [SWOT-analyse](pages/research_methods/swot-analyse/README.md)
-	* [Deskresearch: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
+	* [Analyse: Het Verborgen Scenario](pages/research_methods/deskresearch/verborgen-scenario/README.md)
 	* [Jobstories](pages/research_methods/jobstories/README.md)
 
 ### Onderzoekskader

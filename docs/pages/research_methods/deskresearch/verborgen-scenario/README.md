@@ -187,7 +187,7 @@ In het blauwdruk zouden de belangrijke veranderingen genoteerd kunnen worden, di
 > * Geldstromen
 > * Afspraken
 
-Het bijhouden van een lijst met wat er al in de publiciteit is geweest, zou nuttig kunnen zijn voor een blauwdruk. (Deskresearch)
+Het bijhouden van een lijst met wat er al in de publiciteit is geweest, zou nuttig kunnen zijn voor een blauwdruk.
 
 
 

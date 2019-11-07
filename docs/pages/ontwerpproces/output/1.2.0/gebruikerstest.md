@@ -1,24 +1,24 @@
 
-### Doel
+## Doel
 Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist en bevindingen verzamelen voor een visie van het ontwerp.
 
-### Testplan
+## Testplan
 
-#### Voorbereiding
+### Voorbereiding
 1. Zet het prototype "Visuele weergave output_v1_2" klaar
 2. Voeg dummy data toe, deze bestaat uit:
   * data dat 'ergens' op gebaseerd is. (Dit moet de indruk geven dat het valide.)
   * data dat op niets gebaseerd is. (Dit moet de indruk geven dat het niet valide.)
 
 
-#### Design challenge onderdelen
+### Design challenge onderdelen
 
 - Toegankelijk
   * Leren van het onderzoek > Wat heb je geleerd van dit onderzoek?
   * Begrijpen > Begrijp je de context van het verhaal beter door de detailinformatie te bekijken?
 
 - Transparant
-  * Werkwijze > Is het voor jouw duidelijk hoe de journalist te werk is gegaan?
+  * Werkwijze > Is het voor jouw duidelijk hoe de onderzoeksjournalist te werk is gegaan?
   * Bestaansrecht > Is het duidelijk waarom bepaalde informatie en eigenschappen daarvan op deze pagina staan?
 
 - Reproduceerbaar
@@ -36,8 +36,9 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 
 
 
-#### Tijdens de test
+### Tijdens de test
 * Laat de participant door het prototype / voorbeeld onderzoek heen te bladeren. (En leg uit dat het onderzoek dummy data bevat)
+* Verzamel gegevens over hoe de participant met dit format kan vaststellen of het onderzoek goed onderbouwd is.
 * Stel de volgende vragen:
   * Wat heb je geleerd van dit onderzoek?
   * Is het duidelijk wat de misstand in dit onderzoek is?
@@ -46,7 +47,25 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Is het voor jouw duidelijk hoe de journalist te werk is gegaan?
   * Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
   * Zou de informatie in dit onderzoek jouw kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
-    * Bijvoorbeeld: De investeerders zijn niet geïnformeerd.
+    * Bijvoorbeeld: Heeft het bestuur de investeerders geïnformeerd over het faillissement?
+
+### Afsluiten
+* Stel de volgende vragen:
+  * Wat heeft jouw het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
+  * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
+  * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
+* Bedankt de participant voor zijn tijd.
+    
+## Resultaten
+
+### Gebruikerstest 1
+
+* Naam:
+* Onderzoeksgebied:
+
+
+
+
 
 
 
