@@ -162,7 +162,7 @@ Om rekening te houden met grote projecten waarbij veel onderdelen aanwezig zijn,
 
 ![Export opslaan](content/designs17.png)
 
-Exporteer je project naar een doorzoekbaar document. Alle informatie van je document is standaard uitgevinkt voor de veiligeheid. De gebruiker moet voor elke datapunt bevestigen of deze in het doorzoekbare document komt. 
+Exporteer je project naar een doorzoekbaar document. Alle informatie van je document is standaard uitgevinkt voor de veiligheid. De gebruiker moet voor elke datapunt bevestigen of deze in het doorzoekbare document komt. 
 
 #### Gekoppelde onderdelen
 Gekoppelde onderdelen binnen gebeurtenissen of verbanden worden alleen toegevoegd wanneer ze zelf zijn ingeschakeld.
