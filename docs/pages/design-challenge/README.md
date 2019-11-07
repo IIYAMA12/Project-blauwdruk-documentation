@@ -42,8 +42,8 @@ Het product moet rekening houden met gevoelige onderzoeksdata.
 
 
 \* __onderzoeksjournalist__
-* Auteur van het onderzoek dat in het product staat.
-* Niet auteur van het onderzoek dat in het product staat.
+* Auteur van het onderzoek dat in het product gebruikt wordt.
+* Niet auteur van het onderzoek dat in het product gebruikt wordt.
 
 {% hint style='info' %}
 Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.
