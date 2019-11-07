@@ -1,11 +1,13 @@
 # Design challenge
 
-Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een digitaal product: `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` maken. Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
+Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een digitaal product: `toegankelijk`, `transparant`, `reproduceerbaar` en `aanvulbaar` maken. Met als belangrijkste belang dat de `ethische kant van de informatie` binnen het document gewaarborgd blijft.  
+
+## Toelichting
 
 __1 - Toegankelijk__
 
 Het product moet het journalistieke onderzoek kunnen uitleggen en doorzoekbaar maken.
-* Zodat de onderzoeksjournalist van het onderzoek kan leren: (Vanuit de opdracht)
+* Zodat de onderzoeksjournalist (wel of niet auteur) van het onderzoek kan leren: (Vanuit de opdracht)
   * Om inspiratie op te doen en beter te worden in het uitvoeren van het journalistieke onderzoek.
   * Vanuit zelfreflectie.
   * Vanuit eigen interesse
@@ -29,6 +31,12 @@ __4 - Aanvulbaar__
 Onderzoek moet kunnen aangevuld worden met (nieuwe) onderzoeksdata.
 
 * Wanneer een journalist zijn onderzoeksverhaal publiceert hoeft dat nog niet te betekenen dat het onderzoek afgelopen is. Het is daarom belangrijk dat deze aangevuld kan worden op een later moment.
+
+__5 - ethische kant van de informatie__
+
+Het product moet rekening houden met gevoelige onderzoeksdata.
+
+* Een journalist werkt met gelekte informatie dat afkomstig is vanuit bronnen. Om de veiligheid van deze bronnen te garanderen is het belangrijk dat de informatie en/of de bronnen zelf op een bepaalde manier uitgesloten kunnen worden.
 
 
 {% hint style='info' %}
