@@ -13,5 +13,15 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * "Hoe kan je de zien welke bronnen bij een gebeurtenis horen?"
   * "Hoe kom je er achter waarom een onderzoeksvraag gesteld is en waar zou je deze informatie kunnen vinden?"
 
+
+<!--
+  Bewijs:
+  - Toegankelijk
+  Het product moet het onderzoek gangbaar kunnen overdragen en doorzoekbaar maken.
+
+  - Transparant
+  Het product moet er voor zorgen dat de juiste informatie bij elkaar komt te staan en dat de informatie compleet wordt.
+  
+ -->
 #### Na de test
 * Vraag de participant wat hij of zij nog mist.
