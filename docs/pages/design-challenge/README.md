@@ -26,7 +26,8 @@ __3 - Reproduceerbaar__
 
 Het product moet kunnen helpen om opnieuw een onderzoek te doen naar een zelfde soort casus.
 
-* Een journalistieke onderzoek opzetten en voortzetten vereist veel tijd. Wanneer er een zelfde soort casus op het pad van een onderzoeksjournalist* komt, kan het helpen om terug te kijken naar een beknopte versie van het vorige onderzoek. Relevantie: de rollen en belangen van de actoren, de gebeurtenissen en getrokken verbanden kunnen helpen om je onderzoeksvragen specifieker te stellen.
+* Een journalistieke onderzoek opzetten en voortzetten vereist veel tijd. Wanneer er een zelfde soort casus op het pad van een onderzoeksjournalist* komt, kan het helpen om terug te kijken naar het onderzoek dat ingevoerd is in het product. Het product geeft een beknopte overzicht van het onderzoek en daarmee kan je jouw onderzoeksvragen specifieker stellen voor de nieuwe casus omdat je nu op de hoogte bent welke onderdelen mogelijk een antwoord kunnen geven op jouw hypothese. (Een onderzoeksjournalist werkt vaak vanuit een hypothese.)
+
 
 __4 - Aanvulbaar__
 
