@@ -4,9 +4,6 @@ Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar
 
 ## Toelichting
 
-\* onderzoeksjournalist
-* Auteur van het onderzoek
-* Niet auteur van het onderzoek
 
 __1 - Toegankelijk__
 
@@ -43,6 +40,10 @@ Het product moet rekening houden met gevoelige onderzoeksdata.
 
 * Een onderzoeksjournalist werkt met gelekte informatie dat afkomstig is vanuit bronnen. Om de veiligheid van deze bronnen te garanderen is het belangrijk dat de informatie en/of de bronnen zelf op een bepaalde manier uitgesloten kunnen worden.
 
+
+\* __onderzoeksjournalist__
+* Auteur van het onderzoek
+* Niet auteur van het onderzoek
 
 {% hint style='info' %}
 Deze design challenge is geschreven vanuit het perspectief van de onderzoeksjournalist.
