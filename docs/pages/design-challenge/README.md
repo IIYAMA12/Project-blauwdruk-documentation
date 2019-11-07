@@ -5,12 +5,12 @@ Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar
 __1 - Toegankelijk__
 
 Het product moet het journalistieke onderzoek kunnen uitleggen en doorzoekbaar maken.
-* Zodat de onderzoeksjournalist van het onderzoek kan leren:
+* Zodat de onderzoeksjournalist van het onderzoek kan leren: (Vanuit de opdracht)
   * Om inspiratie op te doen en beter te worden in het uitvoeren van het journalistieke onderzoek.
   * Vanuit zelfreflectie.
   * Vanuit eigen interesse
-* Gestructureerd op een doorzoekbare manier:
-  * Dit zorgt er voor dat de onderzoeksjournalist sneller bij detailinformatie kan komen. Detailinformatie kan helpen met het beter begrijpen van de context.
+* en doorzoekbaarheid speelt een rol bij het navigeren tussen verschillende soorten informatie:
+  * Het verbeteren van de doorzoekbaarheid kan er voor zorgen dat de onderzoeksjournalist sneller bij detailinformatie kan komen. Detailinformatie kan helpen met het beter begrijpen van de context.
 
 __2 - Transparant__
 
