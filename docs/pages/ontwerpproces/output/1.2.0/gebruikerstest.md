@@ -76,9 +76,8 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 <!-- TODO quote -->
 
 
-* Is het duidelijk wat de misstand in dit onderzoek is?
+#### Is het duidelijk wat de misstand in dit onderzoek is?
 
-- - - - - - - - - - - -
 
 __Niet helemaal__
 
@@ -86,13 +85,13 @@ Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd
 
 - - - - - - - - - - - -
 
-* Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+#### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
 Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
 
 - - - - - - - - - - - -
 
-* Is het duidelijk waar de informatie op gebaseerd is?
+#### Is het duidelijk waar de informatie op gebaseerd is?
 
 
 __Ja__
@@ -101,7 +100,7 @@ Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal 
 
 - - - - - - - - - - - -
 
-* Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+#### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
 
 __Deels__
@@ -110,7 +109,7 @@ Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maa
 
 - - - - - - - - - - - -
 
-* Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+#### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
 
 __Ja__
@@ -119,7 +118,7 @@ Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet 
 
 - - - - - - - - - - - -
 
-* Wat vind je van deze indeling?
+#### Wat vind je van deze indeling?
 
 __Heel helder__
 
@@ -232,7 +231,7 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 * Stel de volgende vragen:
   * Wat heb je geleerd van dit onderzoek?
 
-* Is het duidelijk wat de misstand in dit onderzoek is?
+#### Is het duidelijk wat de misstand in dit onderzoek is?
 
 __Ja__
 
@@ -244,7 +243,7 @@ Thomas ontdekte in het dummy onderzoek dat:
 * En de achterliggende misstand dat het geld gebruikt is voor pizza's.
 
 
-* Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+* __Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?__
 
 __Ja__
 
@@ -252,7 +251,7 @@ Thomas geeft aan dat Mara (dummy) heeft gewerkt met bronnen en documenten en dez
 
   * Is het duidelijk waar de informatie op gebaseerd is?
 
-* Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+#### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
 __Niet helemaal__
 
@@ -277,3 +276,38 @@ Voor Thomas zou dit niet helpen. Waar het wel zou helpen in geval van samenwerke
 * Tijdlijnen toevoegen van het proces van de onderzoeksjournalist
   * Documenten bekeken
   * Bronnen gesproken
+
+
+### Gebruikerstest 1
+
+* Naam: Dennis Mijnheer
+* Onderzoeksgebied: 
+* Het onderzoeksgebied van onderzoeksjournalist is __niet__ vergelijkbaar met de dummy casus
+* Prototype versie 1.3
+
+
+
+--
+
+* Is het duidelijk wat de misstand in dit onderzoek is?
+
+Dennis stelt de volgende misstanden vast:
+* Er heeft een faillissement plaats gevonden, maar dit is op een rare manier gebeurt
+* Dat er geld gestolen is
+* Investeerders zijn de duppen
+
+* Welke fouten heeft Mara (dummy) gemaakt?
+
+* Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+* Is het duidelijk waar de informatie op gebaseerd is?
+* Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+* Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
+* Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+  * Bijvoorbeeld: Heeft het bestuur de investeerders geïnformeerd over het faillissement?
+
+### Afsluiten
+* Stel de volgende vragen:
+  * Wat heeft jou het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
+  * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
+  * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
+  * Wat vind je van deze indeling?
