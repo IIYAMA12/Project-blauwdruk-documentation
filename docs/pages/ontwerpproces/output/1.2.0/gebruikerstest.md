@@ -216,7 +216,7 @@ Prototype 2
  -->
 
 
-### Gebruikerstest 1
+### Gebruikerstest 2
 
 * Naam: Thomas Bollen
 * Onderzoeksgebied: Financiële economie
@@ -277,7 +277,7 @@ Voor Thomas zou dit niet helpen. Waar het wel zou helpen in geval van samenwerke
   * Bronnen gesproken
 
 
-### Gebruikerstest 1
+### Gebruikerstest 3
 
 * Naam: Dennis Mijnheer
 * Onderzoeksgebied: 
@@ -288,25 +288,58 @@ Voor Thomas zou dit niet helpen. Waar het wel zou helpen in geval van samenwerke
 
 --
 
-* Is het duidelijk wat de misstand in dit onderzoek is?
+#### Is het duidelijk wat de misstand in dit onderzoek is?
 
 Dennis stelt de volgende misstanden vast:
 * Er heeft een faillissement plaats gevonden, maar dit is op een rare manier gebeurt
 * Dat er geld gestolen is
 * Investeerders zijn de duppen
 
-* Welke fouten heeft Mara (dummy) gemaakt?
+#### Welke fouten heeft Mara (dummy) gemaakt?
+* Geeft geen verklaring voor omzet
+* Er missen nog bronnen, bijvoorbeeld de curator die het faillissement goed moet keuren.
+* Er wordt een subsidie genoemd, maar er is geen verklaring waarom dit belangrijk is.
 
-* Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
-* Is het duidelijk waar de informatie op gebaseerd is?
-* Is het voor jou duidelijk hoe de journalist te werk is gegaan?
-* Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
+
+#### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+
+`Ja`
+
+Dennis geeft aan:
+* Jaarverslagen
+* Personeels aantal
+
+
+#### Is het duidelijk waar de informatie op gebaseerd is?
+
+`Ja`
+
+Dennis vind het doorlinken naar onderdelen een handige toevoeging, dit geeft zicht op welke onderdelen bij elkaar horen. 
+
+
+#### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+
+`Niet direct`
+
+Het is voor Dennis niet duidelijk waar Mara (dummy) is begonnen. Vanuit de hypothese gezien is Mara waarschijnlijk begonnen vanuit het jaarverslag.
+
+#### Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
+
+`Ja`
+
+Dennis vindt de functie beschrijving handig omdat het aangeeft welke rol deze persoon heeft in het onderzoek.
+
 * Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
-  * Bijvoorbeeld: Heeft het bestuur de investeerders geïnformeerd over het faillissement?
 
-### Afsluiten
-* Stel de volgende vragen:
-  * Wat heeft jou het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
-  * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
-  * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
-  * Wat vind je van deze indeling?
+`Ja`
+
+Het kan helpen om de invalshoeken te bepalen. Je weet bijvoorbeeld welke soort bronnen je moet interviewen. Bijvoorbeeld de toezichthouder of de curator.
+
+
+#### Aanbevelingen
+* Custom eigenschappen toevoegen aan bronnen. (Al geïmplementeerd)
+
+
+#### Ziet deze voordelen in dit product
+
+* Tijdlijn gebruiken om gebeurtenissen bij te houden
