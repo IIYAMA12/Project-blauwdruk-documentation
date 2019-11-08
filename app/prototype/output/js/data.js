@@ -216,7 +216,7 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Interview met Jan van Doen"},
-        {key:"description", value: ""},
+        {key:"description", value: "Een interview met Jan van Doen. Jan van Doen heeft als functie 'voorzitter van bestuur' bij het bedrijf 'Zorggeld eters' en is gevraagd voor een interview omdat er een faillissement is geweest zonder duidelijke aanleiding."},
         {key:"reference", value: "(geen)"},
         {key:"date-of-issue", value: "27-06-2019"},
         {key:"file-extension", value: "DOC"},

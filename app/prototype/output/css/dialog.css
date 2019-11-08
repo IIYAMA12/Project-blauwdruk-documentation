@@ -80,6 +80,7 @@
 .dialog-container a {
   color: black;
   color: #DD3230;
+  word-break: break-all;
 }
 
 .dialog-container .main-content > *:last-child {

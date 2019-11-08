@@ -18,11 +18,11 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Begrijpen > Begrijp je de context van het verhaal beter door de detailinformatie te bekijken?
 
 - Transparant
-  * Werkwijze > Is het voor jouw duidelijk hoe de onderzoeksjournalist te werk is gegaan?
+  * Werkwijze > Is het voor jou duidelijk hoe de onderzoeksjournalist te werk is gegaan?
   * Bestaansrecht > Is het duidelijk waarom bepaalde informatie en eigenschappen daarvan op deze pagina staan?
 
 - Reproduceerbaar
-  * Onderzoeksvragen opnieuw stellen in een vergelijkbare context > Zou deze informatie jouw helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
+  * Onderzoeksvragen opnieuw stellen in een vergelijkbare context > Zou deze informatie jou helpen om onderzoeksvragen voor een andere soort gelijke casus te stellen?
 
 
 <!-- 
@@ -44,14 +44,14 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Is het duidelijk wat de misstand in dit onderzoek is?
   * Is het duidelijk met welke middelen Mara haar hypothese mee probeert te beantwoorden?
   * Is het duidelijk waar de informatie op gebaseerd is?
-  * Is het voor jouw duidelijk hoe de journalist te werk is gegaan?
+  * Is het voor jou duidelijk hoe de journalist te werk is gegaan?
   * Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
-  * Zou de informatie in dit onderzoek jouw kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+  * Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
     * Bijvoorbeeld: Heeft het bestuur de investeerders geïnformeerd over het faillissement?
 
 ### Afsluiten
 * Stel de volgende vragen:
-  * Wat heeft jouw het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
+  * Wat heeft jou het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
   * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
   * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
 * Bedankt de participant voor zijn tijd.
