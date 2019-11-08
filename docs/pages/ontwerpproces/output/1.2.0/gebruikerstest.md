@@ -56,6 +56,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Wat heeft jou het meeste en minst geholpen om te kunnen vaststellen of dit onderzoek onderbouwd is?
   * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
   * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
+  * Wat vind je van deze indeling?
 * Bedankt de participant voor zijn tijd.
 
     
@@ -75,24 +76,38 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 
 * Is het duidelijk wat de misstand in dit onderzoek is?
 
-Niet helemaal, zonder het onderdeel dat bevindingen kost het meer tijd om dit onderzoek te doorgronden.
+__Niet helemaal__
+
+Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd om dit onderzoek te doorgronden.
 
 * Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
-Nee, in het dummy onderzoek zorgt Mara (dummy) er niet voor dat er kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
+Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
 
 * Is het duidelijk waar de informatie op gebaseerd is?
 
-Ja, Mara (dummy) heeft bron materiaal toegevoegd, je ziet welke onderdelen bij elkaar horen.
+__Ja__
+
+Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal toe te voegen en aan welke onderdelen dit gekoppeld zitten.
 
 * Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
-Deels, het is te zien dat onderdelen aan elkaar geknoopt zitten. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
+__Deels__
+
+Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maar nog steeds die bevindingen maken het helemaal helder. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
 
 * Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
-Ja, wanneer de casus een zelfde soort hypothese moet beantwoorden over de gebeurtenissen in het verhaal. De bijbehorende vraag: "Is dit in mijn verhaal aan de hand?"
+__Ja__
 
+Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet beantwoorden. Een bijbehorende vraag: "Is dit in mijn verhaal ook aan de hand?"
+
+
+* Wat vind je van deze indeling?
+
+__Heel helder__
+
+Eelke geeft aan dat het vrijwel meteen tonen van het bronmateriaal helpt om te begrijpen waar de informatie vandaan komt.
 
 #### Ziet deze voordelen in dit product
 
