@@ -5,10 +5,15 @@ __Datum: 6 mei__
 Het volgende project "Bureau Local Open Resources" was een inspiratie bron van Follow the Money om tot de volgende vraag te komen:
 [De vraag van het project](https://jorik.gitbook.io/project-blauwdruk/opdracht_vanuit_follow-the-money#de-vraag)
 
+[CMD: Competitive Analysis](http://www.cmdmethods.nl/cards/library/competitive-analysis)
+
 Om te begrijpen wat Follow the Money graag als eindproduct wil is deze analyse noodzakelijk.
 
+## Doelen
 
-[CMD: Competitive Analysis](http://www.cmdmethods.nl/cards/library/competitive-analysis)
+* Begrijpen waar dit project over gaat.
+* Het project van The Bureau vergelijken met dit project en kijken welke onderdelen ik mee kan nemen.
+
 
 ## Recept – analyse
 
