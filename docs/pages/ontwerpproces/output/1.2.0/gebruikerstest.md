@@ -59,7 +59,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Wat vind je van deze indeling?
 * Bedankt de participant voor zijn tijd.
 
-    
+
 ## Resultaten
 
 ### Gebruikerstest 1
