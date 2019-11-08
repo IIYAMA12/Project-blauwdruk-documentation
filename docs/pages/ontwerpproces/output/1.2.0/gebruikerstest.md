@@ -83,13 +83,13 @@ __Niet helemaal__
 
 Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd om dit onderzoek te doorgronden.
 
-- - - - - - - - - - - -
+--                       --                       --
 
 #### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
 Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
 
-- - - - - - - - - - - -
+--                       --                       --
 
 #### Is het duidelijk waar de informatie op gebaseerd is?
 
@@ -98,7 +98,7 @@ __Ja__
 
 Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal toe te voegen en aan welke onderdelen dit gekoppeld zitten.
 
-- - - - - - - - - - - -
+--                       --                       --
 
 #### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
@@ -107,7 +107,7 @@ __Deels__
 
 Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maar nog steeds die bevindingen maken het helemaal helder. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
 
-- - - - - - - - - - - -
+--                       --                       --
 
 #### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
@@ -116,7 +116,7 @@ __Ja__
 
 Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet beantwoorden. Een bijbehorende vraag: "Is dit in mijn verhaal ook aan de hand?"
 
-- - - - - - - - - - - -
+--                       --                       --
 
 #### Wat vind je van deze indeling?
 
@@ -249,7 +249,6 @@ __Ja__
 
 Thomas geeft aan dat Mara (dummy) heeft gewerkt met bronnen en documenten en deze heeft gekoppeld aan bij de onderzoeksvragen. Dit is volgens
 
-  * Is het duidelijk waar de informatie op gebaseerd is?
 
 #### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
