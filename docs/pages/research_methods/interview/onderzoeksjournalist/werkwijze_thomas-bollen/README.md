@@ -49,3 +49,10 @@ Tijdens het onderzoek ben je ook al begonnen met het bepalen van de structuur va
 
 Het is ook belangrijk om een onafhankelijke expert aan te spreken. Dit doe je als je te weinig van het onderwerp afweet en om te voorkomen dat je iets over het hoofd ziet.
 
+## Meenemen voor concept
+* Verhaaltypes die handig zijn voor het journalistieke verhaal opnemen
+* Bronnen
+* Rapport (document) ondersteuning
+* Relevantie (voor de lezer)
+* Helpen om het onderzoek te valideren (Bijvoorbeeld door te laten zien waar onderdelen binnen het onderzoek op gebaseerd zijn)
+
