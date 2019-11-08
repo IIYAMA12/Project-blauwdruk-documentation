@@ -178,7 +178,7 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Personeelslijst"},
-        {key:"description", value: "Een lijst met alle medewerkers"},
+        {key:"description", value: "Een lijst met alle medewerkers van het bedrijf 'Zorggeld Eters'. Deze is handig voor het benaderen van deze medewerkers."},
         {key:"reference", value: "(geen)"},
         {key:"document-status", value: "Gelekt"},
         {key:"validation-status", value: "(geen)"},
