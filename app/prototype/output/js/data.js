@@ -130,7 +130,7 @@ const dataBaseRaw = [
     items: [
       [
         {key:"name", value: "Jaarverslag zorg 20-06-2018"},
-        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2018."},
+        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2018. Dit jaarverslag is onderzocht om te controleren waar het geld naar toe is gegaan voor en tijdens het faillissement."},
         {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2018. Opgevraagd op 21-07-2018 van www.jaarverslag-zorg.nl"},
         {key:"document-status", value: "Openbaar"},
         {key:"validation-status", value: "(geen)"},
@@ -154,7 +154,7 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Jaarverslag zorg 20-06-2019"},
-        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2019."},
+        {key:"description", value: "Het Jaarverslag van 'Zorggeld-eters' uit 2019. Dit jaarverslag is onderzocht om te controleren of het annuleren van het zorgproduct echt nodig is geweest."},
         {key:"reference", value: "Aya, H (2016, Juni 20). Jaarverslag zorg 20-06-2019. Opgevraagd op 21-07-2017 van www.jaarverslag-zorg.nl"},
         {key:"document-status", value: "Openbaar"},
         {key:"validation-status", value: "(geen)"},
@@ -178,7 +178,7 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Personeelslijst"},
-        {key:"description", value: "Een lijst met alle medewerkers van het bedrijf 'Zorggeld Eters'. Deze is handig voor het benaderen van deze medewerkers."},
+        {key:"description", value: "De lijst met alle medewerkers van het bedrijf 'Zorggeld-eters'. Deze is handig voor het benaderen van deze medewerkers."},
         {key:"reference", value: "(geen)"},
         {key:"document-status", value: "Gelekt"},
         {key:"validation-status", value: "(geen)"},
@@ -190,14 +190,14 @@ const dataBaseRaw = [
           [
             {
               group: "events",
-              name: "event-325fsd345643"
+              name: "event-343443"
             }
           ]
         }
       ],
       [
         {key:"name", value: "Personeelslijst 2.0"},
-        {key:"description", value: "Een lijst met alle medewerkers versie 2.0"},
+        {key:"description", value: "Versie 2.0. De lijst met alle medewerkers van het bedrijf 'Zorggeld-eters'."},
         {key:"reference", value: "(geen)"},
         {key:"document-status", value: "Gelekt"},
         {key:"validation-status", value: "(geen)"},
@@ -216,7 +216,7 @@ const dataBaseRaw = [
       ],
       [
         {key:"name", value: "Interview met Jan van Doen"},
-        {key:"description", value: "Een interview met Jan van Doen. Jan van Doen heeft als functie 'voorzitter van bestuur' bij het bedrijf 'Zorggeld eters' en is gevraagd voor een interview omdat er een faillissement is geweest zonder duidelijke aanleiding."},
+        {key:"description", value: "Een interview met Jan van Doen. Jan van Doen heeft als functie 'voorzitter van bestuur' bij het bedrijf 'Zorggeld-eters' en is gevraagd voor een interview omdat er een faillissement is geweest zonder duidelijke aanleiding."},
         {key:"reference", value: "(geen)"},
         {key:"date-of-issue", value: "27-06-2019"},
         {key:"file-extension", value: "DOC"},

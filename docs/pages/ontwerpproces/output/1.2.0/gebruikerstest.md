@@ -9,6 +9,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 2. Voeg dummy data toe, deze bestaat uit:
   * data dat 'ergens' op gebaseerd is. (Dit moet de indruk geven dat het valide.)
   * data dat op niets gebaseerd is. (Dit moet de indruk geven dat het niet valide.)
+  * De onderzoeker vanuit de dummy data is Mara.
 
 
 ### Design challenge onderdelen
@@ -42,7 +43,8 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 * Stel de volgende vragen:
   * Wat heb je geleerd van dit onderzoek?
   * Is het duidelijk wat de misstand in dit onderzoek is?
-  * Is het duidelijk met welke middelen Mara haar hypothese mee probeert te beantwoorden?
+  * Welke fouten heeft Mara (dummy) gemaakt?
+  * Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
   * Is het duidelijk waar de informatie op gebaseerd is?
   * Is het voor jou duidelijk hoe de journalist te werk is gegaan?
   * Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
@@ -55,13 +57,65 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Wat van dit product jij graag terug willen zien in jouw onderzoeksproces?
   * Mocht je al een visie hebben voor een product zoals dit, hoe zou jij dit product graag voor je zien?
 * Bedankt de participant voor zijn tijd.
+
     
 ## Resultaten
 
 ### Gebruikerstest 1
 
-* Naam:
-* Onderzoeksgebied:
+* Naam: Eelke van Ark
+* Onderzoeksgebied: Nederlandse zorgstelsel
+* Prototype versie 1.3
+
+{% hint style='info' %}
+Mara is de onderzoeker vanuit het dummy onderzoek.
+{% endhint %}
+
+<!-- TODO quote -->
+
+* Is het duidelijk wat de misstand in dit onderzoek is?
+
+Niet helemaal, zonder het onderdeel dat bevindingen kost het meer tijd om dit onderzoek te doorgronden.
+
+* Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+
+Nee, in het dummy onderzoek zorgt Mara (dummy) er niet voor dat er kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
+
+* Is het duidelijk waar de informatie op gebaseerd is?
+
+Ja, Mara (dummy) heeft bron materiaal toegevoegd, je ziet welke onderdelen bij elkaar horen.
+
+* Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+
+Deels, het is te zien dat onderdelen aan elkaar geknoopt zitten. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
+
+* Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+
+Ja, wanneer de casus een zelfde soort hypothese moet beantwoorden over de gebeurtenissen in het verhaal. De bijbehorende vraag: "Is dit in mijn verhaal aan de hand?"
+
+
+#### Ziet deze voordelen in dit product
+
+* Onderzoek tijdelijk parkeren en later vervolgen
+* Overdragen aan een collega
+* Gestructureerd aan het werk zonder overal browser tabs voor open te houden
+
+
+
+#### Aanbevelingen
+* Chronologie ook op basis van onderzoek bekijken.
+* Bevindingen toevoegen, bestaat mogelijk uit:
+  * Bevindingen
+  * De totstandkoming van bevindingen
+  * Verantwoording van bevindingen
+  * Uitgangspunt voor verder onderzoek
+* KvK nummers op een globale locatie op te slaan om bedrijven beter doorzoekbaar te maken. *Vanuit een onderzoek kan je dan zien waar een zelfde soort bedrijf in een ander onderzoek opduikt*
+
+
+
+
+
+
 
 
 
