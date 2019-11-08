@@ -79,7 +79,7 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 #### Is het duidelijk wat de misstand in dit onderzoek is?
 
 
-__Niet helemaal__
+`Niet helemaal`
 
 Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd om dit onderzoek te doorgronden.
 
@@ -94,7 +94,7 @@ Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek koste
 #### Is het duidelijk waar de informatie op gebaseerd is?
 
 
-__Ja__
+`Ja`
 
 Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal toe te voegen en aan welke onderdelen dit gekoppeld zitten.
 
@@ -103,7 +103,7 @@ Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal 
 #### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
 
-__Deels__
+`Deels`
 
 Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maar nog steeds die bevindingen maken het helemaal helder. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
 
@@ -112,7 +112,7 @@ Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maa
 #### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
 
-__Ja__
+`Ja`
 
 Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet beantwoorden. Een bijbehorende vraag: "Is dit in mijn verhaal ook aan de hand?"
 
@@ -120,7 +120,7 @@ Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet 
 
 #### Wat vind je van deze indeling?
 
-__Heel helder__
+`Heel helder`
 
 Eelke geeft aan dat het vrijwel meteen tonen van het bronmateriaal helpt om te begrijpen waar de informatie vandaan komt.
 
@@ -233,7 +233,7 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 
 #### Is het duidelijk wat de misstand in dit onderzoek is?
 
-__Ja__
+`Ja`
 
 Thomas ontdekte in het dummy onderzoek dat:
 * Er geld is verdwenen is.
@@ -243,28 +243,28 @@ Thomas ontdekte in het dummy onderzoek dat:
 * En de achterliggende misstand dat het geld gebruikt is voor pizza's.
 
 
-* __Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?__
+#### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
-__Ja__
+`Ja`
 
 Thomas geeft aan dat Mara (dummy) heeft gewerkt met bronnen en documenten en deze heeft gekoppeld aan bij de onderzoeksvragen. Dit is volgens
 
 
 #### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
-__Niet helemaal__
+`Niet helemaal`
 
 Thomas geeft aan dat er stappen zijn gezet zijn in het onderzoek, maar de planning van Mara (dummy) komt niet naar boven. Hij heeft deze nodig om de exacte werkwijze na de lopen.
 
-* Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
+#### Begrijp je het onderzoek beter door de detailinformatie (van bijvoorbeeld bronnen)?
 
-__Half__
+`Half`
 
 Dit heeft te maken met het kenmerk soort. Een functie beschrijving kan helpen om het onderzoek te begrijpen, maar een telefoonnummer niet.
 
-* Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+#### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
-__Nee__
+`Nee`
 
 Voor Thomas zou dit niet helpen. Waar het wel zou helpen in geval van samenwerken binnen één document.
 
