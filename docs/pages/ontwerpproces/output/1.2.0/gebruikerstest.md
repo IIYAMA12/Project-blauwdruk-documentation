@@ -145,7 +145,7 @@ Prototype 2
 
 ## Gebruikerstest data
 
-Dit is de data dat in het prototype draait.
+Dit is de data dat in het prototype draait. (JavaScript)
 
 {%- language name="JavaScript", type="js" -%}
 const dataBaseRaw = [
