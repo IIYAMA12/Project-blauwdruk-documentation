@@ -10,9 +10,9 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 {% endhint %}
 
 <!-- TODO quote -->
+## Resultaten
 
-
-#### Is het duidelijk wat de misstand in dit onderzoek is?
+### Is het duidelijk wat de misstand in dit onderzoek is?
 
 
 `Niet helemaal`
@@ -21,13 +21,13 @@ Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd
 
 --                       --                       --
 
-#### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
+### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
 Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
 
 --                       --                       --
 
-#### Is het duidelijk waar de informatie op gebaseerd is?
+### Is het duidelijk waar de informatie op gebaseerd is?
 
 
 `Ja`
@@ -36,7 +36,7 @@ Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal 
 
 --                       --                       --
 
-#### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
+### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
 
 
 `Deels`
@@ -45,7 +45,7 @@ Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maa
 
 --                       --                       --
 
-#### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
 
 `Ja`
@@ -54,13 +54,13 @@ Dat is volgens Eelke het geval wanneer de casus een zelfde soort hypothese moet 
 
 --                       --                       --
 
-#### Wat vind je van deze indeling?
+### Wat vind je van deze indeling?
 
 `Heel helder`
 
 Eelke geeft aan dat het vrijwel meteen tonen van het bronmateriaal helpt om te begrijpen waar de informatie vandaan komt.
 
-#### Ziet deze voordelen in dit product
+### Ziet deze voordelen in dit product
 
 * Onderzoek tijdelijk parkeren en later vervolgen
 * Overdragen aan een collega
@@ -68,7 +68,7 @@ Eelke geeft aan dat het vrijwel meteen tonen van het bronmateriaal helpt om te b
 
 
 
-#### Aanbevelingen
+### Aanbevelingen
 * Chronologie ook op basis van onderzoek bekijken.
 * Bevindingen toevoegen, bestaat mogelijk uit:
   * Bevindingen
