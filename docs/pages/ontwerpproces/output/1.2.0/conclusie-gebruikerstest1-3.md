@@ -17,7 +17,7 @@ In gebruikerstest 1 werd de bovenste laag gevalideerd en daaruit kwam naarvoren 
 
 ## Gebruiken van onderzoek in een zelfde soort casus
 
-In gebruikerstest 1 en 3 zou dit product kunnen worden gebruikt om invalhoeken te verzamelen en deze te gebruiken om onderdelen in je eigen onderzoek te beantwoorden. Voor het beantwoorden van deze vraag: "Is dit in mijn verhaal ook aan de hand?" tot het afgaan van betrokken die in hetzelfde onderzoek voorkomen. In gebruikerstest 2 gaf de participant aan dat dit niet voor hem zou helpen, hij zou dit product liever gebruiken voor een samenwerkingsverband. Hieruit concludeer ik dat de waarde van het product bij iedere onderzoeksjournalist anders is en dat het 'hergebruik' idee niet bij iedereen een toegevoegde waarde heeft (op basis van zijn of haar werkwijze).
+In gebruikerstest 1 en 3 zou dit product kunnen worden gebruikt om invalhoeken te verzamelen en deze te gebruiken om onderdelen in je eigen onderzoek te beantwoorden. Voor het beantwoorden van deze vraag: "Is dit in mijn verhaal ook aan de hand?" tot het afgaan van betrokken die in hetzelfde onderzoek voorkomen. In gebruikerstest 2 gaf de participant aan dat dit niet voor hem zou helpen, hij zou dit product liever gebruiken voor een samenwerkingsverband. Hieruit concludeer ik dat de waarde van het product bij iedere onderzoeksjournalist anders ligt en dat het 'hergebruik' idee niet bij iedereen een toegevoegde waarde heeft (op basis van zijn of haar werkwijze).
 
 
 
