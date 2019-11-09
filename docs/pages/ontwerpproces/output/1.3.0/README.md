@@ -25,15 +25,16 @@ De achtergrond was in versie 1.2 was helemaal wit. Nu is er een achtergrond afbe
 
 ### Pagina en achtergrond
 
-Witte achtergrond onderscheiden van het pagina onderdeel door middel van een schaduw.
+De witte achtergrond onderscheiden van de pagina-onderdelen door middel van een schaduw.
 
 ![Achtergrond afbeelding](content/page-shadow.png)
 
 ### Items
 
-Items meer klikbaar laten aanvullen door middel van een schaduw.
+De items mogen iets meer klikbaar laten aanvoelen door middel van een schaduw.
 
 ![Items zonder schaduw](content/item-without.png)
+
 ![Items met schaduw](content/item-with.png)
 
 
