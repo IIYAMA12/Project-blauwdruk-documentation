@@ -52,6 +52,9 @@ De 'gekoppelde onderdelen' knop heeft als functie om gekoppelde onderdelen te be
 
 
 
+Het tonen van meer of minder content is relevant wanneer de onderzoeksjournalist te veel informatie aan een item toevoegt. Wanneer een item te groot wordt kan dit zorgen voor te veel scrollen en dat maakt het ontwerp inefficiënt om te gebruiken. Het verkorten van de informatie zorgt voor minder scrollen en dat zorgt er voor dat het overzicht van alle items gewaarborgt blijft.
+
+
 
 ![Ga naar content](content/stijlgids9.png)
 
