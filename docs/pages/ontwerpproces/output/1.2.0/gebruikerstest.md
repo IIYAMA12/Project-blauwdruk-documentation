@@ -5,7 +5,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 ## Testplan
 
 ### Voorbereiding
-1. Zet het prototype "Visuele weergave output_v1_2" klaar
+1. Zet het prototype "Visuele weergave output_v1_3" klaar | [Prototype 1.3](https://iiyama12.github.io/Project-blauwdruk_html-content/prototypes/output/version-4.1.0-gebruikerstest/)
 2. Voeg dummy data toe, deze bestaat uit:
   * data dat 'ergens' op gebaseerd is. (Dit moet de indruk geven dat het valide.)
   * data dat op niets gebaseerd is. (Dit moet de indruk geven dat het niet valide.)
@@ -14,6 +14,8 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
     * Er is geld verdwenen en gebruikt voor pizza's
     * Werknemers zijn ontslagen en een zorgproduct is geannuleerd omdat er geen geld is
     * Investeerders zijn niet geïnformeerd door het bestuur
+
+
 
 
 ### Design challenge onderdelen
