@@ -51,7 +51,7 @@ Het is voor Dennis niet duidelijk waar Mara (dummy) is begonnen. Vanuit de hypot
 
 Dennis vindt de functie beschrijving handig omdat het aangeeft welke rol deze persoon heeft in het onderzoek.
 
-* Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
+#### Zou de informatie in dit onderzoek jou kunnen helpen om voor een zelfde soort casus onderzoeksvragen te bedenken?
 
 `Ja`
 
