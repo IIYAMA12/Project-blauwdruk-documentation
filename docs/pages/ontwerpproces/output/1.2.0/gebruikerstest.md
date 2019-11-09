@@ -145,7 +145,9 @@ Prototype 2
 
 ## Gebruikerstest data
 
-```JS
+Dit is de data dat in het prototype draait.
+
+{%- language name="JavaScript", type="js" -%}
 const dataBaseRaw = [
   {
     key: "sources",
@@ -228,14 +230,6 @@ const dataBaseRaw = [
 
 
       [
-        {key:"connections-with", value: 
-          [
-            // {
-            //   group: "events",
-            //   name: "event-325fsd345643"
-            // }
-          ]
-        },
         {key: "id", value: "85sgdiryfh"},
         {key:"name", value: "Pernelle van Essen"},
         {key:"firstname", value: "Pernelle"},
@@ -616,4 +610,4 @@ const dataBaseRaw = [
   }
 ];
 
-```
+{%- endcodetabs %}
