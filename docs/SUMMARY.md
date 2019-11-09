@@ -107,6 +107,9 @@
 	* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 	* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
 	* [Gebruikerstest v1_2](pages/ontwerpproces/output/1.2.0/gebruikerstest.md)
+		* [Gebruikerstest 1](pages/ontwerpproces/output/1.2.0/gebruikerstest1.md)
+		* [Gebruikerstest 2](pages/ontwerpproces/output/1.2.0/gebruikerstest2.md)
+		* [Gebruikerstest 3](pages/ontwerpproces/output/1.2.0/gebruikerstest3.md)
 
 
 ### Productspecificaties
