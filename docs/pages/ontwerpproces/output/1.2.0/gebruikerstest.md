@@ -41,7 +41,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 * Laat de participant door het prototype / voorbeeld onderzoek heen te bladeren. (En leg uit dat het onderzoek dummy data bevat)
 * Verzamel gegevens over hoe de participant met dit format kan vaststellen of het onderzoek goed onderbouwd is.
 * Stel de volgende vragen:
-  * Wat heb je geleerd van dit onderzoek?
+  * (Wat heb je geleerd van dit onderzoek?)
   * Is het duidelijk wat de misstand in dit onderzoek is?
   * Welke fouten heeft Mara (dummy) gemaakt?
   * Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?

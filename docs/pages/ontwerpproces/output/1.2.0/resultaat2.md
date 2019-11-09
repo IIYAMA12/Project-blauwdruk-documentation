@@ -10,8 +10,6 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 {% endhint %}
 
 
-* Stel de volgende vragen:
-  * Wat heb je geleerd van dit onderzoek?
 
 #### Is het duidelijk wat de misstand in dit onderzoek is?
 
