@@ -43,6 +43,9 @@ Voor de grote lappen broodtekst in de verhalen wordt het font PT-Serif gebruikt.
 
 ![Grid onderdelen en Toon meer of minder knop](content/stijlgids8.png)
 
+De call to action knop komt in het gebruikersinterface voor wanneer de gebruiker één enkele actie voor zich heeft. In het ontwerp 'visuele weergave' komt deze knop bijvoorbeeld voor wanneer de gebruiker wil zien waar een gebeurtenis (vanuit verbanden) zich bevindt in de tijdlijn.
+
+
 
 ![Ga naar content](content/stijlgids9.png)
 
