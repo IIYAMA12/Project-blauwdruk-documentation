@@ -595,19 +595,6 @@ const dataBaseRaw = [
                 "ontkenning"
               ]
             },
-            // {
-            //   value: "Ik geef toe dat er subsidie verdwenen is, maar het vermogen bijhouden valt buiten mijn bevoegdheid.",
-            //   tags: [
-            //     "interview",
-            //     "bekentenis"
-            //   ]
-            // },
-            // {
-            //   value: "Ik veronderstel dat de bronnen die ik heb gesproken meer weten over de subsidie, maar verder geen informatie willen verschaffen. Hier is iets niet in de haak.",
-            //   tags: [
-            //     "aannamen"
-            //   ]
-            // }
           ]
         },
         {key:"connections-with", value: 
