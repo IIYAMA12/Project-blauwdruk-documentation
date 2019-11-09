@@ -60,7 +60,6 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
 * Bedankt de participant voor zijn tijd.
 
 
-## Resultaten
 
 
 
