@@ -61,4 +61,4 @@ __De ga naar content knoppen bestaan uit:__
 * Pijl
 
 
-De knop begint eerst met de beschrijving en wordt opgevolgd door de pijl. Deze volgorde heb ik gehanteerd omdat de knop wordt gebruikt in een modal en wanneer de gebruiker er op klikt verlaat hij of zij het modal. De pijl wijst daarom naar buiten het modal en niet naar de beschrijving.
+De knop begint eerst met de beschrijving en wordt opgevolgd door de pijl. Deze volgorde heb ik gehanteerd omdat de knop wordt gebruikt in een modal en wanneer de gebruiker er op klikt verlaat hij of zij het modal. De pijl wijst daarom  buiten het modal en niet naar de beschrijving.
