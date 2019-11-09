@@ -43,7 +43,7 @@ Eelke geeft aan dat Mara (dummy) dit duidelijk aan geeft door het bronmateriaal 
 
 `Deels`
 
-Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maar nog steeds die bevindingen maken het helemaal helder. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
+Het is volgens Eelke goed te zien dat onderdelen aan elkaar geknoopt zitten. Maar met bevindingen wordt het helemaal helder. *Mara (dummy) heeft gebruik gemaakt van koppelingen.*
 
 --                       --                       --
 
