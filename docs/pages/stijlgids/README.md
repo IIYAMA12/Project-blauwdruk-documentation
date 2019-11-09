@@ -39,11 +39,17 @@ Voor de grote lappen broodtekst in de verhalen wordt het font PT-Serif gebruikt.
 
 ![Call to action en select item](content/stijlgids5.png)
 
+De call to action knop komt in het gebruikersinterface voor wanneer de gebruiker één enkele actie voor zich heeft. In het ontwerp 'visuele weergave' komt deze knop bijvoorbeeld voor wanneer de gebruiker wil zien waar een gebeurtenis (vanuit verbanden) zich bevindt in de tijdlijn.
+
+Het 'select item' element wordt gebruikt om een keuze te maken van bijvoorbeeld een status.
+
 ![Gekoppelde onderdelen](content/stijlgids6.png)
+
+De 'gekoppelde onderdelen' knop heeft als functie om gekoppelde onderdelen te bekijken. Dit geeft de onderzoeksjournalist de mogelijkheid om detailinformatie te bekijken van deze onderdelen. Onderdelen die momenteel worden ondersteund zijn bronnen en documenten. Deze worden gezamenlijk gebruikt voor broninformatie en de validatie er van.
+
 
 ![Grid onderdelen en Toon meer of minder knop](content/stijlgids8.png)
 
-De call to action knop komt in het gebruikersinterface voor wanneer de gebruiker één enkele actie voor zich heeft. In het ontwerp 'visuele weergave' komt deze knop bijvoorbeeld voor wanneer de gebruiker wil zien waar een gebeurtenis (vanuit verbanden) zich bevindt in de tijdlijn.
 
 
 
