@@ -147,7 +147,7 @@ Prototype 2
 
 Dit is de data dat in het prototype draait. (JavaScript)
 
-{%- language name="JavaScript", type="js" -%}
+{% codetabs name="JavaScript", type="js" -%}
 const dataBaseRaw = [
   {
     key: "sources",
