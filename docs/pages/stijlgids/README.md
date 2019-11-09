@@ -51,6 +51,8 @@ De 'gekoppelde onderdelen' knop heeft als functie om gekoppelde onderdelen te be
 ![Grid onderdelen en Toon meer of minder knop](content/stijlgids8.png)
 
 
+De onderdelen bronnen en documenten hebben een grid indeling. Deze indeling wordt gebruikt om informatie te groeperen die meer als detailinformatie dienen, in plaats van onderzoeksverhaal leidend zijn.
+
 
 Het tonen van meer of minder content is relevant wanneer de onderzoeksjournalist te veel informatie aan een item toevoegt. Wanneer een item te groot wordt kan dit zorgen voor te veel scrollen en dat maakt het ontwerp inefficiënt om te gebruiken. Het verkorten van de informatie zorgt voor minder scrollen en dat zorgt voor een beter overzicht van alle items.
 
