@@ -4,7 +4,7 @@ Zie hieronder de ruwe data dat in het prototype draait. Geschreven in de taal Ja
 ## Vorm van deze data
 De vorm hoe de data nu in elkaar zit is niet het begin stadium zoals die in de database voorkomt en ook niet hoe deze zich aan de elementen in het gebruikersinterface gekoppeld zitten. Deze data begint zich precies in het midden. Data in uitgelezen vanuit een database en is gestructureerd, nu moet deze nog worden verwerkt en gekoppeld aan de gebruikersinterface.
 
-Deze vorm scheelt tijd in het ontwerpproces omdat er nog geen vertaalslag gemaakt hoeft te worden naar een database formaat. Het is daardoor ook eenvoudiger om de data aan te passen.
+Deze vorm scheelt tijd in het ontwerpproces omdat er nog geen vertaalslag gemaakt hoeft te worden naar een database format. Het is daardoor ook eenvoudiger om de data aan te passen.
 
 ## De data
 
