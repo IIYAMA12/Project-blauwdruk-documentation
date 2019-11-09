@@ -23,7 +23,9 @@ Zonder het (aanbevolen) onderdeel 'bevindingen' kost het volgens Eelke meer tijd
 
 ### Is het duidelijk met welke middelen Mara (dummy) haar hypothese mee probeert te beantwoorden?
 
-Nee, volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
+`Nee`
+
+Volgens Eelke zorgt Mara (dummy) er niet voor dat er in het onderzoek kosten worden berekend, de hypothese wordt hierdoor niet beantwoord.
 
 --                       --                       --
 

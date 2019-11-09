@@ -38,7 +38,7 @@ Dennis geeft aan:
 
 `Ja`
 
-Dennis vind het doorlinken naar onderdelen een handige toevoeging, dit geeft zicht op welke onderdelen bij elkaar horen. 
+Dennis vind het doorlinken naar onderdelen een handige toevoeging, dit geeft inzicht in welke onderdelen bij elkaar horen. 
 
 
 ### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
