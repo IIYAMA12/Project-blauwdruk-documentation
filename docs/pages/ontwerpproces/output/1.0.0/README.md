@@ -1,11 +1,11 @@
 
 
 
-Dit ontwerp `Visuele weergave` is zoals je zou verwachten gebaseerd op `invoeren van onderzoeksdata`. De data die daar is ingevoerd, moet hier weer terugkomen.
+Dit concept `Visuele weergave` is zoals je zou verwachten gebaseerd op `invoeren van onderzoeksdata`. De data die daar is ingevoerd, moet hier weer terugkomen.
 
 ## Opbouw
 
-__Dit ontwerp is opgebouwd uit het volgende onderdelen:__
+__Dit concept is opgebouwd uit het volgende onderdelen:__
 * Voorblad
 * Bronnen & documenten
 * Onderzoeksproces(sen)
@@ -30,7 +30,7 @@ Het laatste onderdeel, de __zaaks-paragraaf__ gaat voornamelijk over de context 
 
 ### Samenvoegen
 
-De __Voorblad__ en __Algemene Paragraaf__ heb ik samengevoegd in het ontwerp. Voorbladen voor webpagina's zijn naar mijn mening overbodig, tenzij je helemaal geen idee hebt waar je naar kijkt.
+De __Voorblad__ en __Algemene Paragraaf__ heb ik samengevoegd in het concept. Voorbladen voor webpagina's zijn naar mijn mening overbodig, tenzij je helemaal geen idee hebt waar je naar kijkt.
 
 
 De __Verdachte-paragraaf__ heb ik ingedeeld met __Bronnen en documenten__. Bronnen en documenten kan je beide zien als informatie voorzieningen.

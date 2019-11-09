@@ -90,7 +90,7 @@
 
 * [Idee- en conceptfase](pages/ontwerpproces/output/start-point/README.md)
 	* [Analyse proces-verbaal](pages/research_methods/analyse_content/proces-verbaal/README.md)
-	* [Ontwerp v1_0](pages/ontwerpproces/output/1.0.0/README.md)
+	* [Concept v1_0](pages/ontwerpproces/output/1.0.0/README.md)
 		* [Voorblad](pages/ontwerpproces/output/1.0.0/components/general-information.md)
 		* [Bronnen](pages/ontwerpproces/output/1.0.0/components/sources.md)
 		* [Documents](pages/ontwerpproces/output/1.0.0/components/documents.md)
