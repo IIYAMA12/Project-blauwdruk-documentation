@@ -46,3 +46,10 @@ Voor de grote lappen broodtekst in de verhalen wordt het font PT-Serif gebruikt.
 
 ![Ga naar content](content/stijlgids9.png)
 
+__De ga naar content knoppen bestaan uit:__
+
+* Beschrijving
+* Pijl
+
+
+De knop begint eerst met de beschrijving en wordt opgevolgd door de pijl. Deze volgorde heb ik gehanteerd omdat de knop wordt gebruikt in een modal en wanneer de gebruiker er op klikt verlaat hij of zij het modal. De pijl wijst daarom naar buiten het modal en niet naar de beschrijving.
