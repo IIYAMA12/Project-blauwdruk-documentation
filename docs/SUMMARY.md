@@ -111,6 +111,7 @@
 		* [Gebruikerstest 2](pages/ontwerpproces/output/1.2.0/resultaat2.md)
 		* [Gebruikerstest 3](pages/ontwerpproces/output/1.2.0/resultaat3.md)
 		* [Conclusie](pages/ontwerpproces/output/1.2.0/conclusie-gebruikerstest1-3.md)
+		* [Data in gebruik](pages/ontwerpproces/output/1.2.0/data-gebruikerstest1-3.md)
 
 
 ### Productspecificaties
