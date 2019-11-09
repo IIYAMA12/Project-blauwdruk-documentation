@@ -10,6 +10,10 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * data dat 'ergens' op gebaseerd is. (Dit moet de indruk geven dat het valide.)
   * data dat op niets gebaseerd is. (Dit moet de indruk geven dat het niet valide.)
   * De onderzoeker vanuit de dummy data is Mara.
+  * Misstanden in het onderzoek:
+    * Er is geld verdwenen en gebruikt voor pizza's
+    * Werknemers zijn ontslagen en een zorgproduct is geannuleerd omdat er geen geld is
+    * In investeerders zijn niet geïnformeerd door het bestuur
 
 
 ### Design challenge onderdelen

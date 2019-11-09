@@ -106,7 +106,7 @@
 	* [Feedbackronde v1_1](pages/ontwerpproces/output/1.1.0/feedbackronde.md)
 	* [Ontwerp v1_2](pages/ontwerpproces/output/1.2.0/README.md)
 	* [Prototype v1_2](pages/ontwerpproces/output/1.2.0/prototype.md)
-	* [Gebruikerstest v1_2](pages/ontwerpproces/output/1.2.0/gebruikerstest.md)
+	* [Gebruikerstest v1_2 / v1_3](pages/ontwerpproces/output/1.2.0/gebruikerstest.md)
 		* [Gebruikerstest 1](pages/ontwerpproces/output/1.2.0/resultaat1.md)
 		* [Gebruikerstest 2](pages/ontwerpproces/output/1.2.0/resultaat2.md)
 		* [Gebruikerstest 3](pages/ontwerpproces/output/1.2.0/resultaat3.md)

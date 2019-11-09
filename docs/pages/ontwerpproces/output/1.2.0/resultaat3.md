@@ -65,3 +65,4 @@ Het kan helpen om de invalshoeken te bepalen. Je weet bijvoorbeeld welke soort b
 #### Ziet deze voordelen in dit product
 
 * Tijdlijn gebruiken om gebeurtenissen bij te houden
+* Invalshoek bepalen van een ander onderzoek met dezelfde casus
