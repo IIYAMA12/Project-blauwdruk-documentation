@@ -1,6 +1,6 @@
 
 ## Doel
-Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist en bevindingen verzamelen voor een visie van het ontwerp.
+Valideren of dit product volledig bruikbaar is voor de onderzoeksjournalist en bevindingen verzamelen voor een visie van het ontwerp.
 
 ## Testplan
 

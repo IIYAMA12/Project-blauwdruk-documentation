@@ -12,7 +12,7 @@ Het onderdeel 'bevindingen' was tijdens deze test al opgenomen in de aanbeveling
 
 De drie participanten hebben geprobeerd om het dummy-onderzoek te valideren. In hoe vere dit gebeurt is varieert per participant.
 
-In gebruikerstest 1 werd de bovenste laag gevalideerd en daaruit kwam naarvoren dat de hypothese niet beantwoord is. In gebruikerstest 2 werd de werkwijze van Mara (dummy) bekeken en daaruit kwam naarvoren dat de planning niet aanwezig is en de achtergelaten voetafdruk op een abstracte manier is weergegeven. In gebruikerstest 3 werd het dummy-onderzoek tot op detailniveau bekeken. Daaruit kwam naarvoren dat er een aantal verklaringen missen en dat er nog mensen gesproken moeten worden. Het was overigens wel duidelijk waarop de informatie gebaseerd was. Hieruit concludeer ik dat dit product de onderzoeksjournalist instaat stelt om het dummy-onderzoek te beoordelen op kwaliteit, van de bovenste laag tot de detaillaag.
+In gebruikerstest 1 werd de bovenste laag gevalideerd en daaruit kwam naar voren dat de hypothese niet beantwoord is. In gebruikerstest 2 werd de werkwijze van Mara (dummy) bekeken en daaruit kwam naar voren dat de planning niet aanwezig is en de achtergelaten voetafdruk op een abstracte manier is weergegeven. In gebruikerstest 3 werd het dummy-onderzoek tot op detailniveau bekeken. Daaruit kwam naar voren dat er een aantal verklaringen missen en dat er nog mensen gesproken moeten worden. Het was overigens wel duidelijk waarop de informatie gebaseerd was. Hieruit concludeer ik dat dit product de onderzoeksjournalist instaat stelt om het dummy-onderzoek te beoordelen op kwaliteit, van de bovenste laag tot de detaillaag.
 
 
 ## Hergebruiken van onderzoek voor een zelfde soort casus

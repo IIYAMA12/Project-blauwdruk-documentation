@@ -17,7 +17,7 @@ Mara is de onderzoeker vanuit het dummy onderzoek.
 Dennis stelt de volgende misstanden vast:
 * Er heeft een faillissement plaats gevonden, maar dit is op een rare manier gebeurt
 * Dat er geld gestolen is
-* Investeerders zijn de duppen
+* Investeerders zijn de dupen
 
 ### Welke fouten heeft Mara (dummy) gemaakt?
 * Geeft geen verklaring voor omzet
@@ -38,7 +38,7 @@ Dennis geeft aan:
 
 `Ja`
 
-Dennis vind het doorlinken naar onderdelen een handige toevoeging, dit geeft inzicht in welke onderdelen bij elkaar horen. 
+Dennis vindt het doorlinken naar onderdelen een handige toevoeging, dit geeft inzicht in welke onderdelen bij elkaar horen. 
 
 
 ### Is het voor jou duidelijk hoe de journalist te werk is gegaan?
