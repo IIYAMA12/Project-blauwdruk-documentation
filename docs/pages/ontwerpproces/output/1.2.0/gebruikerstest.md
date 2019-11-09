@@ -13,7 +13,7 @@ Valideren of dit het product volledig bruikbaar is voor de onderzoeksjournalist 
   * Misstanden in het onderzoek:
     * Er is geld verdwenen en gebruikt voor pizza's
     * Werknemers zijn ontslagen en een zorgproduct is geannuleerd omdat er geen geld is
-    * In investeerders zijn niet geïnformeerd door het bestuur
+    * Investeerders zijn niet geïnformeerd door het bestuur
 
 
 ### Design challenge onderdelen
