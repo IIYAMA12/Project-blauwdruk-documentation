@@ -5,9 +5,10 @@
 * Het onderzoeksgebied van onderzoeksjournalist is __niet__ vergelijkbaar met de dummy casus
 * Prototype versie 1.3
 
+{% hint style='info' %}
+Mara is de onderzoeker vanuit het dummy onderzoek.
+{% endhint %}
 
-
---
 
 #### Is het duidelijk wat de misstand in dit onderzoek is?
 
