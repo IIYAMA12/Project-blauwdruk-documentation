@@ -57,7 +57,7 @@ Vanuit [analyse onderzoeksrapport](https://jorik.gitbook.io/project-blauwdruk/re
 * __Centrale vraag (onderzoeksvraag)__
 Vanuit het boek: Het Verborgen Scenario (Sengers & Hunter, 2017, p. 24)
 Vanuit [Focusgroep #opdracht-3](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-3)
-	- [x] toegevoegd
+	- [ ] toegevoegd
 * __Onderzoeksvragen__
 Vanuit [Focusgroep #opdracht-1](https://jorik.gitbook.io/project-blauwdruk/research_methods/focusgroep#bevindingen-opdracht-1)
 	- [x] toegevoegd

@@ -183,10 +183,10 @@ __Vertaling naar diagram__
 
 
 ## Dit neem ik mee voor het ontwerp
-* Hyperlinks naar externe (Word) bestanden
-* Relevantie onderzoek
-* Actoren (relevante instanties)
-* Onderzoeksvragen
-* Data delen + uitleg
-* Tijdsschema (maar in mindere maten, bijvoorbeeld: startdatum en publicatiedatum)
-* Tijdlijn
+* Hyperlinks naar externe (Word) bestanden. *Hyperlinks naar de bestanden die de onderzoeksjournalist al gebruikt is een belangrijke toevoeging.*
+* Relevantie onderzoek. *Dit is belangrijk om je idee te pitchen. Zonder relevantie is er geen bestaansrecht van het onderzoek.*
+* Actoren (relevante instanties).
+* Onderzoeksvragen. *Het gebruik van onderzoeksvragen zorgt voor structuur op het moment dat er weder plaats moet vinden.*
+* Data delen + uitleg. *Bij het overdragen van onderzoek is het handig als er een uitleg zit bij de data, anders is het lastig om het te gebruiken.*
+* Tijdsschema. (maar in mindere maten, bijvoorbeeld: startdatum en publicatiedatum)
+* Tijdlijn. *Het gebruik van een tijdlijn Heeft een toegevoegde waarde in de vorm van structuur, maar leent zich niet voor elk onderzoek.*
