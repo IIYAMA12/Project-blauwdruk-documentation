@@ -1,19 +1,22 @@
 
-## Vanuit: Invoeren van onderzoeksdata
 
-![Invoeren van documenten](content/input-documents.png)
-
-
-
-
-## Naar: Visuele weergave
 
 ![Documenten](content/documents.png)
 
+Dit zijn de ingevoerde document referenties. Dit zijn twee jaarverslagen met het bestandstype PDF. 
 
-![Overlay document](content/designs3.png)
 
-Deze overlay krijg je te zien wanneer je op een document klikt. Dit zou bijvoorbeeld een jaarverslag kunnen zijn.
+<!-- De bronnen en documenten staan naast elkaar omdat ze beide beginpunten zijn en elkaar van informatie voorzien. Zo zorgen bronnen voor documenten en documenten leiden weer tot nieuwe bronnen.
+
+Detailinformatie voor bio:
+Ik heb voor beide informatietypes gekozen voor knoppen. De gebruiker wil detailinformatie bekijken om te begrijpen waarom dit onderdeel toegevoegd is aan het onderzoek. De knop bestaat uit een afbeelding en de naam van het bijbehorende item. De afbeelding is gebruikt om context te bieden voor inhoud dat gaat komen. -->
+
+
+![Modal document](content/designs3.png)
+
+Deze modal krijg je te zien wanneer je op een document klikt. 
+
+Het modal bestaat uit de documentnaam, een lijst met kenmerken en aan de rechterkant alle gekoppelde onderdelen. De kenmerken staan direct onder de het documentnaam om aan te geven dat ze hier bij horen.
 
 
 ## Data
