@@ -1,4 +1,4 @@
-Zie hier onder het concept voor het weergeven van de document-referenties. Hiermee kan de onderzoeksjournalist detailinformatie opvragen voor een document.
+Zie hier onder het concept voor het weergeven van de document-referenties. Hiermee kan de onderzoeksjournalist detailinformatie opvragen van een document en dit gebruiken om het bewijsmateriaal te bekijken.
 
 
 ![Documenten](content/documents.png)
