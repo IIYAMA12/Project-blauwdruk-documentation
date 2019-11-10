@@ -1,9 +1,9 @@
-Zie hier onder het concept voor het weergeven van de document referenties. Hiermee kan de onderzoeksjournalist detailinformatie opvragen voor een document.
+Zie hier onder het concept voor het weergeven van de document-referenties. Hiermee kan de onderzoeksjournalist detailinformatie opvragen voor een document.
 
 
 ![Documenten](content/documents.png)
 
-Er zijn twee ingevoerde document referenties beschikbaar. Beide zijn het jaarverslagen met het bestandstype PDF. 
+Er zijn twee ingevoerde document-referenties beschikbaar. Beide zijn het jaarverslagen met het bestandstype PDF. 
 
 Voor elk document-referentie is weergegeven als een item waarop je kan klikken. Deze bestaat uit een naam en een afbeelding. De afbeelding is bedoeld als herkenningspunt van het document. Het eerst screenshot dat geüpload is wordt hiervoor gebruikt.
 
