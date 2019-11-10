@@ -51,5 +51,5 @@ Er zijn nu 3 verschillende knoppen om door te springen naar de verhaal onderdele
 2. De knoppen in de tijdlijn die naar de verbanden toegaan
 3. De knop die vanaf de verbanden naar een gelijke gebeurtenis gaan
 
-Alle 3 de knoppen doen hetzelfde, maar vanaf een andere context. Hier zou nog een iteratie op gedaan kunnen worden, zodat deze knoppen iets dichter bij elkaar komen te staan.
+Alle drie de knoppen doen hetzelfde, maar beginnen allemaal vanaf een andere context. Hier zou nog een iteratie op gedaan kunnen worden, zodat deze knoppen iets dichterbij elkaar komen te staan.
 
