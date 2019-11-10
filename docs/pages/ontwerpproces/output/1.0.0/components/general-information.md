@@ -1,12 +1,10 @@
-## Vanuit: Invoeren van onderzoeksdata
 
-![Invoeren van algemene informatie](content/input-general-information.png)
-
-
-
-## Naar: Visuele weergave
 
 ![Voorblad](content/voorblad.png)
+
+
+De onderzoeksjournalist wordt in dit scherm ingeleid in het onderzoek. Naast het inleiden bevat het voorblad ook de meta-data van het onderzoek. Als dit goed ingevuld is door de onderzoeksjournalist dan kan een ander onderzoeksjournalist beoordelen of dit onderzoek nuttig is om gebruiken voor zijn casus.
+
 
 
 ## Data
