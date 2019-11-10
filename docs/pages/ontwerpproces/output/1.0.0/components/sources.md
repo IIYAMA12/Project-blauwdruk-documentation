@@ -1,8 +1,4 @@
-## Vanuit: Invoeren van onderzoeksdata
-
-![Invoeren van bronnen](content/input-sources.png)
-
-## Naar: Visuele weergave
+De ingevoerde bronnen komen hier terecht. 
 
 ![Bronnen](content/sources.png)
 

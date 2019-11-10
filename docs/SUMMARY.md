@@ -41,6 +41,7 @@
 * [Context onderzoeksjournalist](pages/ontwerpproces/input/start-point/context/README.md)
 * [Informatietypes](pages/ontwerpproces/input/informationtypes.md)
 * [Programma van Eisen (PvE)](pages/programma_van_eisen/README.md)
+* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 
 ### Trajecten
 * [Toelichting](pages/toelichting-trajecten/README.md)
@@ -77,7 +78,6 @@
 		* [Idee - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections-concept.md)
 		* [Concept - werkgebieden](pages/ontwerpproces/input/1.1.0/components/sections.md)
 	* [Focusgroep](pages/research_methods/focusgroep/README.md)
-	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Feedback Frenzy](pages/feedback-frenzy/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
 * [Startmoment traject 2](pages/toelichting-trajecten/startmoment-traject2.md)

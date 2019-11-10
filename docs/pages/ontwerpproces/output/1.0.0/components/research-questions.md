@@ -1,11 +1,4 @@
-## Vanuit: Invoeren van onderzoeksdata
-
-![Invoeren van onderzoeksvragen](content/input-research-questions.png)
-
-
-
-
-## Naar: Visuele weergave
+Op dit scherm staan alle onderzoeksvragen die gesteld zijn in het onderzoek. De beantwoording op deze vragen zijn aan de rechterkant weergegeven. 
 
 ![Onderzoeksvragen](content/designs6.png)
 

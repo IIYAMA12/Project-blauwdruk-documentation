@@ -1,5 +1,5 @@
 
-In het scherm hieronder staan alle gebeurtenissen van het onderzoek. Aan een gebeurtenis kunnen gekoppelde bronnen en documenten toegevoegd zijn. Ook is er een mini verbanden weergave aan de rechterkant te zien, die oorzaak en gevolg tussen de gebeurtenissen laat zien.
+In het scherm hieronder staan alle gebeurtenissen van het journalistieke onderzoek. Aan een gebeurtenis kunnen gekoppelde bronnen en documenten toegevoegd zijn. Ook is er een mini verbanden weergave aan de rechterkant te zien, die oorzaak en gevolg tussen de gebeurtenissen laat zien.
 
 ![Tijdlijn / gebeurtenissen](content/designs4.png)
 
