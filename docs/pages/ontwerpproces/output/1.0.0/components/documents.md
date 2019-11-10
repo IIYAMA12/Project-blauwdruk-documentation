@@ -1,10 +1,11 @@
-
+Zie hier onder het concept voor het weergeven van de document referenties. Hiermee kan de onderzoeksjournalist detailinformatie opvragen voor een document.
 
 
 ![Documenten](content/documents.png)
 
-Dit zijn de ingevoerde document referenties. Dit zijn twee jaarverslagen met het bestandstype PDF. 
+Er zijn twee ingevoerde document referenties beschikbaar. Beide zijn het jaarverslagen met het bestandstype PDF. 
 
+Voor elk document-referentie is weergegeven als een item waarop je kan klikken. Deze bestaat uit een naam en een afbeelding. De afbeelding is bedoeld als herkenningspunt van het document. Het eerst screenshot dat geüpload is wordt hiervoor gebruikt.
 
 <!-- De bronnen en documenten staan naast elkaar omdat ze beide beginpunten zijn en elkaar van informatie voorzien. Zo zorgen bronnen voor documenten en documenten leiden weer tot nieuwe bronnen.
 
@@ -17,6 +18,8 @@ Ik heb voor beide informatietypes gekozen voor knoppen. De gebruiker wil detaili
 Deze modal krijg je te zien wanneer je op een document klikt. 
 
 Het modal bestaat uit de documentnaam, een lijst met kenmerken en aan de rechterkant alle gekoppelde onderdelen. De kenmerken staan direct onder de het documentnaam om aan te geven dat ze hier bij horen.
+
+
 
 
 ## Data
