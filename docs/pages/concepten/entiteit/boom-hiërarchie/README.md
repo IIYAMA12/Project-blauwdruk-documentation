@@ -25,7 +25,9 @@ Een concept zin is later nog invulbaar.
 
 ## Bedrijfsstructuur
 
-De gebruiker kan via een boomhiërarchie de bronnen plaatsen volgens een __ouders/kinderen-relatie__.  Dit heeft als voordeel dat je hiërarchie in bronnen kunt aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen.
+Het maken van een bedrijfsstructuur kan de onderzoeksjournalist helpen met het volgen van geldsporen. Via bepaalde constructies kan de boosdoener (van het verhaal) geld doen verdwijnen door dit langs allemaal bedrijven te sluizen totdat het niet meer duidelijk is wat er met het geld gebeurt is. Een bedrijfsstructuur kan ook helpen om mogelijke bronnen te verzamelen.
+
+De gebruiker kan via een boomhiërarchie de bronnen plaatsen volgens een __ouders/kinderen-relatie__.  Dit heeft als voordeel dat je hiërarchie in bronnen kunt aanbrengen. Dit kan handig zijn wanneer je een bedrijfsstructuur probeert vast te stellen. 
 
 
 

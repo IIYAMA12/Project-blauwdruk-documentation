@@ -34,7 +34,7 @@ __Bijvoorbeeld: (locatie)__
 
 Een onderzoek naar bodemvervuiling in Groningen kan via het product van dit project ook in Amsterdam uitgevoerd worden. Als onderzoeker ben je bekend met de context van het onderzoek. Je weet welke verschillende betrokkenen en belanghebbenden erin voorkomen.
 
-Ook is bekend welke betrokkenen er benadeeld zijn door de 'boosdoenders'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden. De ‘boosdoender’ kan het grondbedrijf zijn die vervuilde grond levert.
+Ook is bekend welke betrokkenen er benadeeld zijn door de 'boosdoeners'.  ‘Boosdoenders’ als in betrokkenen die bijvoorbeeld geld verdienen aan de benadeelden. De ‘boosdoener’ kan het grondbedrijf zijn die vervuilde grond levert.
 
 
 * Boosdoender 1: Grondbedrijf
