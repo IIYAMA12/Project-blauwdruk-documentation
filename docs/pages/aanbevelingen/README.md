@@ -29,3 +29,27 @@ Voor onderzoeken waarbij bedrijfsstructuur een belangrijke rol speelt, is het in
 ## Samenwerken
 
 Synchroniseren van projecten wordt een eis wanneer een onderzoek door meerdere onderzoeksjournalisten uitgevoerd gaat worden.
+
+# Extra aanbevelingen
+
+## Iconen meer functionaliteit geven bij bronnen
+
+Momenteel word er per bron een icoon weergegeven van een persoon. Hier kan in een volgende iteratie nog wat meegedaan worden.
+
+__Zoals:__
+
+* Icoon in stellen per bron of op basis van brontype. 
+  * Persoon
+  * Een voorzitter van een organisatie
+* Met als extra verdieping om een foto te gebruiken van een bron. Hierbij moet wel nagedacht worden over fotorecht.
+* Ook het gebruik van een bedrijfsicoon zou kunnen helpen.
+
+## De vormgeving van ga-naar-knoppen
+Er zijn nu 3 verschillende knoppen om door te springen naar de verhaal onderdelen.
+
+1. De knoppen in de modal
+2. De knoppen in de tijdlijn die naar de verbanden toegaan
+3. De knop die vanaf de verbanden naar een gelijke gebeurtenis gaan
+
+Alle 3 de knoppen doen hetzelfde, maar vanaf een andere context. Hier zou nog een iteratie op gedaan kunnen worden, zodat deze knoppen iets dichter bij elkaar komen te staan.
+
