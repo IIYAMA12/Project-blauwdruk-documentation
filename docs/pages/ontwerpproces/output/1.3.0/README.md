@@ -25,7 +25,7 @@ De achtergrond was in versie 1.2 was helemaal wit. Nu is er een achtergrond afbe
 
 ### Pagina en achtergrond
 
-De witte achtergrond onderscheiden van de pagina-onderdelen door middel van een schaduw.
+De witte achtergrond onderscheiden van de pagina-onderdelen door middel van een schaduw. Dit zorgt er voor dat de gebruiker beter kan zien waar het gebruikersinterface eindigt. 
 
 ![Achtergrond afbeelding](content/page-shadow.png)
 
@@ -36,5 +36,9 @@ De items mogen iets meer klikbaar laten aanvoelen door middel van een schaduw.
 ![Items zonder schaduw](content/item-without.png)
 
 ![Items met schaduw](content/item-with.png)
+
+## Andere aanpassingen
+
+De naam van het 'voorblad' is veranderd naar 'Algemene informatie'. Dit is gedaan omdat een voorblad er toch net iets anders is dan. De naam is daarom niet goed gekozen.
 
 

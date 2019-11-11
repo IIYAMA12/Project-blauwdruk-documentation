@@ -85,6 +85,7 @@
 	* [Ontwerp v2_0](pages/ontwerpproces/input/2.0.0/README.md)
 	* [Prototype v2_0](pages/ontwerpproces/input/2.0.0/prototype.md)
 	* [Gebruikerstest v2_0](pages/ontwerpproces/input/2.0.0/gebruikerstest.md)
+* [Deelproduct 1](pages/ontwerpproces/input/eindproduct/README.md)
 
 ### Traject 2
 
@@ -113,7 +114,7 @@
 		* [Gebruikerstest 3](pages/ontwerpproces/output/1.2.0/resultaat3.md)
 		* [Conclusie](pages/ontwerpproces/output/1.2.0/conclusie-gebruikerstest1-3.md)
 		* [Data in gebruik](pages/ontwerpproces/output/1.2.0/data-gebruikerstest1-3.md)
-
+* [Deelproduct 2](pages/ontwerpproces/output/eindproduct/README.md)
 
 ### Productspecificaties
 
@@ -128,7 +129,6 @@
 	* [Gebeurtenissen](pages/data-lijst/events/README.md)
 
 ### Afronden
-* [Eindproduct]()
 * [Conclusie](/pages/conclusie/README.md)
 * [Aanbevelingen](/pages/aanbevelingen/README.md)
 * [Reflectie](/pages/reflectie/README.md)
