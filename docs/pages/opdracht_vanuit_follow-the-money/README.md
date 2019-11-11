@@ -1,5 +1,24 @@
 # Opdracht vanuit Follow the Money
 
+> Beste Jorik,
+>
+>
+> Follow the Money ken je inmiddels zeer goed. Ik wil dat jij je gaat buigen over iets wat we intern "article recipe" zijn gaan noemen, of wellicht dat artikel blauwdruk de lading beter dekt. 
+>
+> We zijn een redactie die zich volledig specialiseert in onderzoeksjournalistiek. Binnen de journalistiek is de onderzoeksjournalistiek nog echt ambachtswerk. Je hebt de "oude rotten" die veel ervaring hebben, een netwerk van bronnen, etc. Veel journalisten hebben ook hun eigen manier van werken. Hierdoor is kennisoverdracht tussen onervaren en ervaren journalisten lastig en is het voor hoofd- en eindredactie lastig om te controleren hoe een journalist te werk is gegaan, als het proces van journalist-tot-journalist verschilt. Daarnaast is niet elke journalist goed in staat om zijn of haar onderzoek goed te structureren. We willen daarnaast vaker onderzoek gaan doen naar steeds dezelfde casus, maar telkens op een andere lokatie, denk hierbij bv aan een onderzoek naar de winsten van zorgbedrijven in Amersfoort, een dergelijk onderzoek is ook relevant in alle andere gemeenten. Dan is het prettig als het onderzoek steeds volgens hetzelfde recept wordt uitgevoerd.
+>
+> Tot slot denken wij dat het geven van transparantie over het onderzoek bij zal dragen aan de betrouwbaarheid van de journalistiek.  
+>
+> Kortom er zijn veel situaties waarbij het structureel vastleggen van journalistieke onderzoeksprocessen ten goede komt aan de kwaliteit van de journalistiek en van de ontwikkeling van de journalisten. Echter: journalisten zijn zeer zorgvuldig met hun bronnen en zullen die altijd voor zichzelf en hoofdredactie willen houden. Het proces zal dus nooit volledig transparant worden vastgelegd. Tot slot vinden journalisten het bijhouden van hun werkwijze meer corve dan dat ze direct de toegevoegde waarden ervaren.
+> 
+> De vraag die wij hebben is:
+> Ontwerp een workflow waarin journalisten enerzijds hun onderzoek als een soort logboek kunnen bijhouden en andere journalisten inspiratie uit kunnen halen en het onderzoek kunnen reproduceren en anderzijds moet het een hulpmiddel zijn voor journalisten om op onderdelen van hun onderzoek een gestructureerde aanpak te hanteren.
+>
+> Wij zijn heel nieuwsgierig waar je mee gaat komen.
+>
+>
+> Jan-Willem
+
 ## De vraag
 
 > * Maak het voor bestaande, ervaren journalisten van Follow the Money zo makkelijk mogelijk om een artikelrecept te ontwikkelen tijdens hun productieproces
