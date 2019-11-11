@@ -1,13 +1,25 @@
 
-Op basis van de feedback die ik tot nu toe heb gekregen kan ik concluderen dat het ontwerp een groot deel van de wensen van Follow the Money kan vervullen. Maar ook een deel nog niet en dat heeft te maken met de afbakening van het project. 
+Het blauwdruk project heeft op veel vlakken de wensen van Follow the Money (FTM) vervult wat blijkt uit de gekregen feedback. 
 
-Nogmaals de wensen:
+Een (onervaren) FTM-journalist kan door de blauwdruk een compleet overzicht krijgen met behulp van de juiste invulvelden door de invoer van onderzoeksdata. Door de informatie een plek te geven binnen de informatietypes zorgt het voor een journalistiek uniform onderzoeksformat. De participanten begrepen in het [gebruikerstest](https://jorik.gitbook.io/project-blauwdruk/traject-2/productfase/gebruikerstest) het verhaal wat verkregen was vanuit de ingevoerde gegevens en konden hiermee aan de slag.  
 
-* De onervaren FTM-journalist heeft behoefte aan inzicht in de werkwijze van de ervaren collega’s.
-* Er is behoefte aan een journalistiek uniform onderzoeksformat.
-* Voor geïnteresseerden moet het zo eenvoudig mogelijk gemaakt worden om het journalistieke onderzoek te begrijpen. (Dus geen onderzoeksverhaal met +4000 woorden) 
 
-Dat doet het ontwerp op deze manier:
+## Design challenge behalen
 
-* Het ontwerp helpt de gebruiker compleet te zijn met het invoeren van onderzoeksdata door de juiste invulvelden te tonen.
-* De informatie heeft zijn plek binnen de informatietypes. Dit maakt de informatie uniform en beknopt.
+### Design challenge
+Hoe kan de onderzoeksjournalist naast het produceren van artikelen, zijn of haar onderzoeksproces met behulp van een digitaalproduct: toegankelijk, transparant, reproduceerbaar en aanvulbaar maken? Met als belangrijkste belang dat de ethische kant van de informatie binnen het document gewaarborgd blijft.  
+
+#### Het product zorgt voor:
+
+Deelproduct: __invoeren van onderzoeksdata__<br>
+* Aanvulbaar, het onderzoek kan worden opgeslagen en beheerd worden onder de gebruikersinterface projecten.
+
+Deelproduct: __visuele weergave__<br>
+* Transparantie van de informatie door de gevraagde compleetheid. De onderzoeksjournalist weet welke informatie nog ingevoerd moet worden.
+* Toegankelijkheid via doorzoekbaarheid van de informatie.
+* Reproduceerbaar, de onderzoeksjournalist kan inspiratie doen op basis van het structuur van het onderzoek en dit als invalshoeken gebruiken. 
+
+Gezien de resultaten uit de gebruikerstest kan worden geconcludeerd dat de design challenge is behaald.
+
+[Zie gebruikerstest voor de validatie](https://jorik.gitbook.io/project-blauwdruk/traject-2/productfase/gebruikerstest)
+

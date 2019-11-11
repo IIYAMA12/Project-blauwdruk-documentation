@@ -53,6 +53,8 @@ Sengers, L., & Hunter, M. L. (2017). Het Verborgen Scenario [PDF]. Geraadpleegd 
 Buro Jansen & Janssen. (2004, 23 november). enkeleprocessenverbalendenhaag [Document]. Geraadpleegd op 10 oktober 2019, van https://www.burojansen.nl/pdf/enkeleprocessenverbalendenhaag.pdf
 
 
+Van der Wal, A. (2019a, 9 mei). Onderzoek zouwinning FTM [Dataset]. Geraadpleegd op 5 augustus 2019.
+
 ## Inspiratie D3 voorbeelden
 Vilenski, E. (z.d.). Most basic network chart in d3.js. Geraadpleegd op 8 september 2019, van https://www.d3-graph-gallery.com/graph/network_basic.html
 
