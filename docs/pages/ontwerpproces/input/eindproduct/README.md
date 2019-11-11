@@ -1,5 +1,5 @@
 
-In dit deelproduct wordt de onderzoeksdata ingevoerd.
+In dit deelproduct wordt de onderzoeksdata ingevoerd, zodat deze gebruikt kan worden in het andere deelproduct 'visuele weergave'.
 
 ## Algemene informatie
 

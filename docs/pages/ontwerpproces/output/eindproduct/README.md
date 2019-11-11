@@ -9,7 +9,7 @@ Het product bied transparantie en toegankelijkheid voor een journalistiek onderz
 
 Ook kan het product de onderzoeksjournalist helpen met het vinden van invalshoeken voor een onderzoek met een zelfde soort casus. Dit doet het product indirect door uit te leggen hoe de informatie tot stand is gekomen, welke (soort) bronnen er gesproken zijn en welke onderzoeksvragen je ook bij jouw casus zou kunnen stellen.
 
-
+[Laatste prototype](https://iiyama12.github.io/Project-blauwdruk_html-content/prototypes/output/version-4.1.0-gebruikerstest/)
 
 
 ## Algemene informatie
