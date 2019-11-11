@@ -141,7 +141,6 @@
 * [Bibliografie](pages/bibliografie/README.md)
 * [Opleveringen CMD]()
 	* [Projectvoorstel](pages/bijlage/projectvoorstel/README.md)
-	* [Project pitch]()
 	* [Design brief](pages/bijlage/design-brief/README.md)
 	* [Groenlichtpresentatie](pages/groenlicht_presentatie/README.md)
 	<!-- * [Feedback Frenzy]() --> 
