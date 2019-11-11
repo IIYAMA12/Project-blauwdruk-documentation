@@ -1,5 +1,7 @@
 # Opdracht vanuit Follow the Money
 
+Zie hieronder de briefing van het project.
+
 > Beste Jorik,
 >
 >
