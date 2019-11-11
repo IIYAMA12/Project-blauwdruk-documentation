@@ -5,6 +5,11 @@ Dit is het eindproduct van dit traject. Je kijkt nu naar een doorzoekbare versie
 ![Eindproduct visuele weergave van de onderzoeksdata](content/full.png)
 
 
+Het product bied transparantie en toegankelijkheid voor een journalistiek onderzoek. Dit doet het product door de onderzoek informatie aan elkaar te koppelen, zodat de gebruiker kan zien welke onderdelen bij elkaar horen en eenvoudig kan laten doorklikken naar detailinformatie.
+
+Ook kan het product de onderzoeksjournalist helpen met het vinden van invalshoeken voor een onderzoek met een zelfde soort casus. Dit doet het product indirect door uit te leggen hoe de informatie tot stand is gekomen, welke (soort) bronnen er gesproken zijn en welke onderzoeksvragen je ook bij jouw casus zou kunnen stellen.
+
+
 
 
 ## Algemene informatie
