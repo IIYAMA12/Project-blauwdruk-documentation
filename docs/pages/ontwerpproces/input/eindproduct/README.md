@@ -1,4 +1,6 @@
 
+In dit deelproduct wordt de onderzoeksdata ingevoerd.
+
 ## Algemene informatie
 
 ![Algemene informatie](content/deelproduct1.png)
