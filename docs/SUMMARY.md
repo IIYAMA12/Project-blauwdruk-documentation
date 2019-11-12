@@ -119,6 +119,7 @@
 ### Productspecificaties
 
 * [Ethiek](pages/ethiek/README.md)
+* [Productbenaming](pages/product-benaming/README.md)
 * [Stijlgids](pages/stijlgids/README.md)
 * [Datalijsten van de producten](pages/data-lijst/README.md)
 	* [Algemene informatie](pages/data-lijst/general-information/README.md)
@@ -245,7 +246,7 @@
 	* [Focusgroep](pages/research_methods/focusgroep/README.md)
 	* [Contenttypes](pages/onderzoeksvragen/deelvragen/content-type/README.md)
 * [Reflectie op de Feedback Frenzy](pages/ontwerpproces/tweede-ontwerp/README.md)
-* [Productbenaming](pages/product-benaming/README.md)
+*
 * [Context van ontwerpen](pages/ontwerpproces/context/README.md)
 * [Iteraties – Invoeren van onderzoeksdata]()
 	* [Invoeren van onderzoeksdata input_v2_0](pages/ontwerpproces/input/README.md)

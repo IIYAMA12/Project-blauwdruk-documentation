@@ -53,3 +53,5 @@ Er zijn nu 3 verschillende knoppen om door te springen naar de verhaal onderdele
 
 Alle drie de knoppen doen hetzelfde, maar beginnen allemaal vanaf een andere context. Hier zou nog een iteratie op gedaan kunnen worden, zodat deze knoppen iets dichterbij elkaar komen te staan.
 
+## Planning onderzoeksjournalist in een tijdlijn
+Door de planning op te nemen kan de onderzoeksjournalist de chronologie zien van de werkwijze van de onderjournalist.
